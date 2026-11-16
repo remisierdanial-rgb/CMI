@@ -1,0 +1,92 @@
+/* CMI SMC Level 10 — motion-graphics stage. Visual language matched to the ILMU L1 reference video. */
+:root{
+  --bg:#070d1a; --bg2:#0b1324; --panel:#0f1a2f; --panel2:#132039; --line:#1c2a45; --line2:#2a3a5c;
+  --text:#eef2f8; --soft:#c9d3e3; --muted:#8e9bb4; --dim:#56637e;
+  --gold:#e8b64c; --gold2:#f3cf7a; --green:#26a69a; --green2:#3fd1b5; --red:#ef5350; --red2:#ff7b77;
+  --cyan:#22c7e6; --blue:#3b82f6; --purple:#8b7cf6; --amber:#f5a524; --violet:#a78bfa;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:1920px;height:1080px;overflow:hidden;background:var(--bg)}
+body{font-family:Inter,"Inter Display",system-ui,sans-serif;color:var(--text);-webkit-font-smoothing:antialiased}
+.mono{font-family:"JetBrains Mono",monospace}
+#stage{position:absolute;inset:0;width:1920px;height:1080px;overflow:hidden;
+  background:radial-gradient(ellipse 70% 60% at 50% 40%, #0d1830 0%, #08101f 55%, #060b16 100%)}
+#grid{position:absolute;inset:0;opacity:.35;
+  background-image:linear-gradient(rgba(60,80,120,.10) 1px,transparent 1px),linear-gradient(90deg,rgba(60,80,120,.10) 1px,transparent 1px);
+  background-size:48px 48px}
+/* header */
+#hdr{position:absolute;left:0;right:0;top:0;height:80px;border-bottom:1px solid rgba(40,56,90,.55);background:rgba(6,11,22,.55)}
+#badge{position:absolute;left:34px;top:20px;width:42px;height:40px;border-radius:7px;background:var(--gold);color:#1a1405;
+  font:800 17px Inter;display:flex;align-items:center;justify-content:center;letter-spacing:-.5px}
+#hl1{position:absolute;left:92px;top:19px;font:700 18px Inter;color:var(--gold);letter-spacing:.2px}
+#hl2{position:absolute;left:92px;top:43px;font:500 17px Inter;color:var(--soft);letter-spacing:.6px}
+#hr1{position:absolute;right:36px;top:19px;font:800 18px Inter;color:var(--text);text-align:right}
+#hr2{position:absolute;right:36px;top:46px;font:400 15px "JetBrains Mono";color:var(--muted);letter-spacing:2.2px;text-align:right;text-transform:uppercase}
+/* scene container */
+#scene{position:absolute;left:0;top:80px;width:1920px;height:830px}
+#subs{position:absolute;left:0;right:0;top:905px;height:160px;display:flex;align-items:center;justify-content:center;pointer-events:none}
+#subs .box{max-width:1570px;padding:14px 32px;background:rgba(5,9,18,.80);border-radius:6px;font:500 41px/1.30 Inter;color:#fff;text-align:center;letter-spacing:.1px}
+#subs .box:empty{display:none}
+/* generic */
+.abs{position:absolute}
+.kicker{font:500 17px "JetBrains Mono";letter-spacing:3.4px;color:var(--gold);text-transform:uppercase}
+.kicker.p{color:var(--violet)} .kicker.c{color:var(--cyan)} .kicker.g{color:var(--green2)} .kicker.r{color:var(--red2)}
+.h1{font:800 50px/1.12 Inter;letter-spacing:-.5px;color:var(--text)}
+.h2{font:800 40px/1.15 Inter;letter-spacing:-.3px;color:var(--text)}
+.h3{font:700 28px/1.2 Inter;color:var(--text)}
+.sub{font:400 25px/1.4 Inter;color:var(--muted)}
+.gold{color:var(--gold)} .green{color:var(--green2)} .red{color:var(--red2)} .cyan{color:var(--cyan)} .amber{color:var(--amber)} .violet{color:var(--violet)} .muted{color:var(--muted)}
+.panel{position:absolute;background:linear-gradient(180deg,rgba(17,27,48,.92),rgba(13,21,38,.92));border:1px solid var(--line);border-radius:10px}
+.panel .ptitle{position:absolute;left:22px;top:16px;font:500 14px "JetBrains Mono";letter-spacing:2px;color:var(--muted);text-transform:uppercase}
+.panel .ptag{position:absolute;right:22px;top:16px;font:800 14px Inter;letter-spacing:.8px;color:var(--text);text-transform:uppercase}
+/* info panel */
+.info{padding:30px 30px}
+.info .kicker{font-size:14px;letter-spacing:2.6px}
+.info .ih{font:800 30px/1.2 Inter;margin:10px 0 22px}
+.info ul{list-style:none}
+.info li{position:relative;padding-left:24px;margin:0 0 15px;font:400 21px/1.42 Inter;color:var(--soft)}
+.info li:before{content:"";position:absolute;left:2px;top:11px;width:8px;height:8px;border-radius:50%;background:var(--red)}
+.info li.g:before{background:var(--green)} .info li.c:before{background:var(--cyan)} .info li.a:before{background:var(--amber)} .info li.p:before{background:var(--violet)} .info li.y:before{background:var(--gold)} .info li.x:before{background:var(--dim)}
+.note{border-radius:6px;padding:14px 18px;font:400 19px/1.45 Inter;color:var(--soft);background:rgba(232,182,76,.08);border:1px solid rgba(232,182,76,.35)}
+.note b{color:var(--gold)}
+.note.r{background:rgba(239,83,80,.08);border-color:rgba(239,83,80,.4)} .note.r b{color:var(--red2)}
+.note.c{background:rgba(34,199,230,.07);border-color:rgba(34,199,230,.38)} .note.c b{color:var(--cyan)}
+.note.g{background:rgba(38,166,154,.08);border-color:rgba(38,166,154,.4)} .note.g b{color:var(--green2)}
+/* calc lines */
+.calc{font:500 26px "JetBrains Mono";color:var(--soft);text-align:center;white-space:pre}
+.calc .g{color:var(--gold)} .calc .gr{color:var(--green2)} .calc .r{color:var(--red2)} .calc .c{color:var(--cyan)} .calc .m{color:var(--muted)}
+/* cards */
+.card{position:absolute;background:linear-gradient(180deg,rgba(18,29,52,.95),rgba(13,21,38,.95));border:1px solid var(--line2);border-radius:10px;padding:24px 26px}
+.card .num{font:600 30px "JetBrains Mono";color:var(--gold)}
+.card .ct{font:700 25px/1.25 Inter;color:var(--text);margin-top:10px}
+.card .cb{font:400 19px/1.45 Inter;color:var(--muted);margin-top:10px}
+.card.hl{border-color:var(--gold);box-shadow:0 0 0 1px var(--gold) inset}
+.chip{display:inline-block;border:1.5px solid var(--violet);color:var(--violet);border-radius:5px;padding:4px 10px;font:500 16px "JetBrains Mono";letter-spacing:2px}
+/* roadmap rows */
+.rrow{position:absolute;height:86px;border:1px solid var(--line2);border-radius:8px;background:rgba(15,24,44,.92)}
+.rrow .rn{position:absolute;left:28px;top:22px;font:600 32px "JetBrains Mono";color:var(--gold)}
+.rrow .rt{position:absolute;left:110px;top:14px;font:700 27px Inter;color:var(--text)}
+.rrow .rs{position:absolute;left:110px;top:50px;font:400 19px Inter;color:var(--muted)}
+.rrow .rk{position:absolute;right:28px;top:32px;font:500 15px "JetBrains Mono";letter-spacing:2.5px;color:var(--muted)}
+.rrow.on{border:2px solid var(--gold)}
+.here{position:absolute;border:2px solid var(--gold);color:var(--gold);border-radius:6px;padding:5px 12px;font:600 17px "JetBrains Mono";letter-spacing:2.5px}
+/* table */
+table.t{position:absolute;border-collapse:separate;border-spacing:0 8px}
+table.t th{font:500 15px "JetBrains Mono";letter-spacing:2.4px;color:var(--gold);text-align:left;padding:6px 22px;text-transform:uppercase}
+table.t td{font:400 22px/1.35 Inter;color:var(--soft);padding:16px 22px;background:rgba(17,27,48,.92);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+table.t td:first-child{border-left:1px solid var(--line);border-radius:8px 0 0 8px;font-weight:700;color:var(--text)}
+table.t td:last-child{border-right:1px solid var(--line);border-radius:0 8px 8px 0}
+table.t td.warn{color:var(--amber)}
+/* flow */
+.fstep{position:absolute;border:1px solid var(--line2);border-radius:8px;background:rgba(15,24,44,.95);padding:12px 18px}
+.fstep .fn{font:600 15px "JetBrains Mono";color:var(--gold);letter-spacing:2px}
+.fstep .ft{font:700 22px Inter;color:var(--text);margin-top:3px}
+.fstep .fs{font:400 16px/1.35 Inter;color:var(--muted);margin-top:3px}
+/* checklist */
+.chk{position:absolute;font:400 24px/1.4 Inter;color:var(--soft);padding-left:40px}
+.chk:before{content:"✓";position:absolute;left:0;top:0;color:var(--green2);font-weight:700}
+.chk.x:before{content:"✕";color:var(--red2)}
+.chk.w:before{content:"!";color:var(--amber);left:8px}
+/* svg text */
+svg text{font-family:Inter}
+svg .mono, svg text.mono{font-family:"JetBrains Mono"}
