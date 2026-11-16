@@ -555,7 +555,10 @@ class Decision(Ann):
         ctx.rectangle(x + 1, ch.py0 - 10, ch.px1 - x, ch.py1 - ch.py0 + 20)
         ctx.set_source_rgba(*col('amber', 0.05 * p))
         ctx.fill()
-        pill(ctx, self.q, x + 12, ch.py0 + 16, 'amber', p, size=14, align='left')
+        if x > ch.x + ch.w * 0.62:
+            pill(ctx, self.q, x - 12, ch.py0 + 16, 'amber', p, size=14, align='right')
+        else:
+            pill(ctx, self.q, x + 12, ch.py0 + 16, 'amber', p, size=14, align='left')
 
 
 class Position(Ann):

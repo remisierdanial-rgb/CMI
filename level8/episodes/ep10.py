@@ -115,9 +115,9 @@ def checklist_scene(code, title, heading, eyebrow, intro_en, intro_ms, items, co
         b = sc.say(en, ms, 0.3)
         its.append(dict(text=txt, at=b, num=f'{i + 1:02d}', style='num'))
     half = (len(its) + 1) // 2
-    sc.add(Bullets(its[:half], 120, 270, 820, 26, 2.45, 'num', color), at=its[0]['at'])
+    sc.add(Bullets(its[:half], 120, 280, 820, 29, 2.7, 'num', color), at=its[0]['at'])
     if its[half:]:
-        sc.add(Bullets(its[half:], 1000, 270, 820, 26, 2.45, 'num', color), at=its[half]['at'])
+        sc.add(Bullets(its[half:], 1000, 280, 820, 29, 2.7, 'num', color), at=its[half]['at'])
     if closing:
         b = sc.say(*closing[1:])
         sc.add(Pill(closing[0], W / 2, 830, 'amber', 16), at=b)

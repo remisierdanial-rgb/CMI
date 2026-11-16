@@ -263,6 +263,9 @@ def subtitle(ctx, s, alpha=1.0):
         return
     size = 40
     ls = wrap(ctx, s, SANS_M, size, 1460)
+    if len(ls) > 3:
+        size = 34
+        ls = wrap(ctx, s, SANS_M, size, 1640)
     lh = size * 1.32
     widths = [text_w(ctx, l, SANS_M, size) for l in ls]
     bw = max(widths) + 60

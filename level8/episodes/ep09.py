@@ -15,7 +15,7 @@ def grid(d, title):
     nowh = d['h_of_f'](f['sweep'])
     nd = d['d_of_h'](nowh)
     w, h = 905, 380
-    cd = Chart(D, 36, 100, w, h, 'DAILY · CONTEXT', title, slots=nd + 6, step=50, fit_n=nd, title_color='gold')
+    cd = Chart(D, 36, 100, w, h, 'DAILY · CONTEXT', title, slots=nd + 6, step=100, fit_n=nd, title_color='gold')
     c4 = Chart(H4, 36 + w + 38, 100, w, h, '4H · POI & TARGET', '', slots=nowh // 4 + 6, step=25, fit_n=nowh // 4)
     qs = d['q_of_f'](f['sweep'])
     cq = Chart(Q, 36, 490, w, h, '15M · LIQUIDITY & STRUCTURE', '', slots=len(Q) + 4, step=10, fit_n=qs)
