@@ -164,11 +164,12 @@ def agg(s, k, offset=0):
 # ================================================================ chart element
 class Chart(El):
     def __init__(self, s, x, y, w, h, label='FCPO · 4H · HYPOTHETICAL ILLUSTRATION', title='', slots=None,
-                 pmin=None, pmax=None, step=None, n0=0, title_color='text', axis=True, live=True):
+                 pmin=None, pmax=None, step=None, n0=0, title_color='text', axis=True, live=True, fit_n=None):
         self.s, self.x, self.y, self.w, self.h = s, x, y, w, h
         self.lab, self.title, self.tcol = label, title, title_color
         self.slots = slots or len(s) + 4
-        lo, hi = min(s.l), max(s.h)
+        m = fit_n or len(s)
+        lo, hi = min(s.l[:m]), max(s.h[:m])
         pad = (hi - lo) * 0.10
         self.pmin = pmin if pmin is not None else lo - pad
         self.pmax = pmax if pmax is not None else hi + pad
@@ -193,6 +194,13 @@ class Chart(El):
 
     def view(self, i0, i1, pmin, pmax, at=None, dur=1.2, delay=0.0):
         self.views.append(dict(v=(i0, i1, pmin, pmax), at=at, dur=dur, delay=delay))
+
+    def refit(self, n, at=None, delay=0.0, dur=1.2, extra=(), pad=0.10):
+        """Animate the price axis to fit the first n candles (+extra prices): no look-ahead in the scale."""
+        lo = min(list(self.s.l[:n]) + list(extra))
+        hi = max(list(self.s.h[:n]) + list(extra))
+        p = (hi - lo) * pad
+        self.view(0, self.slots, lo - p, hi + p, at=at, dur=dur, delay=delay)
 
     def retitle(self, title, color='text', at=None, delay=0.0):
         self.titles.append(dict(title=title, color=color, at=at, delay=delay))
@@ -640,4 +648,13 @@ def mirror(s, axis):
         m.add(axis - s.o[i], axis - s.l[i], axis - s.h[i], axis - s.c[i])
     m.ends = list(s.ends)
     m.validate()
+    return m
+
+
+def shift(s, k):
+    """Return a copy shifted by k price units (keeps OHLC validity)."""
+    m = Series()
+    for i in range(len(s)):
+        m.add(s.o[i] + k, s.h[i] + k, s.l[i] + k, s.c[i] + k)
+    m.ends = list(s.ends)
     return m

@@ -25,9 +25,10 @@ class Scene:
         self.cur = len(self.lines) - 1
         return self.cur
 
-    def add(self, el, at=None, delay=0.0):
+    def add(self, el, at=None, delay=0.0, until=None, until_delay=0.0):
         el.at = self.cur if at is None else at
         el.delay = delay
+        el.until, el.udelay = until, until_delay
         el.scene = self
         self.els.append(el)
         return el
@@ -76,12 +77,18 @@ class Scene:
 
 class El:
     fade = 0.45
+    until = None
+    udelay = 0.0
 
     def resolve(self, sc):
         self.t0 = sc.T(self.at, self.delay)
 
     def alpha(self, t):
-        return ease((t - self.t0) / self.fade)
+        a = ease((t - self.t0) / self.fade)
+        if self.until is not None:
+            t1 = self.scene.T(self.until, self.udelay)
+            a = min(a, 1 - clamp((t - t1) / 0.5))
+        return a
 
     def draw(self, ctx, t):
         a = self.alpha(t)

@@ -127,7 +127,7 @@ def s_example(bull=True):
     lp = (lambda i: s.l[i]) if bull else (lambda i: s.h[i])
     up, dn = ('above', 'below') if bull else ('below', 'above')
     c, side = ('bull', 'BULLISH') if bull else ('bear', 'BEARISH')
-    ch = Chart(s, 36, 100, 1310, 770, 'FCPO · DAILY · HYPOTHETICAL ILLUSTRATION', f'{side} EXAMPLE · 5 STEPS', slots=len(s) + 6, step=25)
+    ch = Chart(s, 36, 100, 1310, 770, 'FCPO · DAILY · HYPOTHETICAL ILLUSTRATION', f'{side} EXAMPLE · 5 STEPS', slots=len(s) + 6, step=25, fit_n=nd)
     steps = []
     sc.say(f'Let us apply everything to a complete {"bullish" if bull else "bearish"} example, in five steps.',
            f'Mari aplikasikan semuanya pada contoh {"bullish" if bull else "bearish"} yang lengkap, dalam lima langkah.')
@@ -165,6 +165,7 @@ def s_example(bull=True):
     b = sc.say('In this case price traded through the equal ' + ('highs' if bull else 'lows') + '. Reaching the objective does not mean price must now reverse. It simply means the plan\'s objective was met, and we reassess.',
                'Dalam kes ini harga melepasi equal ' + ('high' if bull else 'low') + '. Mencapai sasaran tidak bermakna harga mesti berbalik sekarang. Ia hanya bermakna sasaran pelan tercapai, dan kita nilai semula.')
     ch.reveal(len(s), at=b, dur=2.4)
+    ch.refit(len(s), at=b, dur=1.0)
     ch.ann(Note('OBJECTIVE REACHED · REASSESS', 0.4, 0.13, 'gold'), at=b, delay=2.6)
     sc.add(Custom(lambda ctx, t: (panel(ctx, 1366, 100, 518, 770), text(ctx, 'ANALYSIS · 5 STEPS', 1394, 150, MONO_M, 16, 'gold', track=2.4))), at=0)
     sc.add(Bullets(steps, 1380, 220, 500, 23, 2.0), at=steps[0]['at'])
