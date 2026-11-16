@@ -1,0 +1,23 @@
+// Structural assertions for the EP01 FCPO chart: the narration must match the candles.
+const src = require('fs').readFileSync(require('path').join(__dirname, '../episodes/ep01/spec.js'), 'utf8');
+const cs = eval(src.match(/const CANDLES = (\[[\s\S]*?\]);/)[1]);
+const H = cs.map(c => c[1]), L = cs.map(c => c[2]), Cl = cs.map(c => c[3]);
+const t = [];
+const ok = (n, v) => t.push([v ? 'OK ' : 'FAIL', n]);
+ok('valid OHLC all candles', cs.every(([o, h, l, c]) => h >= Math.max(o, c) && l <= Math.min(o, c)));
+ok('open = previous close (continuous)', cs.every((c, i) => !i || c[0] === cs[i - 1][3]));
+ok('EQH 4,520 at #1 and #4', H[1] === 4520 && H[4] === 4520);
+ok('no high >= 4,520 between #5 and #28', Math.max(...H.slice(5, 29)) < 4520);
+ok('EQL 4,494 at #9 and #13', L[9] === 4494 && L[13] === 4494);
+ok('no low < 4,494 before sweep (#0–#17)', Math.min(...L.slice(0, 18)) >= 4494);
+ok('sweep #18: low 4,491 < 4,494, close back above 4,494', L[18] === 4491 && Cl[18] > 4494);
+ok('internal LH 4,503 at #16', H[16] === 4503);
+ok('MSS: #20 closes 4,508 above LH 4,503', Cl[20] === 4508 && Cl[20] > H[16]);
+ok('FVG 4,498–4,502: high #19 < low #21', H[19] === 4498 && L[21] === 4502);
+ok('no retrace to 4,500 on #22–#23', Math.min(L[22], L[23]) > 4500);
+ok('entry 4,500 filled on #24', L[24] <= 4500);
+ok('SL 4,490 never touched after entry', Math.min(...L.slice(24)) > 4490);
+ok('TP 4,520 reached on #29', H[29] >= 4520 && Math.max(...H.slice(24, 29)) < 4520);
+ok('POI 4,488–4,496 contains sweep low', L[18] >= 4488 && L[18] <= 4496);
+t.forEach(r => console.log(`[${r[0]}] ${r[1]}`));
+process.exit(t.some(r => r[0] === 'FAIL') ? 1 : 0);
