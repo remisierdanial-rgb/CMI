@@ -1,0 +1,11 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>CMI Level 6 Renderer</title>
+<link rel="stylesheet" href="engine.css">
+<script src="engine.js"></script>
+<script>
+  const vid = new URLSearchParams(location.search).get('v') || 'v01';
+  document.write('<script src="videos/' + vid + '.js"><\/script>');
+</script>
+</head><body><div id="stage"></div>
+<script>window.addEventListener('load', () => { const t = parseFloat(new URLSearchParams(location.search).get('t') || '0'); window.frame && window.frame(t); });</script>
+</body></html>

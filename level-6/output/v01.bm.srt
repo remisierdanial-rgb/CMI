@@ -1,0 +1,256 @@
+1
+00:00:00,800 --> 00:00:07,133
+Selamat datang ke CMI, Smart Money Concept, Level 6: Premium, Discount & PD Arrays.
+
+2
+00:00:07,433 --> 00:00:14,167
+Di Level 5, kita mempelajari imbalance dan displacement. Di level ini, soalannya berbeza:
+
+3
+00:00:14,467 --> 00:00:20,600
+di mana harga sedang berdagang, dan adakah lokasi itu munasabah untuk bertindak?
+
+4
+00:00:20,900 --> 00:00:27,233
+Di akhir video ini, anda sepatutnya faham mengapa lokasi dinilai sebelum execution,
+
+5
+00:00:27,533 --> 00:00:35,200
+bagaimana aliran kerja analitikal CMI disusun, dan mengapa higher timeframe membingkai lower timeframe.
+
+6
+00:00:37,300 --> 00:00:43,300
+Level 6 mengandungi enam subtopik, yang disampaikan melalui empat belas video.
+
+7
+00:00:43,600 --> 00:00:50,000
+Kita bermula dengan Dealing Range, kemudian Equilibrium, serta Premium dan Discount.
+
+8
+00:00:50,300 --> 00:00:56,233
+Seterusnya Fibonacci Optimal Trade Entry, diikuti PD Arrays dalam enam video.
+
+9
+00:00:56,533 --> 00:01:03,267
+Akhir sekali, Multiple Confluences, bukti yang bercanggah, dan satu kajian kes bersepadu.
+
+10
+00:01:03,567 --> 00:01:11,167
+Tiga prinsip membimbing level ini: Location Before Execution, Higher Timeframe Before Lower Timeframe,
+
+11
+00:01:11,467 --> 00:01:14,933
+dan Confluence Without Overcomplication.
+
+12
+00:01:17,033 --> 00:01:24,833
+Mari kita mulakan dengan soalan mudah. Jika pasaran bullish, adakah setiap belian ialah belian yang baik?
+
+13
+00:01:25,133 --> 00:01:31,267
+Ini contoh ilustrasi carta FCPO. Harga membentuk low di 4,600 dan naik ke 4,800.
+
+14
+00:01:31,567 --> 00:01:37,567
+Arahnya jelas menaik. Tetapi arah hanya menceritakan separuh daripada keadaan.
+
+15
+00:01:37,867 --> 00:01:44,067
+Trader A membeli berhampiran high, di 4,790, selepas pergerakan sudah berkembang.
+
+16
+00:01:44,367 --> 00:01:50,967
+Trader B menunggu pullback dan membeli di 4,670, di separuh bawah pergerakan yang sama.
+
+17
+00:01:51,267 --> 00:01:59,600
+Andaikan kedua-duanya guna invalidation yang sama di bawah range low, iaitu 4,590, dan target yang sama di 4,880.
+
+18
+00:01:59,900 --> 00:02:08,367
+Trader A mengambil risiko 200 mata untuk potensi 90 mata. Trader B mengambil risiko 80 mata untuk potensi 210 mata.
+
+19
+00:02:08,667 --> 00:02:14,133
+Arah yang sama. Pasaran yang sama. Kualiti lokasi yang sangat berbeza.
+
+20
+00:02:14,433 --> 00:02:23,833
+Ini tidak bermakna Trader B pasti untung. Lokasinya cuma memberi struktur risk-to-reward yang lebih baik, jika analisisnya betul.
+
+21
+00:02:25,933 --> 00:02:32,733
+Analisis profesional memisahkan empat soalan yang sering dicampur aduk oleh trader baharu.
+
+22
+00:02:33,033 --> 00:02:40,767
+Pertama, apakah arah yang berkemungkinan? Kedua, di mana harga sedang berdagang dalam julatnya sekarang?
+
+23
+00:02:41,067 --> 00:02:49,333
+Ketiga, adakah terdapat lokasi berpotensi untuk bertindak? Dan keempat, adakah harga sudah memberi confirmation?
+
+24
+00:02:49,633 --> 00:02:55,233
+Jawapan "ya" kepada soalan pertama tidak menjawab tiga soalan yang lain.
+
+25
+00:02:57,333 --> 00:03:01,933
+Soalan-soalan ini membawa kepada kerangka analitikal CMI.
+
+26
+00:03:02,233 --> 00:03:07,833
+Market Direction, kemudian Dealing Range, kemudian Premium dan Discount.
+
+27
+00:03:08,133 --> 00:03:13,867
+Seterusnya, PD Arrays yang relevan, gambaran Liquidity, dan Fibonacci OTE.
+
+28
+00:03:14,167 --> 00:03:18,833
+Barulah kita mencari Confirmation, dan akhirnya Execution.
+
+29
+00:03:19,133 --> 00:03:25,667
+Setiap langkah menyempitkan soalan. Direction memberitahu sisi mana yang perlu dikaji.
+
+30
+00:03:25,967 --> 00:03:35,633
+Range, bersama premium dan discount, memberitahu di mana harga berada. PD Arrays dan liquidity menunjukkan kawasan minat yang khusus.
+
+31
+00:03:35,933 --> 00:03:43,467
+Confirmation pula bertanya sama ada harga benar-benar bertindak seperti yang dijangka di kawasan itu.
+
+32
+00:03:43,767 --> 00:03:51,633
+Penting: ini aliran kerja analitikal. Melengkapkan setiap langkah tidak menjamin trade yang menguntungkan.
+
+33
+00:03:51,933 --> 00:03:57,267
+Dan pada mana-mana langkah, jawapan yang betul mungkin: tiada trade.
+
+34
+00:03:59,367 --> 00:04:04,500
+Sekarang, prinsip kedua: Higher Timeframe Before Lower Timeframe.
+
+35
+00:04:04,800 --> 00:04:12,867
+Di sebelah kiri ialah carta satu jam. Dealing range-nya dari 4,600 hingga 4,800, dengan equilibrium di 4,700.
+
+36
+00:04:13,167 --> 00:04:18,967
+Di atas 4,700 ialah separuh premium. Di bawah 4,700 ialah separuh discount.
+
+37
+00:04:19,267 --> 00:04:25,133
+Sekarang kita zoom ke carta lima minit ketika harga berdagang sekitar 4,780.
+
+38
+00:04:25,433 --> 00:04:33,633
+Pada lima minit, harga memecahkan lower high di 4,780. Itu bullish structure shift yang sah pada timeframe ini.
+
+39
+00:04:33,933 --> 00:04:43,733
+Tetapi dalam range satu jam, keseluruhan pergerakan ini berada di premium. Belian di sini membeli bahagian atas range yang lebih besar.
+
+40
+00:04:44,033 --> 00:04:49,433
+Kemudian, harga retrace ke sekitar 4,650, di dalam discount satu jam.
+
+41
+00:04:49,733 --> 00:04:58,133
+Carta lima minit sekali lagi beralih bullish, memecahkan 4,662. Signal kelihatan serupa, tetapi lokasinya berbeza.
+
+42
+00:04:58,433 --> 00:05:06,433
+Kedua-dua signal tidak dijamin. Intinya, signal lower timeframe mesti dibaca dalam konteks higher timeframe.
+
+43
+00:05:08,533 --> 00:05:12,067
+Ini membawa kepada prinsip utama Level 6.
+
+44
+00:05:12,367 --> 00:05:21,100
+Entry yang sah secara teknikal masih boleh menjadi entry yang lemah jika ia berlaku di lokasi yang tidak menguntungkan.
+
+45
+00:05:21,400 --> 00:05:28,133
+Signal menjawab bila. Lokasi membantu menjawab di mana, dan sama ada risiko itu berbaloi.
+
+46
+00:05:28,433 --> 00:05:36,967
+Dan ingat: lokasi bukan confirmation. Lokasi yang baik tanpa confirmation masih hanya kawasan minat yang berpotensi.
+
+47
+00:05:39,067 --> 00:05:42,933
+Mari kita rumuskan perkara yang perlu diingat.
+
+48
+00:05:43,233 --> 00:05:49,033
+Arah dan lokasi ialah dua soalan berbeza. Lokasi membentuk risk dan reward.
+
+49
+00:05:49,333 --> 00:05:56,867
+Kerangka CMI bergerak daripada arah kepada range, lokasi, kawasan minat, confirmation, dan execution.
+
+50
+00:05:57,167 --> 00:06:05,700
+Signal lower timeframe dibaca dalam konteks higher timeframe. Dan tiada trade sentiasa merupakan keputusan yang sah.
+
+51
+00:06:07,800 --> 00:06:13,800
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+52
+00:06:14,100 --> 00:06:20,300
+Soalan satu: mengapa arah pasaran sahaja tidak cukup untuk menilai sesuatu entry?
+
+53
+00:06:25,600 --> 00:06:34,267
+Jawapan: arah yang sama boleh didagangkan dari lokasi yang sangat berbeza, dengan risk dan reward yang sangat berbeza.
+
+54
+00:06:34,567 --> 00:06:40,100
+Soalan dua: senaraikan langkah kerangka analitikal CMI mengikut urutan.
+
+55
+00:06:45,400 --> 00:06:53,867
+Jawapan: Market Direction, Dealing Range, Premium dan Discount, PD Arrays, Liquidity, OTE, Confirmation, Execution.
+
+56
+00:06:54,167 --> 00:07:02,900
+Soalan tiga: bullish shift lima minit terbentuk ketika harga di premium satu jam. Adakah ia automatik belian yang baik?
+
+57
+00:07:08,200 --> 00:07:16,333
+Jawapan: tidak. Signal itu mungkin sah pada lima minit, tetapi ia membeli separuh atas range yang lebih besar.
+
+58
+00:07:16,633 --> 00:07:21,367
+Ia memerlukan konteks yang kukuh, atau lebih baik menunggu.
+
+59
+00:07:23,467 --> 00:07:30,667
+Dalam video seterusnya, kita mempelajari asas bagi semua perkara dalam level ini: Dealing Range.
+
+60
+00:07:30,967 --> 00:07:41,767
+Cara memilih swing high dan swing low yang bermakna, dan mengapa range yang dipilih sesuka hati memberi bacaan premium dan discount yang mengelirukan.
+
+61
+00:07:43,867 --> 00:07:50,933
+Rujukan untuk video ini dipaparkan di skrin. Bahan ICT digunakan untuk terminologi khusus ICT.
+
+62
+00:07:51,233 --> 00:07:57,367
+Konsep SMC dan ICT ialah kerangka analitikal, bukan hasil penyelidikan akademik.
+
+63
+00:07:59,467 --> 00:08:08,867
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+64
+00:08:09,167 --> 00:08:14,233
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 2.
+
