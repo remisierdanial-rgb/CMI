@@ -93,7 +93,7 @@
     // extra rows (delta etc.)
     (s.rows || []).forEach((r, k) => {
       const y = vTop + volH + 8 + k * 34;
-      parts.push(`<text x="${padL}" y="${y + 21}" fill="#8e9bb4" font-size="13" class="mono" letter-spacing="1.5"${A(r.at, 0)}>${esc(r.label)}</text>`);
+      parts.push(`<text x="12" y="${y + 21}" fill="#8e9bb4" font-size="12" class="mono" letter-spacing="1"${A(r.at, 0)}>${esc(r.label)}</text>`);
       r.vals.forEach((v, i) => { if (v === null || v === undefined) return; const [at, d] = r.at !== undefined ? [r.at, i * .05] : tim(i); const t = typeof v === 'number' ? (v > 0 ? '+' : '') + fmt(v) : v; parts.push(`<text x="${X(i)}" y="${y + 21}" text-anchor="middle" fill="${typeof v === 'number' ? (v > 0 ? COL.g2 : v < 0 ? COL.r2 : COL.m) : COL.m}" font-size="${r.fs || 13}" class="mono"${A(at, d)}>${t}</text>`); });
     });
     // CVD panel
@@ -169,15 +169,15 @@
       }
       case 'profile': {
         const pr = profile(k.bars, a.i1, a.i2, a.bin || 5);
-        const maxW = a.width || 220, xr = a.side === 'left' ? k.padL + 4 : k.W - k.padR - 4, vmax = Math.max(...pr.vol), out = [];
+        const anc = a.anchor, maxW = a.width || 220, xr = anc ? k.X(a.i1) - k.cw * .45 : a.side === 'left' ? k.padL + 4 : k.W - k.padR - 4, vmax = Math.max(...pr.vol), out = [];
         pr.vol.forEach((v, j) => {
           const pa = pr.lo + j * a.bin, y1 = k.Y(pa + a.bin), y2 = k.Y(pa), w = v / vmax * maxW;
           const inVA = pa >= pr.val && pa < pr.vah, isPoc = j === pr.poc;
           const fill = isPoc ? COL.y : inVA ? (a.va === false ? '#3b82f6' : '#2b7fd9') : '#2a4a78';
-          const x = a.side === 'left' ? xr : xr - w;
-          out.push(`<rect x="${x}" y="${y1 + .6}" width="${w}" height="${Math.max(1, y2 - y1 - 1.2)}" fill="${fill}" opacity="${isPoc ? .9 : inVA ? .55 : .45}"${A(at, d + j * .015, a.side === 'left' ? 'growx' : 'growxr', .35, o)}/>`);
+          const x = (anc || a.side === 'left') ? xr : xr - w;
+          out.push(`<rect x="${x}" y="${y1 + .6}" width="${w}" height="${Math.max(1, y2 - y1 - 1.2)}" fill="${fill}" opacity="${(isPoc ? .9 : inVA ? .55 : .45) * (a.op || 1)}"${A(at, d + j * .015, (anc || a.side === 'left') ? 'growx' : 'growxr', .35, o)}/>`);
         });
-        const L = (p, lab, cc, dl) => { const y = k.Y(p); return `<g${A(a.atLines ?? at, (a.atLines !== undefined ? 0 : d + .8) + dl, 'fade', .4, o)}><line x1="${k.padL}" x2="${k.W - k.padR}" y1="${y}" y2="${y}" stroke="${cc}" stroke-width="1.6" stroke-dasharray="${lab === 'POC' ? '0' : '7 6'}" opacity=".9"/>${lbox(k.W - k.padR + 4, y, `${lab} ${fmt(p)}`, cc, 'start', 12)}</g>`; };
+        const L = (p, lab, cc, dl) => { const y = k.Y(p), lx1 = anc ? k.X(a.i1) - k.cw / 2 : k.padL, lx2 = a.x2 !== undefined ? k.X(a.x2) : anc ? k.X(a.i2) + k.cw / 2 : k.W - k.padR; return `<g${A(a.atLines ?? at, (a.atLines !== undefined ? 0 : d + .8) + dl, 'fade', .4, o)}><line x1="${lx1}" x2="${lx2}" y1="${y}" y2="${y}" stroke="${cc}" stroke-width="1.6" stroke-dasharray="${lab === 'POC' ? '0' : '7 6'}" opacity=".9"/>${anc ? lbox(lx2 - 4, y - 13, `${lab} ${fmt(p)}`, cc, 'end', 11) : lbox(k.W - k.padR + 4, y, `${lab} ${fmt(p)}`, cc, 'start', 12)}</g>`; };
         if (a.lines !== false) { out.push(L(pr.vah, 'VAH', COL.c, 0)); out.push(L(pr.val, 'VAL', COL.c, .15)); out.push(L(Math.round(pr.pocPrice), 'POC', COL.y, .3)); }
         return out.join('');
       }

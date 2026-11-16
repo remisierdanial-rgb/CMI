@@ -1,5 +1,6 @@
 // Load an episode file in Node and print its narration segments as JSON.
 const path = require('path');
+require(path.resolve(__dirname, '../engine/charts.js'));
 globalThis.EP = x => (globalThis.EPISODE = x);
 require(path.resolve(process.argv[2]));
 const E = globalThis.EPISODE;
