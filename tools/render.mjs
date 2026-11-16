@@ -15,6 +15,12 @@ await page.goto('file://' + path.join(ROOT, 'engine/player.html') + `?ep=${ep}&c
 await page.waitForFunction(() => window.__ready === true, null, { timeout: 30000 });
 const total = await page.evaluate(() => window.__total);
 const B = path.join(ROOT, 'episodes', ep, 'build');
+if (args.includes('--sceneshots')) {
+  const ends = await page.evaluate(() => CMI.P.tl.scenes.map(s => s.end - 1.0));
+  const out = opt('out') || path.join(B, 'stills'); fs.mkdirSync(out, { recursive: true });
+  for (const [i, t] of ends.entries()) { await page.evaluate(t => window.__render(t), t); await page.screenshot({ path: path.join(out, `s${String(i + 1).padStart(2, '0')}.png`) }); }
+  await browser.close(); process.exit(0);
+}
 if (opt('stills')) {
   const out = opt('out') || path.join(B, 'stills'); fs.mkdirSync(out, { recursive: true });
   for (const s of opt('stills').split(',')) { await page.evaluate(t => window.__render(t), +s); await page.screenshot({ path: path.join(out, `t${String(s).padStart(5, '0')}.png`) }); }

@@ -1,0 +1,631 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [
+    {
+     "start": 0.75,
+     "end": 4.754,
+     "text": "Selamat datang ke Video 3. Kita lengkapkan Scalping SOP."
+    },
+    {
+     "start": 5.134,
+     "end": 10.33,
+     "text": "Dalam Video 2, kita telah menyediakan carta: konteks, liquidity dan POI."
+    },
+    {
+     "start": 10.71,
+     "end": 17.613,
+     "text": "Hari ini kita bina prosedur entry lima belas langkah, dan aplikasikannya pada contoh bullish dan bearish FCPO."
+    },
+    {
+     "start": 17.993,
+     "end": 23.683,
+     "text": "Kemudian kita bincangkan pengurusan dagangan, keadaan tidak trade, dan kesilapan biasa pedagang scalping."
+    }
+   ],
+   "end": 25.513
+  },
+  {
+   "start": 25.513,
+   "cues": [
+    {
+     "start": 26.263,
+     "end": 29.96,
+     "text": "Inilah prosedur entry scalping CMI, lima belas langkah."
+    },
+    {
+     "start": 30.34,
+     "end": 40.334,
+     "text": "Fasa konteks: satu, tetapkan konteks timeframe tinggi. Dua, kenal pasti liquidity intraday. Tiga, pilih POI yang sesuai."
+    },
+    {
+     "start": 40.715,
+     "end": 53.151,
+     "text": "Fasa menunggu dan memerhati: empat, tunggu harga sampai ke lokasi. Lima, perhatikan interaksi liquidity. Enam, cari MSS atau change of character yang bermakna."
+    },
+    {
+     "start": 53.531,
+     "end": 60.353,
+     "text": "Tujuh, nilai displacement. Lapan, kenal pasti execution zone yang sah, contohnya FVG."
+    },
+    {
+     "start": 60.733,
+     "end": 73.842,
+     "text": "Fasa perancangan: sembilan, tetapkan harga atau syarat entry. Sepuluh, tetapkan stop-loss dan invalidation. Sebelas, kenal pasti sasaran. Dua belas, kira risk-to-reward."
+    },
+    {
+     "start": 74.222,
+     "end": 79.446,
+     "text": "Langkah tiga belas paling penting: laksanakan hanya jika semua syarat yang ditetapkan dipenuhi."
+    },
+    {
+     "start": 79.826,
+     "end": 88.988,
+     "text": "Empat belas, pantau dagangan mengikut peraturan pengurusan. Lima belas, rekod dagangan dalam jurnal, sama ada menang, kalah atau dilangkau."
+    }
+   ],
+   "end": 90.318
+  },
+  {
+   "start": 90.318,
+   "cues": [
+    {
+     "start": 91.068,
+     "end": 99.567,
+     "text": "Contoh scalping bullish. Konteks 1H dan 30M berpotensi bullish, jadi kita hanya mencari peluang beli di lokasi discount."
+    },
+    {
+     "start": 99.947,
+     "end": 108.325,
+     "text": "Carta 15M menunjukkan POI bullish di sekitar 4,376 hingga 4,383."
+    },
+    {
+     "start": 108.705,
+     "end": 115.561,
+     "text": "Di atas, dua high pada 4,402 membentuk Equal Highs, iaitu potensi Buy-Side Liquidity."
+    },
+    {
+     "start": 115.941,
+     "end": 124.966,
+     "text": "Di bawah, dua low pada 4,381 membentuk Equal Lows, potensi Sell-Side Liquidity, yang terletak di dalam POI."
+    },
+    {
+     "start": 125.346,
+     "end": 133.168,
+     "text": "Struktur dalaman pada carta 5M masih bearish. Lower high terakhir berada pada 4,388."
+    },
+    {
+     "start": 133.548,
+     "end": 141.092,
+     "text": "Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus."
+    }
+   ],
+   "end": 142.822
+  },
+  {
+   "start": 142.822,
+   "cues": [
+    {
+     "start": 143.572,
+     "end": 153.129,
+     "text": "Candle seterusnya turun ke 4,379, melepasi Equal Lows, kemudian ditutup semula di atas 4,381."
+    },
+    {
+     "start": 153.509,
+     "end": 158.898,
+     "text": "Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry."
+    },
+    {
+     "start": 159.278,
+     "end": 172.171,
+     "text": "Kemudian candle bullish yang besar ditutup pada 4,392, menembusi lower high 4,388. Ini potensi bullish MSS, disertai displacement."
+    },
+    {
+     "start": 172.551,
+     "end": 180.45,
+     "text": "Displacement ini meninggalkan Fair Value Gap antara 4,384 dan 4,388."
+    },
+    {
+     "start": 180.83,
+     "end": 187.368,
+     "text": "Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG."
+    }
+   ],
+   "end": 189.298
+  },
+  {
+   "start": 189.298,
+   "cues": [
+    {
+     "start": 190.048,
+     "end": 192.872,
+     "text": "Sebelum harga bergerak, kita tulis pelan dagangan."
+    },
+    {
+     "start": 193.252,
+     "end": 200.817,
+     "text": "Entry beli bersyarat pada 4,386, di dalam FVG, hanya jika harga kembali ke zon ini."
+    },
+    {
+     "start": 201.197,
+     "end": 211.014,
+     "text": "Stop-loss pada 4,378, di bawah ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bullish dianggap tidak sah."
+    },
+    {
+     "start": 211.394,
+     "end": 218.046,
+     "text": "Sasaran pada 4,402, Equal Highs, iaitu potensi Buy-Side Liquidity di arah bertentangan."
+    },
+    {
+     "start": 218.426,
+     "end": 225.183,
+     "text": "Risiko 8 mata, potensi ganjaran 16 mata. Gross risk-to-reward ialah 2 berbanding 1."
+    },
+    {
+     "start": 225.563,
+     "end": 232.962,
+     "text": "Dengan 1 kontrak, risiko kasar RM200 dan potensi ganjaran kasar RM400, sebelum kos dan slippage."
+    },
+    {
+     "start": 233.342,
+     "end": 238.913,
+     "text": "Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia."
+    }
+   ],
+   "end": 240.843
+  },
+  {
+   "start": 240.843,
+   "cues": [
+    {
+     "start": 241.593,
+     "end": 243.625,
+     "text": "Sekarang kita dedahkan apa yang berlaku."
+    },
+    {
+     "start": 244.005,
+     "end": 249.916,
+     "text": "Harga kembali ke FVG. Order 4,386 terisi."
+    },
+    {
+     "start": 250.296,
+     "end": 257.704,
+     "text": "Harga kemudian bergerak ke 4,402. Sasaran tercapai: tambah 16 mata setiap kontrak."
+    },
+    {
+     "start": 258.084,
+     "end": 263.251,
+     "text": "Ini hanya satu hasil. Setup yang sama boleh sahaja berakhir di stop-loss."
+    }
+   ],
+   "end": 265.181
+  },
+  {
+   "start": 265.181,
+   "cues": [
+    {
+     "start": 265.931,
+     "end": 274.61,
+     "text": "Sekarang contoh scalping bearish. Konteks 1H dan 30M berpotensi bearish, jadi kita mencari peluang jual di lokasi premium."
+    },
+    {
+     "start": 274.99,
+     "end": 283.207,
+     "text": "Carta 15M menunjukkan POI bearish di sekitar 4,616 hingga 4,624."
+    },
+    {
+     "start": 283.587,
+     "end": 290.726,
+     "text": "Di bawah, dua low pada 4,592 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity."
+    },
+    {
+     "start": 291.106,
+     "end": 300.009,
+     "text": "Di atas, dua high pada 4,618 membentuk Equal Highs, potensi Buy-Side Liquidity, yang terletak di dalam POI."
+    },
+    {
+     "start": 300.389,
+     "end": 307.753,
+     "text": "Struktur dalaman pada carta 5M masih bullish. Higher low terakhir berada pada 4,609."
+    },
+    {
+     "start": 308.133,
+     "end": 315.677,
+     "text": "Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus."
+    }
+   ],
+   "end": 317.407
+  },
+  {
+   "start": 317.407,
+   "cues": [
+    {
+     "start": 318.157,
+     "end": 327.328,
+     "text": "Candle seterusnya naik ke 4,621, melepasi Equal Highs, kemudian ditutup semula di bawah 4,618."
+    },
+    {
+     "start": 327.708,
+     "end": 333.097,
+     "text": "Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry."
+    },
+    {
+     "start": 333.477,
+     "end": 345.751,
+     "text": "Kemudian candle bearish yang besar ditutup pada 4,604, menembusi higher low 4,609. Ini potensi bearish MSS, disertai displacement."
+    },
+    {
+     "start": 346.131,
+     "end": 353.204,
+     "text": "Displacement ini meninggalkan Fair Value Gap antara 4,610 dan 4,614."
+    },
+    {
+     "start": 353.584,
+     "end": 360.122,
+     "text": "Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG."
+    }
+   ],
+   "end": 362.052
+  },
+  {
+   "start": 362.052,
+   "cues": [
+    {
+     "start": 362.802,
+     "end": 365.626,
+     "text": "Sebelum harga bergerak, kita tulis pelan dagangan."
+    },
+    {
+     "start": 366.006,
+     "end": 373.296,
+     "text": "Entry jual bersyarat pada 4,612, di dalam FVG, hanya jika harga kembali ke zon ini."
+    },
+    {
+     "start": 373.676,
+     "end": 383.412,
+     "text": "Stop-loss pada 4,622, di atas ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bearish dianggap tidak sah."
+    },
+    {
+     "start": 383.792,
+     "end": 391.057,
+     "text": "Sasaran pada 4,592, Equal Lows, iaitu potensi Sell-Side Liquidity di arah bertentangan."
+    },
+    {
+     "start": 391.437,
+     "end": 398.038,
+     "text": "Risiko 10 mata, potensi ganjaran 20 mata. Gross risk-to-reward ialah 2 berbanding 1."
+    },
+    {
+     "start": 398.418,
+     "end": 406.313,
+     "text": "Dengan 1 kontrak, risiko kasar RM250 dan potensi ganjaran kasar RM500, sebelum kos dan slippage."
+    },
+    {
+     "start": 406.693,
+     "end": 412.264,
+     "text": "Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia."
+    }
+   ],
+   "end": 414.194
+  },
+  {
+   "start": 414.194,
+   "cues": [
+    {
+     "start": 414.944,
+     "end": 416.976,
+     "text": "Sekarang kita dedahkan apa yang berlaku."
+    },
+    {
+     "start": 417.356,
+     "end": 422.926,
+     "text": "Harga kembali ke FVG. Order 4,612 terisi."
+    },
+    {
+     "start": 423.306,
+     "end": 434.253,
+     "text": "Namun harga terus naik dan mencapai stop-loss 4,622. Kerugian 10 mata setiap kontrak, iaitu satu R, RM250 kasar."
+    },
+    {
+     "start": 434.633,
+     "end": 441.151,
+     "text": "Pelan diikuti dan kerugian dikawal. Ia direkod dalam jurnal, bukan dibalas dengan dagangan dendam."
+    }
+   ],
+   "end": 443.081
+  },
+  {
+   "start": 443.081,
+   "cues": [
+    {
+     "start": 443.831,
+     "end": 448.48,
+     "text": "Selepas entry, dagangan diurus mengikut peraturan yang ditetapkan sebelum entry."
+    },
+    {
+     "start": 448.86,
+     "end": 454.079,
+     "text": "Fixed risk: risiko setiap dagangan ditetapkan dalam ringgit atau R, dan tidak diubah."
+    },
+    {
+     "start": 454.459,
+     "end": 460.25,
+     "text": "Fixed target: keluar sepenuhnya di sasaran. Partial: tutup sebahagian di sasaran awal."
+    },
+    {
+     "start": 460.63,
+     "end": 468.947,
+     "text": "Breakeven: alihkan stop-loss ke harga entry selepas harga bergerak sejauh tertentu. Trailing stop: alihkan stop mengikut struktur."
+    },
+    {
+     "start": 469.327,
+     "end": 479.368,
+     "text": "Exit on invalidation: keluar jika struktur yang menyokong tesis dipecahkan. Time-based exit: keluar jika harga tidak bergerak dalam tempoh yang ditetapkan."
+    },
+    {
+     "start": 479.748,
+     "end": 485.695,
+     "text": "Tiada kaedah yang sentiasa terbaik. Setiap kaedah mengubah taburan hasil dan perlu diuji."
+    }
+   ],
+   "end": 487.025
+  },
+  {
+   "start": 487.025,
+   "cues": [
+    {
+     "start": 487.775,
+     "end": 500.716,
+     "text": "Lihat bagaimana kaedah pengurusan mengubah hasil sebenar. Andaikan entry 4,500, stop-loss 4,490 dan sasaran 4,520, dengan dua kontrak."
+    },
+    {
+     "start": 501.096,
+     "end": 511.771,
+     "text": "Pegang kedua-dua kontrak ke sasaran: 20 mata darab 2 kontrak darab RM25, iaitu RM1,000. Risiko awal RM500, jadi hasilnya 2R."
+    },
+    {
+     "start": 512.151,
+     "end": 523.484,
+     "text": "Partial: satu kontrak ditutup pada 4,510, dan satu lagi pada 4,520. Hasilnya RM750, iaitu 1.5R."
+    },
+    {
+     "start": 523.864,
+     "end": 535.472,
+     "text": "Breakeven: jika stop dialihkan ke 4,500 selepas harga sampai 4,510, kemudian harga kembali ke 4,500 sebelum naik ke sasaran, hasilnya kosong."
+    },
+    {
+     "start": 535.852,
+     "end": 546.145,
+     "text": "Breakeven boleh mengurangkan kerugian, tetapi juga boleh mengeluarkan dagangan yang akhirnya menang. Partial mengunci keuntungan lebih awal, tetapi mengurangkan RR realised."
+    }
+   ],
+   "end": 547.475
+  },
+  {
+   "start": 547.475,
+   "cues": [
+    {
+     "start": 548.225,
+     "end": 552.876,
+     "text": "Bila tidak perlu scalping? Senarai ini sama penting dengan syarat entry."
+    },
+    {
+     "start": 553.256,
+     "end": 560.916,
+     "text": "Tiada struktur pasaran yang jelas. Tiada POI yang sesuai. Harga berada di tengah julat yang tidak jelas."
+    },
+    {
+     "start": 561.296,
+     "end": 565.265,
+     "text": "Tiada interaksi liquidity yang bermakna. Tiada pengesahan."
+    },
+    {
+     "start": 565.645,
+     "end": 571.926,
+     "text": "Spread atau slippage berlebihan. Volatiliti luar biasa, contohnya ketika peristiwa berjadual."
+    },
+    {
+     "start": 572.306,
+     "end": 574.737,
+     "text": "Sasaran terlalu dekat, atau risk-to-reward lemah."
+    },
+    {
+     "start": 575.117,
+     "end": 581.324,
+     "text": "Had risiko harian telah dicapai. Atau anda sendiri tidak bersedia dari segi emosi atau mental."
+    }
+   ],
+   "end": 582.654
+  },
+  {
+   "start": 582.654,
+   "cues": [
+    {
+     "start": 583.404,
+     "end": 584.785,
+     "text": "Contoh keadaan tidak trade."
+    },
+    {
+     "start": 585.165,
+     "end": 592.951,
+     "text": "Harga bergerak naik turun di tengah julat. Tiada sweep yang jelas, tiada POI, dan sasaran di kedua-dua arah terlalu dekat."
+    },
+    {
+     "start": 593.331,
+     "end": 598.601,
+     "text": "Keputusan yang betul di sini ialah tidak trade, dan menunggu harga sampai ke lokasi yang dirancang."
+    }
+   ],
+   "end": 599.931
+  },
+  {
+   "start": 599.931,
+   "cues": [
+    {
+     "start": 600.681,
+     "end": 602.69,
+     "text": "Sepuluh kesilapan scalping yang biasa."
+    },
+    {
+     "start": 603.07,
+     "end": 607.976,
+     "text": "Overtrading. Masuk sebelum pengesahan. Mengejar harga."
+    },
+    {
+     "start": 608.356,
+     "end": 612.691,
+     "text": "Menukar bias terlalu kerap. Mendagangkan setiap FVG."
+    },
+    {
+     "start": 613.071,
+     "end": 619.431,
+     "text": "Mengabaikan kos transaksi. Menggunakan stop-loss yang terlalu ketat sehingga berada di dalam hingar."
+    },
+    {
+     "start": 619.811,
+     "end": 625.111,
+     "text": "Mengalihkan stop-loss kerana emosi. Menambah saiz posisi selepas kerugian."
+    },
+    {
+     "start": 625.491,
+     "end": 628.17,
+     "text": "Dan mengambil setup berkualiti rendah kerana bosan."
+    }
+   ],
+   "end": 629.5
+  },
+  {
+   "start": 629.5,
+   "cues": [
+    {
+     "start": 630.25,
+     "end": 634.468,
+     "text": "Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan."
+    },
+    {
+     "start": 634.848,
+     "end": 639.08,
+     "text": "Soalan satu: apakah beza antara POI dan entry confirmation?"
+    },
+    {
+     "start": 639.46,
+     "end": 649.428,
+     "text": "Jawapan: POI ialah lokasi. Pengesahan ialah urutan liquidity, MSS, displacement dan execution zone yang berlaku di lokasi itu."
+    },
+    {
+     "start": 649.808,
+     "end": 654.039,
+     "text": "Soalan dua: kenapa liquidity sweep sahaja tidak mencukupi untuk entry?"
+    },
+    {
+     "start": 654.419,
+     "end": 662.276,
+     "text": "Jawapan: sweep boleh diikuti oleh kesinambungan. Tanpa MSS dan displacement, tiada reaksi mengikut model."
+    },
+    {
+     "start": 662.656,
+     "end": 666.591,
+     "text": "Soalan tiga: apakah peranan MSS dalam proses entry?"
+    },
+    {
+     "start": 666.971,
+     "end": 673.094,
+     "text": "Jawapan: ia menunjukkan potensi perubahan arah pada timeframe entry, selepas interaksi liquidity."
+    }
+   ],
+   "end": 674.824
+  },
+  {
+   "start": 674.824,
+   "cues": [
+    {
+     "start": 675.574,
+     "end": 676.235,
+     "text": "Ringkasnya."
+    },
+    {
+     "start": 676.615,
+     "end": 683.579,
+     "text": "Lima belas langkah: konteks, tunggu, pengesahan, perancangan, dan laksana hanya jika semua syarat dipenuhi."
+    },
+    {
+     "start": 683.959,
+     "end": 688.031,
+     "text": "Setup bullish dan bearish mengikut logik yang sama, secara bertentangan."
+    },
+    {
+     "start": 688.411,
+     "end": 692.799,
+     "text": "Kerugian yang dirancang ialah sebahagian daripada SOP. Rekodkannya."
+    },
+    {
+     "start": 693.179,
+     "end": 697.796,
+     "text": "Pilihan pengurusan mengubah RR realised, dan tidak trade juga satu keputusan."
+    }
+   ],
+   "end": 699.126
+  },
+  {
+   "start": 699.126,
+   "cues": [
+    {
+     "start": 699.876,
+     "end": 701.394,
+     "text": "Latihan untuk video ini."
+    },
+    {
+     "start": 701.774,
+     "end": 709.423,
+     "text": "Tulis Scalping SOP anda menggunakan lima belas langkah. Bagi setiap langkah, tulis peraturan yang boleh dijawab ya atau tidak."
+    },
+    {
+     "start": 709.803,
+     "end": 717.534,
+     "text": "Tambah risiko maksimum setiap dagangan, had kerugian harian, bilangan dagangan maksimum, kaedah pengurusan dan senarai tidak trade."
+    },
+    {
+     "start": 717.914,
+     "end": 723.462,
+     "text": "Uji pada dua puluh setup sejarah dengan candle masa depan disembunyikan, dan rekod setiap hasil."
+    }
+   ],
+   "end": 724.792
+  },
+  {
+   "start": 724.792,
+   "cues": [
+    {
+     "start": 725.542,
+     "end": 735.247,
+     "text": "Dalam Video 4, kita beralih ke Intraday SOP: perancangan harian, bias Daily dan 4H, dealing range, serta senario utama dan alternatif."
+    }
+   ],
+   "end": 737.377
+  },
+  {
+   "start": 737.377,
+   "cues": [
+    {
+     "start": 738.127,
+     "end": 740.79,
+     "text": "Rujukan untuk video ini dipaparkan di skrin."
+    }
+   ],
+   "end": 744.12
+  },
+  {
+   "start": 744.12,
+   "cues": [
+    {
+     "start": 744.87,
+     "end": 749.637,
+     "text": "Trading futures melibatkan risiko kerugian. Jumpa dalam Video 4."
+    }
+   ],
+   "end": 753.167
+  }
+ ],
+ "total": 753.167
+}

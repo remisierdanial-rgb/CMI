@@ -1,0 +1,595 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [
+    {
+     "start": 0.75,
+     "end": 7.0,
+     "text": "Selamat datang ke Video 2. Kita mula membina subtopik pertama Level 9: Scalping SOP."
+    },
+    {
+     "start": 7.38,
+     "end": 13.998,
+     "text": "Dalam bahagian pertama ini, kita fokus pada persediaan, iaitu semua kerja yang dilakukan sebelum mencari entry."
+    },
+    {
+     "start": 14.378,
+     "end": 20.581,
+     "text": "Kita akan definisikan scalping dan ciri-cirinya, termasuk kenapa kekerapan dagangan tidak sama dengan keuntungan."
+    },
+    {
+     "start": 20.961,
+     "end": 25.241,
+     "text": "Kemudian kita bina rangka timeframe dan senarai semak pra-pasaran sepuluh langkah."
+    },
+    {
+     "start": 25.621,
+     "end": 31.213,
+     "text": "Akhir sekali, kita petakan struktur pasaran, liquidity dan POI khusus untuk scalping."
+    }
+   ],
+   "end": 33.043
+  },
+  {
+   "start": 33.043,
+   "cues": [
+    {
+     "start": 33.793,
+     "end": 41.307,
+     "text": "Apakah scalping? Scalping ialah gaya trading jangka pendek dengan tempoh pegangan yang singkat, biasanya dalam lingkungan minit."
+    },
+    {
+     "start": 41.687,
+     "end": 48.604,
+     "text": "Ciri pertama: tempoh pegangan pendek. Stop-loss dan sasaran juga lebih dekat berbanding gaya trading yang lain."
+    },
+    {
+     "start": 48.984,
+     "end": 56.203,
+     "text": "Kedua, peluang muncul dengan kerap. Tetapi SOP yang baik tetap selektif, dan hanya mengambil setup yang memenuhi syarat."
+    },
+    {
+     "start": 56.583,
+     "end": 62.38,
+     "text": "Ketiga, kelajuan analisis dan pelaksanaan penting, kerana pergerakan yang disasarkan adalah kecil."
+    },
+    {
+     "start": 62.76,
+     "end": 71.433,
+     "text": "Keempat, kos transaksi memberi kesan besar. Apabila sasaran kecil, kos dan slippage mengambil bahagian yang lebih besar daripada ganjaran."
+    },
+    {
+     "start": 71.813,
+     "end": 77.389,
+     "text": "Kelima, pengurusan risiko mesti ketat, dengan had risiko setiap dagangan dan had kerugian harian."
+    },
+    {
+     "start": 77.769,
+     "end": 87.155,
+     "text": "Scalping bukan sekadar masuk dan keluar dengan cepat. Ia memerlukan setup, syarat entry, invalidation dan pelan exit yang ditetapkan lebih awal."
+    }
+   ],
+   "end": 88.485
+  },
+  {
+   "start": 88.485,
+   "cues": [
+    {
+     "start": 89.235,
+     "end": 94.176,
+     "text": "Adakah lebih banyak dagangan bermakna lebih banyak keuntungan? Tidak semestinya."
+    },
+    {
+     "start": 94.556,
+     "end": 99.738,
+     "text": "Andaikan, secara hipotetikal, kos dan slippage setara dua mata bagi setiap dagangan."
+    },
+    {
+     "start": 100.118,
+     "end": 106.188,
+     "text": "Pedagang yang membuat 20 dagangan sehari menanggung kos setara 40 mata, sebelum sebarang keuntungan."
+    },
+    {
+     "start": 106.568,
+     "end": 110.865,
+     "text": "Pedagang yang hanya mengambil tiga setup berkualiti menanggung kos setara enam mata."
+    },
+    {
+     "start": 111.245,
+     "end": 120.225,
+     "text": "Bagi sasaran 10 mata, kos dua mata ialah 20 peratus daripada ganjaran. Bagi sasaran 40 mata, ia hanya 5 peratus."
+    },
+    {
+     "start": 120.605,
+     "end": 126.949,
+     "text": "Inilah sebabnya scalping sangat sensitif kepada kos. Kekerapan tidak menggantikan kelebihan strategi."
+    }
+   ],
+   "end": 128.279
+  },
+  {
+   "start": 128.279,
+   "cues": [
+    {
+     "start": 129.029,
+     "end": 136.976,
+     "text": "Seterusnya, rangka timeframe scalping CMI. Ini rangka ilustrasi untuk FCPO, bukan formula optimum."
+    },
+    {
+     "start": 137.356,
+     "end": 142.91,
+     "text": "Carta 1H atau 30M memberi konteks: arah, struktur utama dan aras penting."
+    },
+    {
+     "start": 143.29,
+     "end": 149.114,
+     "text": "Carta 15M digunakan untuk mengenal pasti setup dan lokasi, iaitu liquidity dan POI."
+    },
+    {
+     "start": 149.494,
+     "end": 155.758,
+     "text": "Carta 5M digunakan untuk menilai pengesahan entry: MSS, displacement dan FVG."
+    },
+    {
+     "start": 156.138,
+     "end": 167.156,
+     "text": "Carta 1M adalah pilihan sahaja. Ia boleh memperhalusi entry, tetapi mengandungi lebih banyak hingar dan isyarat palsu, dan memerlukan data serta ujian yang sesuai."
+    },
+    {
+     "start": 167.536,
+     "end": 174.718,
+     "text": "Kombinasi timeframe yang tepat perlu diuji dan disesuaikan. Jangan anggap ia optimum untuk semua orang."
+    }
+   ],
+   "end": 176.048
+  },
+  {
+   "start": 176.048,
+   "cues": [
+    {
+     "start": 176.798,
+     "end": 179.332,
+     "text": "Lihat bagaimana tiga timeframe ini bersambung."
+    },
+    {
+     "start": 179.712,
+     "end": 185.521,
+     "text": "Pada 1H, struktur membuat higher high dan higher low. Konteks berpotensi bullish."
+    },
+    {
+     "start": 185.901,
+     "end": 192.159,
+     "text": "Pada 15M, harga menarik balik ke POI di kawasan discount, berhampiran Sell-Side Liquidity."
+    },
+    {
+     "start": 192.539,
+     "end": 198.305,
+     "text": "Pada 5M, kita menunggu sweep, MSS dan displacement sebelum mempertimbangkan entry."
+    },
+    {
+     "start": 198.685,
+     "end": 204.319,
+     "text": "Setiap timeframe menjawab soalan berbeza: ke mana arah, di mana lokasi, dan bila pencetusnya."
+    }
+   ],
+   "end": 205.649
+  },
+  {
+   "start": 205.649,
+   "cues": [
+    {
+     "start": 206.399,
+     "end": 214.333,
+     "text": "Sekarang, persediaan pra-pasaran. Sepuluh langkah ini dilakukan sebelum sesi bermula, bukan semasa harga sedang bergerak."
+    },
+    {
+     "start": 214.713,
+     "end": 222.688,
+     "text": "Satu, semak kalendar dagangan FCPO dan sesi dagangan semasa. Dua, ulang kaji pergerakan sesi sebelumnya."
+    },
+    {
+     "start": 223.068,
+     "end": 227.035,
+     "text": "Tiga dan empat, tandakan Previous Day High dan Previous Day Low."
+    },
+    {
+     "start": 227.415,
+     "end": 234.337,
+     "text": "Lima, kenal pasti aras Weekly dan Daily yang signifikan. Enam, tandakan liquidity pool yang relevan."
+    },
+    {
+     "start": 234.717,
+     "end": 243.579,
+     "text": "Tujuh, tetapkan bias awal: bullish, bearish atau neutral. Lapan, kenal pasti POI pada timeframe tinggi dan sederhana."
+    },
+    {
+     "start": 243.959,
+     "end": 249.751,
+     "text": "Sembilan, semak maklumat pasaran dan peristiwa berjadual, contohnya laporan bulanan MPOB."
+    },
+    {
+     "start": 250.131,
+     "end": 257.188,
+     "text": "Sepuluh, tetapkan risiko maksimum yang boleh diterima untuk hari ini, dalam ringgit, sebelum membuka sebarang posisi."
+    }
+   ],
+   "end": 258.518
+  },
+  {
+   "start": 258.518,
+   "cues": [
+    {
+     "start": 259.268,
+     "end": 261.277,
+     "text": "Ini rupa carta yang telah disediakan."
+    },
+    {
+     "start": 261.657,
+     "end": 267.166,
+     "text": "PDH dan PDL ditanda sebagai sempadan julat semalam, dan juga sebagai potensi liquidity."
+    },
+    {
+     "start": 267.546,
+     "end": 272.503,
+     "text": "Equal Lows di bawah, dan session high di atas, ditanda sebagai kumpulan liquidity."
+    },
+    {
+     "start": 272.883,
+     "end": 278.126,
+     "text": "Satu POI dipilih. Bias awal ditulis bersama syarat yang membatalkannya."
+    },
+    {
+     "start": 278.506,
+     "end": 284.416,
+     "text": "Carta yang baik tidak sesak. Tandakan hanya aras yang benar-benar akan digunakan dalam keputusan."
+    }
+   ],
+   "end": 285.746
+  },
+  {
+   "start": 285.746,
+   "cues": [
+    {
+     "start": 286.496,
+     "end": 293.621,
+     "text": "Seterusnya, struktur pasaran untuk scalping. Istilah ini sama seperti yang digunakan dalam Level sebelumnya."
+    },
+    {
+     "start": 294.001,
+     "end": 300.659,
+     "text": "Higher high dan higher low menunjukkan struktur bullish. Lower high dan lower low menunjukkan struktur bearish."
+    },
+    {
+     "start": 301.039,
+     "end": 308.174,
+     "text": "BOS ialah penutupan melepasi swing searah trend. CHoCH ialah pecahan pertama berlawanan arah trend."
+    },
+    {
+     "start": 308.554,
+     "end": 314.733,
+     "text": "MSS ialah anjakan struktur yang disertai displacement, biasanya selepas interaksi liquidity."
+    },
+    {
+     "start": 315.113,
+     "end": 321.124,
+     "text": "Struktur external menentukan julat utama. Struktur internal ialah swing kecil di dalamnya."
+    },
+    {
+     "start": 321.504,
+     "end": 332.198,
+     "text": "Displacement ialah pergerakan arah yang kuat, dengan badan candle besar dan julat mengembang. Pada scalping, ia membantu membezakan perubahan arah jangka pendek daripada hingar."
+    }
+   ],
+   "end": 333.528
+  },
+  {
+   "start": 333.528,
+   "cues": [
+    {
+     "start": 334.278,
+     "end": 339.257,
+     "text": "Kesilapan biasa pedagang scalping ialah menganggap setiap pecahan kecil sebagai perubahan arah."
+    },
+    {
+     "start": 339.637,
+     "end": 346.291,
+     "text": "Di kiri, 1H masih bullish. Pecahan internal kecil pada 5M hanyalah pullback di dalam trend."
+    },
+    {
+     "start": 346.671,
+     "end": 354.232,
+     "text": "Di kanan, harga menyapu low external, kemudian memecah struktur dengan displacement. Ini anjakan yang lebih bermakna."
+    },
+    {
+     "start": 354.612,
+     "end": 361.887,
+     "text": "Sebelum bertindak, tanya: adakah pecahan ini internal dan kecil, atau adakah ia mengubah konteks yang lebih besar?"
+    }
+   ],
+   "end": 363.217
+  },
+  {
+   "start": 363.217,
+   "cues": [
+    {
+     "start": 363.967,
+     "end": 366.705,
+     "text": "Seterusnya, pemetaan liquidity untuk scalping."
+    },
+    {
+     "start": 367.085,
+     "end": 372.785,
+     "text": "Buy-Side Liquidity berada di atas high. Sell-Side Liquidity berada di bawah low."
+    },
+    {
+     "start": 373.165,
+     "end": 379.529,
+     "text": "Equal Highs dan Equal Lows ialah high atau low yang hampir sama, yang menjadi potensi kumpulan liquidity."
+    },
+    {
+     "start": 379.909,
+     "end": 386.948,
+     "text": "Session high, session low, PDH dan PDL ialah rujukan harian yang kerap digunakan oleh pedagang scalping."
+    },
+    {
+     "start": 387.328,
+     "end": 393.312,
+     "text": "Liquidity internal berada di dalam julat. Liquidity external berada di luar swing utama."
+    },
+    {
+     "start": 393.692,
+     "end": 399.085,
+     "text": "Liquidity sweep berlaku apabila harga melepasi aras, kemudian ditutup semula di dalam julat."
+    }
+   ],
+   "end": 400.415
+  },
+  {
+   "start": 400.415,
+   "cues": [
+    {
+     "start": 401.165,
+     "end": 402.831,
+     "text": "Bezakan sweep dengan breakout."
+    },
+    {
+     "start": 403.211,
+     "end": 410.441,
+     "text": "Sweep: harga melepasi Equal Lows, tetapi ditutup semula di atas. Ini kemungkinan pengambilan liquidity."
+    },
+    {
+     "start": 410.821,
+     "end": 416.641,
+     "text": "Breakout: harga ditutup dan diterima di bawah aras. Struktur bearish berterusan."
+    },
+    {
+     "start": 417.021,
+     "end": 424.225,
+     "text": "Tidak semua liquidity akan diambil, dan tidak semua sweep membawa reversal. Sweep hanyalah satu bahagian bukti."
+    }
+   ],
+   "end": 425.555
+  },
+  {
+   "start": 425.555,
+   "cues": [
+    {
+     "start": 426.305,
+     "end": 430.401,
+     "text": "Seterusnya, pemilihan POI mengikut definisi operasi CMI."
+    },
+    {
+     "start": 430.781,
+     "end": 435.56,
+     "text": "Order Block ialah candle bertentangan terakhir sebelum displacement yang memecah struktur."
+    },
+    {
+     "start": 435.94,
+     "end": 445.882,
+     "text": "Fair Value Gap ialah ketidakseimbangan tiga candle. Breaker Block ialah Order Block yang gagal, kemudian berfungsi dari arah bertentangan selepas sweep."
+    },
+    {
+     "start": 446.262,
+     "end": 454.66,
+     "text": "Mitigation Block serupa, tetapi tanpa sweep high atau low terdahulu. Rejection Block ialah kawasan wick panjang pada swing ekstrem."
+    },
+    {
+     "start": 455.04,
+     "end": 458.152,
+     "text": "Supply dan Demand ialah zon asal pergerakan yang kuat."
+    },
+    {
+     "start": 458.532,
+     "end": 468.095,
+     "text": "Untuk scalping, pilih paling banyak dua atau tiga POI yang selari dengan konteks. Terlalu banyak zon menjadikan setiap harga kelihatan seperti peluang."
+    }
+   ],
+   "end": 469.425
+  },
+  {
+   "start": 469.425,
+   "cues": [
+    {
+     "start": 470.175,
+     "end": 473.161,
+     "text": "Ingat, harga menyentuh POI bukan pengesahan."
+    },
+    {
+     "start": 473.541,
+     "end": 479.7,
+     "text": "Dalam contoh ini, harga memasuki POI bullish, kemudian terus menembusinya tanpa sebarang reaksi."
+    },
+    {
+     "start": 480.08,
+     "end": 484.041,
+     "text": "Pedagang yang membeli hanya kerana harga menyentuh zon akan terkena stop-loss."
+    },
+    {
+     "start": 484.421,
+     "end": 489.611,
+     "text": "Itulah sebabnya kita memerlukan pengesahan entry, yang akan dibincangkan dalam Video 3."
+    }
+   ],
+   "end": 490.941
+  },
+  {
+   "start": 490.941,
+   "cues": [
+    {
+     "start": 491.691,
+     "end": 493.774,
+     "text": "Empat kesilapan persediaan yang biasa."
+    },
+    {
+     "start": 494.154,
+     "end": 497.492,
+     "text": "Satu: tiada had risiko harian sebelum sesi bermula."
+    },
+    {
+     "start": 497.872,
+     "end": 501.953,
+     "text": "Dua: terlalu banyak garisan dan zon sehingga carta tidak boleh dibaca."
+    },
+    {
+     "start": 502.333,
+     "end": 505.097,
+     "text": "Tiga: menukar bias pada setiap candle kecil."
+    },
+    {
+     "start": 505.477,
+     "end": 510.034,
+     "text": "Empat: mengabaikan jadual peristiwa yang boleh menyebabkan volatiliti luar biasa."
+    }
+   ],
+   "end": 511.364
+  },
+  {
+   "start": 511.364,
+   "cues": [
+    {
+     "start": 512.114,
+     "end": 516.332,
+     "text": "Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan."
+    },
+    {
+     "start": 516.712,
+     "end": 521.645,
+     "text": "Soalan satu: apakah beza utama antara scalping, intraday dan swing trading?"
+    },
+    {
+     "start": 522.025,
+     "end": 531.104,
+     "text": "Jawapan: tempoh pegangan dan rangka timeframe. Ia membawa kepada stop-loss, sasaran, saiz posisi dan pendedahan overnight yang berbeza."
+    },
+    {
+     "start": 531.484,
+     "end": 535.359,
+     "text": "Soalan dua: kenapa konteks timeframe tinggi penting sebelum scalping?"
+    },
+    {
+     "start": 535.739,
+     "end": 542.716,
+     "text": "Jawapan: ia memberi arah dan lokasi, supaya pecahan kecil pada 5M tidak disalah anggap sebagai perubahan trend."
+    },
+    {
+     "start": 543.096,
+     "end": 546.69,
+     "text": "Soalan tiga: adakah carta 1M wajib untuk scalping?"
+    },
+    {
+     "start": 547.07,
+     "end": 553.85,
+     "text": "Jawapan: tidak. Ia pilihan, lebih bising, dan hanya digunakan dengan data dan ujian yang sesuai."
+    }
+   ],
+   "end": 555.58
+  },
+  {
+   "start": 555.58,
+   "cues": [
+    {
+     "start": 556.33,
+     "end": 556.991,
+     "text": "Ringkasnya."
+    },
+    {
+     "start": 557.371,
+     "end": 563.58,
+     "text": "Scalping ialah pegangan pendek, selektif, sensitif kepada kos, dan mempunyai had risiko yang ketat."
+    },
+    {
+     "start": 563.96,
+     "end": 570.847,
+     "text": "Konteks 1H atau 30M, lokasi 15M, pencetus 5M, dan 1M sebagai pilihan."
+    },
+    {
+     "start": 571.227,
+     "end": 575.676,
+     "text": "Sepuluh langkah persediaan pra-pasaran, termasuk had risiko harian dalam ringgit."
+    },
+    {
+     "start": 576.056,
+     "end": 582.91,
+     "text": "Petakan struktur, liquidity, dan dua atau tiga POI. Sentuhan pada POI bukan pengesahan."
+    }
+   ],
+   "end": 584.24
+  },
+  {
+   "start": 584.24,
+   "cues": [
+    {
+     "start": 584.99,
+     "end": 586.508,
+     "text": "Latihan untuk video ini."
+    },
+    {
+     "start": 586.888,
+     "end": 598.201,
+     "text": "Sediakan satu carta FCPO 15M. Tandakan PDH, PDL, satu aras Weekly atau Daily, Equal Highs atau Equal Lows, dan session high serta low."
+    },
+    {
+     "start": 598.581,
+     "end": 609.14,
+     "text": "Kemudian tulis lembaran persediaan: bias dan syarat pembatalan, dua atau tiga POI, peristiwa berjadual, risiko maksimum hari ini dan bilangan dagangan maksimum."
+    }
+   ],
+   "end": 610.47
+  },
+  {
+   "start": 610.47,
+   "cues": [
+    {
+     "start": 611.22,
+     "end": 620.802,
+     "text": "Dalam Video 3, kita lengkapkan Scalping SOP: prosedur entry lima belas langkah, contoh bullish dan bearish, pengurusan dagangan, dan keadaan tidak trade."
+    }
+   ],
+   "end": 622.932
+  },
+  {
+   "start": 622.932,
+   "cues": [
+    {
+     "start": 623.682,
+     "end": 626.344,
+     "text": "Rujukan untuk video ini dipaparkan di skrin."
+    }
+   ],
+   "end": 629.674
+  },
+  {
+   "start": 629.674,
+   "cues": [
+    {
+     "start": 630.424,
+     "end": 635.109,
+     "text": "Trading futures melibatkan risiko kerugian. Jumpa dalam Video 3."
+    }
+   ],
+   "end": 638.639
+  }
+ ],
+ "total": 638.639
+}

@@ -6,15 +6,17 @@ Siri video motion graphics pendidikan (narasi Bahasa Melayu, istilah trading dal
 |---|---|---|
 | 1 · Content Mapping | ✅ | `docs/01_CONTENT_MAPPING.md` |
 | 2 · Technical Validation | ✅ (3 item perlu semakan CMI/Bursa) | `docs/02_TECHNICAL_VALIDATION.md` |
-| 3 · Storyboard | ✅ EP01 penuh · EP02–EP13 babak demi babak | `docs/03_ROADMAP_STORYBOARD.md`, `episodes/ep01/STORYBOARD.md` |
-| 4 · Production | ✅ **EP01 dirender** (perintis untuk kelulusan) | `episodes/ep01/build/EP01.mp4` (tidak di-commit: lihat di bawah) |
-| 5 · Quality Audit | ✅ EP01 | `docs/08_QUALITY_AUDIT_EP01.md` |
+| 3 · Storyboard | ✅ Semua episod (dijana daripada spec) | `docs/03_ROADMAP_STORYBOARD.md`, `episodes/*/STORYBOARD.md` |
+| 4 · Production | ✅ **14 video dirender**: EP01–EP11, EP12A, EP12B, EP13 | `episodes/*/build/EP*.mp4` |
+| 5 · Quality Audit | ✅ | `docs/08_QUALITY_AUDIT_EP01.md`, `docs/10_QUALITY_AUDIT_SERIES.md` |
 
 Bahan sokongan: `docs/04_FRAMEWORKS_CHECKLISTS.md` (SOP checklists, entry checklist, SL/TP framework, RR & sizing guide, contoh risiko FCPO) · `docs/05_GLOSSARY.md` · `docs/06_KNOWLEDGE_CHECK_EXERCISES.md` (18 soalan + 10 latihan berjawapan) · `docs/07_REFERENCES.md` · `docs/09_VISUAL_STYLE_GUIDE.md`.
 
 ## Cara menghasilkan video
 Keperluan: Node 18+, Playwright + Chromium, ffmpeg, Python 3 + `pip install edge-tts`.
 ```bash
+tools/produce.sh ep05                               # semua langkah untuk satu episod (audio → MP4 → storyboard)
+tools/sheet.sh ep05 /tmp/sheet                      # semak susun atur: frame hujung setiap babak + contact sheet
 python3 -I tools/build_audio.py episodes/ep01      # TTS BM → narration.wav, timeline, subtitles.srt
 node tools/check_ep01_chart.js                      # carta sepadan dengan narasi
 python3 -I tools/validate_math.py                   # semua contoh berangka
@@ -27,8 +29,9 @@ Pratonton langsung (dengan audio): buka `engine/player.html?ep=ep01` melalui pel
 ## Struktur
 ```
 engine/     player.html · engine.js (enjin animasi deterministik) · style.css (tema) · fonts/
-episodes/   epNN/spec.js — narasi + babak + data carta (sumber kebenaran)
-            epNN/build/  — audio, timeline, srt, mp4 (dijana; diabaikan oleh git kecuali timeline & srt)
+episodes/   _lib.js — templat babak + penjana contoh FCPO (dipetakan daripada templat EP01 yang disahkan)
+            epNN/spec.js — narasi + babak + data carta (sumber kebenaran)
+            epNN/build/  — audio, timeline, srt, mp4 (dijana; narration.wav diabaikan oleh git)
 tools/      build_audio.py · render.mjs · storyboard.js · validate_math.py · check_ep01_chart.js
 docs/       dokumen Fasa 1–5
 ```

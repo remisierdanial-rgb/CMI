@@ -1,0 +1,399 @@
+1
+00:00:00,750 --> 00:00:05,054
+Selamat datang ke Video 3. Kita lengkapkan Scalping SOP.
+
+2
+00:00:05,134 --> 00:00:10,630
+Dalam Video 2, kita telah menyediakan carta: konteks, liquidity dan POI.
+
+3
+00:00:10,710 --> 00:00:17,913
+Hari ini kita bina prosedur entry lima belas langkah, dan aplikasikannya pada contoh bullish dan bearish FCPO.
+
+4
+00:00:17,993 --> 00:00:23,983
+Kemudian kita bincangkan pengurusan dagangan, keadaan tidak trade, dan kesilapan biasa pedagang scalping.
+
+5
+00:00:26,263 --> 00:00:30,260
+Inilah prosedur entry scalping CMI, lima belas langkah.
+
+6
+00:00:30,340 --> 00:00:40,634
+Fasa konteks: satu, tetapkan konteks timeframe tinggi. Dua, kenal pasti liquidity intraday. Tiga, pilih POI yang sesuai.
+
+7
+00:00:40,715 --> 00:00:53,451
+Fasa menunggu dan memerhati: empat, tunggu harga sampai ke lokasi. Lima, perhatikan interaksi liquidity. Enam, cari MSS atau change of character yang bermakna.
+
+8
+00:00:53,531 --> 00:01:00,653
+Tujuh, nilai displacement. Lapan, kenal pasti execution zone yang sah, contohnya FVG.
+
+9
+00:01:00,733 --> 00:01:14,142
+Fasa perancangan: sembilan, tetapkan harga atau syarat entry. Sepuluh, tetapkan stop-loss dan invalidation. Sebelas, kenal pasti sasaran. Dua belas, kira risk-to-reward.
+
+10
+00:01:14,222 --> 00:01:19,746
+Langkah tiga belas paling penting: laksanakan hanya jika semua syarat yang ditetapkan dipenuhi.
+
+11
+00:01:19,826 --> 00:01:29,288
+Empat belas, pantau dagangan mengikut peraturan pengurusan. Lima belas, rekod dagangan dalam jurnal, sama ada menang, kalah atau dilangkau.
+
+12
+00:01:31,068 --> 00:01:39,867
+Contoh scalping bullish. Konteks 1H dan 30M berpotensi bullish, jadi kita hanya mencari peluang beli di lokasi discount.
+
+13
+00:01:39,947 --> 00:01:48,625
+Carta 15M menunjukkan POI bullish di sekitar 4,376 hingga 4,383.
+
+14
+00:01:48,705 --> 00:01:55,861
+Di atas, dua high pada 4,402 membentuk Equal Highs, iaitu potensi Buy-Side Liquidity.
+
+15
+00:01:55,941 --> 00:02:05,266
+Di bawah, dua low pada 4,381 membentuk Equal Lows, potensi Sell-Side Liquidity, yang terletak di dalam POI.
+
+16
+00:02:05,346 --> 00:02:13,468
+Struktur dalaman pada carta 5M masih bearish. Lower high terakhir berada pada 4,388.
+
+17
+00:02:13,548 --> 00:02:21,392
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+18
+00:02:23,572 --> 00:02:33,429
+Candle seterusnya turun ke 4,379, melepasi Equal Lows, kemudian ditutup semula di atas 4,381.
+
+19
+00:02:33,509 --> 00:02:39,198
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+20
+00:02:39,278 --> 00:02:52,471
+Kemudian candle bullish yang besar ditutup pada 4,392, menembusi lower high 4,388. Ini potensi bullish MSS, disertai displacement.
+
+21
+00:02:52,551 --> 00:03:00,750
+Displacement ini meninggalkan Fair Value Gap antara 4,384 dan 4,388.
+
+22
+00:03:00,830 --> 00:03:07,668
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+23
+00:03:10,048 --> 00:03:13,172
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+24
+00:03:13,252 --> 00:03:21,117
+Entry beli bersyarat pada 4,386, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+25
+00:03:21,197 --> 00:03:31,314
+Stop-loss pada 4,378, di bawah ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bullish dianggap tidak sah.
+
+26
+00:03:31,394 --> 00:03:38,346
+Sasaran pada 4,402, Equal Highs, iaitu potensi Buy-Side Liquidity di arah bertentangan.
+
+27
+00:03:38,426 --> 00:03:45,483
+Risiko 8 mata, potensi ganjaran 16 mata. Gross risk-to-reward ialah 2 berbanding 1.
+
+28
+00:03:45,563 --> 00:03:53,262
+Dengan 1 kontrak, risiko kasar RM200 dan potensi ganjaran kasar RM400, sebelum kos dan slippage.
+
+29
+00:03:53,342 --> 00:03:59,213
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+30
+00:04:01,593 --> 00:04:03,925
+Sekarang kita dedahkan apa yang berlaku.
+
+31
+00:04:04,005 --> 00:04:10,216
+Harga kembali ke FVG. Order 4,386 terisi.
+
+32
+00:04:10,296 --> 00:04:18,004
+Harga kemudian bergerak ke 4,402. Sasaran tercapai: tambah 16 mata setiap kontrak.
+
+33
+00:04:18,084 --> 00:04:23,551
+Ini hanya satu hasil. Setup yang sama boleh sahaja berakhir di stop-loss.
+
+34
+00:04:25,931 --> 00:04:34,910
+Sekarang contoh scalping bearish. Konteks 1H dan 30M berpotensi bearish, jadi kita mencari peluang jual di lokasi premium.
+
+35
+00:04:34,990 --> 00:04:43,507
+Carta 15M menunjukkan POI bearish di sekitar 4,616 hingga 4,624.
+
+36
+00:04:43,587 --> 00:04:51,026
+Di bawah, dua low pada 4,592 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity.
+
+37
+00:04:51,106 --> 00:05:00,309
+Di atas, dua high pada 4,618 membentuk Equal Highs, potensi Buy-Side Liquidity, yang terletak di dalam POI.
+
+38
+00:05:00,389 --> 00:05:08,053
+Struktur dalaman pada carta 5M masih bullish. Higher low terakhir berada pada 4,609.
+
+39
+00:05:08,133 --> 00:05:15,977
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+40
+00:05:18,157 --> 00:05:27,628
+Candle seterusnya naik ke 4,621, melepasi Equal Highs, kemudian ditutup semula di bawah 4,618.
+
+41
+00:05:27,708 --> 00:05:33,397
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+42
+00:05:33,477 --> 00:05:46,051
+Kemudian candle bearish yang besar ditutup pada 4,604, menembusi higher low 4,609. Ini potensi bearish MSS, disertai displacement.
+
+43
+00:05:46,131 --> 00:05:53,504
+Displacement ini meninggalkan Fair Value Gap antara 4,610 dan 4,614.
+
+44
+00:05:53,584 --> 00:06:00,422
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+45
+00:06:02,802 --> 00:06:05,926
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+46
+00:06:06,006 --> 00:06:13,596
+Entry jual bersyarat pada 4,612, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+47
+00:06:13,676 --> 00:06:23,712
+Stop-loss pada 4,622, di atas ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bearish dianggap tidak sah.
+
+48
+00:06:23,792 --> 00:06:31,357
+Sasaran pada 4,592, Equal Lows, iaitu potensi Sell-Side Liquidity di arah bertentangan.
+
+49
+00:06:31,437 --> 00:06:38,338
+Risiko 10 mata, potensi ganjaran 20 mata. Gross risk-to-reward ialah 2 berbanding 1.
+
+50
+00:06:38,418 --> 00:06:46,613
+Dengan 1 kontrak, risiko kasar RM250 dan potensi ganjaran kasar RM500, sebelum kos dan slippage.
+
+51
+00:06:46,693 --> 00:06:52,564
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+52
+00:06:54,944 --> 00:06:57,276
+Sekarang kita dedahkan apa yang berlaku.
+
+53
+00:06:57,356 --> 00:07:03,226
+Harga kembali ke FVG. Order 4,612 terisi.
+
+54
+00:07:03,306 --> 00:07:14,553
+Namun harga terus naik dan mencapai stop-loss 4,622. Kerugian 10 mata setiap kontrak, iaitu satu R, RM250 kasar.
+
+55
+00:07:14,633 --> 00:07:21,451
+Pelan diikuti dan kerugian dikawal. Ia direkod dalam jurnal, bukan dibalas dengan dagangan dendam.
+
+56
+00:07:23,831 --> 00:07:28,780
+Selepas entry, dagangan diurus mengikut peraturan yang ditetapkan sebelum entry.
+
+57
+00:07:28,860 --> 00:07:34,379
+Fixed risk: risiko setiap dagangan ditetapkan dalam ringgit atau R, dan tidak diubah.
+
+58
+00:07:34,459 --> 00:07:40,550
+Fixed target: keluar sepenuhnya di sasaran. Partial: tutup sebahagian di sasaran awal.
+
+59
+00:07:40,630 --> 00:07:49,247
+Breakeven: alihkan stop-loss ke harga entry selepas harga bergerak sejauh tertentu. Trailing stop: alihkan stop mengikut struktur.
+
+60
+00:07:49,327 --> 00:07:59,668
+Exit on invalidation: keluar jika struktur yang menyokong tesis dipecahkan. Time-based exit: keluar jika harga tidak bergerak dalam tempoh yang ditetapkan.
+
+61
+00:07:59,748 --> 00:08:05,995
+Tiada kaedah yang sentiasa terbaik. Setiap kaedah mengubah taburan hasil dan perlu diuji.
+
+62
+00:08:07,775 --> 00:08:21,016
+Lihat bagaimana kaedah pengurusan mengubah hasil sebenar. Andaikan entry 4,500, stop-loss 4,490 dan sasaran 4,520, dengan dua kontrak.
+
+63
+00:08:21,096 --> 00:08:32,071
+Pegang kedua-dua kontrak ke sasaran: 20 mata darab 2 kontrak darab RM25, iaitu RM1,000. Risiko awal RM500, jadi hasilnya 2R.
+
+64
+00:08:32,151 --> 00:08:43,784
+Partial: satu kontrak ditutup pada 4,510, dan satu lagi pada 4,520. Hasilnya RM750, iaitu 1.5R.
+
+65
+00:08:43,864 --> 00:08:55,772
+Breakeven: jika stop dialihkan ke 4,500 selepas harga sampai 4,510, kemudian harga kembali ke 4,500 sebelum naik ke sasaran, hasilnya kosong.
+
+66
+00:08:55,852 --> 00:09:06,445
+Breakeven boleh mengurangkan kerugian, tetapi juga boleh mengeluarkan dagangan yang akhirnya menang. Partial mengunci keuntungan lebih awal, tetapi mengurangkan RR realised.
+
+67
+00:09:08,225 --> 00:09:13,176
+Bila tidak perlu scalping? Senarai ini sama penting dengan syarat entry.
+
+68
+00:09:13,256 --> 00:09:21,216
+Tiada struktur pasaran yang jelas. Tiada POI yang sesuai. Harga berada di tengah julat yang tidak jelas.
+
+69
+00:09:21,296 --> 00:09:25,565
+Tiada interaksi liquidity yang bermakna. Tiada pengesahan.
+
+70
+00:09:25,645 --> 00:09:32,226
+Spread atau slippage berlebihan. Volatiliti luar biasa, contohnya ketika peristiwa berjadual.
+
+71
+00:09:32,306 --> 00:09:35,037
+Sasaran terlalu dekat, atau risk-to-reward lemah.
+
+72
+00:09:35,117 --> 00:09:41,624
+Had risiko harian telah dicapai. Atau anda sendiri tidak bersedia dari segi emosi atau mental.
+
+73
+00:09:43,404 --> 00:09:45,085
+Contoh keadaan tidak trade.
+
+74
+00:09:45,165 --> 00:09:53,251
+Harga bergerak naik turun di tengah julat. Tiada sweep yang jelas, tiada POI, dan sasaran di kedua-dua arah terlalu dekat.
+
+75
+00:09:53,331 --> 00:09:58,901
+Keputusan yang betul di sini ialah tidak trade, dan menunggu harga sampai ke lokasi yang dirancang.
+
+76
+00:10:00,681 --> 00:10:02,990
+Sepuluh kesilapan scalping yang biasa.
+
+77
+00:10:03,070 --> 00:10:08,276
+Overtrading. Masuk sebelum pengesahan. Mengejar harga.
+
+78
+00:10:08,356 --> 00:10:12,991
+Menukar bias terlalu kerap. Mendagangkan setiap FVG.
+
+79
+00:10:13,071 --> 00:10:19,731
+Mengabaikan kos transaksi. Menggunakan stop-loss yang terlalu ketat sehingga berada di dalam hingar.
+
+80
+00:10:19,811 --> 00:10:25,411
+Mengalihkan stop-loss kerana emosi. Menambah saiz posisi selepas kerugian.
+
+81
+00:10:25,491 --> 00:10:28,470
+Dan mengambil setup berkualiti rendah kerana bosan.
+
+82
+00:10:30,250 --> 00:10:34,768
+Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.
+
+83
+00:10:34,848 --> 00:10:39,380
+Soalan satu: apakah beza antara POI dan entry confirmation?
+
+84
+00:10:39,460 --> 00:10:49,728
+Jawapan: POI ialah lokasi. Pengesahan ialah urutan liquidity, MSS, displacement dan execution zone yang berlaku di lokasi itu.
+
+85
+00:10:49,808 --> 00:10:54,339
+Soalan dua: kenapa liquidity sweep sahaja tidak mencukupi untuk entry?
+
+86
+00:10:54,419 --> 00:11:02,576
+Jawapan: sweep boleh diikuti oleh kesinambungan. Tanpa MSS dan displacement, tiada reaksi mengikut model.
+
+87
+00:11:02,656 --> 00:11:06,891
+Soalan tiga: apakah peranan MSS dalam proses entry?
+
+88
+00:11:06,971 --> 00:11:13,394
+Jawapan: ia menunjukkan potensi perubahan arah pada timeframe entry, selepas interaksi liquidity.
+
+89
+00:11:15,574 --> 00:11:16,535
+Ringkasnya.
+
+90
+00:11:16,615 --> 00:11:23,879
+Lima belas langkah: konteks, tunggu, pengesahan, perancangan, dan laksana hanya jika semua syarat dipenuhi.
+
+91
+00:11:23,959 --> 00:11:28,331
+Setup bullish dan bearish mengikut logik yang sama, secara bertentangan.
+
+92
+00:11:28,411 --> 00:11:33,099
+Kerugian yang dirancang ialah sebahagian daripada SOP. Rekodkannya.
+
+93
+00:11:33,179 --> 00:11:38,096
+Pilihan pengurusan mengubah RR realised, dan tidak trade juga satu keputusan.
+
+94
+00:11:39,876 --> 00:11:41,694
+Latihan untuk video ini.
+
+95
+00:11:41,774 --> 00:11:49,723
+Tulis Scalping SOP anda menggunakan lima belas langkah. Bagi setiap langkah, tulis peraturan yang boleh dijawab ya atau tidak.
+
+96
+00:11:49,803 --> 00:11:57,834
+Tambah risiko maksimum setiap dagangan, had kerugian harian, bilangan dagangan maksimum, kaedah pengurusan dan senarai tidak trade.
+
+97
+00:11:57,914 --> 00:12:03,762
+Uji pada dua puluh setup sejarah dengan candle masa depan disembunyikan, dan rekod setiap hasil.
+
+98
+00:12:05,542 --> 00:12:15,547
+Dalam Video 4, kita beralih ke Intraday SOP: perancangan harian, bias Daily dan 4H, dealing range, serta senario utama dan alternatif.
+
+99
+00:12:18,127 --> 00:12:21,090
+Rujukan untuk video ini dipaparkan di skrin.
+
+100
+00:12:24,870 --> 00:12:29,937
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 4.

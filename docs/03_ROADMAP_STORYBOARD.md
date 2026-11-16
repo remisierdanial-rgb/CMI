@@ -1,6 +1,8 @@
 # FASA 3 — ROADMAP & STORYBOARD SIRI VIDEO
 ## CMI · SMC Level 9: SMC Trading Strategy
 
+**Nota produksi:** skrip muktamad setiap episod (narasi, babak, data carta) ialah `episodes/epNN/spec.js`; storyboard bertimestamp dijana ke `episodes/epNN/STORYBOARD.md`. Jadual babak di bawah ialah pelan asal. Pelaksanaan sebenar mengikut fail spec (cth. hasil kes CS1–CS4: +2R, −1R, +2R, +2R; EP05 kes bearish diakhiri TP dengan nota peraturan sesi).
+
 **Format setiap babak:** `Sxx · LABEL` → *Objektif* · **Carta / animasi** · Narasi utama (BM) · Teks skrin (EN) · Rujukan.
 Gaya visual mengikut video rujukan (ILMU L1 EP03): latar navy gelap, aksen amber, panel carta di kiri + panel langkah di kanan, sari kata BM di bawah, bar progres amber. Lihat `docs/09_VISUAL_STYLE_GUIDE.md`.
 
@@ -11,18 +13,19 @@ Gaya visual mengikut video rujukan (ILMU L1 EP03): latar navy gelap, aksen amber
 | EP | Tajuk | Subtopik | Anggaran | Status |
 |---|---|---|---|---|
 | 01 | Introduction to SMC Trading Strategy | Pengenalan | 12.0 min | ✅ Video siap |
-| 02 | Scalping SOP: Preparation & Market Context | 1 | ~13 min | 📝 Storyboard |
-| 03 | Scalping SOP: Entry & Management | 1 | ~15 min | 📝 |
-| 04 | Intraday SOP: Market Planning | 2 | ~13 min | 📝 |
-| 05 | Intraday SOP: Execution & Management | 2 | ~15 min | 📝 |
-| 06 | Swing Trading SOP: Higher-Timeframe Planning | 3 | ~13 min | 📝 |
-| 07 | Swing Trading SOP: Execution & Management | 3 | ~15 min | 📝 |
-| 08 | Scalping vs Intraday vs Swing *(baharu)* | Bahagian 6 | ~9 min | 📝 |
-| 09 | Entry Confirmation: Complete Methodology | 4 | ~18 min (boleh dipecah 09A/09B) | 📝 |
-| 10 | Stop Loss & Take Profit | 5 | ~16 min | 📝 |
-| 11 | Risk-to-Reward & Position Sizing | 6 | ~18 min (boleh dipecah 11A/11B) | 📝 |
-| 12 | Integrated FCPO Case Studies | Bahagian 7 | ~20 min (12A: CS1–4, 12B: CS5–8) | 📝 |
-| 13 | CMI Professional Trading SOP & Final Assessment | Bahagian 5, 8 | ~14 min | 📝 |
+| 02 | Scalping SOP: Preparation & Market Context | 1 | ~13 min | ✅ Video siap |
+| 03 | Scalping SOP: Entry & Management | 1 | ~15 min | ✅ Video siap |
+| 04 | Intraday SOP: Market Planning | 2 | ~13 min | ✅ Video siap |
+| 05 | Intraday SOP: Execution & Management | 2 | ~15 min | ✅ Video siap |
+| 06 | Swing Trading SOP: Higher-Timeframe Planning | 3 | ~13 min | ✅ Video siap |
+| 07 | Swing Trading SOP: Execution & Management | 3 | ~15 min | ✅ Video siap |
+| 08 | Scalping vs Intraday vs Swing *(baharu)* | Bahagian 6 | ~9 min | ✅ Video siap |
+| 09 | Entry Confirmation: Complete Methodology | 4 | ~18 min (boleh dipecah 09A/09B) | ✅ Video siap |
+| 10 | Stop Loss & Take Profit | 5 | ~16 min | ✅ Video siap |
+| 11 | Risk-to-Reward & Position Sizing | 6 | ~18 min (boleh dipecah 11A/11B) | ✅ Video siap |
+| 12A | Integrated FCPO Case Studies · Part A (CS1–CS4) | Bahagian 7 | ~20 min | ✅ Video siap |
+| 12B | Integrated FCPO Case Studies · Part B (CS5–CS8) | Bahagian 7 | ~20 min | ✅ Video siap |
+| 13 | CMI Professional Trading SOP & Final Assessment | Bahagian 5, 8 | ~14 min | ✅ Video siap |
 
 Struktur tetap setiap episod: **Intro → Objektif → Isi → Contoh bullish → Contoh bearish → No-trade/kesilapan → Knowledge check → Ringkasan → Latihan → Up next → Rujukan → Penafian.**
 
