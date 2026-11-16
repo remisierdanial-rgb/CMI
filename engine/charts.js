@@ -63,7 +63,7 @@
   function candleChart(s, W, H) {
     const bars = s.bars || genCandles(s.data);
     const n = bars.length, slots = s.slots || n + 3;
-    const padL = 22, padR = s.noAxis ? 22 : 92, top = 64;
+    const padL = (s.rows || []).length ? 70 : 22, padR = s.noAxis ? 22 : 92, top = 64;
     const volH = s.vol === false ? 0 : (s.volH || 96), rowsH = (s.rows || []).length * 34, cvdH = s.cvd ? 130 : 0;
     const bottom = 18 + volH + rowsH + cvdH + (volH ? 14 : 0);
     const pw = W - padL - padR, ph = H - top - bottom;
@@ -81,7 +81,7 @@
     const rev = s.reveal || [[0, n - 1, 2.2]];
     const tim = i => { let prev = -1; for (const [at, upto, dur, d0] of rev) { if (i <= upto) { const cnt = Math.max(1, upto - prev); return [at, (d0 || 0) + (i - prev - 1) / cnt * (dur ?? 1.5)]; } prev = upto; } return [0, 0]; };
     const bw = Math.max(2, cw * .62);
-    const vmax = Math.max(...bars.map(b => b.v)), vTop = H - 18 - volH - rowsH - cvdH;
+    const vmax = s.vmax || Math.max(...bars.map(b => b.v)), vTop = H - 18 - volH - rowsH - cvdH;
     bars.forEach((b, i) => {
       if (s.hide && i >= s.hide) return;
       const [at, d] = tim(i), up = b.c >= b.o, c = up ? COL.g : COL.r, x = X(i);
@@ -104,7 +104,7 @@
       parts.push(`<path d="${cv.map((v, i) => (i ? 'L' : 'M') + X(i) + ' ' + cy(v)).join(' ')}" fill="none" stroke="#22c7e6" stroke-width="2.5" pathLength="1"${A(s.cvd.at, s.cvd.d || 0, 'draw', s.cvd.dur || 2)}/>`);
     }
     // annotations
-    const ctx = { X, Y, W, H, padL, padR, top, ph, pw, bars, cw, vTop, volH, lo, hi };
+    const ctx = { X, Y, W, H, padL, padR, top, ph, pw, bars, cw, vTop, volH, lo, hi, vmax };
     (s.ann || []).forEach(a => parts.push(ann(a, ctx)));
     const head = `${s.title ? `<text x="22" y="34" fill="#8e9bb4" font-size="14" class="mono" letter-spacing="2">${esc(s.title)}</text>` : ''}${s.tag ? `<text x="${W - 22}" y="34" text-anchor="end" fill="#eef2f8" font-size="14" font-weight="800" letter-spacing="1">${esc(s.tag)}</text>` : ''}`;
     return { svg: head + parts.join(''), ctx, bars };
@@ -148,7 +148,7 @@
         const x = k.X(a.i), y = k.Y(a.p), dir = a.dir === 'down' ? 1 : -1, L = a.len || 60;
         return `<g${ex('pop')}><line x1="${x}" x2="${x}" y1="${y - dir * L}" y2="${y}" stroke="${c}" stroke-width="3"/><path d="M${x - 9} ${y + dir * -12} L${x} ${y} L${x + 9} ${y + dir * -12}" fill="none" stroke="${c}" stroke-width="3"/>${a.label ? lbox(x, y - dir * (L + 16), a.label, c, 'middle', 13) : ''}</g>`;
       }
-      case 'vhl': return a.i.map((i, j) => { const b = k.bars[i], vmax = Math.max(...k.bars.map(q => q.v)), vh = b.v / vmax * (k.volH - 6); return `<rect x="${k.X(i) - k.cw * .45}" y="${k.vTop + k.volH - vh - 4}" width="${k.cw * .9}" height="${vh + 6}" fill="none" stroke="${col(a.c || 'a')}" stroke-width="2.2" rx="2"${A(at, d + j * .12, 'pop', .3, o)}/>`; }).join('') + (a.label ? `<text x="${k.X(a.i[a.i.length - 1]) + k.cw}" y="${k.vTop + 14}" fill="${col(a.c || 'a')}" font-size="13" class="mono" letter-spacing="1.5"${ex()}>${esc(a.label)}</text>` : '');
+      case 'vhl': return a.i.map((i, j) => { const b = k.bars[i], vmax = k.vmax, vh = b.v / vmax * (k.volH - 6); return `<rect x="${k.X(i) - k.cw * .45}" y="${k.vTop + k.volH - vh - 4}" width="${k.cw * .9}" height="${vh + 6}" fill="none" stroke="${col(a.c || 'a')}" stroke-width="2.2" rx="2"${A(at, d + j * .12, 'pop', .3, o)}/>`; }).join('') + (a.label ? `<text x="${k.X(a.i[a.i.length - 1]) + k.cw}" y="${k.vTop + 14}" fill="${col(a.c || 'a')}" font-size="13" class="mono" letter-spacing="1.5"${ex()}>${esc(a.label)}</text>` : '');
       case 'chl': return a.i.map((i, j) => { const b = k.bars[i]; return `<rect x="${k.X(i) - k.cw * .55}" y="${k.Y(b.h) - 6}" width="${k.cw * 1.1}" height="${k.Y(b.l) - k.Y(b.h) + 12}" fill="none" stroke="${c}" stroke-width="2" rx="3"${A(at, d + j * .1, 'pop', .3, o)}/>`; }).join('');
       case 'measure': {
         const x = k.X(a.i), y1 = k.Y(a.p1), y2 = k.Y(a.p2);
@@ -157,6 +157,11 @@
       case 'note': {
         const x = k.padL + a.x * k.pw, y = k.top + a.y * k.ph;
         return lbox(x, y, a.text, c, a.anchor || 'middle', a.fs || 14, ex('pop'));
+      }
+      case 'vma': { // average of the previous n bars' volume (excluding the current bar)
+        const vmax = k.vmax, pts = [];
+        for (let i = a.n; i < k.bars.length; i++) { let sm = 0; for (let j = i - a.n; j < i; j++) sm += k.bars[j].v; const av = sm / a.n; pts.push([k.X(i), k.vTop + k.volH - av / vmax * (k.volH - 6)]); }
+        return `<g${ex()}><path d="${pts.map((q, j) => (j ? 'L' : 'M') + q[0] + ' ' + q[1]).join(' ')}" fill="none" stroke="${c}" stroke-width="2"/>${a.label ? `<text x="${pts[pts.length - 1][0] + 8}" y="${pts[pts.length - 1][1] + 4}" fill="${c}" font-size="12" class="mono">${esc(a.label)}</text>` : ''}</g>`;
       }
       case 'vline': { const x = k.X(a.i); return `<g${ex()}><line x1="${x}" x2="${x}" y1="${k.top - 6}" y2="${k.top + k.ph}" stroke="${c}" stroke-width="1.6" stroke-dasharray="5 5"/>${a.label ? lbox(x, k.top + 6, a.label, c, 'middle', 13) : ''}</g>`; }
       case 'curtain': { // hides the future: covers bars from i to the end
@@ -251,7 +256,7 @@
     const out = [], top = 80, rowH = Math.min(52, (H - top - 60) / s.prices.length), cx = W / 2, colW = 240;
     if (s.title) out.push(`<text x="22" y="34" fill="#8e9bb4" font-size="14" class="mono" letter-spacing="2">${esc(s.title)}</text>`);
     if (s.tag) out.push(`<text x="${W - 22}" y="34" text-anchor="end" fill="#eef2f8" font-size="14" font-weight="800" letter-spacing="1">${esc(s.tag)}</text>`);
-    out.push(`<text x="${cx - colW - 60}" y="${top - 14}" text-anchor="middle" fill="${COL.g2}" font-size="15" class="mono" letter-spacing="2">BID QTY</text><text x="${cx}" y="${top - 14}" text-anchor="middle" fill="#8e9bb4" font-size="15" class="mono" letter-spacing="2">PRICE</text><text x="${cx + colW + 60}" y="${top - 14}" text-anchor="middle" fill="${COL.r2}" font-size="15" class="mono" letter-spacing="2">ASK QTY</text>`);
+    out.push(`<text x="${cx - colW - 60}" y="${top - 14}" text-anchor="middle" fill="${COL.r2}" font-size="15" class="mono" letter-spacing="2">BID QTY</text><text x="${cx}" y="${top - 14}" text-anchor="middle" fill="#8e9bb4" font-size="15" class="mono" letter-spacing="2">PRICE</text><text x="${cx + colW + 60}" y="${top - 14}" text-anchor="middle" fill="${COL.g2}" font-size="15" class="mono" letter-spacing="2">ASK QTY</text>`);
     const maxQ = Math.max(...s.snaps.flatMap(sn => Object.values(sn.q).flat()));
     s.snaps.forEach((sn, k) => {
       const nxt = s.snaps[k + 1]; const g = [];
@@ -259,8 +264,8 @@
         const y = top + j * rowH, q = sn.q[p] || [0, 0], [b, a] = q;
         const isLast = sn.last === p;
         g.push(`<rect x="${cx - 70}" y="${y + 3}" width="140" height="${rowH - 6}" rx="4" fill="${isLast ? 'rgba(232,182,76,.18)' : '#0e1830'}" stroke="${isLast ? COL.y : '#1f2d4a'}"/><text x="${cx}" y="${y + rowH / 2 + 7}" text-anchor="middle" fill="${isLast ? COL.y : '#eef2f8'}" font-size="20" class="mono" font-weight="600">${fmt(p)}</text>`);
-        if (b) { const w = b / maxQ * colW; g.push(`<rect x="${cx - 80 - w}" y="${y + 6}" width="${w}" height="${rowH - 12}" fill="${COL.g}" opacity=".35" rx="3"/><text x="${cx - 92}" y="${y + rowH / 2 + 7}" text-anchor="end" fill="${COL.g2}" font-size="19" class="mono">${b}</text>`); }
-        if (a) { const w = a / maxQ * colW; g.push(`<rect x="${cx + 80}" y="${y + 6}" width="${w}" height="${rowH - 12}" fill="${COL.r}" opacity=".35" rx="3"/><text x="${cx + 92}" y="${y + rowH / 2 + 7}" fill="${COL.r2}" font-size="19" class="mono">${a}</text>`); }
+        if (b) { const w = b / maxQ * colW; g.push(`<rect x="${cx - 80 - w}" y="${y + 6}" width="${w}" height="${rowH - 12}" fill="${COL.r}" opacity=".35" rx="3"/><text x="${cx - 92}" y="${y + rowH / 2 + 7}" text-anchor="end" fill="${COL.r2}" font-size="19" class="mono">${b}</text>`); }
+        if (a) { const w = a / maxQ * colW; g.push(`<rect x="${cx + 80}" y="${y + 6}" width="${w}" height="${rowH - 12}" fill="${COL.g}" opacity=".35" rx="3"/><text x="${cx + 92}" y="${y + rowH / 2 + 7}" fill="${COL.g2}" font-size="19" class="mono">${a}</text>`); }
       });
       (sn.marks || []).forEach(m => { const j = s.prices.indexOf(m.p), y = top + j * rowH; const x = m.side === 'bid' ? cx - 80 - colW - 10 : cx + 80; g.push(`<rect x="${m.side === 'mid' ? cx - 76 : x}" y="${y}" width="${m.side === 'mid' ? 152 : colW + 10}" height="${rowH}" fill="none" stroke="${col(m.c)}" stroke-width="2.4" rx="5"/>${m.label ? lbox(m.side === 'bid' ? x - 6 : m.side === 'mid' ? cx + 90 : x + colW + 16, y + rowH / 2, m.label, col(m.c), m.side === 'bid' ? 'end' : 'start', 13) : ''}`); });
       if (sn.caption) g.push(`<text x="${cx}" y="${H - 22}" text-anchor="middle" fill="${col(sn.cc || 'y')}" font-size="19" class="mono">${esc(sn.caption)}</text>`);

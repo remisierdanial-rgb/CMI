@@ -143,7 +143,7 @@
     cur = k;
   }
   const ease = p => 1 - Math.pow(1 - p, 3);
-  function segT(sc, at) { const s = sc.segs[Math.min(at, sc.segs.length - 1)]; return at >= sc.segs.length ? sc.end - 0.3 : s.s; }
+  function segT(sc, at) { if (at < sc.segs.length) return sc.segs[at].s; const L = sc.segs[sc.segs.length - 1]; return Math.min(sc.end - 0.3, L.s + 1.2 * (at - sc.segs.length + 1)); }
   window.seek = function (t) {
     let k = scenes.findIndex(s => t >= s.start && t < s.end); if (k < 0) k = t < 0 ? 0 : scenes.length - 1;
     if (k !== cur) build(k);
