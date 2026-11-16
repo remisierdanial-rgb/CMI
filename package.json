@@ -1,0 +1,9 @@
+{
+  "name": "cmi-smc-level7",
+  "private": true,
+  "description": "CMI Smart Money Concept Level 7 — Advanced ICT Concepts motion-graphics series (generated).",
+  "scripts": {
+    "check": "node engine/check.js ep01 ep02 ep03 ep04 ep05 ep06 ep07 ep08 ep09 ep10 ep11 ep12 ep13 ep14",
+    "docs": "node engine/docs.js"
+  }
+}
