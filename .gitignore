@@ -3,4 +3,3 @@ episodes/*/build/narration.wav
 episodes/*/build/stills/
 node_modules/
 __pycache__/
-episodes/*/build/*.mp4
