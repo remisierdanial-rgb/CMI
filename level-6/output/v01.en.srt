@@ -1,256 +1,256 @@
 1
-00:00:00,800 --> 00:00:07,133
+00:00:00,800 --> 00:00:07,630
 Welcome to CMI, Smart Money Concept, Level 6: Premium, Discount and PD Arrays.
 
 2
-00:00:07,433 --> 00:00:14,167
+00:00:07,930 --> 00:00:14,328
 In Level 5, we studied imbalance and displacement. In this level, we ask a different question:
 
 3
-00:00:14,467 --> 00:00:20,600
+00:00:14,628 --> 00:00:18,866
 where is price trading, and does that location make sense to act on?
 
 4
-00:00:20,900 --> 00:00:27,233
+00:00:19,166 --> 00:00:25,036
 By the end of this video, you should understand why location is assessed before execution,
 
 5
-00:00:27,533 --> 00:00:35,200
+00:00:25,336 --> 00:00:31,854
 how the CMI analytical workflow is structured, and why the higher timeframe frames the lower timeframe.
 
 6
-00:00:37,300 --> 00:00:43,300
+00:00:33,954 --> 00:00:39,296
 Level 6 contains six subtopics, delivered across fourteen videos.
 
 7
-00:00:43,600 --> 00:00:50,000
+00:00:39,596 --> 00:00:44,866
 We begin with the Dealing Range, then Equilibrium, and Premium and Discount.
 
 8
-00:00:50,300 --> 00:00:56,233
+00:00:45,166 --> 00:00:51,732
 Next, Fibonacci Optimal Trade Entry, followed by the PD Arrays across six videos.
 
 9
-00:00:56,533 --> 00:01:03,267
+00:00:52,032 --> 00:00:58,046
 Finally, Multiple Confluences, conflicting evidence, and one integrated case study.
 
 10
-00:01:03,567 --> 00:01:11,167
+00:00:58,346 --> 00:01:05,680
 Three principles guide this level: Location Before Execution, Higher Timeframe Before Lower Timeframe,
 
 11
-00:01:11,467 --> 00:01:14,933
+00:01:05,980 --> 00:01:08,946
 and Confluence Without Overcomplication.
 
 12
-00:01:17,033 --> 00:01:24,833
+00:01:11,046 --> 00:01:16,172
 Let us start with a simple question. If the market is bullish, is every buy a good buy?
 
 13
-00:01:25,133 --> 00:01:31,267
+00:01:16,472 --> 00:01:24,550
 Here is an illustrative FCPO chart. Price forms a low at 4,600 and rallies to 4,800.
 
 14
-00:01:31,567 --> 00:01:37,567
+00:01:24,850 --> 00:01:29,952
 The direction is clearly up. But direction tells only half of the story.
 
 15
-00:01:37,867 --> 00:01:44,067
+00:01:30,252 --> 00:01:37,274
 Trader A buys near the high, at 4,790, after the move has already expanded.
 
 16
-00:01:44,367 --> 00:01:50,967
+00:01:37,574 --> 00:01:44,452
 Trader B waits for a pullback and buys at 4,670, in the lower half of the same move.
 
 17
-00:01:51,267 --> 00:01:59,600
+00:01:44,752 --> 00:01:54,222
 Assume both use the same invalidation below the range low, at 4,590, and the same target at 4,880.
 
 18
-00:01:59,900 --> 00:02:08,367
+00:01:54,522 --> 00:02:01,832
 Trader A risks 200 points for a potential 90. Trader B risks 80 points for a potential 210.
 
 19
-00:02:08,667 --> 00:02:14,133
+00:02:02,132 --> 00:02:06,826
 Same direction. Same market. A very different quality of location.
 
 20
-00:02:14,433 --> 00:02:23,833
+00:02:07,126 --> 00:02:15,564
 This does not mean Trader B will win. The location simply offers a better risk-to-reward structure, if the analysis is correct.
 
 21
-00:02:25,933 --> 00:02:32,733
+00:02:17,664 --> 00:02:23,414
 Professional analysis separates four questions that newer traders often mix together.
 
 22
-00:02:33,033 --> 00:02:40,767
+00:02:23,714 --> 00:02:29,704
 First, what is the likely direction? Second, where is price trading within its range right now?
 
 23
-00:02:41,067 --> 00:02:49,333
+00:02:30,004 --> 00:02:37,050
 Third, is there a potentially favourable location to act? And fourth, has price provided confirmation?
 
 24
-00:02:49,633 --> 00:02:55,233
+00:02:37,350 --> 00:02:41,084
 A yes to the first question does not answer the other three.
 
 25
-00:02:57,333 --> 00:03:01,933
+00:02:43,184 --> 00:02:47,254
 These questions lead to the CMI analytical framework.
 
 26
-00:03:02,233 --> 00:03:07,833
+00:02:47,554 --> 00:02:52,416
 Market Direction, then the Dealing Range, then Premium and Discount.
 
 27
-00:03:08,133 --> 00:03:13,867
+00:02:52,716 --> 00:02:58,442
 Next, the relevant PD Arrays, the liquidity picture, and the Fibonacci OTE.
 
 28
-00:03:14,167 --> 00:03:18,833
+00:02:58,742 --> 00:03:03,292
 Only then do we look for confirmation, and finally, execution.
 
 29
-00:03:19,133 --> 00:03:25,667
+00:03:03,592 --> 00:03:08,070
 Each step narrows the question. Direction tells us which side to study.
 
 30
-00:03:25,967 --> 00:03:35,633
+00:03:08,370 --> 00:03:17,672
 The range, with its premium and discount, tells us where price is. PD Arrays and liquidity point to specific areas of interest.
 
 31
-00:03:35,933 --> 00:03:43,467
+00:03:17,972 --> 00:03:23,338
 Confirmation then asks whether price is actually behaving as expected at that area.
 
 32
-00:03:43,767 --> 00:03:51,633
+00:03:23,638 --> 00:03:30,852
 Important: this is an analytical workflow. Completing every step does not guarantee a profitable trade.
 
 33
-00:03:51,933 --> 00:03:57,267
+00:03:31,152 --> 00:03:35,102
 And at any step, the right answer may be: no trade.
 
 34
-00:03:59,367 --> 00:04:04,500
+00:03:37,202 --> 00:03:42,112
 Now, the second principle: Higher Timeframe Before Lower Timeframe.
 
 35
-00:04:04,800 --> 00:04:12,867
+00:03:42,412 --> 00:03:52,578
 On the left is a one-hour chart. Its dealing range runs from 4,600 to 4,800, with equilibrium at 4,700.
 
 36
-00:04:13,167 --> 00:04:18,967
+00:03:52,878 --> 00:04:00,020
 Above 4,700 is the premium half. Below 4,700 is the discount half.
 
 37
-00:04:19,267 --> 00:04:25,133
+00:04:00,320 --> 00:04:06,022
 Now we zoom into a five-minute chart while price trades around 4,780.
 
 38
-00:04:25,433 --> 00:04:33,633
+00:04:06,322 --> 00:04:14,760
 On five minutes, price breaks the lower high at 4,780. That is a valid bullish structure shift on this timeframe.
 
 39
-00:04:33,933 --> 00:04:43,733
+00:04:15,060 --> 00:04:22,586
 But within the one-hour range, this entire move sits in premium. A buy here buys the upper part of the larger range.
 
 40
-00:04:44,033 --> 00:04:49,433
+00:04:22,886 --> 00:04:29,428
 Later, price retraces to around 4,650, inside the one-hour discount.
 
 41
-00:04:49,733 --> 00:04:58,133
+00:04:29,728 --> 00:04:38,886
 The five-minute chart again shifts bullish, breaking 4,662. The signal looks similar, but the location is different.
 
 42
-00:04:58,433 --> 00:05:06,433
+00:04:39,186 --> 00:04:47,168
 Neither signal is guaranteed. The point is that a lower timeframe signal must be read inside the higher timeframe context.
 
 43
-00:05:08,533 --> 00:05:12,067
+00:04:49,268 --> 00:04:52,714
 This leads to a key principle of Level 6.
 
 44
-00:05:12,367 --> 00:05:21,100
+00:04:53,014 --> 00:04:59,148
 A technically valid entry can still be a poor entry if it occurs at an unfavourable location.
 
 45
-00:05:21,400 --> 00:05:28,133
+00:04:59,448 --> 00:05:05,030
 The signal answers when. Location helps answer where, and whether the risk is worth taking.
 
 46
-00:05:28,433 --> 00:05:36,967
+00:05:05,330 --> 00:05:13,720
 And remember: location is not confirmation. A good location without confirmation is still only a potential area of interest.
 
 47
-00:05:39,067 --> 00:05:42,933
+00:05:15,820 --> 00:05:18,210
 Let us summarise what to remember.
 
 48
-00:05:43,233 --> 00:05:49,033
+00:05:18,510 --> 00:05:24,284
 Direction and location are separate questions. Location shapes risk and reward.
 
 49
-00:05:49,333 --> 00:05:56,867
+00:05:24,584 --> 00:05:32,686
 The CMI framework moves from direction to range, location, areas of interest, confirmation, and execution.
 
 50
-00:05:57,167 --> 00:06:05,700
+00:05:32,986 --> 00:05:40,392
 Lower timeframe signals are read inside higher timeframe context. And no trade is always a valid decision.
 
 51
-00:06:07,800 --> 00:06:13,800
+00:05:42,492 --> 00:05:47,330
 Now, test your understanding. Pause the video and answer each question.
 
 52
-00:06:14,100 --> 00:06:20,300
+00:05:47,630 --> 00:05:52,516
 Question one: why is market direction alone not enough to judge an entry?
 
 53
-00:06:25,600 --> 00:06:34,267
+00:05:57,816 --> 00:06:04,838
 Answer: the same direction can be traded from very different locations, with very different risk and reward.
 
 54
-00:06:34,567 --> 00:06:40,100
+00:06:05,138 --> 00:06:10,672
 Question two: list the steps of the CMI analytical framework, in order.
 
 55
-00:06:45,400 --> 00:06:53,867
+00:06:15,972 --> 00:06:25,826
 Answer: Market Direction, Dealing Range, Premium and Discount, PD Arrays, Liquidity, OTE, Confirmation, Execution.
 
 56
-00:06:54,167 --> 00:07:02,900
+00:06:26,126 --> 00:06:33,556
 Question three: a five-minute bullish shift forms while price is in one-hour premium. Is it automatically a good buy?
 
 57
-00:07:08,200 --> 00:07:16,333
+00:06:38,856 --> 00:06:45,806
 Answer: no. The signal may be valid on five minutes, but it buys the upper half of the larger range.
 
 58
-00:07:16,633 --> 00:07:21,367
+00:06:46,106 --> 00:06:50,440
 It needs strong supporting context, or it may be better to wait.
 
 59
-00:07:23,467 --> 00:07:30,667
+00:06:52,540 --> 00:06:58,914
 In the next video, we study the foundation of everything in this level: the Dealing Range.
 
 60
-00:07:30,967 --> 00:07:41,767
+00:06:59,214 --> 00:07:07,268
 How to select a meaningful swing high and swing low, and why an arbitrary range gives misleading premium and discount readings.
 
 61
-00:07:43,867 --> 00:07:50,933
+00:07:09,368 --> 00:07:16,654
 The references for this video are shown on screen. ICT material is used for ICT-specific terminology.
 
 62
-00:07:51,233 --> 00:07:57,367
+00:07:16,954 --> 00:07:23,760
 SMC and ICT concepts are analytical frameworks, not the product of academic research.
 
 63
-00:07:59,467 --> 00:08:08,867
+00:07:25,860 --> 00:07:34,586
 For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
 
 64
-00:08:09,167 --> 00:08:14,233
+00:07:34,886 --> 00:07:39,628
 Futures trading involves the risk of loss. See you in Video 2.
 

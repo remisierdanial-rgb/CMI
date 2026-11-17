@@ -1,0 +1,220 @@
+1
+00:00:00,800 --> 00:00:07,174
+Selamat kembali. Dalam Video 3, kita mempelajari Equilibrium, titik tengah bagi dealing range.
+
+2
+00:00:07,474 --> 00:00:12,696
+Anda akan belajar mengira equilibrium, membaca kedudukan harga relatif kepadanya,
+
+3
+00:00:12,996 --> 00:00:17,762
+menggunakannya sebagai titik rujukan, dan memahami apa yang tidak boleh dilakukan oleh equilibrium.
+
+4
+00:00:19,862 --> 00:00:24,652
+Equilibrium ialah titik tengah 50% bagi dealing range yang dipilih.
+
+5
+00:00:24,952 --> 00:00:30,126
+Formulanya mudah: range high tambah range low, bahagi dua.
+
+6
+00:00:30,426 --> 00:00:43,952
+Dengan range high 4,800 dan range low 4,600: 4,800 tambah 4,600 ialah 9,400. Bahagi dua, 4,700.
+
+7
+00:00:44,252 --> 00:00:50,722
+Kita tandakan 4,700 dengan garisan mendatar. Ini equilibrium bagi range ini.
+
+8
+00:00:51,022 --> 00:01:01,260
+Cara lain: low tambah separuh jarak range. 4,600 tambah 100, juga 4,700. Kedua-dua kaedah mesti memberi jawapan yang sama.
+
+9
+00:01:01,560 --> 00:01:08,990
+Ingat, equilibrium tidak wujud tanpa range. Jika range berubah, equilibrium juga berubah.
+
+10
+00:01:11,090 --> 00:01:16,408
+Sekarang lihat bagaimana harga berinteraksi dengan equilibrium dalam contoh ilustrasi ini.
+
+11
+00:01:16,708 --> 00:01:28,458
+Pertama, harga di atas equilibrium. Selepas high 4,800, harga kekal di separuh atas, sekitar 4,730 hingga 4,760.
+
+12
+00:01:28,758 --> 00:01:34,316
+Kedua, harga kembali ke equilibrium, menyentuh 4,700.
+
+13
+00:01:34,616 --> 00:01:41,782
+Ketiga, harga di bawah equilibrium, turun ke 4,655 di separuh bawah.
+
+14
+00:01:42,082 --> 00:01:51,072
+Dan keempat, harga berkonsolidasi di sekitar equilibrium, bergerak di antara 4,692 dan 4,712.
+
+15
+00:01:51,372 --> 00:01:58,130
+Empat keadaan ini hanya menerangkan lokasi. Tiada satu pun daripadanya, dengan sendirinya, memberitahu arah seterusnya.
+
+16
+00:02:00,230 --> 00:02:06,124
+Equilibrium membahagikan range kepada dua bahagian: bahagian atas dan bahagian bawah.
+
+17
+00:02:06,424 --> 00:02:13,974
+Untuk mengukur kedudukan harga dengan tepat, kira peratus kedudukan: harga tolak low, bahagi jarak range.
+
+18
+00:02:14,274 --> 00:02:33,008
+Contoh: harga 4,665. 4,665 tolak 4,600 ialah 65. 65 bahagi 200 ialah 0.325, iaitu 32.5 peratus. Di bawah 50 peratus, jadi separuh bawah.
+
+19
+00:02:33,308 --> 00:02:45,610
+Contoh kedua: harga 4,735. 135 bahagi 200 ialah 67.5 peratus. Di atas 50 peratus, jadi separuh atas.
+
+20
+00:02:45,910 --> 00:02:49,812
+Nombor ini menerangkan di mana harga berada, bukan ke mana harga akan pergi.
+
+21
+00:02:51,912 --> 00:02:56,750
+Bagaimana equilibrium membantu membingkai retracement? Lihat kedua-dua sisi.
+
+22
+00:02:57,050 --> 00:03:07,744
+Dalam range bullish, retracement ke bawah equilibrium, contohnya ke 4,665, membawa harga ke separuh bawah pergerakan bullish itu.
+
+23
+00:03:08,044 --> 00:03:18,930
+Dalam range bearish, retracement ke atas equilibrium, contohnya ke 4,735, membawa harga ke separuh atas pergerakan bearish itu.
+
+24
+00:03:19,230 --> 00:03:27,188
+Ini membingkai retracement. Tetapi equilibrium sendiri tidak menentukan arah pasaran. Arah datang daripada struktur.
+
+25
+00:03:29,288 --> 00:03:36,670
+Sekarang contoh yang penting. Dalam range bullish ini, harga kembali ke equilibrium di 4,700.
+
+26
+00:03:36,970 --> 00:03:45,168
+Ramai trader menganggap 4,700 akan menjadi support. Harga melantun sedikit ke 4,712,
+
+27
+00:03:45,468 --> 00:03:52,706
+kemudian terus jatuh menembusi equilibrium hingga ke 4,610, berhampiran range low.
+
+28
+00:03:53,006 --> 00:03:59,164
+Equilibrium ialah titik rujukan matematik. Ia bukan support atau resistance yang dijamin.
+
+29
+00:04:01,264 --> 00:04:03,798
+Kesilapan biasa dengan equilibrium:
+
+30
+00:04:04,098 --> 00:04:12,296
+Menganggap equilibrium sebagai support atau resistance yang pasti. Dan menganggap setiap pergerakan di bawah 50 peratus mesti berbalik.
+
+31
+00:04:12,596 --> 00:04:21,442
+Begitu juga, menganggap setiap pergerakan di atas 50 peratus mesti berbalik. Dan menggunakan equilibrium tanpa mentakrifkan dealing range dahulu.
+
+32
+00:04:23,542 --> 00:04:31,260
+Secara praktikal, equilibrium digunakan untuk satu tujuan utama: membahagikan range kepada separuh atas dan separuh bawah.
+
+33
+00:04:31,560 --> 00:04:35,654
+Pembahagian inilah yang menjadi premium dan discount dalam video seterusnya.
+
+34
+00:04:35,954 --> 00:04:42,424
+Ia juga sama dengan aras 0.5 pada Fibonacci, yang akan kita gunakan dalam topik OTE.
+
+35
+00:04:44,524 --> 00:04:46,746
+Mari rumuskan.
+
+36
+00:04:47,046 --> 00:04:53,300
+Equilibrium ialah titik tengah 50 peratus: range high tambah range low, bahagi dua.
+
+37
+00:04:53,600 --> 00:04:58,918
+Ia membahagikan range kepada separuh atas dan separuh bawah, dan membantu membingkai retracement.
+
+38
+00:04:59,218 --> 00:05:05,088
+Ia bukan support atau resistance yang dijamin, dan tidak menentukan arah dengan sendirinya.
+
+39
+00:05:07,188 --> 00:05:12,026
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+40
+00:05:12,326 --> 00:05:21,532
+Soalan satu: bagaimana equilibrium dikira? Kira untuk range 4,520 hingga 4,880.
+
+41
+00:05:26,832 --> 00:05:40,094
+Jawapan: range high tambah range low, bahagi dua. 4,880 tambah 4,520 ialah 9,400, bahagi dua, 4,700.
+
+42
+00:05:40,394 --> 00:05:49,888
+Soalan dua: range 4,600 hingga 4,800. Harga di 4,640. Apakah peratus kedudukannya?
+
+43
+00:05:55,188 --> 00:06:07,610
+Jawapan: 4,640 tolak 4,600 ialah 40. 40 bahagi 200 ialah 0.2, iaitu 20 peratus. Di bawah 50 peratus, jadi separuh bawah.
+
+44
+00:06:07,910 --> 00:06:12,388
+Soalan tiga: mengapa equilibrium bukan support yang dijamin?
+
+45
+00:06:17,688 --> 00:06:27,278
+Jawapan: ia hanya titik tengah yang dikira daripada range yang dipilih. Harga boleh menembusinya terus apabila struktur menyokong kesinambungan.
+
+46
+00:06:27,578 --> 00:06:32,056
+Soalan empat: bolehkah equilibrium sahaja memberitahu arah pasaran?
+
+47
+00:06:37,356 --> 00:06:45,386
+Jawapan: tidak. Ia menerangkan lokasi dalam range. Arah datang daripada struktur pasaran dan konteks higher timeframe.
+
+48
+00:06:47,486 --> 00:06:53,236
+Latihan praktikal: gunakan dealing range yang anda tandakan dalam latihan Video 2.
+
+49
+00:06:53,536 --> 00:07:00,630
+Kira equilibrium dengan dua kaedah, tandakan garisannya, dan kira peratus kedudukan harga semasa.
+
+50
+00:07:00,930 --> 00:07:07,784
+Kemudian perhatikan lima interaksi harga dengan equilibrium, dan catat sama ada harga bertindak balas atau menembusinya.
+
+51
+00:07:09,884 --> 00:07:16,642
+Dalam video seterusnya: Premium dan Discount, dan mengapa ia ialah konteks lokasi, bukan isyarat automatik.
+
+52
+00:07:18,742 --> 00:07:21,924
+Rujukan untuk video ini dipaparkan di skrin.
+
+53
+00:07:22,224 --> 00:07:29,630
+Pengiraan titik tengah ialah aritmetik asas. Istilah equilibrium dalam konteks ini ialah penggunaan ICT.
+
+54
+00:07:31,730 --> 00:07:40,456
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+55
+00:07:40,756 --> 00:07:45,594
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 4.
+

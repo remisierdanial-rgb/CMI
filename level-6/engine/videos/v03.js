@@ -24,7 +24,7 @@
       return `<line x1="${X0}" x2="${X1}" y1="${YT}" y2="${YT}" stroke="${C.mute}" stroke-width="1.5" opacity="${a}"/>` +
         `<line x1="${X0}" x2="${X1}" y1="${YB}" y2="${YB}" stroke="${C.mute}" stroke-width="1.5" opacity="${a}"/>` +
         `<line x1="${X0}" x2="${X0 + (X1 - X0) * b}" y1="${YM}" y2="${YM}" stroke="${C.amber}" stroke-width="2.6" stroke-dasharray="9 7"/>` +
-        txt(X0 + 20, YT - 12, 'HIGH 4,800', { col: C.mute, op: a, fs: 16 }) + txt(X0 + 20, YB + 28, 'LOW 4,600', { col: C.mute, op: a, fs: 16 }) +
+        txt(X0 + 20, YT + 26, 'HIGH 4,800', { col: C.mute, op: a, fs: 16 }) + txt(X0 + 20, YB - 12, 'LOW 4,600', { col: C.mute, op: a, fs: 16 }) +
         txt(X1 - 14, YM - 14, 'EQUILIBRIUM 4,700 · 50%', { anchor: 'end', col: C.amber, op: b, fs: 17, fw: 700, ls: 2 });
     }
   }));

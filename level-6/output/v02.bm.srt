@@ -1,0 +1,260 @@
+1
+00:00:00,800 --> 00:00:07,870
+Selamat kembali. Dalam Video 2, kita mempelajari asas bagi seluruh Level 6: Dealing Range.
+
+2
+00:00:08,170 --> 00:00:14,328
+Anda akan belajar mentakrifkan dealing range, mengenal pasti swing high dan swing low yang bermakna,
+
+3
+00:00:14,628 --> 00:00:20,354
+membina range bullish dan bearish, dan memilih range yang sesuai dengan timeframe analisis anda.
+
+4
+00:00:22,454 --> 00:00:28,684
+Dealing range ialah selang harga yang dipilih, disempadani oleh satu high dan satu low yang bermakna.
+
+5
+00:00:28,984 --> 00:00:37,062
+Dalam contoh ilustrasi ini, harga membentuk low di 4,600, kemudian naik ke high di 4,800.
+
+6
+00:00:37,362 --> 00:00:43,064
+Dua aras ini menjadi sempadan range. Selepas itu, harga bergerak di dalam range tersebut.
+
+7
+00:00:43,364 --> 00:00:49,786
+Perhatikan perkataan "dipilih". Range bukan objek tetap pada carta. Ia dipilih oleh penganalisis.
+
+8
+00:00:50,086 --> 00:00:54,852
+Pilihan itu bergantung pada timeframe analisis dan struktur pasaran yang relevan.
+
+9
+00:00:55,152 --> 00:01:02,606
+Semua bacaan seterusnya dalam level ini, equilibrium, premium, discount dan OTE, bergantung pada range ini.
+
+10
+00:01:04,706 --> 00:01:07,720
+Setiap dealing range bermula daripada swing point.
+
+11
+00:01:08,020 --> 00:01:15,066
+Swing high ialah puncak dengan high yang lebih rendah di kedua-dua sisinya. Swing low ialah lembah dengan low yang lebih tinggi di kedua-dua sisinya.
+
+12
+00:01:15,366 --> 00:01:19,844
+Tetapi carta ini mempunyai banyak swing. Tidak semuanya sama penting.
+
+13
+00:01:20,144 --> 00:01:27,142
+Swing kecil ini hanyalah turun naik dalam pergerakan yang lebih besar. Untuk dealing range, kita abaikan.
+
+14
+00:01:27,442 --> 00:01:34,320
+Swing yang bermakna ialah titik di mana harga bergerak jauh dengan kuat, iaitu expansion, dan memecahkan struktur.
+
+15
+00:01:34,620 --> 00:01:43,658
+Di sini, low 4,600 dan high 4,800 membentuk struktur utama. Pergerakan di antaranya ialah expansion,
+
+16
+00:01:43,958 --> 00:01:51,292
+dan pergerakan balik selepas high ialah retracement. Range diukur dari swing utama, bukan dari swing kecil.
+
+17
+00:01:53,392 --> 00:01:57,174
+Sekarang kita bina dealing range bullish, langkah demi langkah.
+
+18
+00:01:57,474 --> 00:02:05,000
+Langkah satu: kenal pasti swing low yang bermakna. Harga turun ke 4,600 dan berbalik dengan kuat.
+
+19
+00:02:05,300 --> 00:02:14,914
+Langkah dua: harga naik, memecahkan high sebelumnya di 4,720, dan membentuk swing high di 4,800.
+
+20
+00:02:15,214 --> 00:02:23,772
+Langkah tiga: tandakan range dari low 4,600 hingga high 4,800. Jarak range ialah 200 mata.
+
+21
+00:02:24,072 --> 00:02:33,542
+Langkah empat: paparkan titik tengah. 4,600 tambah 4,800, bahagi dua, ialah 4,700.
+
+22
+00:02:33,842 --> 00:02:43,456
+Langkah lima: nilai retracement di dalam range. Harga kembali ke 4,665, iaitu di separuh bawah range.
+
+23
+00:02:43,756 --> 00:02:51,258
+Range ini memberi kita rangka rujukan. Ia belum memberi isyarat entry. Itu memerlukan konteks dan confirmation lain.
+
+24
+00:02:53,358 --> 00:02:56,972
+Dealing range bearish ialah cerminan proses yang sama.
+
+25
+00:02:57,272 --> 00:03:05,086
+Langkah satu: kenal pasti swing high yang bermakna. Harga naik ke 4,800 dan berbalik turun dengan kuat.
+
+26
+00:03:05,386 --> 00:03:14,736
+Langkah dua: harga jatuh, memecahkan low sebelumnya di 4,680, dan membentuk swing low di 4,600.
+
+27
+00:03:15,036 --> 00:03:24,362
+Langkah tiga dan empat: tandakan range dari 4,800 hingga 4,600, dengan titik tengah di 4,700.
+
+28
+00:03:24,662 --> 00:03:33,940
+Langkah lima: nilai retracement ke atas. Harga naik semula ke 4,735, iaitu di separuh atas range.
+
+29
+00:03:34,240 --> 00:03:42,918
+Sempadannya sama, 4,600 dan 4,800. Yang berbeza ialah arah impulse yang membentuk range itu.
+
+30
+00:03:45,018 --> 00:03:49,880
+Bagaimana memilih range yang sesuai? Mulakan dengan timeframe analisis anda.
+
+31
+00:03:50,180 --> 00:04:00,778
+Pada higher timeframe, range ini bermula dari low 4,520 hingga high 4,880. Titik tengahnya 4,700.
+
+32
+00:04:01,078 --> 00:04:12,108
+Di dalamnya, ada range lower timeframe yang lebih kecil: dari 4,640 hingga 4,720, dengan titik tengah 4,680.
+
+33
+00:04:12,408 --> 00:04:16,958
+Sekarang lihat harga semasa di 4,690. Dalam range besar, ia di bawah 4,700, jadi di separuh bawah.
+
+34
+00:04:17,258 --> 00:04:25,216
+Dalam range kecil, ia di atas 4,680, jadi di separuh atas. Harga yang sama, bacaan yang berbeza.
+
+35
+00:04:25,516 --> 00:04:32,058
+Pergerakan di dalam range dipanggil internal. Pergerakan melepasi sempadan range dipanggil external.
+
+36
+00:04:32,358 --> 00:04:40,340
+Sebab itu range tidak boleh dipilih sesuka hati. Range yang arbitrari menghasilkan bacaan premium dan discount yang mengelirukan.
+
+37
+00:04:42,440 --> 00:04:46,270
+Mari lihat kesilapan biasa semasa memilih dealing range.
+
+38
+00:04:46,570 --> 00:04:54,528
+Satu, menggunakan swing yang tidak signifikan. Dua, kerap menukar sempadan range supaya sesuai dengan trade yang diingini.
+
+39
+00:04:54,828 --> 00:05:02,618
+Tiga, mencampur timeframe yang tidak berkaitan. Empat, menganggap setiap swing sama penting.
+
+40
+00:05:02,918 --> 00:05:09,844
+Dan lima, mengabaikan konteks struktur. Range yang bermakna mesti mencerminkan struktur pasaran yang sebenar.
+
+41
+00:05:11,944 --> 00:05:16,542
+Secara praktikal, gunakan proses ini setiap kali anda memulakan analisis.
+
+42
+00:05:16,842 --> 00:05:25,112
+Pilih timeframe analisis. Cari swing terbaru yang menghasilkan expansion dan break of structure. Tandakan hujung bertentangan.
+
+43
+00:05:25,412 --> 00:05:32,914
+Kekalkan range itu sehingga struktur berubah, contohnya harga keluar dari range dan membentuk swing baharu yang jelas.
+
+44
+00:05:33,214 --> 00:05:42,444
+Dealing range ialah input bagi topik seterusnya: equilibrium, premium dan discount, anchor Fibonacci, dan lokasi PD Arrays.
+
+45
+00:05:44,544 --> 00:05:46,766
+Mari rumuskan.
+
+46
+00:05:47,066 --> 00:05:53,944
+Dealing range ialah selang harga yang dipilih antara high dan low yang bermakna, berdasarkan timeframe dan struktur.
+
+47
+00:05:54,244 --> 00:06:00,618
+Range bullish dibina dari swing low ke swing high. Range bearish dari swing high ke swing low.
+
+48
+00:06:00,918 --> 00:06:07,052
+Harga yang sama boleh memberi bacaan berbeza dalam range yang berbeza. Jangan ubah range untuk menyokong trade.
+
+49
+00:06:09,152 --> 00:06:13,990
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+50
+00:06:14,290 --> 00:06:19,560
+Soalan satu: apakah yang menentukan sempadan atas dan bawah dealing range?
+
+51
+00:06:24,860 --> 00:06:33,346
+Jawapan: swing high dan swing low yang bermakna pada timeframe analisis, iaitu swing yang diikuti expansion dan break of structure.
+
+52
+00:06:33,646 --> 00:06:39,180
+Soalan dua: mengapa swing kecil biasanya diabaikan semasa memilih range?
+
+53
+00:06:44,480 --> 00:06:54,094
+Jawapan: ia hanya turun naik dalam pergerakan yang lebih besar. Menggunakannya memberi sempadan yang tidak stabil dan bacaan premium discount yang mengelirukan.
+
+54
+00:06:54,394 --> 00:07:11,640
+Soalan tiga: harga di 4,690. Range HTF 4,520 hingga 4,880; range LTF 4,640 hingga 4,720. Di mana harga dalam setiap range?
+
+55
+00:07:16,940 --> 00:07:31,642
+Jawapan: HTF: di bawah titik tengah 4,700, separuh bawah. LTF: di atas titik tengah 4,680, separuh atas. Range yang dipilih menentukan bacaan.
+
+56
+00:07:31,942 --> 00:07:36,780
+Soalan empat: bilakah wajar untuk menetapkan semula dealing range?
+
+57
+00:07:42,080 --> 00:07:51,310
+Jawapan: apabila struktur pasaran berubah, contohnya harga keluar dari range dan membentuk swing baharu yang jelas. Bukan untuk menyesuaikan dengan trade yang diingini.
+
+58
+00:07:53,410 --> 00:07:58,536
+Latihan praktikal: buka carta FCPO satu jam pada platform anda.
+
+59
+00:07:58,836 --> 00:08:05,186
+Tandakan swing low dan swing high utama yang terbaru, dan tulis sebab setiap swing itu bermakna.
+
+60
+00:08:05,486 --> 00:08:11,116
+Kemudian tandakan range timeframe lebih tinggi, dan bandingkan bacaan harga semasa dalam kedua-dua range.
+
+61
+00:08:13,216 --> 00:08:20,598
+Dalam video seterusnya: Equilibrium, titik tengah 50% bagi dealing range, dan peranannya sebagai titik rujukan.
+
+62
+00:08:22,698 --> 00:08:25,880
+Rujukan untuk video ini dipaparkan di skrin.
+
+63
+00:08:26,180 --> 00:08:31,714
+Rujukan analisis carta konvensional digunakan untuk konsep swing dan struktur harga.
+
+64
+00:08:33,814 --> 00:08:42,540
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+65
+00:08:42,840 --> 00:08:47,630
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 3.
+

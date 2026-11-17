@@ -1,0 +1,220 @@
+1
+00:00:00,800 --> 00:00:07,174
+Welcome back. In Video 3, we study Equilibrium, the midpoint of the dealing range.
+
+2
+00:00:07,474 --> 00:00:12,696
+You will learn to calculate equilibrium, read the position of price relative to it,
+
+3
+00:00:12,996 --> 00:00:17,762
+use it as a reference point, and understand what equilibrium cannot do.
+
+4
+00:00:19,862 --> 00:00:24,652
+Equilibrium is the 50 percent midpoint of the selected dealing range.
+
+5
+00:00:24,952 --> 00:00:30,126
+The formula is simple: range high plus range low, divided by two.
+
+6
+00:00:30,426 --> 00:00:43,952
+With a range high of 4,800 and a range low of 4,600: 4,800 plus 4,600 is 9,400. Divided by two, 4,700.
+
+7
+00:00:44,252 --> 00:00:50,722
+We mark 4,700 with a horizontal line. This is the equilibrium of this range.
+
+8
+00:00:51,022 --> 00:01:01,260
+Another way: the low plus half the range. 4,600 plus 100, also 4,700. Both methods must give the same answer.
+
+9
+00:01:01,560 --> 00:01:08,990
+Remember, equilibrium does not exist without a range. If the range changes, equilibrium changes too.
+
+10
+00:01:11,090 --> 00:01:16,408
+Now let us see how price interacts with equilibrium in this illustrative example.
+
+11
+00:01:16,708 --> 00:01:28,458
+First, price above equilibrium. After the 4,800 high, price holds in the upper half, around 4,730 to 4,760.
+
+12
+00:01:28,758 --> 00:01:34,316
+Second, price returns to equilibrium, touching 4,700.
+
+13
+00:01:34,616 --> 00:01:41,782
+Third, price below equilibrium, dropping to 4,655 in the lower half.
+
+14
+00:01:42,082 --> 00:01:51,072
+And fourth, price consolidates around equilibrium, moving between 4,692 and 4,712.
+
+15
+00:01:51,372 --> 00:01:58,130
+These four states only describe location. None of them, on its own, tells us the next direction.
+
+16
+00:02:00,230 --> 00:02:06,124
+Equilibrium divides the range into two portions: an upper portion and a lower portion.
+
+17
+00:02:06,424 --> 00:02:13,974
+To measure the position of price precisely, calculate range position: price minus low, divided by the range.
+
+18
+00:02:14,274 --> 00:02:33,008
+Example: price at 4,665. 4,665 minus 4,600 is 65. 65 divided by 200 is 0.325, or 32.5 percent. Below 50 percent, so the lower half.
+
+19
+00:02:33,308 --> 00:02:45,610
+Second example: price at 4,735. 135 divided by 200 is 67.5 percent. Above 50 percent, so the upper half.
+
+20
+00:02:45,910 --> 00:02:49,812
+This number describes where price is, not where price will go.
+
+21
+00:02:51,912 --> 00:02:56,750
+How does equilibrium help frame a retracement? Look at both sides.
+
+22
+00:02:57,050 --> 00:03:07,744
+In a bullish range, a retracement below equilibrium, for example to 4,665, takes price into the lower half of that bullish move.
+
+23
+00:03:08,044 --> 00:03:18,930
+In a bearish range, a retracement above equilibrium, for example to 4,735, takes price into the upper half of that bearish move.
+
+24
+00:03:19,230 --> 00:03:27,188
+This frames the retracement. But equilibrium does not determine market direction by itself. Direction comes from structure.
+
+25
+00:03:29,288 --> 00:03:36,670
+Now an important example. In this bullish range, price returns to equilibrium at 4,700.
+
+26
+00:03:36,970 --> 00:03:45,168
+Many traders assume 4,700 will act as support. Price bounces slightly to 4,712,
+
+27
+00:03:45,468 --> 00:03:52,706
+then continues lower straight through equilibrium, down to 4,610, near the range low.
+
+28
+00:03:53,006 --> 00:03:59,164
+Equilibrium is a mathematical reference point. It is not guaranteed support or resistance.
+
+29
+00:04:01,264 --> 00:04:03,798
+Common mistakes with equilibrium:
+
+30
+00:04:04,098 --> 00:04:12,296
+Treating equilibrium as guaranteed support or resistance. And assuming every move below 50 percent must reverse.
+
+31
+00:04:12,596 --> 00:04:21,442
+Likewise, assuming every move above 50 percent must reverse. And using equilibrium without defining the dealing range first.
+
+32
+00:04:23,542 --> 00:04:31,260
+In practice, equilibrium serves one main purpose: dividing the range into an upper half and a lower half.
+
+33
+00:04:31,560 --> 00:04:35,654
+This division becomes premium and discount in the next video.
+
+34
+00:04:35,954 --> 00:04:42,424
+It is also the same as the 0.5 level on Fibonacci, which we will use in the OTE topic.
+
+35
+00:04:44,524 --> 00:04:46,746
+Let us summarise.
+
+36
+00:04:47,046 --> 00:04:53,300
+Equilibrium is the 50 percent midpoint: range high plus range low, divided by two.
+
+37
+00:04:53,600 --> 00:04:58,918
+It divides the range into an upper and a lower half, and helps frame a retracement.
+
+38
+00:04:59,218 --> 00:05:05,088
+It is not guaranteed support or resistance, and it does not determine direction on its own.
+
+39
+00:05:07,188 --> 00:05:12,026
+Now, test your understanding. Pause the video and answer each question.
+
+40
+00:05:12,326 --> 00:05:21,532
+Question one: How is equilibrium calculated? Calculate it for a range of 4,520 to 4,880.
+
+41
+00:05:26,832 --> 00:05:40,094
+Answer: Range high plus range low, divided by two. 4,880 plus 4,520 is 9,400. Divided by two, 4,700.
+
+42
+00:05:40,394 --> 00:05:49,888
+Question two: The range is 4,600 to 4,800. Price is at 4,640. What is its range position?
+
+43
+00:05:55,188 --> 00:06:07,610
+Answer: 4,640 minus 4,600 is 40. 40 divided by 200 is 0.2, or 20 percent. Below 50 percent, so the lower half.
+
+44
+00:06:07,910 --> 00:06:12,388
+Question three: Why is equilibrium not guaranteed support?
+
+45
+00:06:17,688 --> 00:06:27,278
+Answer: It is a calculated midpoint of a selected range. Price can pass straight through it when structure and order flow favour continuation.
+
+46
+00:06:27,578 --> 00:06:32,056
+Question four: Can equilibrium alone tell you the market direction?
+
+47
+00:06:37,356 --> 00:06:45,386
+Answer: No. It describes location within a range. Direction comes from market structure and higher timeframe context.
+
+48
+00:06:47,486 --> 00:06:53,236
+Practical exercise: use the dealing range you marked in the Video 2 exercise.
+
+49
+00:06:53,536 --> 00:07:00,630
+Calculate equilibrium with both methods, mark the line, and calculate the range position of current price.
+
+50
+00:07:00,930 --> 00:07:07,784
+Then observe five price interactions with equilibrium, and record whether price reacted or passed through.
+
+51
+00:07:09,884 --> 00:07:16,642
+In the next video: Premium and Discount, and why they are location context, not automatic signals.
+
+52
+00:07:18,742 --> 00:07:21,924
+The references for this video are shown on screen.
+
+53
+00:07:22,224 --> 00:07:29,630
+The midpoint calculation is basic arithmetic. The term equilibrium in this context is ICT usage.
+
+54
+00:07:31,730 --> 00:07:40,456
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+55
+00:07:40,756 --> 00:07:45,594
+Futures trading involves the risk of loss. See you in Video 4.
+

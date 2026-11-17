@@ -1,3 +1,6 @@
 output/.audio_cache/
 output/.parts_*/
 output/stills/
+output/*.mp4
+output/.log*
+output/.queue*
