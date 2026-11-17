@@ -1,0 +1,224 @@
+1
+00:00:00,800 --> 00:00:05,470
+Welcome back. In Video 4, we study Premium and Discount.
+
+2
+00:00:05,770 --> 00:00:10,608
+You will learn to define both, apply them in bullish and bearish context,
+
+3
+00:00:10,908 --> 00:00:17,210
+and understand the most important part: premium and discount are context, not automatic signals.
+
+4
+00:00:19,310 --> 00:00:25,492
+Premium is the upper half of a selected dealing range, above the 50 percent equilibrium.
+
+5
+00:00:25,792 --> 00:00:32,070
+Discount is the lower half of a selected dealing range, below the 50 percent equilibrium.
+
+6
+00:00:32,370 --> 00:00:44,912
+In the 4,600 to 4,800 range: premium is 4,700 to 4,800, and discount is 4,600 to 4,700.
+
+7
+00:00:45,212 --> 00:00:54,442
+In this series, purple marks the premium and discount zones, and amber marks equilibrium. These colours stay consistent in every video.
+
+8
+00:00:54,742 --> 00:01:01,932
+Notice that these definitions are entirely relative. Without a range, the words premium and discount have no meaning.
+
+9
+00:01:04,032 --> 00:01:07,310
+Now the bullish context, in seven steps.
+
+10
+00:01:07,610 --> 00:01:19,576
+One: establish a relevant bullish dealing range, from the 4,600 low to the 4,800 high. Two: mark equilibrium at 4,700.
+
+11
+00:01:19,876 --> 00:01:25,026
+Three: identify the discount area, below 4,700.
+
+12
+00:01:25,326 --> 00:01:31,700
+Four: observe the retracement. Price falls from 4,800 and enters discount.
+
+13
+00:01:32,000 --> 00:01:44,710
+Five: identify a relevant bullish PD Array. During the rally, displacement left a bullish fair value gap between 4,645 and 4,668.
+
+14
+00:01:45,010 --> 00:01:55,176
+Six: evaluate liquidity context, for example whether the 4,600 range low remains intact. And wait for lower timeframe confirmation.
+
+15
+00:01:55,476 --> 00:02:06,266
+Seven: understand the difference. So far, this is only a potential setup. It becomes a trade only after confirmation, with a clear invalidation and target.
+
+16
+00:02:08,366 --> 00:02:11,332
+The bearish context is the mirror image.
+
+17
+00:02:11,632 --> 00:02:21,102
+Establish a bearish range from the 4,800 high to the 4,600 low, and mark equilibrium at 4,700.
+
+18
+00:02:21,402 --> 00:02:29,168
+Identify the premium area, above 4,700. Then observe the upward retracement into premium.
+
+19
+00:02:29,468 --> 00:02:41,002
+The relevant bearish PD Array here is the bearish fair value gap between 4,732 and 4,755, left by the downward displacement.
+
+20
+00:02:41,302 --> 00:02:50,940
+Then evaluate liquidity, buy-side above the 4,800 high, and wait for lower timeframe confirmation before considering any trade.
+
+21
+00:02:53,040 --> 00:02:58,238
+This is the most important part of this video. Discount does not automatically mean buy.
+
+22
+00:02:58,538 --> 00:03:10,336
+Example A: price enters discount, bounces weakly to 4,672, then continues lower through the fair value gap and the 4,600 range low.
+
+23
+00:03:10,636 --> 00:03:18,210
+There was no confirmed reaction, and structure turned bearish. Anyone who bought only because of discount would have lost.
+
+24
+00:03:18,510 --> 00:03:28,100
+Example B: the same structure. Price enters discount, reacts at the bullish fair value gap, and the lower timeframe confirms a bullish shift.
+
+25
+00:03:28,400 --> 00:03:35,782
+Same location. Different outcomes. The difference is the reaction and confirmation, not the location itself.
+
+26
+00:03:37,882 --> 00:03:42,552
+The same applies to premium. Premium does not automatically mean sell.
+
+27
+00:03:42,852 --> 00:03:52,586
+Example A: price enters premium, pauses, then continues higher through the bearish fair value gap and the 4,800 range high.
+
+28
+00:03:52,886 --> 00:04:02,476
+Example B: price enters premium, is rejected at the bearish fair value gap, and the lower timeframe confirms a bearish shift before price falls.
+
+29
+00:04:04,576 --> 00:04:10,254
+One more important point: price can remain in premium throughout a strong bullish trend.
+
+30
+00:04:10,554 --> 00:04:21,512
+In the 4,600 to 4,800 range, price never returns to discount. It breaks the high and keeps rising to 4,960.
+
+31
+00:04:21,812 --> 00:04:28,690
+A trader waiting for discount in the old range misses the whole move. A trader selling premium fights the trend.
+
+32
+00:04:28,990 --> 00:04:38,076
+Likewise, price can remain in discount throughout a strong bearish trend. And different timeframes can give different premium and discount readings.
+
+33
+00:04:40,176 --> 00:04:42,398
+Common mistakes:
+
+34
+00:04:42,698 --> 00:04:48,904
+Buying every discount level. Selling every premium level. And ignoring market structure.
+
+35
+00:04:49,204 --> 00:04:57,162
+Using an irrelevant dealing range. Ignoring liquidity. And the most common: confusing location with confirmation.
+
+36
+00:04:59,262 --> 00:05:01,484
+Let us summarise.
+
+37
+00:05:01,784 --> 00:05:09,190
+Premium is the upper half of the range, above equilibrium. Discount is the lower half, below equilibrium.
+
+38
+00:05:09,490 --> 00:05:17,688
+In bullish context, we look for opportunity in discount. In bearish context, in premium. But only with confirmation.
+
+39
+00:05:17,988 --> 00:05:25,226
+Premium and discount are location context, not signals. The range and timeframe determine the reading.
+
+40
+00:05:27,326 --> 00:05:32,164
+Now, test your understanding. Pause the video and answer each question.
+
+41
+00:05:32,464 --> 00:05:36,798
+Question one: Why is discount not automatically a buy signal?
+
+42
+00:05:42,098 --> 00:05:52,720
+Answer: Discount only describes location relative to a selected range. Structure may still be bearish, and price can continue lower without a confirmed reaction.
+
+43
+00:05:53,020 --> 00:06:02,658
+Question two: The range is 4,600 to 4,800. Price is at 4,760. Premium or discount?
+
+44
+00:06:07,958 --> 00:06:14,764
+Answer: Premium. 4,760 is above the 4,700 equilibrium.
+
+45
+00:06:15,064 --> 00:06:19,302
+Question three: How can price stay in premium for a long time?
+
+46
+00:06:24,602 --> 00:06:33,376
+Answer: In a strong bullish trend, price can break the range high without returning to discount. The old range becomes less relevant.
+
+47
+00:06:33,676 --> 00:06:38,106
+Question four: What separated Example A from Example B?
+
+48
+00:06:43,406 --> 00:06:53,188
+Answer: Not location: both entered discount. B showed a reaction at a relevant PD Array and lower timeframe confirmation. A did not.
+
+49
+00:06:55,288 --> 00:07:01,302
+Practical exercise: use the range and equilibrium from the previous exercises.
+
+50
+00:07:01,602 --> 00:07:07,208
+Shade premium and discount, and record where current price sits on two timeframes.
+
+51
+00:07:07,508 --> 00:07:14,602
+Then find three historical examples where price entered discount, and record whether it reacted or continued.
+
+52
+00:07:16,702 --> 00:07:25,500
+In the next video: Fibonacci Optimal Trade Entry, the 62 to 79 percent zone, and how to anchor Fibonacci correctly.
+
+53
+00:07:27,600 --> 00:07:30,782
+The references for this video are shown on screen.
+
+54
+00:07:31,082 --> 00:07:39,328
+Premium and discount are ICT terms. Support, resistance and trend concepts come from conventional technical analysis.
+
+55
+00:07:41,428 --> 00:07:50,154
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+56
+00:07:50,454 --> 00:07:55,268
+Futures trading involves the risk of loss. See you in Video 5.
+

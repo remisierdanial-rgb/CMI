@@ -1,0 +1,260 @@
+1
+00:00:00,800 --> 00:00:07,078
+Welcome back. In Video 5, we study Fibonacci Optimal Trade Entry, or OTE.
+
+2
+00:00:07,378 --> 00:00:15,912
+You will understand the OTE framework, the key Fibonacci levels, and how to anchor Fibonacci correctly for bullish and bearish legs.
+
+3
+00:00:16,212 --> 00:00:22,610
+We will also see how to combine OTE with confluence, without counting the same evidence twice.
+
+4
+00:00:24,710 --> 00:00:32,644
+Optimal Trade Entry is the ICT term for a retracement area identified with Fibonacci on a selected price leg.
+
+5
+00:00:32,944 --> 00:00:43,038
+The idea: after a strong impulse, price often retraces before continuing. OTE marks an area within that retracement that may be worth studying.
+
+6
+00:00:43,338 --> 00:00:56,216
+In this example, a bullish impulse runs from 4,600 to 4,800. The OTE zone sits between 4,642 and 4,676.
+
+7
+00:00:56,516 --> 00:01:04,354
+Important: OTE is a framework for identifying a potential retracement area. It is not a guaranteed entry signal.
+
+8
+00:01:06,454 --> 00:01:15,444
+Let us look at the key Fibonacci levels, using a bullish leg from 4,600 to 4,800, which is 200 points.
+
+9
+00:01:15,744 --> 00:01:28,814
+0.5 is half the leg, 4,700. This equals equilibrium. 0.618 is the classic Fibonacci ratio, 4,676.4.
+
+10
+00:01:29,114 --> 00:01:39,616
+ICT rounds 0.618 to 0.62, which is 4,676. This is the upper boundary of the OTE zone.
+
+11
+00:01:39,916 --> 00:01:53,370
+0.79 is the lower boundary, 4,642. And 0.705, the midpoint between 62 and 79, is 4,659.
+
+12
+00:01:53,670 --> 00:02:03,068
+So the commonly referenced OTE zone is the 62 to 79 percent retracement, with 70.5 percent as the midpoint reference.
+
+13
+00:02:03,368 --> 00:02:16,054
+The calculation: price equals the high minus the ratio times the leg. For example, 4,800 minus 0.79 times 200 is 4,642.
+
+14
+00:02:18,154 --> 00:02:22,320
+This is a critical technical section: Fibonacci anchoring.
+
+15
+00:02:22,620 --> 00:02:34,826
+For a bullish leg, identify the start of the impulse, the 4,600 swing low, and its end, the 4,800 swing high. Draw Fibonacci from the low to the high.
+
+16
+00:02:35,126 --> 00:02:45,244
+In this series convention, 0 sits at the end of the impulse, the high, and 1 at its start, the low. Retracement is measured downward from the high.
+
+17
+00:02:45,544 --> 00:02:58,422
+For a bearish leg, the reverse: draw from the 4,800 swing high to the 4,600 swing low. 0 sits at the low, 1 at the high, and retracement is measured upward.
+
+18
+00:02:58,722 --> 00:03:11,696
+The bullish OTE zone is 4,642 to 4,676. The bearish OTE zone is 4,724 to 4,758.
+
+19
+00:03:11,996 --> 00:03:24,322
+Caution: some platforms display values in the opposite orientation, with 0 at the start of the leg. In that view, the same zone is labelled 0.21 to 0.38.
+
+20
+00:03:24,622 --> 00:03:33,972
+The labels change, but the price zone stays the same. We keep one convention throughout this series, and never reverse the bullish and bearish anchors.
+
+21
+00:03:36,072 --> 00:03:40,142
+Now a complete bullish OTE example, in nine steps.
+
+22
+00:03:40,442 --> 00:03:52,456
+One: price establishes a meaningful low at 4,600. Two: price makes a bullish displacement leg, leaving a fair value gap, up to 4,800.
+
+23
+00:03:52,756 --> 00:04:04,194
+Three: identify the 4,600 swing low and the 4,800 swing high. Four: apply Fibonacci from the low to the high, using the bullish convention.
+
+24
+00:04:04,494 --> 00:04:13,556
+Five: highlight the 62 to 79 percent zone, 4,642 to 4,676.
+
+25
+00:04:13,856 --> 00:04:29,542
+Six: price retraces into the zone, to around 4,650. Seven: the zone overlaps the bullish fair value gap, 4,645 to 4,668, a potential PD Array.
+
+26
+00:04:29,842 --> 00:04:39,216
+Eight: wait for lower timeframe confirmation. Here, price forms a bullish shift and closes back above 4,660.
+
+27
+00:04:39,516 --> 00:04:55,562
+Nine: plan the execution. An illustrative entry at 4,665. Invalidation below the start of the leg, 4,590. First target, the 4,800 high where buy-side liquidity rests.
+
+28
+00:04:55,862 --> 00:05:05,188
+Risk 75 points for a potential 135 points, about 1 to 1.8. This is a plan, not a guaranteed outcome.
+
+29
+00:05:07,288 --> 00:05:11,958
+The bearish example follows the same process in the opposite direction.
+
+30
+00:05:12,258 --> 00:05:22,688
+Price establishes a meaningful high at 4,800, then a bearish displacement leg falls to 4,600, leaving a bearish fair value gap.
+
+31
+00:05:22,988 --> 00:05:34,282
+Draw Fibonacci from the 4,800 high to the 4,600 low. The OTE zone is 4,724 to 4,758.
+
+32
+00:05:34,582 --> 00:05:46,836
+Price retraces up to around 4,750, into the zone that overlaps the bearish fair value gap, 4,732 to 4,755.
+
+33
+00:05:47,136 --> 00:06:02,798
+After a lower timeframe bearish shift, an illustrative entry at 4,735, invalidation above the leg start at 4,810, and a target at the 4,600 low where sell-side liquidity rests.
+
+34
+00:06:04,898 --> 00:06:15,136
+OTE is often combined with other factors: premium or discount location, order blocks, fair value gaps, liquidity, and structural confirmation.
+
+35
+00:06:15,436 --> 00:06:26,706
+But notice one thing. A bullish OTE zone, 62 to 79 percent, always sits below 50 percent of the same leg. So it is always in that leg's discount.
+
+36
+00:06:27,006 --> 00:06:34,724
+This means OTE and discount from the same leg are not two independent pieces of evidence. They are one location reading.
+
+37
+00:06:35,024 --> 00:06:43,654
+More independent evidence comes from a PD Array formed by displacement, liquidity context, and lower timeframe structural confirmation.
+
+38
+00:06:43,954 --> 00:06:49,632
+Overlap may strengthen the analytical case, but it does not guarantee a price reaction.
+
+39
+00:06:51,732 --> 00:06:54,050
+Common OTE mistakes:
+
+40
+00:06:54,350 --> 00:07:03,916
+Incorrect Fibonacci anchoring. Applying OTE to an irrelevant price leg. And treating 70.5 percent as a magical price level.
+
+41
+00:07:04,216 --> 00:07:12,438
+Entering automatically when price touches the zone. Ignoring market direction. Ignoring liquidity and structural confirmation.
+
+42
+00:07:12,738 --> 00:07:18,584
+And selecting the impulse leg after the fact, just to make an OTE zone look perfect.
+
+43
+00:07:20,684 --> 00:07:22,906
+Let us summarise.
+
+44
+00:07:23,206 --> 00:07:32,412
+OTE is the 62 to 79 percent retracement zone of a selected leg, with 70.5 percent as the midpoint reference.
+
+45
+00:07:32,712 --> 00:07:38,582
+Anchor bullish legs from low to high, bearish legs from high to low. Keep one convention.
+
+46
+00:07:38,882 --> 00:07:45,424
+OTE and discount from the same leg are one reading. And OTE is location, not a signal.
+
+47
+00:07:47,524 --> 00:07:52,362
+Now, test your understanding. Pause the video and answer each question.
+
+48
+00:07:52,662 --> 00:07:58,460
+Question one: What is the commonly referenced ICT OTE retracement range?
+
+49
+00:08:03,760 --> 00:08:12,774
+Answer: 62% to 79% of the selected leg, with 70.5% often used as the midpoint reference.
+
+50
+00:08:13,074 --> 00:08:24,584
+Question two: A bullish leg runs from 4,520 to 4,880. Calculate the 0.62 and 0.79 levels.
+
+51
+00:08:29,884 --> 00:08:51,018
+Answer: The range is 360. For 0.62, 4,880 minus 223.2 is 4,656.8. For 0.79, 4,880 minus 284.4 is 4,595.6.
+
+52
+00:08:51,318 --> 00:08:57,452
+Question three: Where do you anchor Fibonacci for a bearish leg, in this series convention?
+
+53
+00:09:02,752 --> 00:09:12,510
+Answer: From the swing high (start, 1) to the swing low (end, 0). The OTE zone is then above the low, measured upward.
+
+54
+00:09:12,810 --> 00:09:19,664
+Question four: Why are "in OTE" and "in discount" from the same leg not two confluences?
+
+55
+00:09:24,964 --> 00:09:37,314
+Answer: A bullish 62–79% retracement is always below that leg's 50%. Both readings come from the same range, so they are one piece of location evidence.
+
+56
+00:09:37,614 --> 00:09:43,220
+Question five: Price touches the 70.5% level. Should you enter?
+
+57
+00:09:48,520 --> 00:09:58,782
+Answer: Not automatically. A touch is location only. Look for a relevant PD Array, liquidity context, and lower timeframe confirmation first.
+
+58
+00:10:00,882 --> 00:10:07,832
+Practical exercise: choose one meaningful impulse leg on your chart, one bullish and one bearish.
+
+59
+00:10:08,132 --> 00:10:19,282
+Apply Fibonacci using the series convention, calculate 0.62, 0.705 and 0.79 by hand, and compare with your platform.
+
+60
+00:10:19,582 --> 00:10:25,572
+Then record whether the zone overlaps a PD Array, and whether price gave confirmation.
+
+61
+00:10:27,672 --> 00:10:35,510
+In the next video, we begin the PD Arrays with the Order Block: identification, context, and weak examples.
+
+62
+00:10:37,610 --> 00:10:40,792
+The references for this video are shown on screen.
+
+63
+00:10:41,092 --> 00:10:48,618
+OTE is an ICT term. Fibonacci ratios and retracements are discussed in conventional technical analysis.
+
+64
+00:10:50,718 --> 00:10:59,444
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+65
+00:10:59,744 --> 00:11:04,654
+Futures trading involves the risk of loss. See you in Video 6.
+

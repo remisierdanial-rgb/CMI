@@ -1,0 +1,224 @@
+1
+00:00:00,800 --> 00:00:05,470
+Selamat kembali. Dalam Video 4, kita mempelajari Premium dan Discount.
+
+2
+00:00:05,770 --> 00:00:10,608
+Anda akan belajar mentakrifkan kedua-duanya, menggunakannya dalam konteks bullish dan bearish,
+
+3
+00:00:10,908 --> 00:00:17,210
+dan memahami bahagian paling penting: premium dan discount ialah konteks, bukan isyarat automatik.
+
+4
+00:00:19,310 --> 00:00:25,492
+Premium ialah separuh atas dealing range yang dipilih, di atas equilibrium 50 peratus.
+
+5
+00:00:25,792 --> 00:00:32,070
+Discount ialah separuh bawah dealing range yang dipilih, di bawah equilibrium 50 peratus.
+
+6
+00:00:32,370 --> 00:00:44,912
+Dalam range 4,600 hingga 4,800: premium ialah 4,700 hingga 4,800, dan discount ialah 4,600 hingga 4,700.
+
+7
+00:00:45,212 --> 00:00:54,442
+Dalam siri ini, ungu digunakan untuk zon premium dan discount, dan amber untuk equilibrium. Warna ini kekal dalam setiap video.
+
+8
+00:00:54,742 --> 00:01:01,932
+Perhatikan bahawa definisi ini sepenuhnya relatif. Tanpa range, perkataan premium dan discount tidak bermakna.
+
+9
+00:01:04,032 --> 00:01:07,310
+Sekarang konteks bullish, dalam tujuh langkah.
+
+10
+00:01:07,610 --> 00:01:19,576
+Satu: wujudkan dealing range bullish yang relevan, dari low 4,600 ke high 4,800. Dua: tandakan equilibrium di 4,700.
+
+11
+00:01:19,876 --> 00:01:25,026
+Tiga: kenal pasti kawasan discount, di bawah 4,700.
+
+12
+00:01:25,326 --> 00:01:31,700
+Empat: perhatikan retracement. Harga turun dari 4,800 dan memasuki discount.
+
+13
+00:01:32,000 --> 00:01:44,710
+Lima: kenal pasti PD Array bullish yang relevan. Semasa rally, displacement meninggalkan fair value gap bullish antara 4,645 dan 4,668.
+
+14
+00:01:45,010 --> 00:01:55,176
+Enam: nilai konteks liquidity, contohnya sama ada range low 4,600 masih utuh. Dan tunggu confirmation pada lower timeframe.
+
+15
+00:01:55,476 --> 00:02:06,266
+Tujuh: fahami perbezaannya. Setakat ini, ini hanyalah setup berpotensi. Ia menjadi trade hanya selepas confirmation, dengan invalidation dan target yang jelas.
+
+16
+00:02:08,366 --> 00:02:11,332
+Konteks bearish ialah cerminannya.
+
+17
+00:02:11,632 --> 00:02:21,102
+Wujudkan range bearish dari high 4,800 ke low 4,600, dan tandakan equilibrium di 4,700.
+
+18
+00:02:21,402 --> 00:02:29,168
+Kenal pasti kawasan premium, di atas 4,700. Kemudian perhatikan retracement ke atas, memasuki premium.
+
+19
+00:02:29,468 --> 00:02:41,002
+PD Array bearish yang relevan di sini ialah fair value gap bearish antara 4,732 dan 4,755, yang ditinggalkan oleh displacement ke bawah.
+
+20
+00:02:41,302 --> 00:02:50,940
+Kemudian nilai liquidity, buy-side di atas high 4,800, dan tunggu confirmation lower timeframe sebelum mempertimbangkan sebarang trade.
+
+21
+00:02:53,040 --> 00:02:58,238
+Ini bahagian yang paling penting dalam video ini. Discount tidak bermakna beli secara automatik.
+
+22
+00:02:58,538 --> 00:03:10,336
+Contoh A: harga memasuki discount, melantun lemah ke 4,672, kemudian terus jatuh menembusi fair value gap dan range low 4,600.
+
+23
+00:03:10,636 --> 00:03:18,210
+Tiada tindak balas yang disahkan, dan struktur bertukar bearish. Sesiapa yang membeli hanya kerana "discount" akan rugi.
+
+24
+00:03:18,510 --> 00:03:28,100
+Contoh B: struktur yang sama. Harga memasuki discount, bertindak balas di fair value gap bullish, dan lower timeframe mengesahkan bullish shift.
+
+25
+00:03:28,400 --> 00:03:35,782
+Lokasi yang sama. Hasil yang berbeza. Perbezaannya ialah tindak balas dan confirmation, bukan lokasi itu sendiri.
+
+26
+00:03:37,882 --> 00:03:42,552
+Perkara yang sama berlaku untuk premium. Premium tidak bermakna jual secara automatik.
+
+27
+00:03:42,852 --> 00:03:52,586
+Contoh A: harga memasuki premium, berhenti seketika, kemudian terus naik menembusi fair value gap bearish dan range high 4,800.
+
+28
+00:03:52,886 --> 00:04:02,476
+Contoh B: harga memasuki premium, ditolak di fair value gap bearish, dan lower timeframe mengesahkan bearish shift sebelum harga jatuh.
+
+29
+00:04:04,576 --> 00:04:10,254
+Satu lagi perkara penting: harga boleh kekal di premium sepanjang trend bullish yang kuat.
+
+30
+00:04:10,554 --> 00:04:21,512
+Dalam range 4,600 hingga 4,800, harga tidak pernah kembali ke discount. Ia menembusi high dan terus naik ke 4,960.
+
+31
+00:04:21,812 --> 00:04:28,690
+Trader yang menunggu discount dalam range lama akan terlepas keseluruhan pergerakan. Trader yang menjual premium akan melawan trend.
+
+32
+00:04:28,990 --> 00:04:38,076
+Begitu juga, harga boleh kekal di discount sepanjang trend bearish yang kuat. Dan timeframe berbeza boleh memberi bacaan premium dan discount yang berbeza.
+
+33
+00:04:40,176 --> 00:04:42,398
+Kesilapan biasa:
+
+34
+00:04:42,698 --> 00:04:48,904
+Membeli setiap aras discount. Menjual setiap aras premium. Dan mengabaikan struktur pasaran.
+
+35
+00:04:49,204 --> 00:04:57,162
+Menggunakan dealing range yang tidak relevan. Mengabaikan liquidity. Dan yang paling biasa: mengelirukan lokasi dengan confirmation.
+
+36
+00:04:59,262 --> 00:05:01,484
+Mari rumuskan.
+
+37
+00:05:01,784 --> 00:05:09,190
+Premium ialah separuh atas range, di atas equilibrium. Discount ialah separuh bawah, di bawah equilibrium.
+
+38
+00:05:09,490 --> 00:05:17,688
+Dalam konteks bullish, kita mencari peluang di discount. Dalam konteks bearish, di premium. Tetapi hanya dengan confirmation.
+
+39
+00:05:17,988 --> 00:05:25,226
+Premium dan discount ialah konteks lokasi, bukan isyarat. Range dan timeframe menentukan bacaannya.
+
+40
+00:05:27,326 --> 00:05:32,164
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+41
+00:05:32,464 --> 00:05:36,798
+Soalan satu: mengapa discount bukan isyarat beli automatik?
+
+42
+00:05:42,098 --> 00:05:52,720
+Jawapan: discount hanya menerangkan lokasi relatif kepada range yang dipilih. Struktur mungkin masih bearish, dan harga boleh terus jatuh tanpa tindak balas yang disahkan.
+
+43
+00:05:53,020 --> 00:06:02,658
+Soalan dua: range 4,600 hingga 4,800. Harga di 4,760. Premium atau discount?
+
+44
+00:06:07,958 --> 00:06:14,764
+Jawapan: premium. 4,760 berada di atas equilibrium 4,700.
+
+45
+00:06:15,064 --> 00:06:19,302
+Soalan tiga: bagaimana harga boleh kekal di premium untuk masa yang lama?
+
+46
+00:06:24,602 --> 00:06:33,376
+Jawapan: dalam trend bullish yang kuat, harga boleh menembusi range high tanpa kembali ke discount. Range lama menjadi kurang relevan.
+
+47
+00:06:33,676 --> 00:06:38,106
+Soalan empat: apakah yang membezakan Contoh A dan Contoh B?
+
+48
+00:06:43,406 --> 00:06:53,188
+Jawapan: bukan lokasi, kerana kedua-duanya memasuki discount. B menunjukkan tindak balas di PD Array yang relevan dan confirmation lower timeframe. A tidak.
+
+49
+00:06:55,288 --> 00:07:01,302
+Latihan praktikal: gunakan range dan equilibrium daripada latihan sebelumnya.
+
+50
+00:07:01,602 --> 00:07:07,208
+Lorekkan premium dan discount, dan catat di mana harga semasa berada pada dua timeframe.
+
+51
+00:07:07,508 --> 00:07:14,602
+Kemudian cari tiga contoh sejarah di mana harga memasuki discount, dan catat sama ada ia bertindak balas atau terus bergerak.
+
+52
+00:07:16,702 --> 00:07:25,500
+Dalam video seterusnya: Fibonacci Optimal Trade Entry, zon 62 hingga 79 peratus, dan cara anchor Fibonacci dengan betul.
+
+53
+00:07:27,600 --> 00:07:30,782
+Rujukan untuk video ini dipaparkan di skrin.
+
+54
+00:07:31,082 --> 00:07:39,328
+Premium dan discount ialah istilah ICT. Konsep support, resistance dan trend daripada analisis teknikal konvensional.
+
+55
+00:07:41,428 --> 00:07:50,154
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+56
+00:07:50,454 --> 00:07:55,268
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 5.
+

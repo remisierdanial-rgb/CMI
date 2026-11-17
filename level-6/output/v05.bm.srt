@@ -1,0 +1,260 @@
+1
+00:00:00,800 --> 00:00:07,078
+Selamat kembali. Dalam Video 5, kita mempelajari Fibonacci Optimal Trade Entry, atau OTE.
+
+2
+00:00:07,378 --> 00:00:15,912
+Anda akan memahami kerangka OTE, aras Fibonacci yang penting, dan cara anchor Fibonacci dengan betul untuk bullish dan bearish.
+
+3
+00:00:16,212 --> 00:00:22,610
+Kita juga akan melihat cara menggabungkan OTE dengan confluence, tanpa mengira bukti yang sama dua kali.
+
+4
+00:00:24,710 --> 00:00:32,644
+Optimal Trade Entry ialah istilah ICT bagi kawasan retracement yang dikenal pasti menggunakan Fibonacci pada satu price leg yang dipilih.
+
+5
+00:00:32,944 --> 00:00:43,038
+Ideanya: selepas impulse yang kuat, harga sering membuat retracement sebelum menyambung. OTE menandakan kawasan dalam retracement itu yang mungkin menarik untuk dikaji.
+
+6
+00:00:43,338 --> 00:00:56,216
+Dalam contoh ini, impulse bullish bergerak dari 4,600 ke 4,800. Zon OTE berada di antara 4,642 dan 4,676.
+
+7
+00:00:56,516 --> 00:01:04,354
+Penting: OTE ialah kerangka untuk mengenal pasti kawasan retracement yang berpotensi. Ia bukan isyarat entry yang dijamin.
+
+8
+00:01:06,454 --> 00:01:15,444
+Mari lihat aras Fibonacci yang penting, menggunakan leg bullish 4,600 ke 4,800, iaitu 200 mata.
+
+9
+00:01:15,744 --> 00:01:28,814
+0.5 ialah separuh leg, 4,700. Ini sama dengan equilibrium. 0.618 ialah nisbah Fibonacci klasik, 4,676.4.
+
+10
+00:01:29,114 --> 00:01:39,616
+ICT membundarkan 0.618 kepada 0.62, iaitu 4,676. Ini sempadan atas zon OTE.
+
+11
+00:01:39,916 --> 00:01:53,370
+0.79 ialah sempadan bawah, 4,642. Dan 0.705, titik tengah antara 62 dan 79, ialah 4,659.
+
+12
+00:01:53,670 --> 00:02:03,068
+Jadi zon OTE yang biasa dirujuk ialah retracement 62 hingga 79 peratus, dengan 70.5 peratus sebagai rujukan tengah.
+
+13
+00:02:03,368 --> 00:02:16,054
+Pengiraannya: harga sama dengan high tolak nisbah, darab jarak leg. Contohnya, 4,800 tolak 0.79 darab 200, ialah 4,642.
+
+14
+00:02:18,154 --> 00:02:22,320
+Ini bahagian teknikal yang kritikal: anchor Fibonacci.
+
+15
+00:02:22,620 --> 00:02:34,826
+Untuk leg bullish, kenal pasti permulaan impulse, swing low 4,600, dan penghujungnya, swing high 4,800. Tarik Fibonacci dari low ke high.
+
+16
+00:02:35,126 --> 00:02:45,244
+Dalam konvensyen siri ini, 0 berada di hujung impulse, iaitu high, dan 1 di permulaannya, iaitu low. Retracement diukur ke bawah dari high.
+
+17
+00:02:45,544 --> 00:02:58,422
+Untuk leg bearish, sebaliknya: tarik dari swing high 4,800 ke swing low 4,600. 0 berada di low, 1 di high, dan retracement diukur ke atas.
+
+18
+00:02:58,722 --> 00:03:11,696
+Zon OTE bullish ialah 4,642 hingga 4,676. Zon OTE bearish ialah 4,724 hingga 4,758.
+
+19
+00:03:11,996 --> 00:03:24,322
+Perhatian: sesetengah platform memaparkan nilai terbalik, dengan 0 di permulaan leg. Pada paparan itu, zon yang sama dilabel 0.21 hingga 0.38.
+
+20
+00:03:24,622 --> 00:03:33,972
+Label berubah, tetapi zon harga tetap sama. Kita kekalkan satu konvensyen sepanjang siri ini, dan jangan sekali-kali terbalikkan anchor bullish dan bearish.
+
+21
+00:03:36,072 --> 00:03:40,142
+Sekarang contoh OTE bullish yang lengkap, dalam sembilan langkah.
+
+22
+00:03:40,442 --> 00:03:52,456
+Satu: harga membentuk low yang bermakna di 4,600. Dua: harga membuat leg displacement bullish, meninggalkan fair value gap, hingga ke 4,800.
+
+23
+00:03:52,756 --> 00:04:04,194
+Tiga: kenal pasti swing low 4,600 dan swing high 4,800. Empat: tarik Fibonacci dari low ke high, mengikut konvensyen bullish.
+
+24
+00:04:04,494 --> 00:04:13,556
+Lima: tandakan zon 62 hingga 79 peratus, iaitu 4,642 hingga 4,676.
+
+25
+00:04:13,856 --> 00:04:29,542
+Enam: harga retrace ke dalam zon, ke sekitar 4,650. Tujuh: zon ini bertindih dengan fair value gap bullish, 4,645 hingga 4,668, iaitu PD Array yang berpotensi.
+
+26
+00:04:29,842 --> 00:04:39,216
+Lapan: tunggu confirmation lower timeframe. Di sini, harga membentuk bullish shift dan close di atas 4,660.
+
+27
+00:04:39,516 --> 00:04:55,562
+Sembilan: rancang execution. Entry ilustrasi di 4,665. Invalidation di bawah permulaan leg, 4,590. Target pertama, high 4,800 di mana buy-side liquidity berada.
+
+28
+00:04:55,862 --> 00:05:05,188
+Risiko 75 mata untuk potensi 135 mata, kira-kira 1 kepada 1.8. Ini satu rancangan, bukan keputusan yang dijamin.
+
+29
+00:05:07,288 --> 00:05:11,958
+Contoh bearish mengikut proses yang sama, dalam arah bertentangan.
+
+30
+00:05:12,258 --> 00:05:22,688
+Harga membentuk high yang bermakna di 4,800, kemudian leg displacement bearish turun ke 4,600, meninggalkan fair value gap bearish.
+
+31
+00:05:22,988 --> 00:05:34,282
+Tarik Fibonacci dari high 4,800 ke low 4,600. Zon OTE ialah 4,724 hingga 4,758.
+
+32
+00:05:34,582 --> 00:05:46,836
+Harga retrace ke atas ke sekitar 4,750, ke dalam zon yang bertindih dengan fair value gap bearish, 4,732 hingga 4,755.
+
+33
+00:05:47,136 --> 00:06:02,798
+Selepas bearish shift pada lower timeframe, entry ilustrasi di 4,735, invalidation di atas permulaan leg, 4,810, dan target low 4,600 di mana sell-side liquidity berada.
+
+34
+00:06:04,898 --> 00:06:15,136
+OTE sering digabungkan dengan faktor lain: lokasi premium atau discount, order block, fair value gap, liquidity, dan confirmation struktur.
+
+35
+00:06:15,436 --> 00:06:26,706
+Tetapi perhatikan satu perkara. Zon OTE bullish, 62 hingga 79 peratus, sentiasa berada di bawah 50 peratus leg yang sama. Jadi ia sentiasa di discount leg itu.
+
+36
+00:06:27,006 --> 00:06:34,724
+Ini bermakna OTE dan discount daripada leg yang sama bukan dua bukti bebas. Ia satu bacaan lokasi yang sama.
+
+37
+00:06:35,024 --> 00:06:43,654
+Bukti yang lebih bebas ialah PD Array yang terbentuk daripada displacement, konteks liquidity, dan confirmation struktur pada lower timeframe.
+
+38
+00:06:43,954 --> 00:06:49,632
+Tindihan boleh menguatkan hujah analitikal, tetapi ia tidak menjamin tindak balas harga.
+
+39
+00:06:51,732 --> 00:06:54,050
+Kesilapan biasa dengan OTE:
+
+40
+00:06:54,350 --> 00:07:03,916
+Anchor Fibonacci yang salah. Menggunakan OTE pada price leg yang tidak relevan. Dan menganggap 70.5 peratus sebagai aras ajaib.
+
+41
+00:07:04,216 --> 00:07:12,438
+Entry secara automatik apabila harga menyentuh zon. Mengabaikan arah pasaran. Mengabaikan liquidity dan confirmation struktur.
+
+42
+00:07:12,738 --> 00:07:18,584
+Dan memilih impulse leg selepas kejadian, semata-mata supaya zon OTE kelihatan sempurna.
+
+43
+00:07:20,684 --> 00:07:22,906
+Mari rumuskan.
+
+44
+00:07:23,206 --> 00:07:32,412
+OTE ialah zon retracement 62 hingga 79 peratus pada leg yang dipilih, dengan 70.5 peratus sebagai rujukan tengah.
+
+45
+00:07:32,712 --> 00:07:38,582
+Anchor bullish dari low ke high, bearish dari high ke low. Kekalkan satu konvensyen.
+
+46
+00:07:38,882 --> 00:07:45,424
+OTE dan discount dari leg yang sama ialah satu bacaan. Dan OTE ialah lokasi, bukan isyarat.
+
+47
+00:07:47,524 --> 00:07:52,362
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+48
+00:07:52,662 --> 00:07:58,460
+Soalan satu: apakah julat retracement OTE ICT yang biasa dirujuk?
+
+49
+00:08:03,760 --> 00:08:12,774
+Jawapan: 62 hingga 79 peratus daripada leg yang dipilih, dengan 70.5 peratus sering digunakan sebagai rujukan tengah.
+
+50
+00:08:13,074 --> 00:08:24,584
+Soalan dua: leg bullish 4,520 ke 4,880. Kira aras 0.62 dan 0.79.
+
+51
+00:08:29,884 --> 00:08:51,018
+Jawapan: jarak 360. 0.62: 4,880 tolak 223.2 ialah 4,656.8. 0.79: 4,880 tolak 284.4 ialah 4,595.6.
+
+52
+00:08:51,318 --> 00:08:57,452
+Soalan tiga: di mana anda anchor Fibonacci untuk leg bearish, dalam konvensyen siri ini?
+
+53
+00:09:02,752 --> 00:09:12,510
+Jawapan: dari swing high, iaitu permulaan dan nilai 1, ke swing low, iaitu penghujung dan nilai 0. Zon OTE kemudian diukur ke atas.
+
+54
+00:09:12,810 --> 00:09:19,664
+Soalan empat: mengapa "dalam OTE" dan "dalam discount" daripada leg yang sama bukan dua confluence?
+
+55
+00:09:24,964 --> 00:09:37,314
+Jawapan: retracement bullish 62 hingga 79 peratus sentiasa di bawah 50 peratus leg itu. Kedua-dua bacaan datang daripada range yang sama, jadi ia satu bukti lokasi.
+
+56
+00:09:37,614 --> 00:09:43,220
+Soalan lima: harga menyentuh aras 70.5 peratus. Patutkah anda entry?
+
+57
+00:09:48,520 --> 00:09:58,782
+Jawapan: tidak secara automatik. Sentuhan hanya lokasi. Cari PD Array yang relevan, konteks liquidity, dan confirmation lower timeframe dahulu.
+
+58
+00:10:00,882 --> 00:10:07,832
+Latihan praktikal: pilih satu impulse leg yang bermakna pada carta anda, bullish dan bearish.
+
+59
+00:10:08,132 --> 00:10:19,282
+Tarik Fibonacci mengikut konvensyen siri ini, kira aras 0.62, 0.705 dan 0.79 secara manual, dan bandingkan dengan platform.
+
+60
+00:10:19,582 --> 00:10:25,572
+Kemudian catat sama ada zon itu bertindih dengan PD Array, dan sama ada harga memberi confirmation.
+
+61
+00:10:27,672 --> 00:10:35,510
+Dalam video seterusnya, kita memulakan PD Arrays dengan Order Block: cara mengenal pasti, konteks, dan contoh yang lemah.
+
+62
+00:10:37,610 --> 00:10:40,792
+Rujukan untuk video ini dipaparkan di skrin.
+
+63
+00:10:41,092 --> 00:10:48,618
+OTE ialah istilah ICT. Nisbah Fibonacci dan retracement dibincangkan dalam analisis teknikal konvensional.
+
+64
+00:10:50,718 --> 00:10:59,444
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+65
+00:10:59,744 --> 00:11:04,654
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 6.
+
