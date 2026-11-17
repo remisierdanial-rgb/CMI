@@ -1,0 +1,208 @@
+1
+00:00:00,800 --> 00:00:07,774
+Selamat kembali. Video 6 memulakan subtopik kelima: PD Arrays. Kita mula dengan Order Block.
+
+2
+00:00:08,074 --> 00:00:15,312
+Anda akan memahami maksud PD Arrays, mengenal pasti order block bullish dan bearish, dan membaca konteks strukturnya.
+
+3
+00:00:15,612 --> 00:00:22,274
+Kita juga akan melihat contoh yang lemah dan yang tidak sah, kerana tidak setiap candle lawan arah ialah order block.
+
+4
+00:00:24,374 --> 00:00:33,268
+PD Arrays ialah istilah ICT bagi sekumpulan struktur atau aras rujukan harga yang digunakan untuk menganalisis kawasan minat yang berpotensi.
+
+5
+00:00:33,568 --> 00:00:40,638
+PD bermaksud premium dan discount. Ia dinilai bersama lokasi dalam dealing range yang telah kita pelajari.
+
+6
+00:00:40,938 --> 00:00:52,280
+Lapan jenis akan kita pelajari: order block, breaker, mitigation block, rejection block, fair value gap, inverse fair value gap, liquidity void, dan old high atau low.
+
+7
+00:00:52,580 --> 00:01:00,970
+Penting: ini konsep analitikal. Ia bukan bukti order institusi, dan bukan jaminan tindak balas harga.
+
+8
+00:01:03,070 --> 00:01:11,820
+Dalam konvensyen ICT yang kita gunakan, order block bullish ialah candle down-close terakhir sebelum displacement ke atas yang memecahkan struktur.
+
+9
+00:01:12,120 --> 00:01:22,406
+Lihat formasinya. Harga turun, dan candle merah terakhir ini dibuka di 4,662 dan ditutup di 4,644.
+
+10
+00:01:22,706 --> 00:01:32,488
+Kemudian berlaku displacement: candle bullish yang besar dan pantas, meninggalkan fair value gap, dan memecahkan swing high sebelumnya di 4,705.
+
+11
+00:01:32,788 --> 00:01:45,906
+Kerana displacement dan break of structure ini, candle merah tadi ditandakan sebagai order block bullish. Zon default ialah body, 4,644 hingga 4,662.
+
+12
+00:01:46,206 --> 00:02:00,284
+Titik tengah body, 4,653, dipanggil mean threshold. Sesetengah pengamal menggunakan julat penuh termasuk wick, 4,638 hingga 4,666.
+
+13
+00:02:00,584 --> 00:02:10,414
+Kemudian harga retrace dan kembali ke order block. Ini dipanggil mitigation. Harga menyentuh 4,656 dan bertindak balas.
+
+14
+00:02:10,714 --> 00:02:19,584
+Jika harga close di bawah order block, iaitu di bawah 4,638, order block itu dianggap gagal dalam konvensyen ini.
+
+15
+00:02:21,684 --> 00:02:29,090
+Order block bearish ialah cerminannya: candle up-close terakhir sebelum displacement ke bawah yang memecahkan struktur.
+
+16
+00:02:29,390 --> 00:02:42,436
+Di sini, candle hijau terakhir dibuka di 4,738 dan ditutup di 4,756. Kemudian displacement ke bawah memecahkan swing low 4,695.
+
+17
+00:02:42,736 --> 00:02:59,478
+Zon body ialah 4,738 hingga 4,756, dengan mean threshold di 4,747. Harga kemudian retrace ke 4,745, ke dalam order block, dan bertindak balas ke bawah.
+
+18
+00:02:59,778 --> 00:03:05,840
+Order block bearish ini gagal jika harga close di atas 4,762.
+
+19
+00:03:07,940 --> 00:03:12,202
+Sekarang dua contoh yang tidak patut dilabel sebagai order block yang kukuh.
+
+20
+00:03:12,502 --> 00:03:21,852
+Contoh A: ada candle merah terakhir sebelum harga naik, tetapi kenaikannya perlahan, tiada displacement, dan tiada swing high yang dipecahkan.
+
+21
+00:03:22,152 --> 00:03:30,638
+Tanpa displacement dan break of structure, candle itu hanyalah candle merah biasa, bukan order block mengikut metodologi ini.
+
+22
+00:03:30,938 --> 00:03:41,968
+Contoh B: order block yang sah pada mulanya. Tetapi apabila harga kembali, ia close di bawah 4,638 dan terus jatuh. Order block ini telah gagal.
+
+23
+00:03:42,268 --> 00:03:48,714
+Order block yang telah ditembusi dengan body close tidak lagi digunakan sebagai zon bullish yang sama.
+
+24
+00:03:50,814 --> 00:03:55,748
+Order block yang sah secara bentuk masih perlu dinilai dalam konteks.
+
+25
+00:03:56,048 --> 00:04:05,854
+Lokasi: order block bullish lebih relevan di discount dealing range higher timeframe. Order block bearish lebih relevan di premium.
+
+26
+00:04:06,154 --> 00:04:15,792
+Liquidity: jika harga menyapu liquidity sebelum displacement, ia menambah konteks. Struktur: displacement mesti memecahkan struktur yang bermakna.
+
+27
+00:04:16,092 --> 00:04:26,978
+Metodologi kita: body sebagai zon default, mean threshold sebagai rujukan, dan close di luar zon sebagai kegagalan. Pengamal lain mungkin menggunakan konvensyen berbeza.
+
+28
+00:04:29,078 --> 00:04:31,300
+Kesilapan biasa dengan order block:
+
+29
+00:04:31,600 --> 00:04:38,142
+Menandakan setiap candle lawan arah sebagai order block. Mengabaikan displacement dan break of structure.
+
+30
+00:04:38,442 --> 00:04:44,888
+Mengabaikan lokasi premium dan discount. Terus menggunakan order block yang telah ditembusi.
+
+31
+00:04:45,188 --> 00:04:49,930
+Dan menganggap order block sebagai bukti order institusi yang sebenar.
+
+32
+00:04:52,030 --> 00:04:54,252
+Mari rumuskan.
+
+33
+00:04:54,552 --> 00:05:02,822
+Order block bullish ialah candle down-close terakhir sebelum displacement bullish yang memecahkan struktur. Bearish ialah cerminannya.
+
+34
+00:05:03,122 --> 00:05:10,624
+Zon default ialah body, dengan mean threshold di 50 peratus. Close di luar zon bermakna gagal.
+
+35
+00:05:10,924 --> 00:05:18,066
+Nilai lokasi, liquidity dan struktur. Order block ialah konsep analitikal, bukan jaminan.
+
+36
+00:05:20,166 --> 00:05:25,004
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+37
+00:05:25,304 --> 00:05:30,046
+Soalan satu: takrifkan order block bullish mengikut konvensyen yang diajar di sini.
+
+38
+00:05:35,346 --> 00:05:43,448
+Jawapan: candle down-close terakhir sebelum displacement ke atas yang memecahkan struktur. Zon default ialah body candle itu.
+
+39
+00:05:43,748 --> 00:05:53,266
+Soalan dua: body order block dari 4,644 hingga 4,662. Apakah mean threshold?
+
+40
+00:05:58,566 --> 00:06:08,348
+Jawapan: 4,644 tambah 4,662, bahagi dua, ialah 4,653.
+
+41
+00:06:08,648 --> 00:06:14,854
+Soalan tiga: mengapa candle merah terakhir sebelum kenaikan perlahan bukan order block?
+
+42
+00:06:20,154 --> 00:06:26,648
+Jawapan: tiada displacement dan tiada break of structure, yang diperlukan oleh metodologi ini.
+
+43
+00:06:26,948 --> 00:06:31,210
+Soalan empat: bilakah order block bullish dianggap gagal?
+
+44
+00:06:36,510 --> 00:06:42,572
+Jawapan: apabila harga close di bawah block itu, melepasi low-nya, dalam konvensyen ini.
+
+45
+00:06:44,672 --> 00:06:50,374
+Latihan praktikal: cari tiga order block bullish dan tiga order block bearish pada carta anda.
+
+46
+00:06:50,674 --> 00:06:59,904
+Untuk setiap satu, sahkan displacement dan break of structure, tandakan body dan mean threshold, dan catat lokasinya dalam dealing range.
+
+47
+00:07:00,204 --> 00:07:05,858
+Kemudian catat apa yang berlaku apabila harga kembali: tindak balas, atau close melepasi block.
+
+48
+00:07:07,958 --> 00:07:15,484
+Dalam video seterusnya: Breaker Block dan Mitigation Block, apa yang berlaku apabila order block gagal, dan cara membezakan keduanya.
+
+49
+00:07:17,584 --> 00:07:20,766
+Rujukan untuk video ini dipaparkan di skrin.
+
+50
+00:07:21,066 --> 00:07:29,000
+Order block ialah istilah ICT. Konsep order flow dan liquidity secara umum dibincangkan dalam literatur microstructure.
+
+51
+00:07:31,100 --> 00:07:39,826
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+52
+00:07:40,126 --> 00:07:44,964
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 7.
+

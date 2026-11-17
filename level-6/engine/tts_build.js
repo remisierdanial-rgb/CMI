@@ -12,7 +12,7 @@ const CACHE = path.resolve(__dirname, '..', 'output', '.audio_cache');
   const lines = await p.evaluate(() => V.scenes.flatMap(s => s.lines.map(l => l.say || l.en)));
   await b.close();
   const files = lines.map(t => path.join(CACHE, crypto.createHash('sha1').update(voice + '|' + t).digest('hex').slice(0, 16) + '.mp3'));
-  const jobs = lines.map((t, k) => ({ text: t, voice, out: files[k] })).filter(j => !fs.existsSync(j.out) || fs.statSync(j.out).size < 1000);
+  const jobs = lines.map((t, k) => ({ text: t, voice, out: files[k] })).filter(j => !fs.existsSync(j.out) || fs.statSync(j.out).size < 3000);
   if (jobs.length) {
     const jf = path.join(CACHE, vid + '_jobs.json'); fs.writeFileSync(jf, JSON.stringify(jobs));
     execFileSync('python3', [path.join(__dirname, 'tts.py'), jf], { stdio: 'inherit' });

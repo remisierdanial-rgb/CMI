@@ -1,0 +1,208 @@
+1
+00:00:00,800 --> 00:00:07,774
+Welcome back. Video 6 begins the fifth subtopic: PD Arrays. We start with the Order Block.
+
+2
+00:00:08,074 --> 00:00:15,312
+You will understand what PD Arrays are, identify bullish and bearish order blocks, and read their structural context.
+
+3
+00:00:15,612 --> 00:00:22,274
+We will also look at weak and invalid examples, because not every opposing candle is an order block.
+
+4
+00:00:24,374 --> 00:00:33,268
+PD Arrays is ICT terminology for a collection of price-reference structures or levels used to analyse potential areas of interest.
+
+5
+00:00:33,568 --> 00:00:40,638
+PD stands for premium and discount. They are assessed together with location in the dealing range we have studied.
+
+6
+00:00:40,938 --> 00:00:52,280
+We will study eight types: order block, breaker, mitigation block, rejection block, fair value gap, inverse fair value gap, liquidity void, and old high or low.
+
+7
+00:00:52,580 --> 00:01:00,970
+Important: these are analytical concepts. They are not proof of institutional orders, and not a guarantee of a price reaction.
+
+8
+00:01:03,070 --> 00:01:11,820
+In the ICT convention we use, a bullish order block is the last down-close candle before an upward displacement that breaks structure.
+
+9
+00:01:12,120 --> 00:01:22,406
+Watch the formation. Price declines, and this final red candle opens at 4,662 and closes at 4,644.
+
+10
+00:01:22,706 --> 00:01:32,488
+Then comes displacement: large, fast bullish candles that leave a fair value gap and break the previous swing high at 4,705.
+
+11
+00:01:32,788 --> 00:01:45,906
+Because of this displacement and break of structure, the red candle is marked as a bullish order block. The default zone is the body, 4,644 to 4,662.
+
+12
+00:01:46,206 --> 00:02:00,284
+The midpoint of the body, 4,653, is called the mean threshold. Some practitioners use the full range including wicks, 4,638 to 4,666.
+
+13
+00:02:00,584 --> 00:02:10,414
+Later, price retraces and returns to the order block. This is called mitigation. Price touches 4,656 and reacts.
+
+14
+00:02:10,714 --> 00:02:19,584
+If price closes below the order block, below 4,638, the order block is considered failed in this convention.
+
+15
+00:02:21,684 --> 00:02:29,090
+A bearish order block is the mirror: the last up-close candle before a downward displacement that breaks structure.
+
+16
+00:02:29,390 --> 00:02:42,436
+Here, the final green candle opens at 4,738 and closes at 4,756. Then a downward displacement breaks the 4,695 swing low.
+
+17
+00:02:42,736 --> 00:02:59,478
+The body zone is 4,738 to 4,756, with the mean threshold at 4,747. Price later retraces to 4,745, into the order block, and reacts lower.
+
+18
+00:02:59,778 --> 00:03:05,840
+This bearish order block fails if price closes above 4,762.
+
+19
+00:03:07,940 --> 00:03:12,202
+Now two examples that should not be labelled as a strong order block.
+
+20
+00:03:12,502 --> 00:03:21,852
+Example A: there is a last red candle before price rises, but the rise is slow, with no displacement, and no swing high is broken.
+
+21
+00:03:22,152 --> 00:03:30,638
+Without displacement and a break of structure, that candle is just an ordinary red candle, not an order block under this methodology.
+
+22
+00:03:30,938 --> 00:03:41,968
+Example B: a valid order block at first. But when price returns, it closes below 4,638 and keeps falling. This order block has failed.
+
+23
+00:03:42,268 --> 00:03:48,714
+An order block that has been violated by a body close is no longer used as the same bullish zone.
+
+24
+00:03:50,814 --> 00:03:55,748
+An order block that is valid in form still needs to be assessed in context.
+
+25
+00:03:56,048 --> 00:04:05,854
+Location: a bullish order block is more relevant in the discount of the higher timeframe dealing range. A bearish order block is more relevant in premium.
+
+26
+00:04:06,154 --> 00:04:15,792
+Liquidity: if price sweeps liquidity before the displacement, it adds context. Structure: the displacement must break meaningful structure.
+
+27
+00:04:16,092 --> 00:04:26,978
+Our methodology: the body as the default zone, the mean threshold as a reference, and a close beyond the zone as failure. Other practitioners may use different conventions.
+
+28
+00:04:29,078 --> 00:04:31,300
+Common order block mistakes:
+
+29
+00:04:31,600 --> 00:04:38,142
+Marking every opposing candle as an order block. Ignoring displacement and the break of structure.
+
+30
+00:04:38,442 --> 00:04:44,888
+Ignoring premium and discount location. Continuing to use an order block that has been violated.
+
+31
+00:04:45,188 --> 00:04:49,930
+And treating an order block as proof of actual institutional orders.
+
+32
+00:04:52,030 --> 00:04:54,252
+Let us summarise.
+
+33
+00:04:54,552 --> 00:05:02,822
+A bullish order block is the last down-close candle before a bullish displacement that breaks structure. Bearish is the mirror.
+
+34
+00:05:03,122 --> 00:05:10,624
+The default zone is the body, with the mean threshold at 50 percent. A close beyond the zone means failure.
+
+35
+00:05:10,924 --> 00:05:18,066
+Assess location, liquidity and structure. An order block is an analytical concept, not a guarantee.
+
+36
+00:05:20,166 --> 00:05:25,004
+Now, test your understanding. Pause the video and answer each question.
+
+37
+00:05:25,304 --> 00:05:30,046
+Question one: Define a bullish order block in the convention taught here.
+
+38
+00:05:35,346 --> 00:05:43,448
+Answer: The last down-close candle before an upward displacement that breaks structure. Default zone: the candle body.
+
+39
+00:05:43,748 --> 00:05:53,266
+Question two: An order block body runs from 4,644 to 4,662. What is the mean threshold?
+
+40
+00:05:58,566 --> 00:06:08,348
+Answer: 4,644 plus 4,662, divided by two, is 4,653.
+
+41
+00:06:08,648 --> 00:06:14,854
+Question three: Why is the last red candle before a slow grind higher not an order block?
+
+42
+00:06:20,154 --> 00:06:26,648
+Answer: There is no displacement and no break of structure, which this methodology requires.
+
+43
+00:06:26,948 --> 00:06:31,210
+Question four: When is a bullish order block considered failed?
+
+44
+00:06:36,510 --> 00:06:42,572
+Answer: When price closes below the block, beyond its low, in this convention.
+
+45
+00:06:44,672 --> 00:06:50,374
+Practical exercise: find three bullish and three bearish order blocks on your chart.
+
+46
+00:06:50,674 --> 00:06:59,904
+For each, confirm the displacement and break of structure, mark the body and mean threshold, and record its location in the dealing range.
+
+47
+00:07:00,204 --> 00:07:05,858
+Then record what happened when price returned: a reaction, or a close through the block.
+
+48
+00:07:07,958 --> 00:07:15,484
+In the next video: the Breaker Block and the Mitigation Block, what happens when an order block fails, and how to tell them apart.
+
+49
+00:07:17,584 --> 00:07:20,766
+The references for this video are shown on screen.
+
+50
+00:07:21,066 --> 00:07:29,000
+Order block is an ICT term. Order flow and liquidity in general are discussed in market microstructure literature.
+
+51
+00:07:31,100 --> 00:07:39,826
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+52
+00:07:40,126 --> 00:07:44,964
+Futures trading involves the risk of loss. See you in Video 7.
+
