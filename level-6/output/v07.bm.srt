@@ -1,0 +1,200 @@
+1
+00:00:00,800 --> 00:00:09,382
+Selamat kembali. Dalam Video 7, kita mempelajari dua PD Array yang terbentuk daripada struktur yang gagal: Breaker Block dan Mitigation Block.
+
+2
+00:00:09,682 --> 00:00:16,200
+Anda akan membina breaker bullish dan bearish, membezakannya daripada flip support resistance biasa,
+
+3
+00:00:16,500 --> 00:00:23,282
+dan memahami satu perbezaan utama antara breaker dan mitigation block: ada atau tiada liquidity sweep.
+
+4
+00:00:25,382 --> 00:00:28,300
+Breaker bullish terbentuk dalam empat langkah.
+
+5
+00:00:28,600 --> 00:00:46,470
+Satu: harga membuat low A di 4,650. Dua: harga naik ke high B di 4,720. Candle up-close terakhir di B, body 4,702 hingga 4,716, ialah order block bearish yang berpotensi.
+
+6
+00:00:46,770 --> 00:00:55,184
+Tiga: harga jatuh dan membuat lower low C di 4,630, menyapu sell-side liquidity di bawah low A.
+
+7
+00:00:55,484 --> 00:01:02,386
+Empat: harga berbalik dengan displacement dan close di atas high B. Order block bearish tadi telah gagal.
+
+8
+00:01:02,686 --> 00:01:13,476
+Zon yang gagal ini kini ditafsir dengan peranan terbalik, sebagai breaker bullish. Apabila harga kembali ke 4,710, ia dikaji sebagai kawasan support yang berpotensi.
+
+9
+00:01:15,576 --> 00:01:33,758
+Breaker bearish ialah cerminannya. Harga membuat high A di 4,750, kemudian low B di 4,680. Candle down-close terakhir di B, body 4,684 hingga 4,698, ialah order block bullish yang berpotensi.
+
+10
+00:01:34,058 --> 00:01:43,504
+Harga kemudian membuat higher high C di 4,770, menyapu buy-side liquidity di atas A, kemudian jatuh dan close di bawah B.
+
+11
+00:01:43,804 --> 00:01:54,594
+Order block bullish itu gagal, dan zonnya kini menjadi breaker bearish. Apabila harga kembali ke 4,690, ia dikaji sebagai kawasan resistance yang berpotensi.
+
+12
+00:01:56,694 --> 00:02:01,076
+Bagaimana breaker berbeza daripada flip support resistance biasa?
+
+13
+00:02:01,376 --> 00:02:14,374
+Dalam flip biasa, harga hanya menembusi satu aras yang pernah diuji, iaitu sekitar 4,700, kemudian kembali mengujinya dari sisi lain. Tiada order block, tiada sweep, tiada displacement yang jelas.
+
+14
+00:02:14,674 --> 00:02:23,016
+Breaker memerlukan konteks yang lebih spesifik: order block yang gagal, liquidity sweep, dan displacement yang memecahkan struktur.
+
+15
+00:02:23,316 --> 00:02:28,226
+Kedua-duanya boleh bertindak sebagai rujukan. Tetapi jangan labelkan setiap flip sebagai breaker.
+
+16
+00:02:30,326 --> 00:02:36,772
+Sekarang Mitigation Block. Strukturnya hampir sama dengan breaker, dengan satu perbezaan penting.
+
+17
+00:02:37,072 --> 00:02:44,958
+Di sebelah kiri, breaker bullish: C membuat lower low di 4,630, menyapu liquidity di bawah A.
+
+18
+00:02:45,258 --> 00:02:56,024
+Di sebelah kanan, mitigation block bullish: C hanya mencapai 4,668, iaitu higher low. Harga gagal membuat low baharu. Ini dipanggil failure swing.
+
+19
+00:02:56,324 --> 00:03:06,154
+Kemudian harga memecahkan high B. Candle up-close terakhir di B menjadi mitigation block, dan apabila harga kembali, ia dikaji sebagai kawasan minat bullish.
+
+20
+00:03:06,454 --> 00:03:13,860
+Jadi perbezaannya: breaker ada liquidity sweep. Mitigation block tiada sweep, hanya failure swing.
+
+21
+00:03:15,960 --> 00:03:18,854
+Versi bearish mengikut logik yang sama.
+
+22
+00:03:19,154 --> 00:03:28,336
+Breaker bearish: C membuat higher high di 4,770, menyapu buy-side liquidity di atas A, sebelum harga memecahkan low B.
+
+23
+00:03:28,636 --> 00:03:37,554
+Mitigation block bearish: C hanya mencapai 4,732, iaitu lower high. Tiada sweep. Kemudian harga memecahkan low B.
+
+24
+00:03:39,654 --> 00:03:47,276
+Satu nota penting. Definisi breaker dan mitigation block berbeza antara pendidik ICT dan SMC.
+
+25
+00:03:47,576 --> 00:03:58,438
+Dalam siri ini, kita menggunakan konvensyen: breaker memerlukan sweep, mitigation block ialah failure swing tanpa sweep. Kedua-duanya memerlukan close melepasi swing B.
+
+26
+00:03:58,738 --> 00:04:07,584
+Istilah mitigation juga digunakan secara umum untuk maksud harga kembali ke sesuatu zon. Itu berbeza daripada mitigation block sebagai jenis PD Array.
+
+27
+00:04:09,684 --> 00:04:11,906
+Kesilapan biasa:
+
+28
+00:04:12,206 --> 00:04:19,348
+Melabel setiap flip support resistance sebagai breaker. Dan tidak menyemak sama ada swing C menyapu liquidity.
+
+29
+00:04:19,648 --> 00:04:21,848
+Mengelirukan mitigation block dengan sebarang retest order block. Dan menganggap breaker tidak boleh gagal.
+
+30
+00:04:23,948 --> 00:04:26,170
+Mari rumuskan.
+
+31
+00:04:26,470 --> 00:04:33,396
+Breaker terbentuk apabila order block gagal selepas liquidity sweep, dan zonnya ditafsir dengan peranan terbalik.
+
+32
+00:04:33,696 --> 00:04:39,086
+Mitigation block mempunyai struktur yang sama tetapi tanpa sweep: ia failure swing.
+
+33
+00:04:39,386 --> 00:04:43,072
+Kedua-duanya berbeza daripada flip biasa, dan kedua-duanya boleh gagal.
+
+34
+00:04:45,172 --> 00:04:50,010
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+35
+00:04:50,310 --> 00:04:56,036
+Soalan satu: mengapa trader perlu membezakan breaker daripada flip S/R biasa?
+
+36
+00:05:01,336 --> 00:05:14,142
+Jawapan: breaker membawa konteks khusus: order block yang gagal, liquidity sweep dan displacement. Flip biasa tiada semua ini, jadi menyamakannya membesar-besarkan bukti.
+
+37
+00:05:14,442 --> 00:05:24,080
+Soalan dua: A, B, C, di mana C ialah higher low, kemudian harga close di atas B. Breaker atau mitigation block?
+
+38
+00:05:29,380 --> 00:05:35,226
+Jawapan: mitigation block. C tidak menyapu low A; ia failure swing.
+
+39
+00:05:35,526 --> 00:05:39,788
+Soalan tiga: candle manakah yang membentuk zon breaker bullish?
+
+40
+00:05:45,088 --> 00:05:51,390
+Jawapan: candle up-close terakhir di swing high B, iaitu order block bearish yang kemudiannya gagal.
+
+41
+00:05:51,690 --> 00:05:56,600
+Soalan empat: adakah "mitigation" sama dengan "mitigation block"?
+
+42
+00:06:01,900 --> 00:06:11,898
+Jawapan: tidak. Mitigation secara umum bermaksud harga kembali ke sesuatu zon. Mitigation block ialah jenis PD Array khusus daripada failure swing.
+
+43
+00:06:13,998 --> 00:06:21,812
+Latihan praktikal: cari lima struktur A, B, C pada carta anda di mana harga akhirnya close melepasi B.
+
+44
+00:06:22,112 --> 00:06:29,254
+Untuk setiap satu, semak sama ada C menyapu A. Klasifikasikan sebagai breaker atau mitigation block, dan tandakan zonnya.
+
+45
+00:06:29,554 --> 00:06:32,928
+Kemudian catat apa yang berlaku apabila harga kembali ke zon itu.
+
+46
+00:06:35,028 --> 00:06:40,898
+Dalam video seterusnya: Rejection Block, dan mengapa tidak setiap wick panjang ialah rejection block.
+
+47
+00:06:42,998 --> 00:06:46,180
+Rujukan untuk video ini dipaparkan di skrin.
+
+48
+00:06:46,480 --> 00:06:54,534
+Breaker dan mitigation block ialah istilah ICT. Flip support resistance ialah konsep analisis carta konvensional.
+
+49
+00:06:56,634 --> 00:07:05,360
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+50
+00:07:05,660 --> 00:07:10,378
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 8.
+

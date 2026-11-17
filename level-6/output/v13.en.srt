@@ -1,0 +1,208 @@
+1
+00:00:00,800 --> 00:00:06,550
+Welcome back. In Video 13, we look at what happens when the evidence does not agree.
+
+2
+00:00:06,850 --> 00:00:13,104
+You will recognise five common conflicts, and choose between trading, waiting, or not trading.
+
+3
+00:00:13,404 --> 00:00:20,186
+We will also list seven no-trade conditions. Remember: not trading is a valid analytical decision.
+
+4
+00:00:22,286 --> 00:00:27,988
+Conflict one: the higher timeframe is bullish, but the lower timeframe is bearish.
+
+5
+00:00:28,288 --> 00:00:36,486
+On one hour, a bullish range from 4,600 to 4,800, and price is retracing toward equilibrium.
+
+6
+00:00:36,786 --> 00:00:43,616
+On five minutes, price is still making lower highs and lower lows. There is no sign of reversal yet.
+
+7
+00:00:43,916 --> 00:00:51,034
+This is not the time to buy blindly. Wait for the lower timeframe to align with the higher timeframe, or do not trade.
+
+8
+00:00:53,134 --> 00:00:58,188
+Conflict two: price is in discount, but structure is still bearish.
+
+9
+00:00:58,488 --> 00:01:18,590
+In the 4,600 to 4,800 range, price falls below equilibrium. But look at the structure: lower highs at 4,752, 4,690 and 4,648, and lower lows at 4,672 and 4,630.
+
+10
+00:01:18,890 --> 00:01:25,192
+Discount does not override bearish structure. Price keeps falling to 4,610.
+
+11
+00:01:25,492 --> 00:01:32,922
+Decision: do not buy just because of discount. Wait for a change in structure, or reassess the dealing range.
+
+12
+00:01:35,022 --> 00:01:40,700
+Conflict three: the OTE overlaps a PD Array, but there is no confirmation.
+
+13
+00:01:41,000 --> 00:01:43,200
+Price enters the bullish fair value gap, inside the OTE, in discount. Everything looks good.
+
+14
+00:01:43,500 --> 00:01:52,778
+But price only drifts sideways inside the zone. It never breaks the internal high at 4,690. There is no structure shift.
+
+15
+00:01:53,078 --> 00:02:02,812
+Then price closes below the gap and falls to 4,594. A trader waiting for confirmation never entered, and avoided this loss.
+
+16
+00:02:04,912 --> 00:02:10,878
+Conflict four: liquidity is swept, but price continues in the original direction.
+
+17
+00:02:11,178 --> 00:02:20,960
+Equal lows around 4,650 are swept down to 4,638. Many treat this as a bullish reversal signal.
+
+18
+00:02:21,260 --> 00:02:31,042
+But price only bounces weakly to 4,658, does not reclaim structure, and keeps falling to 4,596.
+
+19
+00:02:31,342 --> 00:02:36,084
+A sweep without displacement and a structure shift is not confirmation.
+
+20
+00:02:38,184 --> 00:02:43,982
+Conflict five: several zones overlap, but the risk to reward is unfavourable.
+
+21
+00:02:44,282 --> 00:02:58,192
+Price dropped deep to 4,606 before turning, so the logical invalidation sits below it, at 4,598. Confirmation only came at 4,668.
+
+22
+00:02:58,492 --> 00:03:09,858
+The first realistic objective is the internal high at 4,710, where price previously turned. Risk 70 points, potential only 42 points.
+
+23
+00:03:10,158 --> 00:03:18,428
+That is about 1 to 0.6. Even with overlapping zones, this trade is not worth it. Decision: no trade.
+
+24
+00:03:20,528 --> 00:03:25,342
+Here are seven conditions in which the best decision is usually not to trade.
+
+25
+00:03:25,642 --> 00:03:31,992
+An unclear dealing range. No meaningful structural context. No relevant PD Array.
+
+26
+00:03:32,292 --> 00:03:38,786
+No confirmation. Poor invalidation placement. A logical target that is excessively far away.
+
+27
+00:03:39,086 --> 00:03:45,652
+And conflicting market conditions. In all these cases, not trading is a valid analytical decision.
+
+28
+00:03:47,752 --> 00:03:51,222
+Every analysis ends with one of three decisions.
+
+29
+00:03:51,522 --> 00:04:01,256
+Trade: context, location, area, liquidity and confirmation agree, with a logical invalidation and a reasonable risk to reward.
+
+30
+00:04:01,556 --> 00:04:08,386
+Wait: a setup is forming, but one part, usually confirmation, is not yet present.
+
+31
+00:04:08,686 --> 00:04:17,124
+No trade: the evidence conflicts, structure is unclear, or the risk is not worth it. This is also a professional decision.
+
+32
+00:04:19,224 --> 00:04:21,446
+Let us summarise.
+
+33
+00:04:21,746 --> 00:04:32,680
+Five common conflicts: HTF against LTF, discount with bearish structure, a zone without confirmation, a sweep that continues, and poor risk to reward.
+
+34
+00:04:32,980 --> 00:04:37,242
+Conflicting evidence may justify waiting or not trading.
+
+35
+00:04:37,542 --> 00:04:42,500
+Know the seven no-trade conditions. And not trading is a valid decision.
+
+36
+00:04:44,600 --> 00:04:49,438
+Now, test your understanding. Pause the video and answer each question.
+
+37
+00:04:49,738 --> 00:04:57,864
+Question one: The higher timeframe is bullish but the lower timeframe is still making lower highs. What is the reasonable decision?
+
+38
+00:05:03,164 --> 00:05:10,546
+Answer: Wait. Let the lower timeframe align, for example with a bullish structure shift, or stand aside.
+
+39
+00:05:10,846 --> 00:05:17,004
+Question two: Price is in discount, but structure keeps making lower lows. Buy?
+
+40
+00:05:22,304 --> 00:05:29,758
+Answer: No. Discount does not override bearish structure. Wait for a structure change or reassess the range.
+
+41
+00:05:30,058 --> 00:05:41,520
+Question three: Entry 4,668, stop 4,598, nearest objective 4,710. Trade or not?
+
+42
+00:05:46,820 --> 00:05:56,482
+Answer: Risk 70, reward 42, about 1 to 0.6. Unfavourable. No trade, even if zones overlap.
+
+43
+00:05:56,782 --> 00:06:01,116
+Question four: Name four of the seven no-trade conditions.
+
+44
+00:06:06,416 --> 00:06:20,038
+Answer: Any four of: unclear dealing range, no structural context, no relevant PD Array, no confirmation, poor invalidation, excessive distance to target, conflicting conditions.
+
+45
+00:06:22,138 --> 00:06:30,624
+Practical exercise: for ten potential setups, write your decision before price moves: trade, wait, or no trade.
+
+46
+00:06:30,924 --> 00:06:36,482
+For each, record any conflict present, and the no-trade conditions that apply.
+
+47
+00:06:36,782 --> 00:06:44,884
+Afterwards, review the outcome. Judge whether the decision was right given the information at the time, not by the outcome alone.
+
+48
+00:06:46,984 --> 00:06:55,782
+In the final video: an integrated case study combining all six subtopics, with one setup that develops and one that fails.
+
+49
+00:06:57,882 --> 00:07:01,064
+The references for this video are shown on screen.
+
+50
+00:07:01,364 --> 00:07:08,746
+Risk management and risk to reward are general trading principles. The examples in this video are illustrative.
+
+51
+00:07:10,846 --> 00:07:19,572
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+52
+00:07:19,872 --> 00:07:24,902
+Futures trading involves the risk of loss. See you in Video 14.
+

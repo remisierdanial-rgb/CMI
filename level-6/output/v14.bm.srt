@@ -1,0 +1,212 @@
+1
+00:00:00,800 --> 00:00:05,734
+Selamat datang ke video terakhir Level 6: kajian kes bersepadu.
+
+2
+00:00:06,034 --> 00:00:12,336
+Kita akan menggunakan keenam-enam subtopik dalam sepuluh langkah, pada satu carta FCPO ilustrasi.
+
+3
+00:00:12,636 --> 00:00:23,114
+Carta ini hipotetikal. Ia bukan data sejarah dan bukan peristiwa pasaran sebenar. Dan kita akan melihat dua hasil: satu setup yang berkembang, dan satu yang gagal.
+
+4
+00:00:25,214 --> 00:00:35,476
+Langkah satu: arah pasaran. Pada higher timeframe, harga membuat higher highs dan memecahkan swing high 4,655 dengan displacement.
+
+5
+00:00:35,776 --> 00:00:46,518
+Rally berterusan hingga 4,880. Struktur bullish. Jadi kita mengkaji sisi bullish, mencari peluang membeli di lokasi yang menguntungkan.
+
+6
+00:00:48,618 --> 00:00:59,936
+Langkah dua: dealing range. Swing low yang bermakna ialah 4,520, permulaan displacement. Swing high yang bermakna ialah 4,880.
+
+7
+00:01:00,236 --> 00:01:11,698
+Langkah tiga: equilibrium. 4,880 tambah 4,520 ialah 9,400. Bahagi dua, 4,700.
+
+8
+00:01:13,798 --> 00:01:24,852
+Langkah empat: lokasi. Harga retrace dari 4,880 dan kini berdagang sekitar 4,603, di bawah equilibrium. Ini discount.
+
+9
+00:01:25,152 --> 00:01:38,054
+Peratus kedudukan: 4,603 tolak 4,520 ialah 83. 83 bahagi 360 ialah kira-kira 23 peratus. Lokasi discount yang dalam.
+
+10
+00:01:40,154 --> 00:01:52,840
+Langkah lima: PD Arrays. Sebelum displacement awal, candle down-close terakhir ialah order block bullish, body 4,610 hingga 4,635.
+
+11
+00:01:53,140 --> 00:02:04,602
+Displacement yang sama meninggalkan fair value gap, 4,640 hingga 4,680. Kedua-duanya daripada peristiwa yang sama, jadi kita anggap sebagai satu kawasan minat.
+
+12
+00:02:04,902 --> 00:02:17,900
+Perhatikan juga: walaupun harga menyentuh 4,601 dan 4,603, body candle tidak close di bawah 4,610. Order block itu masih utuh.
+
+13
+00:02:20,000 --> 00:02:29,830
+Langkah enam: liquidity. Dua low di sekitar 4,600 membentuk relatively equal lows. Sell-side liquidity diandaikan berada di bawahnya.
+
+14
+00:02:30,130 --> 00:02:40,800
+Di atas, old high 4,880 menyimpan buy-side liquidity. Ini external range liquidity, objektif logik jika struktur bullish berterusan.
+
+15
+00:02:42,900 --> 00:02:52,634
+Langkah tujuh: OTE. Anchor Fibonacci pada leg bullish, dari low 4,520 ke high 4,880.
+
+16
+00:02:52,934 --> 00:03:17,068
+0.62 berada di 4,656.8. 0.705 di 4,626.2. 0.79 di 4,595.6. Order block 4,610 hingga 4,635 berada di dalam zon OTE, berhampiran 0.705.
+
+17
+00:03:17,368 --> 00:03:24,774
+Ingat, OTE dan discount datang daripada range yang sama. Ia satu bacaan lokasi, bukan dua confluence.
+
+18
+00:03:26,874 --> 00:03:34,640
+Langkah lapan: confirmation. Setakat ini, kita hanya ada lokasi dan kawasan. Kita belum ada sebab untuk masuk.
+
+19
+00:03:34,940 --> 00:03:48,994
+Harga kemudian menyapu equal lows, dengan wick hingga 4,592, dan close semula di 4,616, masih di dalam body order block, di atas 4,610.
+
+20
+00:03:49,294 --> 00:04:01,260
+Confirmation yang kita tunggu: displacement ke atas yang memecahkan high dalaman 4,650. Di sini, harga melakukannya. Ini bullish structure shift.
+
+21
+00:04:03,360 --> 00:04:13,574
+Langkah sembilan: rancangan execution. Entry ilustrasi di 4,630, apabila harga retrace ke order block selepas structure shift.
+
+22
+00:04:13,874 --> 00:04:23,776
+Invalidation di 4,575, di bawah sweep low 4,592. Jika harga sampai ke situ, idea ini salah.
+
+23
+00:04:24,076 --> 00:04:30,594
+Target logik: old high 4,880, di mana buy-side liquidity berada.
+
+24
+00:04:30,894 --> 00:04:47,852
+Risiko: 4,630 tolak 4,575 ialah 55 mata. Potensi: 4,880 tolak 4,630 ialah 250 mata. Risk-to-reward kira-kira 1 kepada 4.5.
+
+25
+00:04:48,152 --> 00:05:00,070
+Dan sebab untuk tidak masuk: jika structure shift tidak berlaku, jika harga close di bawah order block, atau jika entry hanya tersedia jauh lebih tinggi sehingga risk-to-reward rosak.
+
+26
+00:05:02,170 --> 00:05:05,496
+Sekarang dua hasil yang mungkin daripada analisis yang sama.
+
+27
+00:05:05,796 --> 00:05:21,698
+Senario A: sweep diikuti structure shift. Harga retrace ke 4,628, entry di 4,630 diisi, dan harga naik ke target 4,880. Setup berkembang seperti yang dirancang.
+
+28
+00:05:21,998 --> 00:05:33,988
+Senario B: selepas sweep, harga hanya melantun ke 4,628. Ia tidak pernah memecahkan 4,650. Tiada confirmation, jadi tiada entry.
+
+29
+00:05:34,288 --> 00:05:47,742
+Kemudian harga close di bawah order block dan jatuh di bawah 4,575. Trader yang masuk lebih awal, tanpa confirmation, akan rugi 55 mata. Trader yang berdisiplin tidak masuk langsung.
+
+30
+00:05:49,842 --> 00:05:57,536
+Langkah sepuluh: penilaian selepas trade. Nilai analisis tanpa mengira sama ada hasilnya untung atau rugi.
+
+31
+00:05:57,836 --> 00:06:00,466
+Untuk senario A: adakah setiap langkah diikuti? Adakah entry, invalidation dan target mengikut rancangan? Jika ya, ia keputusan yang baik, bukan hanya hasil yang baik.
+
+32
+00:06:00,766 --> 00:06:08,652
+Untuk senario B: tiada entry kerana tiada confirmation. Itu juga keputusan yang betul, walaupun tiada keuntungan.
+
+33
+00:06:08,952 --> 00:06:15,686
+Dan jika seseorang masuk awal dan rugi, soalannya bukan "kenapa pasaran salah", tetapi "langkah mana yang saya langkau".
+
+34
+00:06:17,786 --> 00:06:20,752
+Mari rumuskan keseluruhan Level 6.
+
+35
+00:06:21,052 --> 00:06:28,602
+Dealing range dan equilibrium menentukan lokasi. Premium dan discount ialah konteks, bukan isyarat. OTE ialah zon retracement, bukan entry automatik.
+
+36
+00:06:28,902 --> 00:06:35,972
+PD Arrays mesti dipilih dengan kriteria. Confluence dikira mengikut kumpulan bukti bebas, bukan label.
+
+37
+00:06:36,272 --> 00:06:46,414
+Location Before Execution. Higher Timeframe Before Lower Timeframe. Confluence Without Overcomplication. Dan tidak trade sentiasa merupakan pilihan yang sah.
+
+38
+00:06:48,514 --> 00:06:53,352
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+39
+00:06:53,652 --> 00:07:03,938
+Soalan satu: range 4,520 hingga 4,880. Kira equilibrium dan aras 0.705.
+
+40
+00:07:09,238 --> 00:07:18,228
+Jawapan: equilibrium 4,700. Aras 0.705 ialah 4,880 tolak 253.8, iaitu 4,626.2.
+
+41
+00:07:18,528 --> 00:07:30,206
+Soalan dua: entry 4,630, invalidation 4,575, target 4,880. Apakah risk-to-reward?
+
+42
+00:07:35,506 --> 00:07:46,224
+Jawapan: risiko 55, reward 250. 250 bahagi 55 lebih kurang 4.5, jadi kira-kira 1 kepada 4.5.
+
+43
+00:07:46,524 --> 00:07:53,810
+Soalan tiga: dalam senario B, mengapa tiada trade walaupun lokasi dan kawasan menguntungkan?
+
+44
+00:07:59,110 --> 00:08:09,516
+Jawapan: confirmation, iaitu penembusan 4,650 dengan displacement, tidak pernah berlaku. Lokasi dan kawasan sahaja bukan sebab untuk entry.
+
+45
+00:08:09,816 --> 00:08:15,614
+Soalan empat: mengapa penilaian selepas trade perlu fokus pada keputusan, bukan hasil?
+
+46
+00:08:20,914 --> 00:08:30,888
+Jawapan: hasil mengandungi unsur rawak. Proses yang baik boleh rugi, dan proses yang lemah boleh untung. Hanya proses yang di bawah kawalan anda dan boleh diperbaiki.
+
+47
+00:08:32,988 --> 00:08:39,530
+Latihan akhir: lengkapkan kajian kes anda sendiri pada carta FCPO, menggunakan sepuluh langkah ini.
+
+48
+00:08:39,830 --> 00:08:52,108
+Tulis setiap langkah sebelum harga bergerak: arah, range, equilibrium, lokasi, PD Arrays, liquidity, OTE, confirmation yang ditunggu, dan rancangan.
+
+49
+00:08:52,408 --> 00:08:58,974
+Selepas itu, lengkapkan langkah sepuluh: nilai keputusan anda, dan kenal pasti satu perkara untuk diperbaiki.
+
+50
+00:09:01,074 --> 00:09:04,256
+Rujukan untuk video ini dipaparkan di skrin.
+
+51
+00:09:04,556 --> 00:09:11,170
+Kajian kes ini hipotetikal sepenuhnya. Ia tidak mewakili peristiwa pasaran FCPO sebenar.
+
+52
+00:09:13,270 --> 00:09:21,996
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+53
+00:09:22,296 --> 00:09:28,382
+Trading futures melibatkan risiko kerugian. Tahniah kerana melengkapkan Level 6.
+

@@ -1,0 +1,180 @@
+1
+00:00:00,800 --> 00:00:09,718
+Welcome back. Video 11 closes the PD Arrays subtopic with a practical question: of all these zones, which ones are relevant?
+
+2
+00:00:10,018 --> 00:00:17,280
+We will compare the eight PD Array types, apply seven selection criteria, and filter an over-marked chart.
+
+3
+00:00:17,580 --> 00:00:23,162
+The goal is not to find more zones, but to choose the one or two that truly matter.
+
+4
+00:00:25,262 --> 00:00:30,436
+Here are the eight PD Arrays we have studied, with what to identify for each one.
+
+5
+00:00:30,736 --> 00:00:41,118
+Notice the last column. They are not the same in nature. Some are based on candle structure, some on failed structure, some on imbalance, and some are only reference levels.
+
+6
+00:00:41,418 --> 00:00:47,456
+So do not assume they all share the same definition, formation mechanism, or evidential weight.
+
+7
+00:00:49,556 --> 00:00:54,298
+To select a relevant PD Array, assess these seven criteria.
+
+8
+00:00:54,598 --> 00:01:03,228
+One, higher timeframe relevance. Two, alignment with market direction. Three, the correct premium or discount location.
+
+9
+00:01:03,528 --> 00:01:10,934
+Four, liquidity context. Five, formed by displacement. Six, supported by structural confirmation.
+
+10
+00:01:11,234 --> 00:01:15,736
+And seven, not already invalidated or meaningfully traded through.
+
+11
+00:01:17,836 --> 00:01:27,378
+Now practice. This illustrative chart has seven candidate zones, plus an old high and an old low. This is what an over-marked chart looks like.
+
+12
+00:01:27,678 --> 00:01:38,516
+Context: a bullish range from 4,600 to 4,800, equilibrium 4,700. We are looking for a bullish area in discount.
+
+13
+00:01:38,816 --> 00:01:47,326
+Filter one, higher timeframe relevance: remove the small one-minute FVG, and the mid-range wick that is not a swing extreme.
+
+14
+00:01:47,626 --> 00:01:53,760
+Filter two, direction: structure is bullish, so remove the bearish fair value gap.
+
+15
+00:01:54,060 --> 00:01:59,618
+Filter three, location: remove the bullish order block that sits in premium.
+
+16
+00:01:59,918 --> 00:02:07,060
+Filter four, invalidation: remove the bullish FVG that was already closed through during the pullback.
+
+17
+00:02:07,360 --> 00:02:22,710
+What remains: a bullish order block and a bullish FVG in discount, both from the displacement that broke structure. Sell-side liquidity at 4,600 below, and buy-side above 4,800 as the objective.
+
+18
+00:02:23,010 --> 00:02:37,160
+Notice: this OB and FVG come from the same displacement. They form one area of interest, 4,628 to 4,668, not two independent pieces of evidence.
+
+19
+00:02:39,260 --> 00:02:44,266
+A common question: is there an official priority order among PD Arrays?
+
+20
+00:02:44,566 --> 00:02:55,212
+ICT material discusses arranging PD Arrays as a matrix. But the specific ordering varies by source and context, and we have not verified one official version.
+
+21
+00:02:55,512 --> 00:03:03,470
+So in this series, we do not present a fixed ranking. We use the seven criteria to assess each zone in its context.
+
+22
+00:03:05,570 --> 00:03:08,752
+Common mistakes across all PD Arrays:
+
+23
+00:03:09,052 --> 00:03:21,258
+Marking every candle as an order block. Treating every FVG as tradable. Confusing an IFVG with a filled FVG. Treating every wick as a rejection block.
+
+24
+00:03:21,558 --> 00:03:33,428
+Confusing a liquidity void with an FVG. Treating old highs or lows as guaranteed reversal zones. Using too many overlapping zones. And ignoring timeframe relevance.
+
+25
+00:03:35,528 --> 00:03:37,750
+Let us summarise.
+
+26
+00:03:38,050 --> 00:03:43,320
+The eight PD Arrays differ in definition, formation and evidential weight.
+
+27
+00:03:43,620 --> 00:03:49,370
+Select zones with the seven criteria, and filter the chart down to one or two areas.
+
+28
+00:03:49,670 --> 00:03:57,148
+Zones from the same price event are one area, not multiple evidence. No official priority order is presented.
+
+29
+00:03:59,248 --> 00:04:04,086
+Now, test your understanding. Pause the video and answer each question.
+
+30
+00:04:04,386 --> 00:04:09,056
+Question one: Name the seven PD Array selection criteria.
+
+31
+00:04:14,356 --> 00:04:26,250
+Answer: HTF relevance, market direction, premium/discount location, liquidity context, displacement, structural confirmation, and not already invalidated.
+
+32
+00:04:26,550 --> 00:04:35,036
+Question two: In bullish context, a bullish order block sits in the premium of the higher timeframe range. Keep or remove?
+
+33
+00:04:40,336 --> 00:04:48,150
+Answer: Usually remove or deprioritise it: it is in the wrong location for a bullish setup within that range.
+
+34
+00:04:48,450 --> 00:04:55,880
+Question three: An OB and an FVG were formed by the same displacement. How many confluences is that?
+
+35
+00:05:01,180 --> 00:05:08,826
+Answer: One area of interest. They describe the same price event, so they are not two independent pieces of evidence.
+
+36
+00:05:09,126 --> 00:05:14,996
+Question four: Why does this series not present an official PD array priority order?
+
+37
+00:05:20,296 --> 00:05:29,046
+Answer: Orderings vary by source and context and could not be verified as official. Zones are assessed with the criteria instead.
+
+38
+00:05:31,146 --> 00:05:36,368
+Practical exercise: mark every PD Array you can see on your one-hour chart.
+
+39
+00:05:36,668 --> 00:05:43,954
+Then apply the seven criteria one by one, and delete the zones that fail. Record the reason for each deletion.
+
+40
+00:05:44,254 --> 00:05:49,500
+Finally, merge zones that come from the same event. How many areas remain?
+
+41
+00:05:51,600 --> 00:05:59,438
+In the next video, we begin the final subtopic: Multiple Confluences, and how to combine evidence without double-counting.
+
+42
+00:06:01,538 --> 00:06:04,720
+The references for this video are shown on screen.
+
+43
+00:06:05,020 --> 00:06:13,386
+The PD Array classification is ICT terminology. An official priority order is not shown because it has not been verified.
+
+44
+00:06:15,486 --> 00:06:24,212
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+45
+00:06:24,512 --> 00:06:29,398
+Futures trading involves the risk of loss. See you in Video 12.
+

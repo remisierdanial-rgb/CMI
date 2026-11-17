@@ -1,0 +1,200 @@
+1
+00:00:00,800 --> 00:00:09,382
+Welcome back. In Video 7, we study two PD Arrays formed from failed structure: the Breaker Block and the Mitigation Block.
+
+2
+00:00:09,682 --> 00:00:16,200
+You will build bullish and bearish breakers, distinguish them from an ordinary support and resistance flip,
+
+3
+00:00:16,500 --> 00:00:23,282
+and understand the one key difference between a breaker and a mitigation block: whether there is a liquidity sweep.
+
+4
+00:00:25,382 --> 00:00:28,300
+A bullish breaker forms in four steps.
+
+5
+00:00:28,600 --> 00:00:46,470
+One: price makes low A at 4,650. Two: price rallies to high B at 4,720. The last up-close candle at B, body 4,702 to 4,716, is a potential bearish order block.
+
+6
+00:00:46,770 --> 00:00:55,184
+Three: price falls and makes a lower low C at 4,630, sweeping the sell-side liquidity below low A.
+
+7
+00:00:55,484 --> 00:01:02,386
+Four: price reverses with displacement and closes above high B. The bearish order block has failed.
+
+8
+00:01:02,686 --> 00:01:13,476
+This failed zone is now interpreted with a reversed role, as a bullish breaker. When price returns to 4,710, it is studied as a potential support area.
+
+9
+00:01:15,576 --> 00:01:33,758
+A bearish breaker is the mirror. Price makes high A at 4,750, then low B at 4,680. The last down-close candle at B, body 4,684 to 4,698, is a potential bullish order block.
+
+10
+00:01:34,058 --> 00:01:43,504
+Price then makes a higher high C at 4,770, sweeping the buy-side liquidity above A, then falls and closes below B.
+
+11
+00:01:43,804 --> 00:01:54,594
+That bullish order block failed, and its zone now becomes a bearish breaker. When price returns to 4,690, it is studied as a potential resistance area.
+
+12
+00:01:56,694 --> 00:02:01,076
+How is a breaker different from an ordinary support and resistance flip?
+
+13
+00:02:01,376 --> 00:02:14,374
+In an ordinary flip, price simply breaks a level that was tested before, around 4,700, then retests it from the other side. No order block, no sweep, no clear displacement.
+
+14
+00:02:14,674 --> 00:02:23,016
+A breaker requires more specific context: a failed order block, a liquidity sweep, and a displacement that breaks structure.
+
+15
+00:02:23,316 --> 00:02:28,226
+Both can act as references. But do not label every flip as a breaker.
+
+16
+00:02:30,326 --> 00:02:36,772
+Now the Mitigation Block. Its structure is almost the same as a breaker, with one important difference.
+
+17
+00:02:37,072 --> 00:02:44,958
+On the left, the bullish breaker: C makes a lower low at 4,630, sweeping liquidity below A.
+
+18
+00:02:45,258 --> 00:02:56,024
+On the right, the bullish mitigation block: C only reaches 4,668, a higher low. Price failed to make a new low. This is called a failure swing.
+
+19
+00:02:56,324 --> 00:03:06,154
+Then price breaks high B. The last up-close candle at B becomes the mitigation block, and when price returns, it is studied as a bullish area of interest.
+
+20
+00:03:06,454 --> 00:03:13,860
+So the difference: a breaker has a liquidity sweep. A mitigation block has no sweep, only a failure swing.
+
+21
+00:03:15,960 --> 00:03:18,854
+The bearish versions follow the same logic.
+
+22
+00:03:19,154 --> 00:03:28,336
+Bearish breaker: C makes a higher high at 4,770, sweeping buy-side liquidity above A, before price breaks low B.
+
+23
+00:03:28,636 --> 00:03:37,554
+Bearish mitigation block: C only reaches 4,732, a lower high. No sweep. Then price breaks low B.
+
+24
+00:03:39,654 --> 00:03:47,276
+An important note. Definitions of breaker and mitigation block vary between ICT and SMC educators.
+
+25
+00:03:47,576 --> 00:03:58,438
+In this series, we use this convention: a breaker requires a sweep, a mitigation block is a failure swing without a sweep. Both require a close beyond swing B.
+
+26
+00:03:58,738 --> 00:04:07,584
+The word mitigation is also used generally to mean price returning to a zone. That is different from the mitigation block as a PD Array type.
+
+27
+00:04:09,684 --> 00:04:11,906
+Common mistakes:
+
+28
+00:04:12,206 --> 00:04:19,348
+Labelling every support and resistance flip as a breaker. And not checking whether swing C swept liquidity.
+
+29
+00:04:19,648 --> 00:04:21,848
+Confusing a mitigation block with any order block retest. And assuming a breaker cannot fail.
+
+30
+00:04:23,948 --> 00:04:26,170
+Let us summarise.
+
+31
+00:04:26,470 --> 00:04:33,396
+A breaker forms when an order block fails after a liquidity sweep, and its zone is read with a reversed role.
+
+32
+00:04:33,696 --> 00:04:39,086
+A mitigation block has the same structure but without the sweep: it is a failure swing.
+
+33
+00:04:39,386 --> 00:04:43,072
+Both differ from an ordinary flip, and both can fail.
+
+34
+00:04:45,172 --> 00:04:50,010
+Now, test your understanding. Pause the video and answer each question.
+
+35
+00:04:50,310 --> 00:04:56,036
+Question one: Why should a trader distinguish a breaker from an ordinary S/R flip?
+
+36
+00:05:01,336 --> 00:05:14,142
+Answer: A breaker carries specific context: a failed order block, a liquidity sweep and displacement. An ordinary flip has none of these, so treating them the same overstates the evidence.
+
+37
+00:05:14,442 --> 00:05:24,080
+Question two: A, then B, then C, where C is a higher low, then price closes above B. Breaker or mitigation block?
+
+38
+00:05:29,380 --> 00:05:35,226
+Answer: Mitigation block. C did not sweep the low at A; it was a failure swing.
+
+39
+00:05:35,526 --> 00:05:39,788
+Question three: Which candle forms a bullish breaker zone?
+
+40
+00:05:45,088 --> 00:05:51,390
+Answer: The last up-close candle at swing high B: the bearish order block that later failed.
+
+41
+00:05:51,690 --> 00:05:56,600
+Question four: Is "mitigation" the same as a "mitigation block"?
+
+42
+00:06:01,900 --> 00:06:11,898
+Answer: No. Mitigation generally means price returning to a zone. A mitigation block is a specific PD Array type built from a failure swing.
+
+43
+00:06:13,998 --> 00:06:21,812
+Practical exercise: find five A, B, C structures on your chart where price eventually closed beyond B.
+
+44
+00:06:22,112 --> 00:06:29,254
+For each, check whether C swept A. Classify it as a breaker or a mitigation block, and mark its zone.
+
+45
+00:06:29,554 --> 00:06:32,928
+Then record what happened when price returned to that zone.
+
+46
+00:06:35,028 --> 00:06:40,898
+In the next video: the Rejection Block, and why not every long wick is a rejection block.
+
+47
+00:06:42,998 --> 00:06:46,180
+The references for this video are shown on screen.
+
+48
+00:06:46,480 --> 00:06:54,534
+Breaker and mitigation block are ICT terms. The support and resistance flip is a conventional chart analysis concept.
+
+49
+00:06:56,634 --> 00:07:05,360
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+50
+00:07:05,660 --> 00:07:10,378
+Futures trading involves the risk of loss. See you in Video 8.
+

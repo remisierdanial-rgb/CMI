@@ -1,0 +1,188 @@
+1
+00:00:00,800 --> 00:00:05,254
+Selamat kembali. Dalam Video 8, kita mempelajari Rejection Block.
+
+2
+00:00:05,554 --> 00:00:11,304
+Anda akan belajar mentakrifkannya dalam kerangka yang kita gunakan, menandakan zon dari body ke wick,
+
+3
+00:00:11,604 --> 00:00:17,858
+dan membezakannya daripada pin bar biasa, supaya tidak setiap wick panjang dilabel sebagai rejection block.
+
+4
+00:00:19,958 --> 00:00:28,156
+Dalam kerangka yang kita gunakan, rejection block terbentuk di swing high atau swing low yang bermakna, di mana harga meninggalkan wick yang panjang.
+
+5
+00:00:28,456 --> 00:00:37,182
+Lihat contoh bearish ini. Harga naik ke arah high sebelumnya di 4,770, di mana buy-side liquidity berada.
+
+6
+00:00:37,482 --> 00:00:48,824
+Dua candle menembusi 4,770 dengan wick atas yang panjang, hingga ke 4,782, tetapi body ditutup jauh lebih rendah. Harga telah ditolak.
+
+7
+00:00:49,124 --> 00:01:00,922
+Untuk menandakan rejection block bearish: ambil body tertinggi, iaitu 4,750, hingga wick tertinggi, 4,782. Zon ialah bahagian wick itu.
+
+8
+00:01:01,222 --> 00:01:11,148
+Harga jatuh, kemudian kembali ke 4,760, ke dalam zon wick. Di sini, rejection block dikaji sebagai kawasan resistance yang berpotensi.
+
+9
+00:01:11,448 --> 00:01:18,422
+Rejection block bearish ini gagal jika harga close di atas wick high, 4,782.
+
+10
+00:01:20,522 --> 00:01:25,024
+Rejection block bullish ialah cerminannya, di swing low yang bermakna.
+
+11
+00:01:25,324 --> 00:01:37,338
+Harga jatuh menembusi low sebelumnya di 4,630, menyapu sell-side liquidity, dengan wick bawah yang panjang hingga 4,618. Body ditutup jauh lebih tinggi.
+
+12
+00:01:37,638 --> 00:01:46,988
+Zon rejection block bullish ialah dari wick terendah, 4,618, hingga body terendah, 4,650.
+
+13
+00:01:47,288 --> 00:01:59,134
+Apabila harga kembali ke 4,640, ke dalam zon wick, ia dikaji sebagai kawasan support yang berpotensi. Ia gagal jika harga close di bawah 4,618.
+
+14
+00:02:01,234 --> 00:02:04,752
+Bagaimana rejection block berbeza daripada pin bar biasa?
+
+15
+00:02:05,052 --> 00:02:12,986
+Pin bar ialah corak satu candle: body kecil dengan wick panjang. Ia boleh muncul di mana-mana, termasuk di tengah range.
+
+16
+00:02:13,286 --> 00:02:24,652
+Rejection block dalam kerangka ini memerlukan konteks: ia di swing extreme yang bermakna, biasanya selepas liquidity diambil, dan di lokasi yang relevan dalam dealing range.
+
+17
+00:02:24,952 --> 00:02:31,926
+Dan ia ditandakan sebagai zon dari body ke wick, untuk digunakan apabila harga kembali. Bukan sekadar isyarat satu candle.
+
+18
+00:02:34,026 --> 00:02:38,456
+Dua contoh yang tidak patut dianggap rejection block yang kukuh.
+
+19
+00:02:38,756 --> 00:02:49,786
+Contoh A: wick atas yang panjang, tetapi di tengah range, berhampiran equilibrium 4,700. Tiada swing extreme, tiada liquidity yang diambil. Ia hanya wick.
+
+20
+00:02:50,086 --> 00:03:00,588
+Contoh B: rejection block bearish terbentuk dengan betul. Tetapi apabila harga kembali, ia close di atas 4,782. Zon itu telah gagal.
+
+21
+00:03:02,688 --> 00:03:08,774
+Definisi rejection block juga berbeza antara pendidik. Inilah konvensyen yang kita gunakan.
+
+22
+00:03:09,074 --> 00:03:17,752
+Lokasi: swing extreme yang bermakna. Zon bearish: body tertinggi hingga wick high. Zon bullish: wick low hingga body terendah.
+
+23
+00:03:18,052 --> 00:03:27,402
+Kegagalan: close melepasi wick extreme. Sesetengah pengamal juga menggunakan titik tengah zon wick sebagai rujukan, sama seperti mean threshold.
+
+24
+00:03:29,502 --> 00:03:31,724
+Kesilapan biasa:
+
+25
+00:03:32,024 --> 00:03:37,942
+Menganggap setiap wick panjang sebagai rejection block. Dan menyamakannya dengan pin bar satu candle.
+
+26
+00:03:38,242 --> 00:03:45,384
+Mengabaikan lokasi dalam range dan konteks liquidity. Dan terus menggunakan zon yang telah ditembusi.
+
+27
+00:03:47,484 --> 00:03:49,706
+Mari rumuskan.
+
+28
+00:03:50,006 --> 00:03:57,436
+Rejection block terbentuk di swing extreme yang bermakna dengan wick panjang, biasanya selepas liquidity diambil.
+
+29
+00:03:57,736 --> 00:04:03,006
+Zon ditandakan dari body ke wick, dan ia gagal pada close melepasi wick.
+
+30
+00:04:03,306 --> 00:04:08,600
+Ia bukan pin bar biasa, dan tidak setiap wick panjang ialah rejection block.
+
+31
+00:04:10,700 --> 00:04:15,538
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+32
+00:04:15,838 --> 00:04:20,868
+Soalan satu: bagaimana zon rejection block bearish ditandakan dalam konvensyen ini?
+
+33
+00:04:26,168 --> 00:04:36,046
+Jawapan: dari body candle tertinggi di swing high hingga wick tertinggi. Di sini: 4,750 hingga 4,782.
+
+34
+00:04:36,346 --> 00:04:42,264
+Soalan dua: mengapa wick panjang berhampiran equilibrium biasanya bukan rejection block?
+
+35
+00:04:47,564 --> 00:04:56,074
+Jawapan: ia bukan di swing extreme yang bermakna dan biasanya tiada konteks liquidity. Ia tidak mempunyai ciri yang mentakrifkan rejection block.
+
+36
+00:04:56,374 --> 00:05:00,612
+Soalan tiga: bagaimana rejection block berbeza daripada pin bar?
+
+37
+00:05:05,912 --> 00:05:17,614
+Jawapan: pin bar ialah corak satu candle yang boleh muncul di mana-mana. Rejection block ialah zon di extreme yang bermakna, dengan konteks liquidity dan lokasi, digunakan apabila harga kembali.
+
+38
+00:05:17,914 --> 00:05:22,488
+Soalan empat: bilakah rejection block bullish dianggap gagal?
+
+39
+00:05:27,788 --> 00:05:32,026
+Jawapan: apabila harga close di bawah wick low zon itu.
+
+40
+00:05:34,126 --> 00:05:38,940
+Latihan praktikal: tandakan sepuluh candle dengan wick panjang pada carta anda.
+
+41
+00:05:39,240 --> 00:05:45,950
+Untuk setiap satu, semak: adakah ia di swing extreme yang bermakna? Adakah liquidity diambil? Di mana lokasinya dalam range?
+
+42
+00:05:46,250 --> 00:05:53,296
+Hanya yang lulus ketiga-tiga semakan ditandakan sebagai rejection block. Kemudian catat hasilnya apabila harga kembali.
+
+43
+00:05:55,396 --> 00:06:05,058
+Dalam video seterusnya: ulang kaji ringkas fair value gap, kemudian inverse fair value gap dan liquidity void, serta perbezaan antara ketiga-tiganya.
+
+44
+00:06:07,158 --> 00:06:10,340
+Rujukan untuk video ini dipaparkan di skrin.
+
+45
+00:06:10,640 --> 00:06:18,598
+Rejection block ialah istilah ICT. Corak pin bar dan candle rejection dibincangkan dalam analisis carta konvensional.
+
+46
+00:06:20,698 --> 00:06:29,424
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+47
+00:06:29,724 --> 00:06:34,514
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 9.
+

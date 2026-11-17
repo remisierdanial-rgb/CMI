@@ -1,0 +1,208 @@
+1
+00:00:00,800 --> 00:00:06,550
+Selamat kembali. Dalam Video 13, kita melihat apa yang berlaku apabila bukti tidak bersetuju.
+
+2
+00:00:06,850 --> 00:00:13,104
+Anda akan mengenal pasti lima konflik yang biasa, dan memilih antara trade, menunggu, atau tidak trade.
+
+3
+00:00:13,404 --> 00:00:20,186
+Kita juga akan menyenaraikan tujuh keadaan no-trade. Ingat: tidak trade ialah keputusan analitikal yang sah.
+
+4
+00:00:22,286 --> 00:00:27,988
+Konflik satu: higher timeframe bullish, tetapi lower timeframe bearish.
+
+5
+00:00:28,288 --> 00:00:36,486
+Pada satu jam, range bullish 4,600 hingga 4,800, dan harga sedang retrace ke arah equilibrium.
+
+6
+00:00:36,786 --> 00:00:43,616
+Pada lima minit, harga masih membuat lower highs dan lower lows. Belum ada tanda pembalikan.
+
+7
+00:00:43,916 --> 00:00:51,034
+Ini bukan masa untuk membeli secara buta. Tunggu lower timeframe selari dengan higher timeframe, atau tidak trade.
+
+8
+00:00:53,134 --> 00:00:58,188
+Konflik dua: harga berada di discount, tetapi struktur masih bearish.
+
+9
+00:00:58,488 --> 00:01:18,590
+Dalam range 4,600 hingga 4,800, harga jatuh di bawah equilibrium. Tetapi lihat strukturnya: lower highs di 4,752, 4,690 dan 4,648, serta lower lows di 4,672 dan 4,630.
+
+10
+00:01:18,890 --> 00:01:25,192
+Discount tidak membatalkan struktur bearish. Harga terus turun ke 4,610.
+
+11
+00:01:25,492 --> 00:01:32,922
+Keputusan: jangan beli hanya kerana discount. Tunggu perubahan struktur, atau nilai semula dealing range.
+
+12
+00:01:35,022 --> 00:01:40,700
+Konflik tiga: OTE bertindih dengan PD Array, tetapi tiada confirmation.
+
+13
+00:01:41,000 --> 00:01:43,200
+Harga memasuki fair value gap bullish, di dalam OTE, di discount. Semuanya kelihatan baik.
+
+14
+00:01:43,500 --> 00:01:52,778
+Tetapi harga hanya bergerak mendatar di dalam zon. Ia tidak pernah memecahkan high dalaman 4,690. Tiada structure shift.
+
+15
+00:01:53,078 --> 00:02:02,812
+Kemudian harga close di bawah gap dan jatuh ke 4,594. Trader yang menunggu confirmation tidak masuk, dan mengelak kerugian ini.
+
+16
+00:02:04,912 --> 00:02:10,878
+Konflik empat: liquidity disapu, tetapi harga meneruskan arah asal.
+
+17
+00:02:11,178 --> 00:02:20,960
+Equal lows sekitar 4,650 disapu hingga 4,638. Ramai menganggap ini isyarat reversal bullish.
+
+18
+00:02:21,260 --> 00:02:31,042
+Tetapi harga hanya melantun lemah ke 4,658, tidak menuntut semula struktur, dan terus jatuh ke 4,596.
+
+19
+00:02:31,342 --> 00:02:36,084
+Sweep tanpa displacement dan structure shift bukan confirmation.
+
+20
+00:02:38,184 --> 00:02:43,982
+Konflik lima: beberapa zon bertindih, tetapi risk-to-reward tidak menguntungkan.
+
+21
+00:02:44,282 --> 00:02:58,192
+Harga turun jauh ke 4,606 sebelum berbalik, jadi invalidation yang logik berada di bawahnya, 4,598. Confirmation hanya datang di 4,668.
+
+22
+00:02:58,492 --> 00:03:09,858
+Objektif pertama yang realistik ialah high dalaman di 4,710, di mana harga pernah berbalik. Risiko 70 mata, potensi hanya 42 mata.
+
+23
+00:03:10,158 --> 00:03:18,428
+Itu kira-kira 1 kepada 0.6. Walaupun zon bertindih, trade ini tidak berbaloi. Keputusan: tidak trade.
+
+24
+00:03:20,528 --> 00:03:25,342
+Inilah tujuh keadaan di mana keputusan terbaik biasanya ialah tidak trade.
+
+25
+00:03:25,642 --> 00:03:31,992
+Dealing range yang tidak jelas. Tiada konteks struktur yang bermakna. Tiada PD Array yang relevan.
+
+26
+00:03:32,292 --> 00:03:38,786
+Tiada confirmation. Penempatan invalidation yang lemah. Target logik yang terlalu jauh.
+
+27
+00:03:39,086 --> 00:03:45,652
+Dan keadaan pasaran yang bercanggah. Dalam semua keadaan ini, tidak trade ialah keputusan analitikal yang sah.
+
+28
+00:03:47,752 --> 00:03:51,222
+Setiap analisis berakhir dengan salah satu daripada tiga keputusan.
+
+29
+00:03:51,522 --> 00:04:01,256
+Trade: konteks, lokasi, kawasan, liquidity dan confirmation bersetuju, dengan invalidation yang logik dan risk-to-reward yang munasabah.
+
+30
+00:04:01,556 --> 00:04:08,386
+Tunggu: setup sedang terbentuk, tetapi satu bahagian, biasanya confirmation, belum hadir.
+
+31
+00:04:08,686 --> 00:04:17,124
+Tidak trade: bukti bercanggah, struktur tidak jelas, atau risiko tidak berbaloi. Ini juga keputusan profesional.
+
+32
+00:04:19,224 --> 00:04:21,446
+Mari rumuskan.
+
+33
+00:04:21,746 --> 00:04:32,680
+Lima konflik biasa: HTF lawan LTF, discount dengan struktur bearish, zon tanpa confirmation, sweep yang diteruskan, dan risk-to-reward yang lemah.
+
+34
+00:04:32,980 --> 00:04:37,242
+Bukti yang bercanggah mungkin mewajarkan menunggu atau tidak trade.
+
+35
+00:04:37,542 --> 00:04:42,500
+Tujuh keadaan no-trade perlu dihafal. Dan tidak trade ialah keputusan yang sah.
+
+36
+00:04:44,600 --> 00:04:49,438
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+37
+00:04:49,738 --> 00:04:57,864
+Soalan satu: HTF bullish tetapi LTF masih membuat lower highs. Apakah keputusan yang munasabah?
+
+38
+00:05:03,164 --> 00:05:10,546
+Jawapan: tunggu. Biarkan lower timeframe selari, contohnya dengan bullish structure shift, atau tidak trade.
+
+39
+00:05:10,846 --> 00:05:17,004
+Soalan dua: harga di discount, tetapi struktur terus membuat lower lows. Beli?
+
+40
+00:05:22,304 --> 00:05:29,758
+Jawapan: tidak. Discount tidak membatalkan struktur bearish. Tunggu perubahan struktur atau nilai semula range.
+
+41
+00:05:30,058 --> 00:05:41,520
+Soalan tiga: entry 4,668, stop 4,598, objektif terdekat 4,710. Trade atau tidak?
+
+42
+00:05:46,820 --> 00:05:56,482
+Jawapan: risiko 70, reward 42, kira-kira 1 kepada 0.6. Tidak menguntungkan. Tidak trade, walaupun zon bertindih.
+
+43
+00:05:56,782 --> 00:06:01,116
+Soalan empat: namakan empat daripada tujuh keadaan no-trade.
+
+44
+00:06:06,416 --> 00:06:20,038
+Jawapan: mana-mana empat: dealing range tidak jelas, tiada konteks struktur, tiada PD Array relevan, tiada confirmation, invalidation lemah, target terlalu jauh, keadaan bercanggah.
+
+45
+00:06:22,138 --> 00:06:30,624
+Latihan praktikal: untuk sepuluh setup yang berpotensi, tulis keputusan anda sebelum harga bergerak: trade, tunggu, atau tidak trade.
+
+46
+00:06:30,924 --> 00:06:36,482
+Untuk setiap satu, catat konflik yang wujud, dan keadaan no-trade yang berkenaan.
+
+47
+00:06:36,782 --> 00:06:44,884
+Selepas itu, semak hasilnya. Nilai sama ada keputusan itu betul berdasarkan maklumat yang ada pada masa itu, bukan berdasarkan hasil sahaja.
+
+48
+00:06:46,984 --> 00:06:55,782
+Dalam video terakhir: kajian kes bersepadu yang menggabungkan keenam-enam subtopik, dengan satu setup yang berjaya dan satu yang gagal.
+
+49
+00:06:57,882 --> 00:07:01,064
+Rujukan untuk video ini dipaparkan di skrin.
+
+50
+00:07:01,364 --> 00:07:08,746
+Pengurusan risiko dan risk-to-reward ialah prinsip umum dagangan. Contoh dalam video ini ialah ilustrasi.
+
+51
+00:07:10,846 --> 00:07:19,572
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+52
+00:07:19,872 --> 00:07:24,902
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 14.
+

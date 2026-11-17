@@ -1,0 +1,188 @@
+1
+00:00:00,800 --> 00:00:07,246
+Selamat kembali. Dalam Video 10, kita mempelajari old high dan old low sebagai rujukan liquidity.
+
+2
+00:00:07,546 --> 00:00:16,272
+Anda akan mengenal pasti swing high dan low sebelumnya, equal highs dan equal lows, dan hubungannya dengan buy-side dan sell-side liquidity.
+
+3
+00:00:16,572 --> 00:00:25,034
+Kita juga akan membezakan sweep daripada break, dan menjelaskan mengapa aras ini tidak sama sifatnya dengan order block atau fair value gap.
+
+4
+00:00:27,134 --> 00:00:35,164
+Mulakan dengan istilah. Swing high sebelumnya ialah puncak terkini yang telah terbentuk. Swing low sebelumnya ialah lembah terkini.
+
+5
+00:00:35,464 --> 00:00:44,022
+Old high ialah high yang lebih lama, yang belum dikunjungi semula oleh harga. Dalam contoh ini, 4,790 masih belum disentuh semula.
+
+6
+00:00:44,322 --> 00:00:53,144
+Begitu juga, old low ialah low lama yang belum diambil. Di sini, 4,630 ialah low terendah yang masih utuh.
+
+7
+00:00:53,444 --> 00:01:07,210
+High dan low lain di antaranya, 4,745, 4,722 dan 4,650, ialah swing dalaman. Ia juga rujukan, tetapi lebih kecil kepentingannya.
+
+8
+00:01:07,510 --> 00:01:14,316
+Aras ini menandakan di mana harga pernah berbalik. Dan di situlah order tertentu biasanya diandaikan berkumpul.
+
+9
+00:01:16,416 --> 00:01:25,958
+Equal highs terbentuk apabila dua atau lebih high berada pada harga yang hampir sama. Di sini, 4,782 dan 4,780.
+
+10
+00:01:26,258 --> 00:01:34,840
+Ia jarang tepat sama. Kita menyebutnya relatively equal highs. Di atasnya, buy-side liquidity biasanya diandaikan berkumpul.
+
+11
+00:01:35,140 --> 00:01:45,810
+Equal lows ialah cerminannya. Di sini, 4,620 dan 4,622. Di bawahnya, sell-side liquidity biasanya diandaikan berkumpul.
+
+12
+00:01:46,110 --> 00:01:55,748
+Mengapa? Kerana ramai peserta meletakkan stop atau order breakout di sebalik aras yang jelas seperti ini. Tetapi order itu tidak kelihatan pada carta candle.
+
+13
+00:01:57,848 --> 00:02:01,654
+Apabila harga sampai ke equal highs, dua perkara boleh berlaku.
+
+14
+00:02:01,954 --> 00:02:15,648
+Contoh A: sweep. Harga menembusi 4,782 dengan wick hingga 4,795, tetapi close semula di bawahnya. Liquidity diambil, kemudian harga berbalik turun.
+
+15
+00:02:15,948 --> 00:02:27,434
+Contoh B: break. Harga close di atas 4,782, bertahan di atasnya, dan terus naik. Old high diambil, dan trend bersambung.
+
+16
+00:02:27,734 --> 00:02:34,204
+Sweep sahaja tidak cukup untuk mengesahkan reversal. Kita masih memerlukan displacement dan perubahan struktur.
+
+17
+00:02:36,304 --> 00:02:45,846
+Hubungkan ini dengan dealing range. Liquidity di luar range, di atas range high dan di bawah range low, dipanggil external range liquidity.
+
+18
+00:02:46,146 --> 00:02:53,192
+Rujukan di dalam range, seperti fair value gap dan swing dalaman, dipanggil internal range liquidity.
+
+19
+00:02:53,492 --> 00:03:09,178
+Dalam range bullish 4,600 hingga 4,800 ini, buy-side liquidity di atas 4,800 ialah external, dan FVG di 4,645 hingga 4,668 ialah internal.
+
+20
+00:03:09,478 --> 00:03:18,732
+Satu kerangka biasa dalam ICT: harga sering bergerak antara internal dan external liquidity. Ini rangka analisis, bukan peraturan yang pasti.
+
+21
+00:03:20,832 --> 00:03:23,198
+Dua penjelasan penting.
+
+22
+00:03:23,498 --> 00:03:32,776
+Pertama, old high dan old low tidak automatik menjadi support atau resistance. Ia boleh menjadi sasaran yang diambil, bukan aras yang dihormati.
+
+23
+00:03:33,076 --> 00:03:44,202
+Kedua, walaupun ICT menyenaraikannya dalam PD Arrays, sifatnya berbeza daripada order block atau FVG. Ia aras harga, bukan zon yang terbentuk daripada displacement.
+
+24
+00:03:46,302 --> 00:03:48,524
+Kesilapan biasa:
+
+25
+00:03:48,824 --> 00:03:56,326
+Menganggap old high atau old low sebagai zon reversal yang pasti. Dan menganggap setiap sweep sebagai isyarat reversal.
+
+26
+00:03:56,626 --> 00:04:04,368
+Menganggap liquidity boleh dilihat terus pada carta. Dan menyamakan aras liquidity dengan order block atau FVG.
+
+27
+00:04:06,468 --> 00:04:08,690
+Mari rumuskan.
+
+28
+00:04:08,990 --> 00:04:16,756
+Old high dan old low ialah ekstrem lama yang belum diambil. Equal highs dan equal lows menandakan kawasan liquidity yang diandaikan.
+
+29
+00:04:17,056 --> 00:04:23,766
+Buy-side di atas highs, sell-side di bawah lows. External di luar range, internal di dalamnya.
+
+30
+00:04:24,066 --> 00:04:30,608
+Ia rujukan liquidity, bukan support atau resistance yang pasti, dan sweep perlu disahkan.
+
+31
+00:04:32,708 --> 00:04:37,546
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+32
+00:04:37,846 --> 00:04:42,732
+Soalan satu: di manakah buy-side liquidity biasanya diandaikan berada?
+
+33
+00:04:48,032 --> 00:04:56,470
+Jawapan: di atas highs, terutamanya old highs dan relatively equal highs, di mana stop dan order breakout biasanya diletakkan.
+
+34
+00:04:56,770 --> 00:05:02,904
+Soalan dua: mengapa liquidity sweep sahaja tidak mencukupi untuk mengesahkan reversal?
+
+35
+00:05:08,204 --> 00:05:17,242
+Jawapan: harga boleh menyapu sesuatu aras dan masih meneruskan arah asal. Confirmation memerlukan displacement dan perubahan struktur.
+
+36
+00:05:17,542 --> 00:05:30,900
+Soalan tiga: range 4,600 hingga 4,800. Adakah FVG di 4,645 hingga 4,668 internal atau external liquidity?
+
+37
+00:05:36,200 --> 00:05:46,270
+Jawapan: internal. Ia berada di dalam dealing range. External liquidity berada di atas 4,800 dan di bawah 4,600.
+
+38
+00:05:46,570 --> 00:05:51,552
+Soalan empat: bagaimana old high dan old low berbeza daripada order block?
+
+39
+00:05:56,852 --> 00:06:05,530
+Jawapan: ia ekstrem harga lama yang digunakan sebagai rujukan liquidity, bukan zon yang terbentuk daripada struktur candle khusus dan displacement.
+
+40
+00:06:07,630 --> 00:06:16,284
+Latihan praktikal: pada carta anda, tandakan old high dan old low yang masih utuh, serta sebarang equal highs atau equal lows.
+
+41
+00:06:16,584 --> 00:06:23,150
+Labelkan setiap satu sebagai buy-side atau sell-side, internal atau external, relatif kepada dealing range anda.
+
+42
+00:06:23,450 --> 00:06:29,896
+Kemudian, apabila harga sampai ke aras itu, catat sama ada ia sweep atau break, dan apa yang berlaku selepasnya.
+
+43
+00:06:31,996 --> 00:06:39,426
+Dalam video seterusnya: membandingkan semua PD Arrays, dan cara memilih zon yang paling relevan tanpa memenuhkan carta.
+
+44
+00:06:41,526 --> 00:06:44,708
+Rujukan untuk video ini dipaparkan di skrin.
+
+45
+00:06:45,008 --> 00:06:53,446
+Buy-side dan sell-side liquidity ialah istilah ICT. Literatur microstructure membincangkan stop order dan liquidity sebenar.
+
+46
+00:06:55,546 --> 00:07:04,272
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+47
+00:07:04,572 --> 00:07:09,434
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 11.
+

@@ -1,0 +1,204 @@
+1
+00:00:00,800 --> 00:00:07,702
+Welcome back. Video 12 begins the final subtopic of Level 6: Multiple Confluences.
+
+2
+00:00:08,002 --> 00:00:15,768
+You will learn what confluence really means, group the ten types of confluence, and build complete bullish and bearish cases.
+
+3
+00:00:16,068 --> 00:00:22,538
+And most importantly: how to avoid double-counting, which is counting the same evidence more than once.
+
+4
+00:00:24,638 --> 00:00:31,708
+In technical analysis, confluence means several factors pointing to the same conclusion, in the same area.
+
+5
+00:00:32,008 --> 00:00:38,382
+But distinguish four situations. One: a single isolated signal. This is weak evidence.
+
+6
+00:00:38,682 --> 00:00:46,832
+Two: several related signals that come from the same source. Three: independent evidence that comes from different observations.
+
+7
+00:00:47,132 --> 00:00:55,978
+And four: repeated labels describing the same price event. Only independent evidence genuinely adds strength to the analysis.
+
+8
+00:00:58,078 --> 00:01:01,812
+There are ten types of confluence we use in Level 6.
+
+9
+00:01:02,112 --> 00:01:06,110
+Context: market direction and higher timeframe structure.
+
+10
+00:01:06,410 --> 00:01:17,584
+Location: the dealing range, premium and discount, equilibrium, and Fibonacci OTE. Notice, all four come from the same range. They are one group of evidence.
+
+11
+00:01:17,884 --> 00:01:27,378
+Area: PD Arrays. Liquidity: where orders are assumed to rest. And behaviour: displacement and lower timeframe confirmation.
+
+12
+00:01:29,478 --> 00:01:33,140
+Now a complete bullish example, in eight steps.
+
+13
+00:01:33,440 --> 00:01:45,094
+One: bullish higher timeframe context. Two: a dealing range from 4,600 to 4,800. Three: discount below 4,700.
+
+14
+00:01:45,394 --> 00:01:58,320
+Four: during the pullback, price forms an internal low at 4,672. Sell-side liquidity sits below it. Price then sweeps that low, down to 4,650.
+
+15
+00:01:58,620 --> 00:02:16,106
+Five: the sweep reaches the bullish fair value gap, 4,645 to 4,668. Six: this area also overlaps the OTE zone, 4,642 to 4,676.
+
+16
+00:02:16,406 --> 00:02:26,932
+Seven: wait for lower timeframe confirmation. Price rallies and breaks the internal high at 4,690. This is a bullish structure shift.
+
+17
+00:02:27,232 --> 00:02:45,174
+Eight: the plan. Illustrative entry at 4,668. Invalidation at 4,638, below the sweep low and the gap. Target 4,800, buy-side liquidity. Risk 30, potential 132 points.
+
+18
+00:02:45,474 --> 00:02:53,888
+Why is this setup analytically interesting? Because location, liquidity, area and behaviour agree. But it does not have to succeed.
+
+19
+00:02:55,988 --> 00:02:58,546
+The bearish example is the mirror.
+
+20
+00:02:58,846 --> 00:03:14,004
+Bearish context, a range from 4,800 to 4,600, and premium above 4,700. During the pullback, an internal high forms at 4,728, with buy-side liquidity above it.
+
+21
+00:03:14,304 --> 00:03:31,406
+Price sweeps that high up to 4,750, into the bearish fair value gap at 4,732 to 4,755, which overlaps the OTE at 4,724 to 4,758.
+
+22
+00:03:31,706 --> 00:03:47,224
+Lower timeframe confirmation: price breaks the internal low at 4,710. Illustrative entry 4,732, invalidation 4,762, target 4,600.
+
+23
+00:03:49,324 --> 00:03:57,306
+This is a key CMI principle. Adding more indicators, zones and labels does not necessarily improve the analysis.
+
+24
+00:03:57,606 --> 00:04:03,068
+An over-loaded chart hides the real decision, and gives a false sense of confidence.
+
+25
+00:04:03,368 --> 00:04:16,390
+Instead, prioritise six things: relevant market direction, meaningful price location, clear structural evidence, relevant liquidity, a defined confirmation trigger, and a logical invalidation point.
+
+26
+00:04:18,490 --> 00:04:25,368
+Now double-counting. Look at this list of seven labels for the bullish setup. It looks like seven confluences.
+
+27
+00:04:25,668 --> 00:04:33,842
+But discount, below equilibrium, and in OTE are all calculated from the same high and low. They are one location reading.
+
+28
+00:04:34,142 --> 00:04:41,068
+The FVG and the order block were formed by the same displacement. They are one event, with two names.
+
+29
+00:04:41,368 --> 00:04:49,734
+The liquidity sweep and the structure shift are different observations. So seven labels become four independent pieces of evidence.
+
+30
+00:04:50,034 --> 00:04:56,960
+Five labels do not automatically mean five independent pieces of evidence. Count groups, not labels.
+
+31
+00:04:59,060 --> 00:05:01,282
+Let us summarise.
+
+32
+00:05:01,582 --> 00:05:06,756
+Meaningful confluence comes from independent evidence, not repeated labels.
+
+33
+00:05:07,056 --> 00:05:14,510
+The ten confluence types group into five: context, location, area, liquidity and behaviour.
+
+34
+00:05:14,810 --> 00:05:22,144
+Prioritise the six CMI items, and count groups, not labels. An interesting setup can still fail.
+
+35
+00:05:24,244 --> 00:05:29,082
+Now, test your understanding. Pause the video and answer each question.
+
+36
+00:05:29,382 --> 00:05:35,468
+Question one: Why can multiple overlapping confluences still produce a losing trade?
+
+37
+00:05:40,768 --> 00:05:55,038
+Answer: Many labels may describe the same evidence, and even truly independent evidence only improves the odds of an analysis. No combination guarantees a reaction, so risk and invalidation remain essential.
+
+38
+00:05:55,338 --> 00:06:04,232
+Question two: Discount, below equilibrium, and in OTE, all from one range. How many independent confluences?
+
+39
+00:06:09,532 --> 00:06:16,314
+Answer: One. All three are derived from the same high and low, so they form a single location reading.
+
+40
+00:06:16,614 --> 00:06:28,268
+Question three: Entry 4,668, invalidation 4,638, target 4,800. What is the risk to reward?
+
+41
+00:06:33,568 --> 00:06:43,686
+Answer: Risk 30, reward 132. 132 divided by 30 is 4.4, so about 1 to 4.4.
+
+42
+00:06:43,986 --> 00:06:48,800
+Question four: Name the six CMI priorities for confluence.
+
+43
+00:06:54,100 --> 00:07:05,442
+Answer: Relevant market direction, meaningful price location, clear structural evidence, relevant liquidity, a defined confirmation trigger, and a logical invalidation point.
+
+44
+00:07:07,542 --> 00:07:14,084
+Practical exercise: take one setup from your chart and list every confluence label you can see.
+
+45
+00:07:14,384 --> 00:07:23,254
+Group the labels by source: context, location, area, liquidity or behaviour. Merge those that come from the same event.
+
+46
+00:07:23,554 --> 00:07:29,256
+Then write how many independent pieces of evidence remain, and whether that is enough to act.
+
+47
+00:07:31,356 --> 00:07:37,754
+In the next video: what to do when evidence conflicts, and when the best decision is not to trade.
+
+48
+00:07:39,854 --> 00:07:43,036
+The references for this video are shown on screen.
+
+49
+00:07:43,336 --> 00:07:50,982
+Confluence is a general technical analysis concept. The grouping and double-counting rules are a CMI teaching framework.
+
+50
+00:07:53,082 --> 00:08:01,808
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+51
+00:08:02,108 --> 00:08:07,138
+Futures trading involves the risk of loss. See you in Video 13.
+

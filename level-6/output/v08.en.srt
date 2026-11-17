@@ -1,0 +1,188 @@
+1
+00:00:00,800 --> 00:00:05,254
+Welcome back. In Video 8, we study the Rejection Block.
+
+2
+00:00:05,554 --> 00:00:11,304
+You will learn to define it within the framework we use, mark the zone from body to wick,
+
+3
+00:00:11,604 --> 00:00:17,858
+and separate it from an ordinary pin bar, so that not every long wick gets labelled a rejection block.
+
+4
+00:00:19,958 --> 00:00:28,156
+In the framework we use, a rejection block forms at a meaningful swing high or swing low, where price leaves long wicks.
+
+5
+00:00:28,456 --> 00:00:37,182
+Look at this bearish example. Price rallies toward the previous high at 4,770, where buy-side liquidity rests.
+
+6
+00:00:37,482 --> 00:00:48,824
+Two candles push through 4,770 with long upper wicks, up to 4,782, but their bodies close much lower. Price was rejected.
+
+7
+00:00:49,124 --> 00:01:00,922
+To mark a bearish rejection block: take the highest body, 4,750, up to the highest wick, 4,782. The zone is that wick portion.
+
+8
+00:01:01,222 --> 00:01:11,148
+Price falls, then returns to 4,760, into the wick zone. Here, the rejection block is studied as a potential resistance area.
+
+9
+00:01:11,448 --> 00:01:18,422
+This bearish rejection block fails if price closes above the wick high, 4,782.
+
+10
+00:01:20,522 --> 00:01:25,024
+A bullish rejection block is the mirror, at a meaningful swing low.
+
+11
+00:01:25,324 --> 00:01:37,338
+Price drops through the previous low at 4,630, sweeping sell-side liquidity, with long lower wicks down to 4,618. The bodies close much higher.
+
+12
+00:01:37,638 --> 00:01:46,988
+The bullish rejection block zone runs from the lowest wick, 4,618, up to the lowest body, 4,650.
+
+13
+00:01:47,288 --> 00:01:59,134
+When price returns to 4,640, into the wick zone, it is studied as a potential support area. It fails if price closes below 4,618.
+
+14
+00:02:01,234 --> 00:02:04,752
+How does a rejection block differ from an ordinary pin bar?
+
+15
+00:02:05,052 --> 00:02:12,986
+A pin bar is a single-candle pattern: a small body with a long wick. It can appear anywhere, including mid-range.
+
+16
+00:02:13,286 --> 00:02:24,652
+A rejection block in this framework requires context: it sits at a meaningful swing extreme, usually after liquidity is taken, and at a relevant location in the dealing range.
+
+17
+00:02:24,952 --> 00:02:31,926
+And it is marked as a zone from body to wick, to be used when price returns. Not just a one-candle signal.
+
+18
+00:02:34,026 --> 00:02:38,456
+Two examples that should not be treated as a strong rejection block.
+
+19
+00:02:38,756 --> 00:02:49,786
+Example A: a long upper wick, but mid-range, near the 4,700 equilibrium. No swing extreme, no liquidity taken. It is just a wick.
+
+20
+00:02:50,086 --> 00:03:00,588
+Example B: a bearish rejection block forms correctly. But when price returns, it closes above 4,782. The zone has failed.
+
+21
+00:03:02,688 --> 00:03:08,774
+Rejection block definitions also vary between educators. This is the convention we use.
+
+22
+00:03:09,074 --> 00:03:17,752
+Location: a meaningful swing extreme. Bearish zone: highest body to wick high. Bullish zone: wick low to lowest body.
+
+23
+00:03:18,052 --> 00:03:27,402
+Failure: a close beyond the wick extreme. Some practitioners also use the midpoint of the wick zone as a reference, similar to a mean threshold.
+
+24
+00:03:29,502 --> 00:03:31,724
+Common mistakes:
+
+25
+00:03:32,024 --> 00:03:37,942
+Treating every long wick as a rejection block. And equating it with a one-candle pin bar.
+
+26
+00:03:38,242 --> 00:03:45,384
+Ignoring location in the range and liquidity context. And continuing to use a zone that has been violated.
+
+27
+00:03:47,484 --> 00:03:49,706
+Let us summarise.
+
+28
+00:03:50,006 --> 00:03:57,436
+A rejection block forms at a meaningful swing extreme with long wicks, usually after liquidity is taken.
+
+29
+00:03:57,736 --> 00:04:03,006
+The zone is marked from body to wick, and it fails on a close beyond the wick.
+
+30
+00:04:03,306 --> 00:04:08,600
+It is not an ordinary pin bar, and not every long wick is a rejection block.
+
+31
+00:04:10,700 --> 00:04:15,538
+Now, test your understanding. Pause the video and answer each question.
+
+32
+00:04:15,838 --> 00:04:20,868
+Question one: How is a bearish rejection block zone marked in this convention?
+
+33
+00:04:26,168 --> 00:04:36,046
+Answer: From the highest candle body at the swing high up to the highest wick. Here: 4,750 to 4,782.
+
+34
+00:04:36,346 --> 00:04:42,264
+Question two: Why is a long wick near equilibrium usually not a rejection block?
+
+35
+00:04:47,564 --> 00:04:56,074
+Answer: It is not at a meaningful swing extreme and usually has no liquidity context. It lacks what defines the rejection block.
+
+36
+00:04:56,374 --> 00:05:00,612
+Question three: How does a rejection block differ from a pin bar?
+
+37
+00:05:05,912 --> 00:05:17,614
+Answer: A pin bar is a one-candle pattern that can appear anywhere. A rejection block is a zone at a meaningful extreme, with liquidity and location context, used on return.
+
+38
+00:05:17,914 --> 00:05:22,488
+Question four: When is a bullish rejection block considered failed?
+
+39
+00:05:27,788 --> 00:05:32,026
+Answer: When price closes below the wick low of the zone.
+
+40
+00:05:34,126 --> 00:05:38,940
+Practical exercise: mark ten candles with long wicks on your chart.
+
+41
+00:05:39,240 --> 00:05:45,950
+For each, check: is it at a meaningful swing extreme? Was liquidity taken? Where is it in the range?
+
+42
+00:05:46,250 --> 00:05:53,296
+Only those that pass all three checks are marked as rejection blocks. Then record the outcome when price returned.
+
+43
+00:05:55,396 --> 00:06:05,058
+In the next video: a brief recap of the fair value gap, then the inverse fair value gap and the liquidity void, and the differences between all three.
+
+44
+00:06:07,158 --> 00:06:10,340
+The references for this video are shown on screen.
+
+45
+00:06:10,640 --> 00:06:18,598
+Rejection block is an ICT term. Pin bar and rejection candle patterns are discussed in conventional chart analysis.
+
+46
+00:06:20,698 --> 00:06:29,424
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+47
+00:06:29,724 --> 00:06:34,514
+Futures trading involves the risk of loss. See you in Video 9.
+

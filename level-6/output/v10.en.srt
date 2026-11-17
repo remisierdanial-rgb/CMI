@@ -1,0 +1,188 @@
+1
+00:00:00,800 --> 00:00:07,246
+Welcome back. In Video 10, we study old highs and old lows as liquidity references.
+
+2
+00:00:07,546 --> 00:00:16,272
+You will identify previous swing highs and lows, equal highs and equal lows, and their relationship with buy-side and sell-side liquidity.
+
+3
+00:00:16,572 --> 00:00:25,034
+We will also separate a sweep from a break, and explain why these levels are not the same in nature as an order block or a fair value gap.
+
+4
+00:00:27,134 --> 00:00:35,164
+Start with the terms. A previous swing high is the most recent formed peak. A previous swing low is the most recent trough.
+
+5
+00:00:35,464 --> 00:00:44,022
+An old high is an older high that price has not revisited. In this example, 4,790 has not been touched again.
+
+6
+00:00:44,322 --> 00:00:53,144
+Likewise, an old low is an older low that has not been taken. Here, 4,630 is the lowest low still intact.
+
+7
+00:00:53,444 --> 00:01:07,210
+The other highs and lows in between, 4,745, 4,722 and 4,650, are internal swings. They are references too, but of smaller importance.
+
+8
+00:01:07,510 --> 00:01:14,316
+These levels mark where price previously turned. And that is where certain orders are commonly assumed to cluster.
+
+9
+00:01:16,416 --> 00:01:25,958
+Equal highs form when two or more highs sit at almost the same price. Here, 4,782 and 4,780.
+
+10
+00:01:26,258 --> 00:01:34,840
+They are rarely exactly equal. We call them relatively equal highs. Above them, buy-side liquidity is commonly assumed to rest.
+
+11
+00:01:35,140 --> 00:01:45,810
+Equal lows are the mirror. Here, 4,620 and 4,622. Below them, sell-side liquidity is commonly assumed to rest.
+
+12
+00:01:46,110 --> 00:01:55,748
+Why? Because many participants place stops or breakout orders beyond obvious levels like these. But those orders are not visible on a candle chart.
+
+13
+00:01:57,848 --> 00:02:01,654
+When price reaches equal highs, two things can happen.
+
+14
+00:02:01,954 --> 00:02:15,648
+Example A: a sweep. Price pierces 4,782 with a wick up to 4,795, but closes back below it. Liquidity is taken, then price reverses lower.
+
+15
+00:02:15,948 --> 00:02:27,434
+Example B: a break. Price closes above 4,782, holds above it, and continues higher. The old high is taken, and the trend continues.
+
+16
+00:02:27,734 --> 00:02:34,204
+A sweep alone is not enough to confirm a reversal. We still need displacement and a change in structure.
+
+17
+00:02:36,304 --> 00:02:45,846
+Connect this to the dealing range. Liquidity outside the range, above the range high and below the range low, is called external range liquidity.
+
+18
+00:02:46,146 --> 00:02:53,192
+References inside the range, such as fair value gaps and internal swings, are called internal range liquidity.
+
+19
+00:02:53,492 --> 00:03:09,178
+In this bullish 4,600 to 4,800 range, the buy-side liquidity above 4,800 is external, and the FVG at 4,645 to 4,668 is internal.
+
+20
+00:03:09,478 --> 00:03:18,732
+A common ICT framework: price often moves between internal and external liquidity. This is an analytical frame, not a fixed rule.
+
+21
+00:03:20,832 --> 00:03:23,198
+Two important clarifications.
+
+22
+00:03:23,498 --> 00:03:32,776
+First, old highs and old lows are not automatically support or resistance. They can be targets that get taken, not levels that get respected.
+
+23
+00:03:33,076 --> 00:03:44,202
+Second, although ICT lists them among the PD Arrays, their nature differs from an order block or FVG. They are price levels, not zones formed by displacement.
+
+24
+00:03:46,302 --> 00:03:48,524
+Common mistakes:
+
+25
+00:03:48,824 --> 00:03:56,326
+Treating old highs or lows as guaranteed reversal zones. And treating every sweep as a reversal signal.
+
+26
+00:03:56,626 --> 00:04:04,368
+Assuming liquidity can be seen directly on the chart. And equating liquidity levels with order blocks or FVGs.
+
+27
+00:04:06,468 --> 00:04:08,690
+Let us summarise.
+
+28
+00:04:08,990 --> 00:04:16,756
+Old highs and lows are older extremes not yet taken. Equal highs and equal lows mark assumed liquidity areas.
+
+29
+00:04:17,056 --> 00:04:23,766
+Buy-side above highs, sell-side below lows. External outside the range, internal inside it.
+
+30
+00:04:24,066 --> 00:04:30,608
+They are liquidity references, not guaranteed support or resistance, and a sweep needs confirmation.
+
+31
+00:04:32,708 --> 00:04:37,546
+Now, test your understanding. Pause the video and answer each question.
+
+32
+00:04:37,846 --> 00:04:42,732
+Question one: Where is buy-side liquidity commonly assumed to rest?
+
+33
+00:04:48,032 --> 00:04:56,470
+Answer: Above highs, especially old highs and relatively equal highs, where stops and breakout orders are commonly placed.
+
+34
+00:04:56,770 --> 00:05:02,904
+Question two: Why is a liquidity sweep not sufficient by itself to confirm a reversal?
+
+35
+00:05:08,204 --> 00:05:17,242
+Answer: Price can sweep a level and still continue in the original direction. Confirmation needs displacement and a change in structure.
+
+36
+00:05:17,542 --> 00:05:30,900
+Question three: The range is 4,600 to 4,800. Is an FVG at 4,645 to 4,668 internal or external liquidity?
+
+37
+00:05:36,200 --> 00:05:46,270
+Answer: Internal. It sits inside the dealing range. External liquidity lies above 4,800 and below 4,600.
+
+38
+00:05:46,570 --> 00:05:51,552
+Question four: How do old highs/lows differ from order blocks?
+
+39
+00:05:56,852 --> 00:06:05,530
+Answer: They are prior price extremes used as liquidity references, not zones formed by a specific candle structure and displacement.
+
+40
+00:06:07,630 --> 00:06:16,284
+Practical exercise: on your chart, mark the old highs and old lows still intact, and any equal highs or equal lows.
+
+41
+00:06:16,584 --> 00:06:23,150
+Label each as buy-side or sell-side, internal or external, relative to your dealing range.
+
+42
+00:06:23,450 --> 00:06:29,896
+Then, when price reaches a level, record whether it was a sweep or a break, and what happened next.
+
+43
+00:06:31,996 --> 00:06:39,426
+In the next video: comparing all PD Arrays, and how to select the most relevant zone without cluttering the chart.
+
+44
+00:06:41,526 --> 00:06:44,708
+The references for this video are shown on screen.
+
+45
+00:06:45,008 --> 00:06:53,446
+Buy-side and sell-side liquidity are ICT terms. Microstructure literature discusses stop orders and actual liquidity.
+
+46
+00:06:55,546 --> 00:07:04,272
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+47
+00:07:04,572 --> 00:07:09,434
+Futures trading involves the risk of loss. See you in Video 11.
+

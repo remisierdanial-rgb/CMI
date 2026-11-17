@@ -1,0 +1,208 @@
+1
+00:00:00,800 --> 00:00:10,726
+Welcome back. In Video 9, we look at three imbalance-based PD Arrays: the fair value gap, the inverse fair value gap, and the liquidity void.
+
+2
+00:00:11,026 --> 00:00:17,520
+You already studied fair value gaps and displacement in Level 5, so we only do a brief recap.
+
+3
+00:00:17,820 --> 00:00:24,938
+The focus of this video is the difference between all three, and how they are read in premium and discount context.
+
+4
+00:00:27,038 --> 00:00:33,988
+Recap: a fair value gap is a three-candle imbalance. The second candle is the displacement candle.
+
+5
+00:00:34,288 --> 00:00:45,006
+In a bullish FVG, the gap lies between the high of candle one and the low of candle three. Price moved so fast that the area was traded in one direction only.
+
+6
+00:00:45,306 --> 00:00:51,968
+In a bearish FVG, the gap lies between the low of candle one and the high of candle three.
+
+7
+00:00:52,268 --> 00:00:59,602
+The midpoint of the gap is called consequent encroachment. Price may later retrace into the gap, but it does not have to.
+
+8
+00:01:01,702 --> 00:01:13,692
+On the chart, this bullish FVG forms during the displacement from 4,628, between 4,645 and 4,668.
+
+9
+00:01:13,992 --> 00:01:26,942
+For Level 6, the key question is location. In the 4,600 to 4,760 range, this gap sits in discount, below the 4,680 equilibrium.
+
+10
+00:01:27,242 --> 00:01:36,496
+When price retraces into the gap, it is a bullish PD Array in a discount location. That is useful context, but it still needs confirmation.
+
+11
+00:01:36,796 --> 00:01:44,970
+Not every FVG is tradable. A small FVG mid-range, or against structure, has little analytical value.
+
+12
+00:01:47,070 --> 00:01:57,860
+Now the inverse fair value gap, or IFVG. We start with the same bullish FVG, 4,645 to 4,668.
+
+13
+00:01:58,160 --> 00:02:10,606
+This time, price returns to the gap and does not hold. A candle body closes below the lower edge of the gap, 4,645. The bullish FVG has been violated.
+
+14
+00:02:10,906 --> 00:02:18,384
+After a violation by close, the analytical role of the gap inverts. It is now read as a bearish IFVG.
+
+15
+00:02:18,684 --> 00:02:29,402
+When price rallies back to 4,660, into the zone from below, it is studied as potential resistance. Here, price is rejected and falls.
+
+16
+00:02:29,702 --> 00:02:43,492
+This bearish IFVG fails if price closes back above the gap, above 4,668. A bullish IFVG is the mirror: a bearish FVG violated by a close to the upside.
+
+17
+00:02:45,592 --> 00:02:50,670
+Do not confuse an IFVG with an FVG that has simply been filled.
+
+18
+00:02:50,970 --> 00:03:04,640
+Example A: price returns into the gap, even wicks below it, but the body closes back inside or above the gap. The gap was filled and respected. It is still a bullish FVG, not an IFVG.
+
+19
+00:03:04,940 --> 00:03:16,978
+Example B: a candle body closes below 4,645 and price stays below it. This is the violation that turns the FVG into an IFVG.
+
+20
+00:03:19,078 --> 00:03:31,380
+Now the liquidity void. Look at this decline: six large consecutive bearish candles, from 4,806 to 4,660, with very little overlap.
+
+21
+00:03:31,680 --> 00:03:39,254
+Price was delivered quickly through this whole area. There was almost no two-way trade. This is what a liquidity void looks like.
+
+22
+00:03:39,554 --> 00:03:48,424
+Inside it, there are several fair value gaps. But the void is the whole area of inefficient delivery, not a single three-candle gap.
+
+23
+00:03:48,724 --> 00:03:58,530
+Later, price may return into the void. Here it rallies back to 4,736, around the middle of the void, before falling again.
+
+24
+00:03:58,830 --> 00:04:08,300
+Important: a move that looks inefficient on the chart does not prove there was no actual resting liquidity in that area. It is only a visual reading.
+
+25
+00:04:10,400 --> 00:04:12,600
+Let us compare all three.
+
+26
+00:04:12,900 --> 00:04:18,962
+FVG: a single three-candle gap, between the wicks of candle one and candle three.
+
+27
+00:04:19,262 --> 00:04:25,972
+IFVG: an FVG that has been violated by a close, and is now read in the opposite role.
+
+28
+00:04:26,272 --> 00:04:34,518
+Liquidity void: a larger area of price delivery, spanning several candles, and possibly containing several FVGs.
+
+29
+00:04:36,618 --> 00:04:38,840
+Common mistakes:
+
+30
+00:04:39,140 --> 00:04:46,930
+Treating every FVG as tradable. And confusing an IFVG with an FVG that has simply been filled.
+
+31
+00:04:47,230 --> 00:04:55,524
+Confusing a liquidity void with an ordinary FVG. And treating a void as proof that no real orders exist in that area.
+
+32
+00:04:57,624 --> 00:04:59,846
+Let us summarise.
+
+33
+00:05:00,146 --> 00:05:08,152
+An FVG is a three-candle gap. An IFVG is an FVG violated by a close, with an inverted role.
+
+34
+00:05:08,452 --> 00:05:16,266
+A filled but respected FVG is not an IFVG. A liquidity void is an inefficient multi-candle leg.
+
+35
+00:05:16,566 --> 00:05:22,244
+All three are read together with premium and discount location, and none is guaranteed.
+
+36
+00:05:24,344 --> 00:05:29,182
+Now, test your understanding. Pause the video and answer each question.
+
+37
+00:05:29,482 --> 00:05:34,608
+Question one: What is the difference between an FVG and an IFVG?
+
+38
+00:05:39,908 --> 00:05:52,234
+Answer: An IFVG is an FVG that price has closed through, beyond its far edge. Its analytical role then inverts. An ordinary FVG has not been violated by a close.
+
+39
+00:05:52,534 --> 00:05:59,964
+Question two: Price wicks below a bullish FVG but closes back inside it. Is it now an IFVG?
+
+40
+00:06:05,264 --> 00:06:13,030
+Answer: No. The gap was filled and respected. An IFVG requires a body close beyond the far edge.
+
+41
+00:06:13,330 --> 00:06:17,784
+Question three: How does a liquidity void differ from an FVG?
+
+42
+00:06:23,084 --> 00:06:34,666
+Answer: A void is a larger, multi-candle area of fast one-directional delivery that may contain several FVGs. An FVG is a specific three-candle gap.
+
+43
+00:06:34,966 --> 00:06:47,244
+Question four: A bullish FVG has a candle one high of 4,645 and a candle three low of 4,668. What is the consequent encroachment?
+
+44
+00:06:52,544 --> 00:07:02,878
+Answer: 4,645 plus 4,668, divided by two, is 4,656.5.
+
+45
+00:07:04,978 --> 00:07:12,432
+Practical exercise: mark five FVGs on your chart and record the premium or discount location of each.
+
+46
+00:07:12,732 --> 00:07:21,146
+For each FVG that was revisited, classify it: filled and respected, or violated by a close into an IFVG.
+
+47
+00:07:21,446 --> 00:07:26,548
+Then find one liquidity void and count how many FVGs it contains.
+
+48
+00:07:28,648 --> 00:07:37,398
+In the next video: old highs and old lows, equal highs and equal lows, and their relationship with buy-side and sell-side liquidity.
+
+49
+00:07:39,498 --> 00:07:42,680
+The references for this video are shown on screen.
+
+50
+00:07:42,980 --> 00:07:52,498
+FVG, IFVG and liquidity void are ICT terms. Microstructure literature discusses actual liquidity in the order book.
+
+51
+00:07:54,598 --> 00:08:03,324
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+52
+00:08:03,624 --> 00:08:08,438
+Futures trading involves the risk of loss. See you in Video 10.
+

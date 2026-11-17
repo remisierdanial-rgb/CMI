@@ -1,0 +1,180 @@
+1
+00:00:00,800 --> 00:00:09,718
+Selamat kembali. Video 11 menutup subtopik PD Arrays dengan soalan praktikal: daripada semua zon ini, yang mana relevan?
+
+2
+00:00:10,018 --> 00:00:17,280
+Kita akan membandingkan lapan jenis PD Array, menggunakan tujuh kriteria pemilihan, dan menapis carta yang terlalu penuh.
+
+3
+00:00:17,580 --> 00:00:23,162
+Matlamatnya bukan mencari lebih banyak zon, tetapi memilih satu atau dua yang benar-benar bermakna.
+
+4
+00:00:25,262 --> 00:00:30,436
+Inilah lapan PD Array yang telah kita pelajari, dengan apa yang perlu dikenal pasti untuk setiap satu.
+
+5
+00:00:30,736 --> 00:00:41,118
+Perhatikan lajur terakhir. Ia tidak sama sifatnya. Ada yang berasaskan struktur candle, ada berasaskan struktur yang gagal, ada berasaskan imbalance, dan ada yang hanya aras rujukan.
+
+6
+00:00:41,418 --> 00:00:47,456
+Jadi jangan anggap semuanya mempunyai definisi, mekanisme pembentukan, atau nilai bukti yang sama.
+
+7
+00:00:49,556 --> 00:00:54,298
+Untuk memilih PD Array yang relevan, nilai tujuh kriteria ini.
+
+8
+00:00:54,598 --> 00:01:03,228
+Satu, relevan pada higher timeframe. Dua, selari dengan arah pasaran. Tiga, berada di lokasi premium atau discount yang betul.
+
+9
+00:01:03,528 --> 00:01:10,934
+Empat, konteks liquidity. Lima, terbentuk daripada displacement. Enam, disokong oleh confirmation struktur.
+
+10
+00:01:11,234 --> 00:01:15,736
+Dan tujuh, belum invalidated atau ditembusi secara bermakna.
+
+11
+00:01:17,836 --> 00:01:27,378
+Sekarang praktik. Carta ilustrasi ini mempunyai tujuh zon calon, ditambah old high dan old low. Inilah rupa carta yang terlalu penuh.
+
+12
+00:01:27,678 --> 00:01:38,516
+Konteks: range bullish 4,600 hingga 4,800, equilibrium 4,700. Kita mencari kawasan bullish di discount.
+
+13
+00:01:38,816 --> 00:01:47,326
+Tapisan satu, relevan pada higher timeframe: buang FVG satu minit yang kecil, dan wick di tengah range yang bukan swing extreme.
+
+14
+00:01:47,626 --> 00:01:53,760
+Tapisan dua, arah: struktur bullish, jadi buang fair value gap bearish.
+
+15
+00:01:54,060 --> 00:01:59,618
+Tapisan tiga, lokasi: buang order block bullish yang berada di premium.
+
+16
+00:01:59,918 --> 00:02:07,060
+Tapisan empat, invalidation: buang FVG bullish yang telah ditembusi dengan close semasa pullback.
+
+17
+00:02:07,360 --> 00:02:22,710
+Yang tinggal: order block bullish dan FVG bullish di discount, kedua-duanya daripada displacement yang memecahkan struktur. Sell-side liquidity di 4,600 di bawahnya, dan buy-side di atas 4,800 sebagai objektif.
+
+18
+00:02:23,010 --> 00:02:37,160
+Perhatikan: OB dan FVG ini datang daripada displacement yang sama. Ia satu kawasan minat, 4,628 hingga 4,668, bukan dua bukti bebas.
+
+19
+00:02:39,260 --> 00:02:44,266
+Soalan biasa: adakah terdapat susunan keutamaan rasmi antara PD Arrays?
+
+20
+00:02:44,566 --> 00:02:55,212
+Bahan ICT membincangkan susunan PD Arrays dalam bentuk matrix. Tetapi susunan khusus berbeza mengikut sumber dan konteks, dan kami belum mengesahkan satu versi rasmi.
+
+21
+00:02:55,512 --> 00:03:03,470
+Jadi dalam siri ini, kita tidak memaparkan susunan tetap. Kita menggunakan tujuh kriteria tadi untuk menilai setiap zon dalam konteksnya.
+
+22
+00:03:05,570 --> 00:03:08,752
+Kesilapan biasa merentas semua PD Arrays:
+
+23
+00:03:09,052 --> 00:03:21,258
+Menandakan setiap candle sebagai order block. Menganggap setiap FVG boleh didagangkan. Mengelirukan IFVG dengan FVG yang diisi. Menganggap setiap wick sebagai rejection block.
+
+24
+00:03:21,558 --> 00:03:33,428
+Mengelirukan liquidity void dengan FVG. Menganggap old high atau low sebagai zon reversal yang pasti. Menggunakan terlalu banyak zon yang bertindih. Dan mengabaikan relevan timeframe.
+
+25
+00:03:35,528 --> 00:03:37,750
+Mari rumuskan.
+
+26
+00:03:38,050 --> 00:03:43,320
+Lapan PD Arrays berbeza dari segi definisi, pembentukan, dan nilai bukti.
+
+27
+00:03:43,620 --> 00:03:49,370
+Pilih zon menggunakan tujuh kriteria, dan tapis carta sehingga tinggal satu atau dua kawasan.
+
+28
+00:03:49,670 --> 00:03:57,148
+Zon daripada peristiwa harga yang sama ialah satu kawasan, bukan bukti berganda. Tiada susunan keutamaan rasmi dipaparkan.
+
+29
+00:03:59,248 --> 00:04:04,086
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+30
+00:04:04,386 --> 00:04:09,056
+Soalan satu: namakan tujuh kriteria pemilihan PD Array.
+
+31
+00:04:14,356 --> 00:04:26,250
+Jawapan: relevan higher timeframe, arah pasaran, lokasi premium atau discount, konteks liquidity, displacement, confirmation struktur, dan belum invalidated.
+
+32
+00:04:26,550 --> 00:04:35,036
+Soalan dua: konteks bullish. Order block bullish berada di premium range HTF. Kekalkan atau buang?
+
+33
+00:04:40,336 --> 00:04:48,150
+Jawapan: biasanya buang atau kurangkan keutamaan: ia berada di lokasi yang salah untuk setup bullish dalam range itu.
+
+34
+00:04:48,450 --> 00:04:55,880
+Soalan tiga: order block dan FVG terbentuk daripada displacement yang sama. Berapa confluence itu?
+
+35
+00:05:01,180 --> 00:05:08,826
+Jawapan: satu kawasan minat. Kedua-duanya menerangkan peristiwa harga yang sama, jadi bukan dua bukti bebas.
+
+36
+00:05:09,126 --> 00:05:14,996
+Soalan empat: mengapa siri ini tidak memaparkan susunan keutamaan PD Array yang rasmi?
+
+37
+00:05:20,296 --> 00:05:29,046
+Jawapan: susunannya berbeza mengikut sumber dan konteks, dan tidak dapat disahkan sebagai rasmi. Setiap zon dinilai menggunakan kriteria.
+
+38
+00:05:31,146 --> 00:05:36,368
+Latihan praktikal: tandakan setiap PD Array yang anda nampak pada carta satu jam anda.
+
+39
+00:05:36,668 --> 00:05:43,954
+Kemudian gunakan tujuh kriteria satu demi satu, dan padamkan zon yang gagal. Catat sebab bagi setiap pemadaman.
+
+40
+00:05:44,254 --> 00:05:49,500
+Akhirnya, gabungkan zon yang datang daripada peristiwa yang sama. Berapa kawasan yang tinggal?
+
+41
+00:05:51,600 --> 00:05:59,438
+Dalam video seterusnya, kita memulakan subtopik terakhir: Multiple Confluences, dan cara menggabungkan bukti tanpa double-counting.
+
+42
+00:06:01,538 --> 00:06:04,720
+Rujukan untuk video ini dipaparkan di skrin.
+
+43
+00:06:05,020 --> 00:06:13,386
+Pengelasan PD Arrays ialah istilah ICT. Susunan keutamaan rasmi tidak dipaparkan kerana belum disahkan.
+
+44
+00:06:15,486 --> 00:06:24,212
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+45
+00:06:24,512 --> 00:06:29,398
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 12.
+

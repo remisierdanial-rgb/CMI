@@ -1,0 +1,212 @@
+1
+00:00:00,800 --> 00:00:05,734
+Welcome to the final video of Level 6: the integrated case study.
+
+2
+00:00:06,034 --> 00:00:12,336
+We will apply all six subtopics in ten steps, on one illustrative FCPO chart.
+
+3
+00:00:12,636 --> 00:00:23,114
+This chart is hypothetical. It is not historical data and not an actual market event. And we will see two outcomes: one setup that develops, and one that fails.
+
+4
+00:00:25,214 --> 00:00:35,476
+Step one: market direction. On the higher timeframe, price makes higher highs and breaks the 4,655 swing high with displacement.
+
+5
+00:00:35,776 --> 00:00:46,518
+The rally continues to 4,880. Structure is bullish. So we study the bullish side, looking for a buying opportunity at a favourable location.
+
+6
+00:00:48,618 --> 00:00:59,936
+Step two: the dealing range. The meaningful swing low is 4,520, the start of the displacement. The meaningful swing high is 4,880.
+
+7
+00:01:00,236 --> 00:01:11,698
+Step three: equilibrium. 4,880 plus 4,520 is 9,400. Divided by two, 4,700.
+
+8
+00:01:13,798 --> 00:01:24,852
+Step four: location. Price retraces from 4,880 and now trades around 4,603, below equilibrium. This is discount.
+
+9
+00:01:25,152 --> 00:01:38,054
+Range position: 4,603 minus 4,520 is 83. 83 divided by 360 is about 23 percent. A deep discount location.
+
+10
+00:01:40,154 --> 00:01:52,840
+Step five: PD Arrays. Before the early displacement, the last down-close candle is a bullish order block, body 4,610 to 4,635.
+
+11
+00:01:53,140 --> 00:02:04,602
+The same displacement left a fair value gap, 4,640 to 4,680. Both come from the same event, so we treat them as one area of interest.
+
+12
+00:02:04,902 --> 00:02:17,900
+Notice also: although price touched 4,601 and 4,603, no candle body closed below 4,610. The order block is still intact.
+
+13
+00:02:20,000 --> 00:02:29,830
+Step six: liquidity. Two lows around 4,600 form relatively equal lows. Sell-side liquidity is assumed to rest below them.
+
+14
+00:02:30,130 --> 00:02:40,800
+Above, the 4,880 old high holds buy-side liquidity. This is external range liquidity, a logical objective if bullish structure continues.
+
+15
+00:02:42,900 --> 00:02:52,634
+Step seven: OTE. Anchor Fibonacci on the bullish leg, from the 4,520 low to the 4,880 high.
+
+16
+00:02:52,934 --> 00:03:17,068
+0.62 sits at 4,656.8. 0.705 at 4,626.2. 0.79 at 4,595.6. The order block, 4,610 to 4,635, sits inside the OTE zone, near 0.705.
+
+17
+00:03:17,368 --> 00:03:24,774
+Remember, OTE and discount come from the same range. They are one location reading, not two confluences.
+
+18
+00:03:26,874 --> 00:03:34,640
+Step eight: confirmation. So far, we only have location and area. We do not yet have a reason to enter.
+
+19
+00:03:34,940 --> 00:03:48,994
+Price then sweeps the equal lows, with a wick down to 4,592, and closes back at 4,616, still inside the order block body, above 4,610.
+
+20
+00:03:49,294 --> 00:04:01,260
+The confirmation we wait for: an upward displacement that breaks the internal high at 4,650. Here, price does exactly that. This is a bullish structure shift.
+
+21
+00:04:03,360 --> 00:04:13,574
+Step nine: execution planning. An illustrative entry at 4,630, when price retraces into the order block after the structure shift.
+
+22
+00:04:13,874 --> 00:04:23,776
+Invalidation at 4,575, below the 4,592 sweep low. If price gets there, the idea is wrong.
+
+23
+00:04:24,076 --> 00:04:30,594
+Logical target: the 4,880 old high, where buy-side liquidity rests.
+
+24
+00:04:30,894 --> 00:04:47,852
+Risk: 4,630 minus 4,575 is 55 points. Potential: 4,880 minus 4,630 is 250 points. Risk to reward of about 1 to 4.5.
+
+25
+00:04:48,152 --> 00:05:00,070
+And reasons not to enter: if the structure shift does not occur, if price closes below the order block, or if entry is only available much higher, which ruins the risk to reward.
+
+26
+00:05:02,170 --> 00:05:05,496
+Now two possible outcomes from the same analysis.
+
+27
+00:05:05,796 --> 00:05:21,698
+Scenario A: the sweep is followed by a structure shift. Price retraces to 4,628, the 4,630 entry fills, and price rallies to the 4,880 target. The setup develops as planned.
+
+28
+00:05:21,998 --> 00:05:33,988
+Scenario B: after the sweep, price only bounces to 4,628. It never breaks 4,650. No confirmation, so no entry.
+
+29
+00:05:34,288 --> 00:05:47,742
+Then price closes below the order block and falls below 4,575. A trader who entered early, without confirmation, would lose 55 points. The disciplined trader never entered.
+
+30
+00:05:49,842 --> 00:05:57,536
+Step ten: post-trade evaluation. Review the analysis regardless of whether the outcome was a win or a loss.
+
+31
+00:05:57,836 --> 00:06:00,466
+For scenario A: was every step followed? Did the entry, invalidation and target follow the plan? If so, it was a good decision, not just a good result.
+
+32
+00:06:00,766 --> 00:06:08,652
+For scenario B: there was no entry because there was no confirmation. That was also a correct decision, even without a profit.
+
+33
+00:06:08,952 --> 00:06:15,686
+And if someone entered early and lost, the question is not why the market was wrong, but which step did I skip.
+
+34
+00:06:17,786 --> 00:06:20,752
+Let us summarise the whole of Level 6.
+
+35
+00:06:21,052 --> 00:06:28,602
+The dealing range and equilibrium define location. Premium and discount are context, not signals. OTE is a retracement zone, not an automatic entry.
+
+36
+00:06:28,902 --> 00:06:35,972
+PD Arrays must be selected with criteria. Confluence is counted by independent evidence groups, not labels.
+
+37
+00:06:36,272 --> 00:06:46,414
+Location Before Execution. Higher Timeframe Before Lower Timeframe. Confluence Without Overcomplication. And no trade is always a valid choice.
+
+38
+00:06:48,514 --> 00:06:53,352
+Now, test your understanding. Pause the video and answer each question.
+
+39
+00:06:53,652 --> 00:07:03,938
+Question one: The range is 4,520 to 4,880. Calculate equilibrium and the 0.705 level.
+
+40
+00:07:09,238 --> 00:07:18,228
+Answer: Equilibrium is 4,700. The 0.705 level is 4,880 minus 253.8, which is 4,626.2.
+
+41
+00:07:18,528 --> 00:07:30,206
+Question two: Entry 4,630, invalidation 4,575, target 4,880. What is the risk to reward?
+
+42
+00:07:35,506 --> 00:07:46,224
+Answer: Risk 55, reward 250. 250 divided by 55 is about 4.5, so roughly 1 to 4.5.
+
+43
+00:07:46,524 --> 00:07:53,810
+Question three: In scenario B, why was no trade taken even though location and area were favourable?
+
+44
+00:07:59,110 --> 00:08:09,516
+Answer: The confirmation, a break of 4,650 with displacement, never occurred. Location and area alone are not an entry reason.
+
+45
+00:08:09,816 --> 00:08:15,614
+Question four: Why should post-trade evaluation focus on decisions rather than outcomes?
+
+46
+00:08:20,914 --> 00:08:30,888
+Answer: Outcomes include randomness. A sound process can lose and a poor one can win. Only the process is under your control and can be improved.
+
+47
+00:08:32,988 --> 00:08:39,530
+Final exercise: complete your own case study on an FCPO chart, using these ten steps.
+
+48
+00:08:39,830 --> 00:08:52,108
+Write each step before price moves: direction, range, equilibrium, location, PD Arrays, liquidity, OTE, the confirmation you are waiting for, and the plan.
+
+49
+00:08:52,408 --> 00:08:58,974
+Afterwards, complete step ten: evaluate your decision, and identify one thing to improve.
+
+50
+00:09:01,074 --> 00:09:04,256
+The references for this video are shown on screen.
+
+51
+00:09:04,556 --> 00:09:11,170
+This case study is entirely hypothetical. It does not represent an actual FCPO market event.
+
+52
+00:09:13,270 --> 00:09:21,996
+For educational purposes only. Not financial advice or a guarantee of profit. All FCPO prices in this video are illustrative.
+
+53
+00:09:22,296 --> 00:09:28,382
+Futures trading involves the risk of loss. Congratulations on completing Level 6.
+

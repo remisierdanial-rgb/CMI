@@ -1,0 +1,204 @@
+1
+00:00:00,800 --> 00:00:07,702
+Selamat kembali. Video 12 memulakan subtopik terakhir Level 6: Multiple Confluences.
+
+2
+00:00:08,002 --> 00:00:15,768
+Anda akan belajar maksud confluence yang sebenar, mengumpulkan sepuluh jenis confluence, dan membina kes bullish dan bearish yang lengkap.
+
+3
+00:00:16,068 --> 00:00:22,538
+Dan yang paling penting: cara mengelakkan double-counting, iaitu mengira bukti yang sama lebih daripada sekali.
+
+4
+00:00:24,638 --> 00:00:31,708
+Dalam analisis teknikal, confluence bermaksud beberapa faktor menunjuk kepada kesimpulan yang sama, di kawasan yang sama.
+
+5
+00:00:32,008 --> 00:00:38,382
+Tetapi bezakan empat situasi. Satu: satu isyarat yang terpencil. Ini bukti yang lemah.
+
+6
+00:00:38,682 --> 00:00:46,832
+Dua: beberapa isyarat yang berkaitan, yang datang daripada sumber yang sama. Tiga: bukti bebas, yang datang daripada pemerhatian yang berbeza.
+
+7
+00:00:47,132 --> 00:00:55,978
+Dan empat: label berulang yang menerangkan peristiwa harga yang sama. Hanya bukti bebas yang benar-benar menambah kekuatan analisis.
+
+8
+00:00:58,078 --> 00:01:01,812
+Terdapat sepuluh jenis confluence yang kita gunakan dalam Level 6.
+
+9
+00:01:02,112 --> 00:01:06,110
+Konteks: arah pasaran dan struktur higher timeframe.
+
+10
+00:01:06,410 --> 00:01:17,584
+Lokasi: dealing range, premium dan discount, equilibrium, dan Fibonacci OTE. Perhatikan, keempat-empat ini datang daripada range yang sama. Ia satu kumpulan bukti.
+
+11
+00:01:17,884 --> 00:01:27,378
+Kawasan: PD Arrays. Liquidity: di mana order diandaikan berada. Dan tingkah laku: displacement serta confirmation lower timeframe.
+
+12
+00:01:29,478 --> 00:01:33,140
+Sekarang contoh bullish yang lengkap, dalam lapan langkah.
+
+13
+00:01:33,440 --> 00:01:45,094
+Satu: konteks higher timeframe bullish. Dua: dealing range dari 4,600 ke 4,800. Tiga: discount di bawah 4,700.
+
+14
+00:01:45,394 --> 00:01:58,320
+Empat: semasa pullback, harga membentuk low dalaman di 4,672. Sell-side liquidity berada di bawahnya. Harga kemudian menyapu low itu, turun ke 4,650.
+
+15
+00:01:58,620 --> 00:02:16,106
+Lima: sweep itu masuk ke fair value gap bullish, 4,645 hingga 4,668. Enam: kawasan ini juga bertindih dengan zon OTE, 4,642 hingga 4,676.
+
+16
+00:02:16,406 --> 00:02:26,932
+Tujuh: tunggu confirmation lower timeframe. Harga naik dan memecahkan high dalaman 4,690. Ini bullish structure shift.
+
+17
+00:02:27,232 --> 00:02:45,174
+Lapan: rancangan. Entry ilustrasi 4,668. Invalidation 4,638, di bawah sweep low dan gap. Target 4,800, buy-side liquidity. Risiko 30, potensi 132 mata.
+
+18
+00:02:45,474 --> 00:02:53,888
+Mengapa setup ini menarik secara analitikal? Kerana lokasi, liquidity, kawasan dan tingkah laku bersetuju. Tetapi ia tidak semestinya berjaya.
+
+19
+00:02:55,988 --> 00:02:58,546
+Contoh bearish ialah cerminannya.
+
+20
+00:02:58,846 --> 00:03:14,004
+Konteks bearish, range dari 4,800 ke 4,600, dan premium di atas 4,700. Semasa pullback, high dalaman terbentuk di 4,728, dengan buy-side liquidity di atasnya.
+
+21
+00:03:14,304 --> 00:03:31,406
+Harga menyapu high itu hingga 4,750, ke dalam fair value gap bearish 4,732 hingga 4,755, yang bertindih dengan OTE 4,724 hingga 4,758.
+
+22
+00:03:31,706 --> 00:03:47,224
+Confirmation lower timeframe: harga memecahkan low dalaman 4,710. Entry ilustrasi 4,732, invalidation 4,762, target 4,600.
+
+23
+00:03:49,324 --> 00:03:57,306
+Ini prinsip utama CMI. Menambah lebih banyak indikator, zon dan label tidak semestinya memperbaiki analisis.
+
+24
+00:03:57,606 --> 00:04:03,068
+Carta yang terlalu penuh menyembunyikan keputusan sebenar, dan memberi rasa yakin yang palsu.
+
+25
+00:04:03,368 --> 00:04:16,390
+Sebaliknya, utamakan enam perkara: arah pasaran yang relevan, lokasi harga yang bermakna, bukti struktur yang jelas, liquidity yang relevan, pencetus confirmation yang ditetapkan, dan titik invalidation yang logik.
+
+26
+00:04:18,490 --> 00:04:25,368
+Sekarang double-counting. Lihat senarai tujuh label ini untuk setup bullish tadi. Ia kelihatan seperti tujuh confluence.
+
+27
+00:04:25,668 --> 00:04:33,842
+Tetapi discount, di bawah equilibrium, dan dalam OTE, ketiga-tiganya dikira daripada high dan low yang sama. Ia satu bacaan lokasi.
+
+28
+00:04:34,142 --> 00:04:41,068
+FVG dan order block itu terbentuk daripada displacement yang sama. Ia satu peristiwa, dengan dua nama.
+
+29
+00:04:41,368 --> 00:04:49,734
+Liquidity sweep dan structure shift pula ialah pemerhatian yang berbeza. Jadi tujuh label menjadi empat bukti bebas.
+
+30
+00:04:50,034 --> 00:04:56,960
+Lima label tidak automatik bermakna lima bukti bebas. Kira kumpulan, bukan label.
+
+31
+00:04:59,060 --> 00:05:01,282
+Mari rumuskan.
+
+32
+00:05:01,582 --> 00:05:06,756
+Confluence yang bermakna datang daripada bukti bebas, bukan label yang berulang.
+
+33
+00:05:07,056 --> 00:05:14,510
+Sepuluh jenis confluence boleh dikumpulkan kepada lima: konteks, lokasi, kawasan, liquidity dan tingkah laku.
+
+34
+00:05:14,810 --> 00:05:22,144
+Utamakan enam perkara CMI, dan kira kumpulan, bukan label. Setup yang menarik masih boleh gagal.
+
+35
+00:05:24,244 --> 00:05:29,082
+Sekarang, uji kefahaman anda. Hentikan video seketika dan jawab setiap soalan.
+
+36
+00:05:29,382 --> 00:05:35,468
+Soalan satu: mengapa banyak confluence yang bertindih masih boleh menghasilkan trade yang rugi?
+
+37
+00:05:40,768 --> 00:05:55,038
+Jawapan: banyak label mungkin menerangkan bukti yang sama, dan bukti bebas sekalipun hanya menambah kekuatan analisis. Tiada gabungan yang menjamin tindak balas, jadi risiko dan invalidation tetap penting.
+
+38
+00:05:55,338 --> 00:06:04,232
+Soalan dua: discount, di bawah equilibrium, dan dalam OTE, semuanya daripada satu range. Berapa confluence bebas?
+
+39
+00:06:09,532 --> 00:06:16,314
+Jawapan: satu. Ketiga-tiganya dikira daripada high dan low yang sama, jadi ia satu bacaan lokasi.
+
+40
+00:06:16,614 --> 00:06:28,268
+Soalan tiga: entry 4,668, invalidation 4,638, target 4,800. Apakah risk-to-reward?
+
+41
+00:06:33,568 --> 00:06:43,686
+Jawapan: risiko 30, reward 132. 132 bahagi 30 ialah 4.4, jadi lebih kurang 1 kepada 4.4.
+
+42
+00:06:43,986 --> 00:06:48,800
+Soalan empat: namakan enam keutamaan CMI untuk confluence.
+
+43
+00:06:54,100 --> 00:07:05,442
+Jawapan: arah pasaran yang relevan, lokasi harga yang bermakna, bukti struktur yang jelas, liquidity yang relevan, pencetus confirmation yang ditetapkan, dan titik invalidation yang logik.
+
+44
+00:07:07,542 --> 00:07:14,084
+Latihan praktikal: ambil satu setup daripada carta anda dan senaraikan setiap label confluence yang anda nampak.
+
+45
+00:07:14,384 --> 00:07:23,254
+Kumpulkan label itu mengikut sumbernya: konteks, lokasi, kawasan, liquidity atau tingkah laku. Gabungkan yang datang daripada peristiwa yang sama.
+
+46
+00:07:23,554 --> 00:07:29,256
+Kemudian tulis berapa bukti bebas yang tinggal, dan sama ada ia cukup untuk bertindak.
+
+47
+00:07:31,356 --> 00:07:37,754
+Dalam video seterusnya: apa yang perlu dilakukan apabila bukti bercanggah, dan bila keputusan terbaik ialah tidak trade.
+
+48
+00:07:39,854 --> 00:07:43,036
+Rujukan untuk video ini dipaparkan di skrin.
+
+49
+00:07:43,336 --> 00:07:50,982
+Confluence ialah konsep umum analisis teknikal. Pengelompokan dan peraturan double-counting ialah kerangka pengajaran CMI.
+
+50
+00:07:53,082 --> 00:08:01,808
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Semua harga FCPO dalam video ini ialah ilustrasi.
+
+51
+00:08:02,108 --> 00:08:07,138
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 13.
+
