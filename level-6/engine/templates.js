@@ -26,7 +26,7 @@
     label: o.label, lines: o.lines, lead: o.lead,
     draw(t, L, G) {
       const c = o.chart, ctx = { t, L, at: a => at(L, a), p: (a, d = .6) => P(t, at(L, a), d) };
-      const n = c.n ? c.n(ctx) : 3 + (c.data.length - 3) * P(t, at(L, c.reveal || [0, .3]), c.revealDur || 5);
+      const n = c.n ? (typeof c.n === 'function' ? c.n(ctx) : c.n) : 3 + (c.data.length - 3) * P(t, at(L, c.reveal || [0, .3]), c.revealDur || 5);
       const left = chart({
         x: 36, y: 100, w: o.full ? 1848 : 1310, h: 760, data: typeof c.data === 'function' ? c.data(ctx) : c.data,
         pmin: c.pmin, pmax: c.pmax, step: c.step, slots: c.slots, n, dim: c.dim && (i => c.dim(i, ctx)),
