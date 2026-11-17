@@ -212,9 +212,9 @@
           tag(S.xs(9), S.ys(4880) - 20, 'HTF HIGH 4,880', C.blue, { op: h, fs: 14 }) + tag(S.xs(9), S.ys(4520) + 22, 'HTF LOW 4,520', C.blue, { op: h, fs: 14 }) +
           tag(S.xs(12), S.ys(4700) - 20, 'HTF EQ 4,700', C.amber, { op: h, fs: 14 }) +
           ovl.hl(S, 4720, 32, null, C.purple, { prog: l }) + ovl.hl(S, 4640, 32, null, C.purple, { prog: l }) + ovl.hl(S, 4680, 32, null, C.purple, { prog: l, dash: '4 5' }) +
-          tag(S.x1 - 6, S.ys(4720) - 20, 'LTF 4,720', C.purple, { anchor: 'end', op: l, fs: 13 }) + tag(S.x1 - 6, S.ys(4640) + 22, 'LTF 4,640', C.purple, { anchor: 'end', op: l, fs: 13 }) +
-          tag(S.x1 - 6, S.ys(4680), 'LTF EQ 4,680', C.purple, { anchor: 'end', op: l, fs: 13 }) +
-          dot(S.xs(44), S.ys(4690), '#ffffff', pr, 7) + tag(S.xs(41), S.ys(4690) + 1, '4,690', '#ffffff', { anchor: 'end', op: pr, fs: 14 });
+          tag(S.xs(32) - 8, S.ys(4720), 'LTF HIGH 4,720', C.purple, { anchor: 'end', op: l, fs: 13 }) + tag(S.xs(32) - 8, S.ys(4640), 'LTF LOW 4,640', C.purple, { anchor: 'end', op: l, fs: 13 }) +
+          tag(S.xs(32) - 8, S.ys(4680), 'LTF EQ 4,680', C.purple, { anchor: 'end', op: l, fs: 13 }) +
+          dot(S.xs(44), S.ys(4690), '#ffffff', pr, 7) + tag(S.xs(44), S.ys(4690) - 30, 'PRICE 4,690', '#ffffff', { anchor: 'end', op: pr, fs: 14 });
       }
     },
     side: {
