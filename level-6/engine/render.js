@@ -42,11 +42,13 @@ async function open(browser) {
     const page = w === 0 ? p0 : await open(browser);
     const f0 = w * per, f1 = Math.min(N, f0 + per);
     const ff = spawn('ffmpeg', ['-v', 'error', '-y', '-f', 'image2pipe', '-framerate', String(FPS), '-c:v', 'mjpeg', '-i', '-',
-      '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p', path.join(tmp, `p${w}.mp4`)], { stdio: ['pipe', 'inherit', 'inherit'] });
+      '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '18', '-pix_fmt', 'yuv420p', path.join(tmp, `p${w}.mp4`)], { stdio: ['pipe', 'inherit', 'inherit'] });
     const done = new Promise(r => ff.on('close', r));
+    let prevHtml = null, prevBuf = null;
     for (let f = f0; f < f1; f++) {
-      await page.evaluate(t => window.frame(t), f / FPS);
-      const buf = await page.screenshot({ type: 'jpeg', quality: 93 });
+      const html = await page.evaluate(t => window.frame(t), f / FPS);
+      const buf = (html === prevHtml && prevBuf) ? prevBuf : await page.screenshot({ type: 'jpeg', quality: 93 });
+      prevHtml = html; prevBuf = buf;
       if (!ff.stdin.write(buf)) await new Promise(r => ff.stdin.once('drain', r));
       if (w === 0 && (f - f0) % 300 === 0) console.log(`  worker0 ${f - f0}/${f1 - f0}`);
     }

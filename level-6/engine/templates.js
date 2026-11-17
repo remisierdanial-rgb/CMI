@@ -221,3 +221,15 @@
   T.at = at;
   window.T = T;
 })();
+
+/* Candle patch helper: rows of [o|null, h, l, c]. Explicit o also resets previous close. */
+T.patch = (d, i, rows) => {
+  rows.forEach((r, k) => {
+    let o = r[0];
+    if (o == null || o === 0) o = k === 0 ? d[i - 1].c : rows[k - 1][3];
+    else if (k === 0 && d[i - 1]) { const p = d[i - 1]; p.c = o; p.h = Math.max(p.h, o, p.o); p.l = Math.min(p.l, o, p.o); }
+    d[i + k] = { o, h: Math.max(r[1], o, r[3]), l: Math.min(r[2], o, r[3]), c: r[3] };
+  });
+  const nx = d[i + rows.length]; if (nx) { nx.o = rows[rows.length - 1][3]; nx.h = Math.max(nx.h, nx.o); nx.l = Math.min(nx.l, nx.o); }
+  return d;
+};

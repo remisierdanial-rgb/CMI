@@ -181,6 +181,7 @@
     let subtitle = '';
     s.lines.forEach((ln, k) => { if (t >= ln.t0 && t < ln.t0 + ln.d + 0.3) subtitle = ln.bm; });
     const fin = P(t, 0, .45), fout = 1 - P(t, s.D - .4, .4);
+    const r3 = x => Math.round(x * 1000) / 1000;
     const label = typeof s.label === 'function' ? s.label() : s.label;
     const body = s.draw(t, s.L, s.G, s);
     document.getElementById('stage').innerHTML =
@@ -188,7 +189,8 @@
       `<div class="vt">${V.title}</div><div class="sc">SCENE ${s.idx} · ${label}</div></div>` +
       `<div class="a" style="left:0;top:0;width:1920px;height:1080px;opacity:${Math.min(fin, fout)}">${body}</div>` +
       (subtitle ? `<div class="subw"><div class="sub">${subtitle}</div></div>` : '') +
-      `<div class="progbg"></div><div class="prog" style="width:${T / V.total * 1920}px"></div>`;
+      `<div class="progbg"></div><div class="prog" style="width:${Math.round(T / V.total * 1920)}px"></div>`;
+    return document.getElementById('stage').innerHTML;
   }
 
   window.E = { C, clamp, ease, P, fmt, esc, gen, tag, txt, dot, chart, ovl, side, chk, checkSvg, crossSvg, build, srt, frame };
