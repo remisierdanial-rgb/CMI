@@ -152,12 +152,14 @@
   /* ---------- timeline ---------- */
   const readDur = s => Math.max(2.6, s.length / 15 + 0.8);
   function build(V) {
-    let T = 0;
+    let T = 0, gk = 0; const DUR = window.DUR;
     V.scenes.forEach((s, si) => {
       s.T0 = T; let t = s.lead ?? 0.8; s.L = []; s.G = [];
       s.lines = s.lines.map(l => Array.isArray(l) ? { bm: l[0], en: l[1], ...(l[2] || {}) } : l);
       s.lines.forEach((ln, k) => {
-        ln.d = ln.d ?? readDur(ln.bm); s.L[k] = t; ln.t0 = t; t += ln.d;
+        if (DUR) { ln.audio = DUR.files[gk]; ln.ad = DUR.dur[gk]; ln.d = Math.max(ln.ad + 0.35, 2.2); }
+        else ln.d = ln.d ?? readDur(ln.bm);
+        gk++; s.L[k] = t; ln.t0 = t; t += ln.d;
         if (ln.gap) { s.G[k] = t; t += ln.gap; }
         t += 0.3;
       });
@@ -194,5 +196,6 @@
     E.build(V); window.V = V; window.TOTAL = V.total;
     window.frame = T => E.frame(V, T);
     window.srt = lang => E.srt(V, lang);
+    window.audioPlan = () => V.scenes.flatMap(s => s.lines.filter(l => l.audio).map(l => ({ t: s.T0 + l.t0 + 0.1, file: l.audio })));
   };
 })();

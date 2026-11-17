@@ -2,8 +2,10 @@
 <html><head><meta charset="utf-8"><title>CMI Level 6 Renderer</title>
 <link rel="stylesheet" href="engine.css">
 <script src="engine.js"></script>
+<script src="templates.js"></script>
 <script>
   const vid = new URLSearchParams(location.search).get('v') || 'v01';
+  if (!new URLSearchParams(location.search).get('nodur')) document.write('<script src="videos/' + vid + '.dur.js"><\/script>');
   document.write('<script src="videos/' + vid + '.js"><\/script>');
 </script>
 </head><body><div id="stage"></div>

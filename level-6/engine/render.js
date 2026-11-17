@@ -34,6 +34,7 @@ async function open(browser) {
 
   fs.writeFileSync(path.join(OUT, `${vid}.bm.srt`), await p0.evaluate(() => window.srt('bm')));
   fs.writeFileSync(path.join(OUT, `${vid}.en.srt`), await p0.evaluate(() => window.srt('en')));
+  const planP = p0.evaluate(() => window.audioPlan());
   const N = Math.ceil(total * FPS), W = parseInt(arg, 10);
   const tmp = path.join(OUT, `.parts_${vid}`); fs.mkdirSync(tmp, { recursive: true });
   const per = Math.ceil(N / W);
@@ -53,8 +54,14 @@ async function open(browser) {
   }));
   await browser.close();
   fs.writeFileSync(path.join(tmp, 'list.txt'), [...Array(W).keys()].map(w => `file 'p${w}.mp4'`).join('\n'));
-  execFileSync('ffmpeg', ['-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', path.join(tmp, 'list.txt'),
-    '-f', 'lavfi', '-i', 'anullsrc=r=44100:cl=mono', '-shortest', '-c:v', 'copy', '-c:a', 'aac', '-movflags', '+faststart',
+  const plan = (await planP).map(p => ({ t: p.t, file: path.resolve(__dirname, p.file) }));
+  const audioArgs = plan.length ? (() => {
+    fs.writeFileSync(path.join(tmp, 'plan.json'), JSON.stringify(plan));
+    execFileSync('python3', [path.join(__dirname, 'mix.py'), path.join(tmp, 'plan.json'), path.join(tmp, 'vo.wav'), String(total)]);
+    return ['-i', path.join(tmp, 'vo.wav')];
+  })() : ['-f', 'lavfi', '-t', String(total), '-i', 'anullsrc=r=44100:cl=mono'];
+  execFileSync('ffmpeg', ['-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', path.join(tmp, 'list.txt'), ...audioArgs,
+    '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-movflags', '+faststart',
     path.join(OUT, `${vid}.mp4`)]);
   fs.rmSync(tmp, { recursive: true, force: true });
   console.log('done ->', path.join(OUT, `${vid}.mp4`));
