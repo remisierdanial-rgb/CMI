@@ -46,3 +46,22 @@ Ditambah contoh tetap: EP01 (4,500 / 4,490 / 4,520, +2R, disemak oleh `tools/che
 - Suara TTS neural English (en-US-ChristopherNeural) belum disemak pendengaran oleh manusia. Disyorkan semakan sebutan nombor dan akronim, atau rakaman suara manusia menggunakan `STORYBOARD.md`.
 - Bentuk carta contoh berasal daripada satu templat yang disahkan (diskala atau dicerminkan) demi ketepatan. Bentuk visual berulang antara episod; data sejarah sebenar boleh menggantikannya apabila sumber data yang disahkan tersedia.
 - V-05 (tick), V-06 (waktu dagangan) dan V-07 (break-and-retest) masih menunggu pengesahan.
+
+## 5. Video akhir (suara English · sari kata BM · 1920×1080 · 30 fps · H.264/AAC)
+| Video | Tajuk | Tempoh |
+|---|---|---|
+| EP01 | Introduction to SMC Trading Strategy | 11:38 |
+| EP02 | Scalping SOP · Preparation & Market Context | 10:07 |
+| EP03 | Scalping SOP · Entry & Management | 12:07 |
+| EP04 | Intraday SOP · Market Planning | 7:11 |
+| EP05 | Intraday SOP · Execution & Management | 11:13 |
+| EP06 | Swing Trading SOP · Higher-Timeframe Planning | 7:14 |
+| EP07 | Swing Trading SOP · Execution & Management | 11:41 |
+| EP08 | Scalping vs Intraday vs Swing | 6:03 |
+| EP09 | Entry Confirmation · Complete Methodology | 15:32 |
+| EP10 | Stop Loss & Take Profit | 14:57 |
+| EP11 | Risk-to-Reward & Position Sizing | 11:28 |
+| EP12A | Integrated FCPO Case Studies · Part A | 15:05 |
+| EP12B | Integrated FCPO Case Studies · Part B | 12:11 |
+| EP13 | CMI Professional Trading SOP | 6:32 |
+| **Jumlah** | **14 video** | **≈ 153 min** |

@@ -1,0 +1,267 @@
+1
+00:00:00,750 --> 00:00:04,543
+Selamat datang ke Video 13, video terakhir Level 9.
+
+2
+00:00:04,623 --> 00:00:09,516
+Kita satukan semua enam subtopik menjadi satu aliran kerja trading CMI yang lengkap.
+
+3
+00:00:09,596 --> 00:00:15,496
+Kita bina senarai semak pra-pasaran dan pelaksanaan, jurnal dagangan, dan proses penilaian prestasi.
+
+4
+00:00:15,576 --> 00:00:18,370
+Akhir sekali, penilaian akhir Level 9.
+
+5
+00:00:20,650 --> 00:00:23,406
+Inilah aliran kerja trading CMI yang lengkap.
+
+6
+00:00:23,486 --> 00:00:32,151
+Konteks pasaran dan bias timeframe tinggi menetapkan arah. Pemilihan gaya trading menentukan rangka timeframe dan tempoh pegangan.
+
+7
+00:00:32,231 --> 00:00:36,779
+Struktur dan liquidity memberi peta. POI memberi lokasi.
+
+8
+00:00:36,859 --> 00:00:42,486
+Entry confirmation memberi pencetus: liquidity, MSS, displacement dan FVG.
+
+9
+00:00:42,566 --> 00:00:50,220
+Trade planning menetapkan entry, stop-loss struktur, take-profit berasaskan liquidity, RR dan saiz posisi.
+
+10
+00:00:50,300 --> 00:00:57,874
+Pelaksanaan dan pengurusan mengikut peraturan. Jurnal dan penilaian menutup gelung, dan memberi maklum balas kepada SOP.
+
+11
+00:00:59,654 --> 00:01:01,290
+Senarai semak pra-pasaran.
+
+12
+00:01:01,370 --> 00:01:09,647
+Kalendar dan sesi disemak. Konteks timeframe tinggi dan bias ditulis, bersama syarat pembatalan.
+
+13
+00:01:09,727 --> 00:01:16,953
+Liquidity utama, PDH dan PDL ditanda. POI dipilih, paling banyak dua atau tiga.
+
+14
+00:01:17,033 --> 00:01:22,418
+Peristiwa berjadual disemak. Senario utama dan alternatif ditulis.
+
+15
+00:01:22,498 --> 00:01:27,331
+Had risiko harian, dan bilangan dagangan maksimum, ditetapkan sebelum sesi.
+
+16
+00:01:29,111 --> 00:01:32,121
+Senarai semak pelaksanaan, sebelum setiap order.
+
+17
+00:01:32,201 --> 00:01:40,490
+Sembilan soalan pengesahan CMI dijawab ya. Pelan dagangan ditulis: entry, stop-loss, sasaran.
+
+18
+00:01:40,570 --> 00:01:46,630
+RR dikira selepas kos. Saiz posisi dikira dan dibundarkan ke bawah.
+
+19
+00:01:46,710 --> 00:01:50,719
+Jenis order dipilih, dan stop-loss dihantar bersama order.
+
+20
+00:01:50,799 --> 00:01:56,500
+Tangkapan skrin sebelum entry disimpan. Dan anda masih dalam had risiko harian.
+
+21
+00:01:58,280 --> 00:02:00,798
+Peraturan pengurusan risiko yang tidak boleh dirunding.
+
+22
+00:02:00,878 --> 00:02:08,167
+Risiko tetap setiap dagangan, dalam ringgit. Had kerugian harian. Bilangan dagangan maksimum.
+
+23
+00:02:08,247 --> 00:02:12,944
+Jangan lebarkan stop-loss. Jangan tambah posisi yang sedang rugi.
+
+24
+00:02:13,024 --> 00:02:19,492
+Jangan tambah saiz selepas kerugian. Saiz dikira daripada stop, bukan daripada margin.
+
+25
+00:02:21,272 --> 00:02:24,382
+Jurnal dagangan CMI mengandungi dua puluh dua medan.
+
+26
+00:02:24,462 --> 00:02:32,887
+Tarikh, pasaran dan kontrak, gaya trading, sesi, bias HTF, POI yang dipilih, dan rujukan liquidity.
+
+27
+00:02:32,967 --> 00:02:39,940
+Pengesahan entry, harga entry, stop-loss, take-profit, saiz posisi, dan RR yang dirancang.
+
+28
+00:02:40,020 --> 00:02:48,997
+P&L yang direalisasikan, kos dagangan, serta MFE dan MAE jika ada, iaitu pergerakan paling menguntungkan dan paling merugikan semasa dagangan terbuka.
+
+29
+00:02:49,077 --> 00:02:55,477
+Tangkapan skrin sebelum entry dan selepas exit, kualiti pelaksanaan, pematuhan peraturan, dan pengajaran.
+
+30
+00:02:57,257 --> 00:03:00,206
+Penilaian prestasi menggunakan dua belas metrik.
+
+31
+00:03:00,286 --> 00:03:03,988
+Win rate, purata kemenangan, purata kerugian dan expectancy.
+
+32
+00:03:04,068 --> 00:03:09,122
+Profit factor, maximum drawdown, purata RR, dan bilangan dagangan.
+
+33
+00:03:09,202 --> 00:03:12,121
+Kerugian berturut-turut, dan kos dagangan.
+
+34
+00:03:12,201 --> 00:03:19,238
+Prestasi mengikut gaya trading, dan mengikut keadaan pasaran. Ini menunjukkan di mana SOP berfungsi dan di mana ia lemah.
+
+35
+00:03:21,018 --> 00:03:23,908
+Apabila menilai, asingkan empat kualiti.
+
+36
+00:03:23,988 --> 00:03:28,914
+Kualiti strategi: adakah peraturan itu sendiri mempunyai expectancy positif selepas kos?
+
+37
+00:03:28,994 --> 00:03:32,264
+Kualiti pelaksanaan: adakah peraturan diikuti dengan tepat?
+
+38
+00:03:32,344 --> 00:03:37,172
+Kualiti pengurusan risiko: adakah saiz, stop dan had harian dipatuhi?
+
+39
+00:03:37,252 --> 00:03:42,199
+Disiplin psikologi: adakah keputusan dibuat mengikut pelan, atau oleh emosi?
+
+40
+00:03:42,279 --> 00:03:46,738
+Satu dagangan yang menang atau kalah tidak cukup untuk menentukan sama ada strategi berkesan.
+
+41
+00:03:48,518 --> 00:03:50,769
+Matriks proses dan hasil.
+
+42
+00:03:50,849 --> 00:03:59,815
+Proses baik, hasil baik: kejayaan yang wajar. Proses baik, hasil buruk: kerugian normal. Teruskan.
+
+43
+00:03:59,895 --> 00:04:07,418
+Proses buruk, hasil baik: nasib. Ini paling berbahaya, kerana ia mengukuhkan tabiat yang salah.
+
+44
+00:04:07,498 --> 00:04:13,047
+Proses buruk, hasil buruk: kerugian yang wajar. Baiki proses.
+
+45
+00:04:14,827 --> 00:04:19,986
+Sebelum membuat sebarang dakwaan tentang prestasi strategi, uji dengan peraturan yang telah ditetapkan.
+
+46
+00:04:20,066 --> 00:04:25,816
+Mula dengan backtest: setup sejarah dengan candle masa depan disembunyikan, menggunakan peraturan yang sama.
+
+47
+00:04:25,896 --> 00:04:30,500
+Kemudian forward test secara demo atau saiz kecil, dalam masa nyata.
+
+48
+00:04:30,580 --> 00:04:37,864
+Semak metrik dan jurnal. Perhalusi peraturan, satu perubahan pada satu masa, dan ulang proses ujian.
+
+49
+00:04:37,944 --> 00:04:43,154
+Kumpul sampel yang bermakna. Jangan menyimpulkan apa-apa daripada beberapa dagangan.
+
+50
+00:04:44,934 --> 00:04:47,892
+Penilaian akhir Level 9 mempunyai tiga bahagian.
+
+51
+00:04:47,972 --> 00:04:51,911
+Bahagian satu: jawab lapan belas soalan Level 9, yang terdapat dalam buku kerja.
+
+52
+00:04:51,991 --> 00:04:58,568
+Bahagian dua: serahkan satu SOP lengkap untuk gaya pilihan anda, termasuk senarai semak dan peraturan risiko.
+
+53
+00:04:58,648 --> 00:05:07,599
+Bahagian tiga: forward test SOP itu dan serahkan dua puluh entri jurnal, termasuk dagangan yang kalah dan setup yang dilangkau, bersama semakan empat kualiti.
+
+54
+00:05:09,379 --> 00:05:10,590
+Ringkasnya.
+
+55
+00:05:10,670 --> 00:05:14,438
+Scalping, intraday dan swing memerlukan SOP yang berbeza.
+
+56
+00:05:14,518 --> 00:05:18,880
+POI bukan entry, dan pengesahan tidak menjamin kejayaan.
+
+57
+00:05:18,960 --> 00:05:23,844
+Stop-loss daripada invalidation yang ditetapkan, dan sasaran dengan rujukan pasaran.
+
+58
+00:05:23,924 --> 00:05:30,173
+RR dikira sebelum entry, saiz dikira daripada risiko ringgit, dan margin bukan risiko.
+
+59
+00:05:30,253 --> 00:05:34,169
+Nilai prestasi merentasi sampel yang bermakna, menggunakan jurnal.
+
+60
+00:05:35,949 --> 00:05:38,151
+Latihan untuk video ini.
+
+61
+00:05:38,231 --> 00:05:49,280
+Isi kesemua dua puluh dua medan jurnal untuk contoh FCPO dalam Video 1: entry 4,500, stop 4,490, sasaran 4,520.
+
+62
+00:05:49,360 --> 00:05:58,728
+Semak jawapan anda: MFE tambah 21 mata, MAE tolak satu mata, RR dirancang 2, dan hasil kasar tambah 500 ringgit.
+
+63
+00:06:00,508 --> 00:06:04,562
+Matlamat Level 9 bukan sekadar mengenal pasti setup SMC.
+
+64
+00:06:04,642 --> 00:06:09,504
+Matlamatnya ialah membina SOP trading yang boleh diuji, direkodkan, dan dinilai prestasinya.
+
+65
+00:06:09,584 --> 00:06:15,249
+Terima kasih kerana mengikuti Level 9: SMC Trading Strategy, Capital Market Institute.
+
+66
+00:06:17,029 --> 00:06:19,933
+Rujukan untuk video ini dipaparkan di skrin.
+
+67
+00:06:23,713 --> 00:06:29,237
+Trading futures melibatkan risiko kerugian. Untuk tujuan pendidikan sahaja.
