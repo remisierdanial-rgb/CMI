@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ms"><head><meta charset="utf-8"><title>CMI Futures Series — Player</title>
+<link rel="stylesheet" href="theme.css">
+</head><body>
+<div id="stage">
+  <div id="bg"></div>
+  <div id="scenes"></div>
+  <header id="hdr"><div class="badge"></div><div class="l1"></div><div class="l2"></div><div class="r1"></div><div class="r2"></div></header>
+  <div id="sub"><span></span></div>
+  <div id="prog"><i></i></div>
+</div>
+<script src="runtime.js"></script>
+<script src="components.js"></script>
+<script src="standard.js"></script>
+<script>
+  const v=new URLSearchParams(location.search).get('v')||'v01';
+  document.write(`<script src="../videos/${v}.js"><\/script><script src="../build/${v}/timeline.js"><\/script>`);
+</script>
+</body></html>
