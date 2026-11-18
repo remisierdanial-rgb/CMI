@@ -17,7 +17,7 @@ Siri ini mengandungi 8 video motion graphics berasingan, satu video bagi setiap 
 | 07 | Bulan Kontrak dan Rollover | 2 | Fahami tempoh kontrak | [VIDEO_07.md](VIDEO_07.md) |
 | 08 | Sesi Dagangan FCPO | 2 | Fahami operasi pasaran | [VIDEO_08.md](VIDEO_08.md) |
 
-Durasi sebenar setiap video tercatat dalam dokumen masing-masing. Semua video berada di bawah had 10 minit. Sasaran ialah 2–4 minit, tetapi kebanyakan video sekitar 4.5–5 minit kerana setiap satu wajib meliputi semua topik teras dalam brief serta urutan penutup standard (~45 s).
+Durasi sebenar setiap video tercatat dalam dokumen masing-masing. Semua video berada di bawah had 10 minit. Sasaran ialah 2–4 minit, tetapi video siap berdurasi 4:05–4:58 kerana setiap satu wajib meliputi semua topik teras dalam brief serta urutan penutup standard (~45 s).
 
 ## 2. Format (mengikut video rujukan ILMU EP01/EP03)
 
