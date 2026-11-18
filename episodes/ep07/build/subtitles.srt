@@ -1,0 +1,391 @@
+1
+00:00:00,750 --> 00:00:05,270
+Selamat datang ke Video 7. Kita lengkapkan Swing Trading SOP.
+
+2
+00:00:05,350 --> 00:00:08,571
+Hari ini kita bina prosedur entry swing dua belas langkah.
+
+3
+00:00:08,651 --> 00:00:15,239
+Kita kira saiz posisi apabila stop-loss lebar, dan lihat kenapa kadang-kadang jawapannya ialah sifar kontrak.
+
+4
+00:00:15,319 --> 00:00:21,402
+Kemudian kita jalankan kajian kes bullish dan bearish, dan bincangkan pengurusan posisi merentasi beberapa sesi.
+
+5
+00:00:23,682 --> 00:00:26,709
+Prosedur entry swing, dua belas langkah.
+
+6
+00:00:26,789 --> 00:00:37,980
+Satu, tetapkan konteks Weekly dan Daily. Dua, kenal pasti objektif liquidity utama. Tiga, pilih POI Daily atau 4H yang relevan.
+
+7
+00:00:38,060 --> 00:00:47,745
+Empat, tunggu harga menghampiri lokasi. Lima, perhatikan reaksi harga. Enam, nilai struktur timeframe rendah.
+
+8
+00:00:47,825 --> 00:00:54,088
+Tujuh, cari displacement yang bermakna. Lapan, kenal pasti execution area yang dipilih.
+
+9
+00:00:54,168 --> 00:01:01,976
+Sembilan, tetapkan entry dan invalidation struktur. Sepuluh, kira saiz posisi dan risiko dalam ringgit.
+
+10
+00:01:02,056 --> 00:01:09,192
+Sebelas, tetapkan sasaran awal. Dua belas, rancang cara posisi akan diurus merentasi beberapa sesi.
+
+11
+00:01:10,972 --> 00:01:14,789
+Sebelum kajian kes, mari kira saiz posisi swing.
+
+12
+00:01:14,869 --> 00:01:26,232
+Entry 4,200, stop-loss struktur 4,120. Jarak 80 mata, darab RM25, iaitu RM2,000 setiap kontrak.
+
+13
+00:01:26,312 --> 00:01:37,248
+Jika bajet risiko ialah RM1,000, 1,000 bahagi 2,000 ialah setengah. Dibundarkan ke bawah, jawapannya sifar kontrak. Tiada dagangan.
+
+14
+00:01:37,328 --> 00:01:42,223
+Jika bajet risiko ialah RM4,000, saiz posisi ialah dua kontrak.
+
+15
+00:01:42,303 --> 00:01:50,293
+Jangan sekali-kali menambah saiz kerana stop lebar, dan jangan mengecilkan stop semata-mata supaya saiz menjadi lebih besar. Stop ditentukan oleh struktur.
+
+16
+00:01:52,073 --> 00:02:02,197
+Kajian kes swing bullish. Weekly bullish, dan Daily sedang menarik balik ke kawasan discount. Sell-Side Liquidity berada di bawah low yang penting.
+
+17
+00:02:02,277 --> 00:02:09,574
+Carta Daily / 4H menunjukkan POI bullish di sekitar 4,104 hingga 4,168.
+
+18
+00:02:09,654 --> 00:02:16,062
+Di atas, dua high pada 4,360 membentuk Equal Highs, iaitu potensi Buy-Side Liquidity.
+
+19
+00:02:16,142 --> 00:02:24,238
+Di bawah, dua low pada 4,152 membentuk Equal Lows, potensi Sell-Side Liquidity, yang terletak di dalam POI.
+
+20
+00:02:24,318 --> 00:02:31,877
+Struktur dalaman pada carta 1H masih bearish. Lower high terakhir berada pada 4,224.
+
+21
+00:02:31,957 --> 00:02:39,294
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+22
+00:02:41,474 --> 00:02:50,215
+Candle seterusnya turun ke 4,128, melepasi Equal Lows, kemudian ditutup semula di atas 4,152.
+
+23
+00:02:50,295 --> 00:02:55,850
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+24
+00:02:55,930 --> 00:03:07,861
+Kemudian candle bullish yang besar ditutup pada 4,264, menembusi lower high 4,224. Ini potensi bullish MSS, disertai displacement.
+
+25
+00:03:07,941 --> 00:03:14,756
+Displacement ini meninggalkan Fair Value Gap antara 4,184 dan 4,216.
+
+26
+00:03:14,836 --> 00:03:21,578
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+27
+00:03:23,958 --> 00:03:26,949
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+28
+00:03:27,029 --> 00:03:33,830
+Entry beli bersyarat pada 4,200, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+29
+00:03:33,910 --> 00:03:42,959
+Stop-loss pada 4,120, di bawah ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bullish dianggap tidak sah.
+
+30
+00:03:43,039 --> 00:03:48,609
+Sasaran pada 4,440, iaitu liquidity bertentangan utama, 3R.
+
+31
+00:03:48,689 --> 00:03:56,083
+Risiko 80 mata, potensi ganjaran 240 mata. Gross risk-to-reward ialah 3 berbanding 1.
+
+32
+00:03:56,163 --> 00:04:04,320
+Dengan 2 kontrak, risiko kasar RM4,000 dan potensi ganjaran kasar RM12,000, sebelum kos dan slippage.
+
+33
+00:04:04,400 --> 00:04:14,217
+Saiz dua kontrak dikira daripada bajet risiko 4,000 ringgit. Posisi ini mungkin dipegang beberapa hari, jadi risiko overnight dan event telah dinilai.
+
+34
+00:04:14,297 --> 00:04:20,245
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+35
+00:04:22,625 --> 00:04:24,407
+Sekarang kita dedahkan apa yang berlaku.
+
+36
+00:04:24,487 --> 00:04:29,870
+Harga kembali ke FVG. Order 4,200 terisi.
+
+37
+00:04:29,950 --> 00:04:37,423
+Harga kemudian bergerak ke 4,440. Sasaran tercapai: tambah 240 mata setiap kontrak.
+
+38
+00:04:37,503 --> 00:04:43,480
+Ini hanya satu hasil. Setup yang sama boleh sahaja berakhir di stop-loss.
+
+39
+00:04:45,860 --> 00:04:47,620
+Pengurusan posisi swing.
+
+40
+00:04:47,700 --> 00:04:54,985
+Stop-loss yang lebar memerlukan saiz posisi yang lebih kecil. Partial profit boleh diambil di sasaran liquidity yang pertama.
+
+41
+00:04:55,065 --> 00:05:03,483
+Trailing stop boleh mengikut swing 4H atau Daily. Keputusan biasanya berdasarkan penutupan Daily, bukan wick intraday.
+
+42
+00:05:03,563 --> 00:05:09,220
+Retracement semasa pegangan adalah normal, selagi struktur yang menyokong tesis masih utuh.
+
+43
+00:05:09,300 --> 00:05:18,178
+Pegangan merentasi sesi bermaksud pendedahan kepada risiko overnight dan event. Dan jika tesis asal tidak lagi sah, posisi ditutup.
+
+44
+00:05:19,958 --> 00:05:23,912
+Satu keputusan penting dalam pengurusan swing: wick atau penutupan?
+
+45
+00:05:23,992 --> 00:05:34,106
+Di kiri, harga menembusi aras invalidation secara intraday, tetapi ditutup semula di atasnya. Bagi pedagang yang menggunakan peraturan penutupan Daily, tesis masih sah.
+
+46
+00:05:34,186 --> 00:05:42,361
+Di kanan, Daily ditutup dan diterima di bawah aras itu. Tesis tidak lagi sah, dan posisi ditutup.
+
+47
+00:05:42,441 --> 00:05:49,062
+Peraturan mana yang digunakan mesti ditulis sebelum entry, dan stop-loss sebenar di pasaran masih diperlukan sebagai perlindungan maksimum.
+
+48
+00:05:50,842 --> 00:06:00,744
+Kajian kes swing bearish. Weekly bearish, dan Daily menarik balik ke kawasan premium. Buy-Side Liquidity berada di atas high yang penting.
+
+49
+00:06:00,824 --> 00:06:07,934
+Carta Daily / 4H menunjukkan POI bearish di sekitar 4,974 hingga 5,022.
+
+50
+00:06:08,014 --> 00:06:14,156
+Di bawah, dua low pada 4,830 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity.
+
+51
+00:06:14,236 --> 00:06:22,423
+Di atas, dua high pada 4,986 membentuk Equal Highs, potensi Buy-Side Liquidity, yang terletak di dalam POI.
+
+52
+00:06:22,503 --> 00:06:30,174
+Struktur dalaman pada carta 1H masih bullish. Higher low terakhir berada pada 4,932.
+
+53
+00:06:30,254 --> 00:06:37,590
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+54
+00:06:39,770 --> 00:06:47,942
+Candle seterusnya naik ke 5,004, melepasi Equal Highs, kemudian ditutup semula di bawah 4,986.
+
+55
+00:06:48,022 --> 00:06:53,577
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+56
+00:06:53,657 --> 00:07:05,233
+Kemudian candle bearish yang besar ditutup pada 4,902, menembusi higher low 4,932. Ini potensi bearish MSS, disertai displacement.
+
+57
+00:07:05,313 --> 00:07:12,341
+Displacement ini meninggalkan Fair Value Gap antara 4,938 dan 4,962.
+
+58
+00:07:12,421 --> 00:07:19,163
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+59
+00:07:21,543 --> 00:07:24,535
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+60
+00:07:24,615 --> 00:07:31,938
+Entry jual bersyarat pada 4,950, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+61
+00:07:32,018 --> 00:07:40,652
+Stop-loss pada 5,010, di atas ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bearish dianggap tidak sah.
+
+62
+00:07:40,732 --> 00:07:46,503
+Sasaran pada 4,770, iaitu liquidity bertentangan di bawah, 3R.
+
+63
+00:07:46,583 --> 00:07:54,003
+Risiko 60 mata, potensi ganjaran 180 mata. Gross risk-to-reward ialah 3 berbanding 1.
+
+64
+00:07:54,083 --> 00:08:03,185
+Dengan 1 kontrak, risiko kasar RM1,500 dan potensi ganjaran kasar RM4,500, sebelum kos dan slippage.
+
+65
+00:08:03,265 --> 00:08:09,213
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+66
+00:08:11,593 --> 00:08:13,375
+Sekarang kita dedahkan apa yang berlaku.
+
+67
+00:08:13,455 --> 00:08:19,251
+Harga kembali ke FVG. Order 4,950 terisi.
+
+68
+00:08:19,331 --> 00:08:30,152
+Namun harga terus naik dan mencapai stop-loss 5,010. Kerugian 60 mata setiap kontrak, iaitu satu R, RM1,500 kasar.
+
+69
+00:08:30,232 --> 00:08:37,127
+Pelan diikuti dan kerugian dikawal. Ia direkod dalam jurnal, bukan dibalas dengan dagangan dendam.
+
+70
+00:08:37,207 --> 00:08:46,722
+Dalam swing trading, kerugian satu R dalam ringgit lebih besar kerana stop lebih lebar. Itulah sebabnya saiz posisi dikira dahulu, bukan selepas entry.
+
+71
+00:08:49,102 --> 00:08:51,090
+Bila tidak perlu membuat dagangan swing?
+
+72
+00:08:51,170 --> 00:08:59,434
+Struktur timeframe tinggi tidak jelas. Harga tidak berada berhampiran POI yang relevan. Tiada sasaran liquidity yang menarik.
+
+73
+00:08:59,514 --> 00:09:05,156
+Risk-to-reward lemah. Jarak stop menjadikan saiz posisi tidak sesuai.
+
+74
+00:09:05,236 --> 00:09:11,942
+Risiko event tidak dinilai dengan secukupnya. Atau modal dan margin tidak mencukupi untuk pendedahan yang dirancang.
+
+75
+00:09:13,722 --> 00:09:16,310
+Tujuh kesilapan swing trading yang biasa.
+
+76
+00:09:16,390 --> 00:09:23,272
+Menggunakan jarak stop-loss scalping untuk posisi swing. Masuk tanpa analisis timeframe tinggi.
+
+77
+00:09:23,352 --> 00:09:30,401
+Mengelirukan retracement Daily dengan reversal yang disahkan. Memegang posisi yang tesisnya sudah tidak sah.
+
+78
+00:09:30,481 --> 00:09:36,147
+Menambah saiz posisi kerana stop lebar. Mengabaikan risiko overnight.
+
+79
+00:09:36,227 --> 00:09:40,474
+Dan menganggap setiap Order Block timeframe tinggi sebagai titik perubahan yang terjamin.
+
+80
+00:09:42,254 --> 00:09:46,549
+Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.
+
+81
+00:09:46,629 --> 00:09:51,555
+Soalan satu: bagaimana saiz posisi berubah apabila jarak stop-loss bertambah?
+
+82
+00:09:51,635 --> 00:09:59,138
+Jawapan: ia berkurang secara songsang. Bundarkan ke bawah. Sifar kontrak bermakna tiada dagangan.
+
+83
+00:09:59,218 --> 00:10:03,231
+Soalan dua: kenapa margin tidak sama dengan risiko maksimum?
+
+84
+00:10:03,311 --> 00:10:13,379
+Jawapan: margin ialah deposit jaminan. Risiko ialah jarak stop darab 25 ringgit darab bilangan kontrak, ditambah risiko gap dan slippage.
+
+85
+00:10:13,459 --> 00:10:20,387
+Soalan tiga: wick Daily menembusi aras invalidation, tetapi ditutup di atasnya. Perlu keluar?
+
+86
+00:10:20,467 --> 00:10:26,998
+Jawapan: bergantung pada peraturan yang ditulis. Dengan peraturan penutupan Daily, tesis masih sah.
+
+87
+00:10:29,178 --> 00:10:30,388
+Ringkasnya.
+
+88
+00:10:30,468 --> 00:10:35,783
+SOP swing dua belas langkah. Saiz posisi dikira sebelum entry.
+
+89
+00:10:35,863 --> 00:10:41,559
+Stop lebar bermakna kontrak lebih sedikit. Sifar kontrak bermakna tiada dagangan.
+
+90
+00:10:41,639 --> 00:10:45,687
+Urus berdasarkan penutupan Daily, dan hormati risiko overnight serta event.
+
+91
+00:10:45,767 --> 00:10:49,798
+Keluar apabila tesis tidak lagi sah. Jangan berharap.
+
+92
+00:10:51,578 --> 00:10:53,780
+Latihan untuk video ini.
+
+93
+00:10:53,860 --> 00:10:58,064
+Tulis dua belas langkah menggunakan peta Bahagian A, setiap satu sebagai peraturan ya atau tidak.
+
+94
+00:10:58,144 --> 00:11:06,805
+Kira saiz posisi untuk satu contoh dagangan menggunakan akaun dan peratus risiko anda. Bundarkan ke bawah. Adakah jawapannya sifar?
+
+95
+00:11:06,885 --> 00:11:14,359
+Tulis peraturan partial, trailing, penutupan Daily, risiko overnight dan event, serta exit apabila tesis tidak sah.
+
+96
+00:11:16,139 --> 00:11:23,984
+Dalam Video 8, kita bandingkan ketiga-tiga gaya trading secara terus, dan bincangkan cara memilih gaya yang sesuai dengan masa dan modal anda.
+
+97
+00:11:26,564 --> 00:11:29,468
+Rujukan untuk video ini dipaparkan di skrin.
+
+98
+00:11:33,248 --> 00:11:38,225
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 8.
