@@ -1,0 +1,828 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [
+    {
+     "start": 0.75,
+     "end": 4.722,
+     "text": "Selamat datang ke Video 9, subtopik keempat: Entry Confirmation."
+    },
+    {
+     "start": 5.102,
+     "end": 10.312,
+     "text": "Subtopik ini menghubungkan lokasi dengan tindakan, iaitu bila sesuatu POI menjadi entry yang mempunyai alasan."
+    },
+    {
+     "start": 10.692,
+     "end": 15.533,
+     "text": "Kita akan belajar urutan pengesahan CMI lima tahap, satu demi satu."
+    },
+    {
+     "start": 15.913,
+     "end": 22.619,
+     "text": "Kemudian dua demonstrasi penuh, empat model entry, senario pengesahan palsu, dan senarai semak CMI."
+    }
+   ],
+   "end": 24.449
+  },
+  {
+   "start": 24.449,
+   "cues": [
+    {
+     "start": 25.199,
+     "end": 34.093,
+     "text": "Apakah entry confirmation? Ia ialah sekumpulan syarat yang mesti berlaku di lokasi yang dipilih sebelum entry dibenarkan, mengikut metodologi yang ditetapkan."
+    },
+    {
+     "start": 34.473,
+     "end": 39.775,
+     "text": "POI ialah lokasi. Entry trigger ialah peristiwa yang berlaku di lokasi itu."
+    },
+    {
+     "start": 40.155,
+     "end": 45.585,
+     "text": "Harga menyentuh Order Block bukan pengesahan. Harga mungkin terus menembusinya."
+    },
+    {
+     "start": 45.965,
+     "end": 51.77,
+     "text": "Lokasi, liquidity, struktur dan displacement mesti dinilai bersama, bukan secara berasingan."
+    },
+    {
+     "start": 52.15,
+     "end": 61.716,
+     "text": "Entry agresif masuk di POI tanpa menunggu. Entry pengesahan menunggu syarat dipenuhi, biasanya dengan harga yang kurang baik tetapi lebih banyak bukti."
+    },
+    {
+     "start": 62.096,
+     "end": 66.932,
+     "text": "Pengesahan mengurangkan sesetengah ketidakpastian, tetapi tidak menghapuskan risiko trading."
+    }
+   ],
+   "end": 68.262
+  },
+  {
+   "start": 68.262,
+   "cues": [
+    {
+     "start": 69.012,
+     "end": 71.751,
+     "text": "Inilah urutan pengesahan teras CMI."
+    },
+    {
+     "start": 72.131,
+     "end": 79.014,
+     "text": "Tahap satu: interaksi liquidity. Tahap dua: Market Structure Shift atau change of character."
+    },
+    {
+     "start": 79.394,
+     "end": 85.518,
+     "text": "Tahap tiga: displacement. Tahap empat: FVG atau execution zone."
+    },
+    {
+     "start": 85.898,
+     "end": 93.076,
+     "text": "Tahap lima: perancangan entry, iaitu entry, stop-loss, sasaran, risk-to-reward dan saiz posisi."
+    },
+    {
+     "start": 93.456,
+     "end": 98.879,
+     "text": "Urutan ini penting. Jika satu tahap tidak berlaku, pengesahan tidak lengkap."
+    }
+   ],
+   "end": 100.209
+  },
+  {
+   "start": 100.209,
+   "cues": [
+    {
+     "start": 100.959,
+     "end": 103.248,
+     "text": "Tahap satu: interaksi liquidity."
+    },
+    {
+     "start": 103.628,
+     "end": 109.342,
+     "text": "Rujukan liquidity yang biasa: Buy-Side dan Sell-Side Liquidity, Equal Highs dan Equal Lows."
+    },
+    {
+     "start": 109.722,
+     "end": 112.886,
+     "text": "Session high dan low, serta PDH dan PDL."
+    },
+    {
+     "start": 113.266,
+     "end": 119.307,
+     "text": "Interaksi yang dicari ialah liquidity sweep: harga melepasi aras dan ditutup semula di dalam julat."
+    },
+    {
+     "start": 119.687,
+     "end": 128.006,
+     "text": "Bezakan dengan breakout, di mana harga ditutup dan diterima di luar aras. Breakout menyokong kesinambungan, bukan reversal."
+    }
+   ],
+   "end": 129.336
+  },
+  {
+   "start": 129.336,
+   "cues": [
+    {
+     "start": 130.086,
+     "end": 132.228,
+     "text": "Tahap dua: anjakan struktur."
+    },
+    {
+     "start": 132.608,
+     "end": 142.271,
+     "text": "MSS bullish: selepas sweep Sell-Side Liquidity, harga ditutup di atas lower high terakhir. Struktur dalaman berubah daripada bearish kepada bullish."
+    },
+    {
+     "start": 142.651,
+     "end": 149.428,
+     "text": "MSS bearish ialah sebaliknya: selepas sweep Buy-Side Liquidity, harga ditutup di bawah higher low terakhir."
+    },
+    {
+     "start": 149.808,
+     "end": 162.933,
+     "text": "Pecahan struktur mesti dinilai dalam konteks. MSS pada 5M yang melawan trend 1H yang kuat mempunyai bukti yang lebih lemah. BOS pula mengesahkan kesinambungan, bukan perubahan."
+    }
+   ],
+   "end": 164.263
+  },
+  {
+   "start": 164.263,
+   "cues": [
+    {
+     "start": 165.013,
+     "end": 166.862,
+     "text": "Tahap tiga: displacement."
+    },
+    {
+     "start": 167.242,
+     "end": 174.167,
+     "text": "Displacement ialah pengembangan harga yang berarah: badan candle yang kuat, julat yang mengembang, dan pecahan struktur yang relevan."
+    },
+    {
+     "start": 174.547,
+     "end": 181.08,
+     "text": "Volatiliti biasa juga boleh menghasilkan candle besar, tetapi ia tidak memecah struktur, dan sering berbalik dengan cepat."
+    },
+    {
+     "start": 181.46,
+     "end": 189.505,
+     "text": "Penting: displacement tidak membuktikan identiti peserta pasaran. Ia hanya ciri pergerakan harga yang kita gunakan dalam model."
+    }
+   ],
+   "end": 190.835
+  },
+  {
+   "start": 190.835,
+   "cues": [
+    {
+     "start": 191.585,
+     "end": 197.039,
+     "text": "Tahap empat: Fair Value Gap. FVG ialah corak tiga candle."
+    },
+    {
+     "start": 197.419,
+     "end": 213.661,
+     "text": "FVG bullish: low candle ketiga, 4,508, berada di atas high candle pertama, 4,503. Ruang di antaranya, 4,503 hingga 4,508, tidak bertindih dengan mana-mana sumbu candle."
+    },
+    {
+     "start": 214.041,
+     "end": 223.647,
+     "text": "FVG bearish ialah sebaliknya: high candle ketiga, 4,502, berada di bawah low candle pertama, 4,507."
+    },
+    {
+     "start": 224.027,
+     "end": 230.847,
+     "text": "Candle tengah ialah candle displacement. FVG boleh menjadi kawasan retracement yang berpotensi untuk entry."
+    },
+    {
+     "start": 231.227,
+     "end": 238.204,
+     "text": "Ia berbeza daripada price gap biasa antara sesi. FVG wujud di dalam pergerakan yang berterusan."
+    }
+   ],
+   "end": 240.134
+  },
+  {
+   "start": 240.134,
+   "cues": [
+    {
+     "start": 240.884,
+     "end": 242.326,
+     "text": "Empat peraturan FVG."
+    },
+    {
+     "start": 242.706,
+     "end": 248.41,
+     "text": "Satu: FVG ialah kawasan retracement yang berpotensi, bukan isyarat beli atau jual dengan sendirinya."
+    },
+    {
+     "start": 248.79,
+     "end": 255.162,
+     "text": "Dua: tidak semua FVG boleh didagangkan. FVG mesti berada dalam urutan yang betul dan di lokasi yang betul."
+    },
+    {
+     "start": 255.542,
+     "end": 263.85,
+     "text": "Tiga: FVG tidak perlu diisi. Harga boleh terus bergerak tanpa kembali, dan dalam kes itu, entry limit tidak terisi."
+    },
+    {
+     "start": 264.23,
+     "end": 268.669,
+     "text": "Empat: FVG berbeza daripada price gap biasa antara sesi."
+    }
+   ],
+   "end": 269.999
+  },
+  {
+   "start": 269.999,
+   "cues": [
+    {
+     "start": 270.749,
+     "end": 276.203,
+     "text": "Tahap lima: perancangan entry. Lapan perkara mesti jelas sebelum order dihantar."
+    },
+    {
+     "start": 276.583,
+     "end": 281.852,
+     "text": "Harga entry, dan syarat entry, contohnya order limit di dalam FVG."
+    },
+    {
+     "start": 282.232,
+     "end": 286.012,
+     "text": "Stop-loss dan invalidation, iaitu apa yang membatalkan tesis."
+    },
+    {
+     "start": 286.392,
+     "end": 289.567,
+     "text": "Sasaran, risk-to-reward, dan saiz posisi."
+    },
+    {
+     "start": 289.947,
+     "end": 298.573,
+     "text": "Dan pelaksanaan order. Order limit mungkin tidak terisi. Order market dan stop boleh terisi pada harga yang berbeza akibat slippage."
+    }
+   ],
+   "end": 299.903
+  },
+  {
+   "start": 299.903,
+   "cues": [
+    {
+     "start": 300.653,
+     "end": 309.491,
+     "text": "Demonstrasi pengesahan bullish lengkap. Konteks timeframe tinggi berpotensi bullish, dan harga menghampiri POI bullish yang dipilih."
+    },
+    {
+     "start": 309.871,
+     "end": 316.255,
+     "text": "Carta 15M menunjukkan POI bullish di sekitar 4,441 hingga 4,450."
+    },
+    {
+     "start": 316.635,
+     "end": 323.082,
+     "text": "Di atas, dua high pada 4,479 membentuk Equal Highs, iaitu potensi Buy-Side Liquidity."
+    },
+    {
+     "start": 323.462,
+     "end": 331.235,
+     "text": "Di bawah, dua low pada 4,448 membentuk Equal Lows, potensi Sell-Side Liquidity, yang terletak di dalam POI."
+    },
+    {
+     "start": 331.615,
+     "end": 339.106,
+     "text": "Struktur dalaman pada carta 5M masih bearish. Lower high terakhir berada pada 4,459."
+    },
+    {
+     "start": 339.486,
+     "end": 346.522,
+     "text": "Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus."
+    }
+   ],
+   "end": 348.252
+  },
+  {
+   "start": 348.252,
+   "cues": [
+    {
+     "start": 349.002,
+     "end": 357.55,
+     "text": "Candle seterusnya turun ke 4,444, melepasi Equal Lows, kemudian ditutup semula di atas 4,448."
+    },
+    {
+     "start": 357.93,
+     "end": 363.185,
+     "text": "Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry."
+    },
+    {
+     "start": 363.565,
+     "end": 375.519,
+     "text": "Kemudian candle bullish yang besar ditutup pada 4,465, menembusi lower high 4,459. Ini potensi bullish MSS, disertai displacement."
+    },
+    {
+     "start": 375.899,
+     "end": 382.729,
+     "text": "Displacement ini meninggalkan Fair Value Gap antara 4,453 dan 4,457."
+    },
+    {
+     "start": 383.109,
+     "end": 389.551,
+     "text": "Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG."
+    }
+   ],
+   "end": 391.481
+  },
+  {
+   "start": 391.481,
+   "cues": [
+    {
+     "start": 392.231,
+     "end": 394.923,
+     "text": "Sebelum harga bergerak, kita tulis pelan dagangan."
+    },
+    {
+     "start": 395.303,
+     "end": 402.7,
+     "text": "Entry beli bersyarat pada 4,455, di dalam FVG, hanya jika harga kembali ke zon ini."
+    },
+    {
+     "start": 403.08,
+     "end": 412.305,
+     "text": "Stop-loss pada 4,443, di bawah ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bullish dianggap tidak sah."
+    },
+    {
+     "start": 412.685,
+     "end": 419.577,
+     "text": "Sasaran pada 4,479, Equal Highs, iaitu potensi Buy-Side Liquidity di arah bertentangan."
+    },
+    {
+     "start": 419.957,
+     "end": 426.689,
+     "text": "Risiko 12 mata, potensi ganjaran 24 mata. Gross risk-to-reward ialah 2 berbanding 1."
+    },
+    {
+     "start": 427.069,
+     "end": 434.571,
+     "text": "Dengan 1 kontrak, risiko kasar RM300 dan potensi ganjaran kasar RM600, sebelum kos dan slippage."
+    },
+    {
+     "start": 434.951,
+     "end": 440.599,
+     "text": "Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia."
+    }
+   ],
+   "end": 442.529
+  },
+  {
+   "start": 442.529,
+   "cues": [
+    {
+     "start": 443.279,
+     "end": 444.761,
+     "text": "Sekarang kita dedahkan apa yang berlaku."
+    },
+    {
+     "start": 445.141,
+     "end": 450.958,
+     "text": "Harga kembali ke FVG. Order 4,455 terisi."
+    },
+    {
+     "start": 451.338,
+     "end": 458.559,
+     "text": "Harga kemudian bergerak ke 4,479. Sasaran tercapai: tambah 24 mata setiap kontrak."
+    },
+    {
+     "start": 458.939,
+     "end": 464.616,
+     "text": "Ini hanya satu hasil. Setup yang sama boleh sahaja berakhir di stop-loss."
+    }
+   ],
+   "end": 466.546
+  },
+  {
+   "start": 466.546,
+   "cues": [
+    {
+     "start": 467.296,
+     "end": 475.667,
+     "text": "Demonstrasi pengesahan bearish. Konteks timeframe tinggi berpotensi bearish, dan harga menghampiri POI bearish yang dipilih."
+    },
+    {
+     "start": 476.047,
+     "end": 483.112,
+     "text": "Carta 15M menunjukkan POI bearish di sekitar 4,737 hingga 4,745."
+    },
+    {
+     "start": 483.492,
+     "end": 489.702,
+     "text": "Di bawah, dua low pada 4,713 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity."
+    },
+    {
+     "start": 490.082,
+     "end": 498.158,
+     "text": "Di atas, dua high pada 4,739 membentuk Equal Highs, potensi Buy-Side Liquidity, yang terletak di dalam POI."
+    },
+    {
+     "start": 498.538,
+     "end": 505.781,
+     "text": "Struktur dalaman pada carta 5M masih bullish. Higher low terakhir berada pada 4,730."
+    },
+    {
+     "start": 506.161,
+     "end": 513.197,
+     "text": "Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus."
+    }
+   ],
+   "end": 514.927
+  },
+  {
+   "start": 514.927,
+   "cues": [
+    {
+     "start": 515.677,
+     "end": 524.639,
+     "text": "Candle seterusnya naik ke 4,742, melepasi Equal Highs, kemudian ditutup semula di bawah 4,739."
+    },
+    {
+     "start": 525.019,
+     "end": 530.274,
+     "text": "Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry."
+    },
+    {
+     "start": 530.654,
+     "end": 542.243,
+     "text": "Kemudian candle bearish yang besar ditutup pada 4,725, menembusi higher low 4,730. Ini potensi bearish MSS, disertai displacement."
+    },
+    {
+     "start": 542.623,
+     "end": 549.613,
+     "text": "Displacement ini meninggalkan Fair Value Gap antara 4,731 dan 4,735."
+    },
+    {
+     "start": 549.993,
+     "end": 556.435,
+     "text": "Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG."
+    }
+   ],
+   "end": 558.365
+  },
+  {
+   "start": 558.365,
+   "cues": [
+    {
+     "start": 559.115,
+     "end": 561.807,
+     "text": "Sebelum harga bergerak, kita tulis pelan dagangan."
+    },
+    {
+     "start": 562.187,
+     "end": 569.635,
+     "text": "Entry jual bersyarat pada 4,733, di dalam FVG, hanya jika harga kembali ke zon ini."
+    },
+    {
+     "start": 570.015,
+     "end": 579.304,
+     "text": "Stop-loss pada 4,743, di atas ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bearish dianggap tidak sah."
+    },
+    {
+     "start": 579.684,
+     "end": 586.502,
+     "text": "Sasaran pada 4,713, Equal Lows, iaitu potensi Sell-Side Liquidity di arah bertentangan."
+    },
+    {
+     "start": 586.882,
+     "end": 593.312,
+     "text": "Risiko 10 mata, potensi ganjaran 20 mata. Gross risk-to-reward ialah 2 berbanding 1."
+    },
+    {
+     "start": 593.692,
+     "end": 601.518,
+     "text": "Dengan 1 kontrak, risiko kasar RM250 dan potensi ganjaran kasar RM500, sebelum kos dan slippage."
+    },
+    {
+     "start": 601.898,
+     "end": 607.546,
+     "text": "Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia."
+    }
+   ],
+   "end": 609.476
+  },
+  {
+   "start": 609.476,
+   "cues": [
+    {
+     "start": 610.226,
+     "end": 611.708,
+     "text": "Sekarang kita dedahkan apa yang berlaku."
+    },
+    {
+     "start": 612.088,
+     "end": 618.334,
+     "text": "Harga tidak kembali ke FVG. Order 4,733 tidak terisi."
+    },
+    {
+     "start": 618.714,
+     "end": 627.715,
+     "text": "Harga bergerak ke 4,713 tanpa kita. Ini bukan kesilapan: syarat entry tidak dipenuhi, jadi tiada dagangan."
+    },
+    {
+     "start": 628.095,
+     "end": 632.535,
+     "text": "Mengejar harga selepas terlepas setup akan memburukkan lokasi entry dan risk-to-reward."
+    }
+   ],
+   "end": 634.465
+  },
+  {
+   "start": 634.465,
+   "cues": [
+    {
+     "start": 635.215,
+     "end": 639.276,
+     "text": "Empat model entry. Tiada satu model yang sentiasa terbaik."
+    },
+    {
+     "start": 639.656,
+     "end": 650.37,
+     "text": "Model satu: entry agresif di POI. Order diletakkan di zon tanpa menunggu pengesahan. Harga lebih baik, tetapi risiko zon ditembusi lebih tinggi."
+    },
+    {
+     "start": 650.75,
+     "end": 660.861,
+     "text": "Model dua: entry pengesahan selepas MSS. Masuk selepas anjakan struktur. Bukti lebih banyak, tetapi harga entry lebih jauh dan RR lebih kecil."
+    },
+    {
+     "start": 661.241,
+     "end": 672.882,
+     "text": "Model tiga: displacement dan retracement ke FVG. Ini model yang digunakan dalam contoh kita. Lokasi dan invalidation jelas, tetapi harga mungkin tidak kembali."
+    },
+    {
+     "start": 673.262,
+     "end": 684.493,
+     "text": "Model empat: break and retest, hanya jika ia sebahagian daripada metodologi CMI yang ditetapkan. Ia menunggu ujian semula aras yang dipecahkan, tetapi ujian semula sering gagal atau tidak berlaku."
+    }
+   ],
+   "end": 685.823
+  },
+  {
+   "start": 685.823,
+   "cues": [
+    {
+     "start": 686.573,
+     "end": 691.47,
+     "text": "Bagi setiap model, invalidation, keadaan yang sesuai, dan kesilapan biasa."
+    },
+    {
+     "start": 691.85,
+     "end": 699.957,
+     "text": "Model agresif sesuai apabila konteks sangat jelas, dengan invalidation di luar zon. Kesilapan biasa: menggunakannya melawan trend."
+    },
+    {
+     "start": 700.337,
+     "end": 706.981,
+     "text": "Model pengesahan sesuai apabila pasaran bergerak laju. Kesilapan biasa: mengejar harga selepas pecahan."
+    },
+    {
+     "start": 707.361,
+     "end": 715.832,
+     "text": "Model FVG sesuai apabila displacement bersih. Kesilapan biasa: mendagangkan setiap FVG, termasuk di lokasi yang salah."
+    },
+    {
+     "start": 716.212,
+     "end": 722.897,
+     "text": "Model break and retest sesuai dalam pasaran yang trending. Kesilapan biasa: mengelirukan sweep dengan breakout."
+    }
+   ],
+   "end": 724.227
+  },
+  {
+   "start": 724.227,
+   "cues": [
+    {
+     "start": 724.977,
+     "end": 730.323,
+     "text": "Pengesahan palsu. Tujuh senario di mana setup kelihatan baik, tetapi tidak lengkap."
+    },
+    {
+     "start": 730.703,
+     "end": 737.487,
+     "text": "Liquidity disapu, tetapi tiada MSS yang bermakna. MSS berlaku, tetapi tanpa displacement."
+    },
+    {
+     "start": 737.867,
+     "end": 745.424,
+     "text": "Displacement berlaku, tetapi harga tidak memberi retracement yang dijangka. FVG terbentuk di lokasi yang tidak sesuai."
+    },
+    {
+     "start": 745.804,
+     "end": 753.594,
+     "text": "Pengesahan timeframe rendah bercanggah dengan konteks timeframe tinggi. Harga memecah struktur, kemudian terus berbalik."
+    },
+    {
+     "start": 753.974,
+     "end": 759.216,
+     "text": "Dan isyarat entry muncul terlalu dekat dengan liquidity bertentangan, jadi ruang ganjaran tidak mencukupi."
+    },
+    {
+     "start": 759.596,
+     "end": 765.112,
+     "text": "Pedagang yang baik sanggup melangkau setup. Melangkau ialah keputusan yang sah dalam SOP."
+    }
+   ],
+   "end": 766.442
+  },
+  {
+   "start": 766.442,
+   "cues": [
+    {
+     "start": 767.192,
+     "end": 770.447,
+     "text": "Senarai semak pengesahan CMI, sembilan soalan."
+    },
+    {
+     "start": 770.827,
+     "end": 778.067,
+     "text": "Adakah konteks arah jelas? Adakah harga berada di POI yang dipilih? Adakah terdapat interaksi liquidity yang bermakna?"
+    },
+    {
+     "start": 778.447,
+     "end": 784.776,
+     "text": "Adakah anjakan struktur relevan? Adakah displacement hadir? Adakah execution zone jelas?"
+    },
+    {
+     "start": 785.156,
+     "end": 792.04,
+     "text": "Adakah invalidation jelas? Adakah jarak sasaran mencukupi? Adakah risiko dalam had yang ditetapkan?"
+    },
+    {
+     "start": 792.42,
+     "end": 796.105,
+     "text": "Senarai semak ialah alat bantu keputusan, bukan jaminan keuntungan."
+    }
+   ],
+   "end": 797.435
+  },
+  {
+   "start": 797.435,
+   "cues": [
+    {
+     "start": 798.185,
+     "end": 802.18,
+     "text": "Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan."
+    },
+    {
+     "start": 802.56,
+     "end": 806.407,
+     "text": "Soalan satu: apakah beza antara POI dan entry confirmation?"
+    },
+    {
+     "start": 806.787,
+     "end": 813.151,
+     "text": "Jawapan: POI ialah lokasi. Pengesahan ialah urutan peristiwa yang berlaku di lokasi itu."
+    },
+    {
+     "start": 813.531,
+     "end": 816.511,
+     "text": "Soalan dua: kenapa sweep sahaja tidak mencukupi?"
+    },
+    {
+     "start": 816.891,
+     "end": 823.466,
+     "text": "Jawapan: sweep boleh diikuti oleh kesinambungan. Belum ada bukti struktur tentang reaksi."
+    },
+    {
+     "start": 823.846,
+     "end": 826.659,
+     "text": "Soalan tiga: apakah peranan MSS?"
+    },
+    {
+     "start": 827.039,
+     "end": 832.763,
+     "text": "Jawapan: ia menunjukkan potensi perubahan arah pada timeframe entry, selepas interaksi liquidity."
+    }
+   ],
+   "end": 834.493
+  },
+  {
+   "start": 834.493,
+   "cues": [
+    {
+     "start": 835.243,
+     "end": 836.347,
+     "text": "Dua soalan lagi."
+    },
+    {
+     "start": 836.727,
+     "end": 840.401,
+     "text": "Soalan empat: kenapa displacement penting dalam model CMI?"
+    },
+    {
+     "start": 840.781,
+     "end": 847.311,
+     "text": "Jawapan: ia membezakan anjakan yang bermakna daripada hingar, dan sering mencipta execution zone, iaitu FVG."
+    },
+    {
+     "start": 847.691,
+     "end": 851.13,
+     "text": "Soalan lima: bagaimana FVG membantu perancangan entry?"
+    },
+    {
+     "start": 851.51,
+     "end": 859.623,
+     "text": "Jawapan: ia memberi zon retracement yang jelas untuk entry limit, dengan invalidation yang dekat. Tetapi ia tidak semestinya diisi."
+    }
+   ],
+   "end": 861.353
+  },
+  {
+   "start": 861.353,
+   "cues": [
+    {
+     "start": 862.103,
+     "end": 863.014,
+     "text": "Ringkasnya."
+    },
+    {
+     "start": 863.394,
+     "end": 869.349,
+     "text": "Liquidity, MSS atau change of character, displacement, FVG, kemudian perancangan entry."
+    },
+    {
+     "start": 869.729,
+     "end": 872.997,
+     "text": "POI ialah lokasi, dan sweep sahaja bukan pencetus."
+    },
+    {
+     "start": 873.377,
+     "end": 878.717,
+     "text": "Empat model, setiap satu ada kelebihan dan kelemahan. Tiada model yang sentiasa terbaik."
+    },
+    {
+     "start": 879.097,
+     "end": 883.41,
+     "text": "Tidak terisi, pengesahan palsu, atau percanggahan konteks: langkau."
+    }
+   ],
+   "end": 884.74
+  },
+  {
+   "start": 884.74,
+   "cues": [
+    {
+     "start": 885.49,
+     "end": 887.393,
+     "text": "Latihan untuk video ini."
+    },
+    {
+     "start": 887.773,
+     "end": 895.709,
+     "text": "Cari sepuluh setup pada carta sejarah FCPO 5M, sembunyikan bahagian kanan carta, dan tandakan lima tahap pengesahan."
+    },
+    {
+     "start": 896.089,
+     "end": 902.545,
+     "text": "Nilai dengan senarai semak sembilan soalan: trade atau langkau. Kemudian dedahkan dan rekod hasilnya."
+    }
+   ],
+   "end": 903.875
+  },
+  {
+   "start": 903.875,
+   "cues": [
+    {
+     "start": 904.625,
+     "end": 914.482,
+     "text": "Dalam Video 10, kita belajar Stop Loss dan Take Profit: stop-loss struktur, buffer, invalidation, sasaran berasaskan liquidity, dan enam kaedah take-profit."
+    }
+   ],
+   "end": 916.612
+  },
+  {
+   "start": 916.612,
+   "cues": [
+    {
+     "start": 917.362,
+     "end": 919.965,
+     "text": "Rujukan untuk video ini dipaparkan di skrin."
+    }
+   ],
+   "end": 923.295
+  },
+  {
+   "start": 923.295,
+   "cues": [
+    {
+     "start": 924.045,
+     "end": 928.746,
+     "text": "Trading futures melibatkan risiko kerugian. Jumpa dalam Video 10."
+    }
+   ],
+   "end": 932.276
+  }
+ ],
+ "total": 932.276
+}

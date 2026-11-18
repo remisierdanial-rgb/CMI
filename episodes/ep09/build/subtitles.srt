@@ -1,0 +1,523 @@
+1
+00:00:00,750 --> 00:00:05,022
+Selamat datang ke Video 9, subtopik keempat: Entry Confirmation.
+
+2
+00:00:05,102 --> 00:00:10,612
+Subtopik ini menghubungkan lokasi dengan tindakan, iaitu bila sesuatu POI menjadi entry yang mempunyai alasan.
+
+3
+00:00:10,692 --> 00:00:15,833
+Kita akan belajar urutan pengesahan CMI lima tahap, satu demi satu.
+
+4
+00:00:15,913 --> 00:00:22,919
+Kemudian dua demonstrasi penuh, empat model entry, senario pengesahan palsu, dan senarai semak CMI.
+
+5
+00:00:25,199 --> 00:00:34,393
+Apakah entry confirmation? Ia ialah sekumpulan syarat yang mesti berlaku di lokasi yang dipilih sebelum entry dibenarkan, mengikut metodologi yang ditetapkan.
+
+6
+00:00:34,473 --> 00:00:40,075
+POI ialah lokasi. Entry trigger ialah peristiwa yang berlaku di lokasi itu.
+
+7
+00:00:40,155 --> 00:00:45,885
+Harga menyentuh Order Block bukan pengesahan. Harga mungkin terus menembusinya.
+
+8
+00:00:45,965 --> 00:00:52,070
+Lokasi, liquidity, struktur dan displacement mesti dinilai bersama, bukan secara berasingan.
+
+9
+00:00:52,150 --> 00:01:02,016
+Entry agresif masuk di POI tanpa menunggu. Entry pengesahan menunggu syarat dipenuhi, biasanya dengan harga yang kurang baik tetapi lebih banyak bukti.
+
+10
+00:01:02,096 --> 00:01:07,232
+Pengesahan mengurangkan sesetengah ketidakpastian, tetapi tidak menghapuskan risiko trading.
+
+11
+00:01:09,012 --> 00:01:12,051
+Inilah urutan pengesahan teras CMI.
+
+12
+00:01:12,131 --> 00:01:19,314
+Tahap satu: interaksi liquidity. Tahap dua: Market Structure Shift atau change of character.
+
+13
+00:01:19,394 --> 00:01:25,818
+Tahap tiga: displacement. Tahap empat: FVG atau execution zone.
+
+14
+00:01:25,898 --> 00:01:33,376
+Tahap lima: perancangan entry, iaitu entry, stop-loss, sasaran, risk-to-reward dan saiz posisi.
+
+15
+00:01:33,456 --> 00:01:39,179
+Urutan ini penting. Jika satu tahap tidak berlaku, pengesahan tidak lengkap.
+
+16
+00:01:40,959 --> 00:01:43,548
+Tahap satu: interaksi liquidity.
+
+17
+00:01:43,628 --> 00:01:49,642
+Rujukan liquidity yang biasa: Buy-Side dan Sell-Side Liquidity, Equal Highs dan Equal Lows.
+
+18
+00:01:49,722 --> 00:01:53,186
+Session high dan low, serta PDH dan PDL.
+
+19
+00:01:53,266 --> 00:01:59,607
+Interaksi yang dicari ialah liquidity sweep: harga melepasi aras dan ditutup semula di dalam julat.
+
+20
+00:01:59,687 --> 00:02:08,306
+Bezakan dengan breakout, di mana harga ditutup dan diterima di luar aras. Breakout menyokong kesinambungan, bukan reversal.
+
+21
+00:02:10,086 --> 00:02:12,528
+Tahap dua: anjakan struktur.
+
+22
+00:02:12,608 --> 00:02:22,571
+MSS bullish: selepas sweep Sell-Side Liquidity, harga ditutup di atas lower high terakhir. Struktur dalaman berubah daripada bearish kepada bullish.
+
+23
+00:02:22,651 --> 00:02:29,728
+MSS bearish ialah sebaliknya: selepas sweep Buy-Side Liquidity, harga ditutup di bawah higher low terakhir.
+
+24
+00:02:29,808 --> 00:02:43,233
+Pecahan struktur mesti dinilai dalam konteks. MSS pada 5M yang melawan trend 1H yang kuat mempunyai bukti yang lebih lemah. BOS pula mengesahkan kesinambungan, bukan perubahan.
+
+25
+00:02:45,013 --> 00:02:47,162
+Tahap tiga: displacement.
+
+26
+00:02:47,242 --> 00:02:54,467
+Displacement ialah pengembangan harga yang berarah: badan candle yang kuat, julat yang mengembang, dan pecahan struktur yang relevan.
+
+27
+00:02:54,547 --> 00:03:01,380
+Volatiliti biasa juga boleh menghasilkan candle besar, tetapi ia tidak memecah struktur, dan sering berbalik dengan cepat.
+
+28
+00:03:01,460 --> 00:03:09,805
+Penting: displacement tidak membuktikan identiti peserta pasaran. Ia hanya ciri pergerakan harga yang kita gunakan dalam model.
+
+29
+00:03:11,585 --> 00:03:17,339
+Tahap empat: Fair Value Gap. FVG ialah corak tiga candle.
+
+30
+00:03:17,419 --> 00:03:33,961
+FVG bullish: low candle ketiga, 4,508, berada di atas high candle pertama, 4,503. Ruang di antaranya, 4,503 hingga 4,508, tidak bertindih dengan mana-mana sumbu candle.
+
+31
+00:03:34,041 --> 00:03:43,947
+FVG bearish ialah sebaliknya: high candle ketiga, 4,502, berada di bawah low candle pertama, 4,507.
+
+32
+00:03:44,027 --> 00:03:51,147
+Candle tengah ialah candle displacement. FVG boleh menjadi kawasan retracement yang berpotensi untuk entry.
+
+33
+00:03:51,227 --> 00:03:58,504
+Ia berbeza daripada price gap biasa antara sesi. FVG wujud di dalam pergerakan yang berterusan.
+
+34
+00:04:00,884 --> 00:04:02,626
+Empat peraturan FVG.
+
+35
+00:04:02,706 --> 00:04:08,710
+Satu: FVG ialah kawasan retracement yang berpotensi, bukan isyarat beli atau jual dengan sendirinya.
+
+36
+00:04:08,790 --> 00:04:15,462
+Dua: tidak semua FVG boleh didagangkan. FVG mesti berada dalam urutan yang betul dan di lokasi yang betul.
+
+37
+00:04:15,542 --> 00:04:24,150
+Tiga: FVG tidak perlu diisi. Harga boleh terus bergerak tanpa kembali, dan dalam kes itu, entry limit tidak terisi.
+
+38
+00:04:24,230 --> 00:04:28,969
+Empat: FVG berbeza daripada price gap biasa antara sesi.
+
+39
+00:04:30,749 --> 00:04:36,503
+Tahap lima: perancangan entry. Lapan perkara mesti jelas sebelum order dihantar.
+
+40
+00:04:36,583 --> 00:04:42,152
+Harga entry, dan syarat entry, contohnya order limit di dalam FVG.
+
+41
+00:04:42,232 --> 00:04:46,312
+Stop-loss dan invalidation, iaitu apa yang membatalkan tesis.
+
+42
+00:04:46,392 --> 00:04:49,867
+Sasaran, risk-to-reward, dan saiz posisi.
+
+43
+00:04:49,947 --> 00:04:58,873
+Dan pelaksanaan order. Order limit mungkin tidak terisi. Order market dan stop boleh terisi pada harga yang berbeza akibat slippage.
+
+44
+00:05:00,653 --> 00:05:09,791
+Demonstrasi pengesahan bullish lengkap. Konteks timeframe tinggi berpotensi bullish, dan harga menghampiri POI bullish yang dipilih.
+
+45
+00:05:09,871 --> 00:05:16,555
+Carta 15M menunjukkan POI bullish di sekitar 4,441 hingga 4,450.
+
+46
+00:05:16,635 --> 00:05:23,382
+Di atas, dua high pada 4,479 membentuk Equal Highs, iaitu potensi Buy-Side Liquidity.
+
+47
+00:05:23,462 --> 00:05:31,535
+Di bawah, dua low pada 4,448 membentuk Equal Lows, potensi Sell-Side Liquidity, yang terletak di dalam POI.
+
+48
+00:05:31,615 --> 00:05:39,406
+Struktur dalaman pada carta 5M masih bearish. Lower high terakhir berada pada 4,459.
+
+49
+00:05:39,486 --> 00:05:46,822
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+50
+00:05:49,002 --> 00:05:57,850
+Candle seterusnya turun ke 4,444, melepasi Equal Lows, kemudian ditutup semula di atas 4,448.
+
+51
+00:05:57,930 --> 00:06:03,485
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+52
+00:06:03,565 --> 00:06:15,819
+Kemudian candle bullish yang besar ditutup pada 4,465, menembusi lower high 4,459. Ini potensi bullish MSS, disertai displacement.
+
+53
+00:06:15,899 --> 00:06:23,029
+Displacement ini meninggalkan Fair Value Gap antara 4,453 dan 4,457.
+
+54
+00:06:23,109 --> 00:06:29,851
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+55
+00:06:32,231 --> 00:06:35,223
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+56
+00:06:35,303 --> 00:06:43,000
+Entry beli bersyarat pada 4,455, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+57
+00:06:43,080 --> 00:06:52,605
+Stop-loss pada 4,443, di bawah ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bullish dianggap tidak sah.
+
+58
+00:06:52,685 --> 00:06:59,877
+Sasaran pada 4,479, Equal Highs, iaitu potensi Buy-Side Liquidity di arah bertentangan.
+
+59
+00:06:59,957 --> 00:07:06,989
+Risiko 12 mata, potensi ganjaran 24 mata. Gross risk-to-reward ialah 2 berbanding 1.
+
+60
+00:07:07,069 --> 00:07:14,871
+Dengan 1 kontrak, risiko kasar RM300 dan potensi ganjaran kasar RM600, sebelum kos dan slippage.
+
+61
+00:07:14,951 --> 00:07:20,899
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+62
+00:07:23,279 --> 00:07:25,061
+Sekarang kita dedahkan apa yang berlaku.
+
+63
+00:07:25,141 --> 00:07:31,258
+Harga kembali ke FVG. Order 4,455 terisi.
+
+64
+00:07:31,338 --> 00:07:38,859
+Harga kemudian bergerak ke 4,479. Sasaran tercapai: tambah 24 mata setiap kontrak.
+
+65
+00:07:38,939 --> 00:07:44,916
+Ini hanya satu hasil. Setup yang sama boleh sahaja berakhir di stop-loss.
+
+66
+00:07:47,296 --> 00:07:55,967
+Demonstrasi pengesahan bearish. Konteks timeframe tinggi berpotensi bearish, dan harga menghampiri POI bearish yang dipilih.
+
+67
+00:07:56,047 --> 00:08:03,412
+Carta 15M menunjukkan POI bearish di sekitar 4,737 hingga 4,745.
+
+68
+00:08:03,492 --> 00:08:10,002
+Di bawah, dua low pada 4,713 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity.
+
+69
+00:08:10,082 --> 00:08:18,458
+Di atas, dua high pada 4,739 membentuk Equal Highs, potensi Buy-Side Liquidity, yang terletak di dalam POI.
+
+70
+00:08:18,538 --> 00:08:26,081
+Struktur dalaman pada carta 5M masih bullish. Higher low terakhir berada pada 4,730.
+
+71
+00:08:26,161 --> 00:08:33,497
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+72
+00:08:35,677 --> 00:08:44,939
+Candle seterusnya naik ke 4,742, melepasi Equal Highs, kemudian ditutup semula di bawah 4,739.
+
+73
+00:08:45,019 --> 00:08:50,574
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+74
+00:08:50,654 --> 00:09:02,543
+Kemudian candle bearish yang besar ditutup pada 4,725, menembusi higher low 4,730. Ini potensi bearish MSS, disertai displacement.
+
+75
+00:09:02,623 --> 00:09:09,913
+Displacement ini meninggalkan Fair Value Gap antara 4,731 dan 4,735.
+
+76
+00:09:09,993 --> 00:09:16,735
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+77
+00:09:19,115 --> 00:09:22,107
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+78
+00:09:22,187 --> 00:09:29,935
+Entry jual bersyarat pada 4,733, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+79
+00:09:30,015 --> 00:09:39,604
+Stop-loss pada 4,743, di atas ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bearish dianggap tidak sah.
+
+80
+00:09:39,684 --> 00:09:46,802
+Sasaran pada 4,713, Equal Lows, iaitu potensi Sell-Side Liquidity di arah bertentangan.
+
+81
+00:09:46,882 --> 00:09:53,612
+Risiko 10 mata, potensi ganjaran 20 mata. Gross risk-to-reward ialah 2 berbanding 1.
+
+82
+00:09:53,692 --> 00:10:01,818
+Dengan 1 kontrak, risiko kasar RM250 dan potensi ganjaran kasar RM500, sebelum kos dan slippage.
+
+83
+00:10:01,898 --> 00:10:07,846
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+84
+00:10:10,226 --> 00:10:12,008
+Sekarang kita dedahkan apa yang berlaku.
+
+85
+00:10:12,088 --> 00:10:18,634
+Harga tidak kembali ke FVG. Order 4,733 tidak terisi.
+
+86
+00:10:18,714 --> 00:10:28,015
+Harga bergerak ke 4,713 tanpa kita. Ini bukan kesilapan: syarat entry tidak dipenuhi, jadi tiada dagangan.
+
+87
+00:10:28,095 --> 00:10:32,835
+Mengejar harga selepas terlepas setup akan memburukkan lokasi entry dan risk-to-reward.
+
+88
+00:10:35,215 --> 00:10:39,576
+Empat model entry. Tiada satu model yang sentiasa terbaik.
+
+89
+00:10:39,656 --> 00:10:50,670
+Model satu: entry agresif di POI. Order diletakkan di zon tanpa menunggu pengesahan. Harga lebih baik, tetapi risiko zon ditembusi lebih tinggi.
+
+90
+00:10:50,750 --> 00:11:01,161
+Model dua: entry pengesahan selepas MSS. Masuk selepas anjakan struktur. Bukti lebih banyak, tetapi harga entry lebih jauh dan RR lebih kecil.
+
+91
+00:11:01,241 --> 00:11:13,182
+Model tiga: displacement dan retracement ke FVG. Ini model yang digunakan dalam contoh kita. Lokasi dan invalidation jelas, tetapi harga mungkin tidak kembali.
+
+92
+00:11:13,262 --> 00:11:24,793
+Model empat: break and retest, hanya jika ia sebahagian daripada metodologi CMI yang ditetapkan. Ia menunggu ujian semula aras yang dipecahkan, tetapi ujian semula sering gagal atau tidak berlaku.
+
+93
+00:11:26,573 --> 00:11:31,770
+Bagi setiap model, invalidation, keadaan yang sesuai, dan kesilapan biasa.
+
+94
+00:11:31,850 --> 00:11:40,257
+Model agresif sesuai apabila konteks sangat jelas, dengan invalidation di luar zon. Kesilapan biasa: menggunakannya melawan trend.
+
+95
+00:11:40,337 --> 00:11:47,281
+Model pengesahan sesuai apabila pasaran bergerak laju. Kesilapan biasa: mengejar harga selepas pecahan.
+
+96
+00:11:47,361 --> 00:11:56,132
+Model FVG sesuai apabila displacement bersih. Kesilapan biasa: mendagangkan setiap FVG, termasuk di lokasi yang salah.
+
+97
+00:11:56,212 --> 00:12:03,197
+Model break and retest sesuai dalam pasaran yang trending. Kesilapan biasa: mengelirukan sweep dengan breakout.
+
+98
+00:12:04,977 --> 00:12:10,623
+Pengesahan palsu. Tujuh senario di mana setup kelihatan baik, tetapi tidak lengkap.
+
+99
+00:12:10,703 --> 00:12:17,787
+Liquidity disapu, tetapi tiada MSS yang bermakna. MSS berlaku, tetapi tanpa displacement.
+
+100
+00:12:17,867 --> 00:12:25,724
+Displacement berlaku, tetapi harga tidak memberi retracement yang dijangka. FVG terbentuk di lokasi yang tidak sesuai.
+
+101
+00:12:25,804 --> 00:12:33,894
+Pengesahan timeframe rendah bercanggah dengan konteks timeframe tinggi. Harga memecah struktur, kemudian terus berbalik.
+
+102
+00:12:33,974 --> 00:12:39,516
+Dan isyarat entry muncul terlalu dekat dengan liquidity bertentangan, jadi ruang ganjaran tidak mencukupi.
+
+103
+00:12:39,596 --> 00:12:45,412
+Pedagang yang baik sanggup melangkau setup. Melangkau ialah keputusan yang sah dalam SOP.
+
+104
+00:12:47,192 --> 00:12:50,747
+Senarai semak pengesahan CMI, sembilan soalan.
+
+105
+00:12:50,827 --> 00:12:58,367
+Adakah konteks arah jelas? Adakah harga berada di POI yang dipilih? Adakah terdapat interaksi liquidity yang bermakna?
+
+106
+00:12:58,447 --> 00:13:05,076
+Adakah anjakan struktur relevan? Adakah displacement hadir? Adakah execution zone jelas?
+
+107
+00:13:05,156 --> 00:13:12,340
+Adakah invalidation jelas? Adakah jarak sasaran mencukupi? Adakah risiko dalam had yang ditetapkan?
+
+108
+00:13:12,420 --> 00:13:16,405
+Senarai semak ialah alat bantu keputusan, bukan jaminan keuntungan.
+
+109
+00:13:18,185 --> 00:13:22,480
+Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.
+
+110
+00:13:22,560 --> 00:13:26,707
+Soalan satu: apakah beza antara POI dan entry confirmation?
+
+111
+00:13:26,787 --> 00:13:33,451
+Jawapan: POI ialah lokasi. Pengesahan ialah urutan peristiwa yang berlaku di lokasi itu.
+
+112
+00:13:33,531 --> 00:13:36,811
+Soalan dua: kenapa sweep sahaja tidak mencukupi?
+
+113
+00:13:36,891 --> 00:13:43,766
+Jawapan: sweep boleh diikuti oleh kesinambungan. Belum ada bukti struktur tentang reaksi.
+
+114
+00:13:43,846 --> 00:13:46,959
+Soalan tiga: apakah peranan MSS?
+
+115
+00:13:47,039 --> 00:13:53,063
+Jawapan: ia menunjukkan potensi perubahan arah pada timeframe entry, selepas interaksi liquidity.
+
+116
+00:13:55,243 --> 00:13:56,647
+Dua soalan lagi.
+
+117
+00:13:56,727 --> 00:14:00,701
+Soalan empat: kenapa displacement penting dalam model CMI?
+
+118
+00:14:00,781 --> 00:14:07,611
+Jawapan: ia membezakan anjakan yang bermakna daripada hingar, dan sering mencipta execution zone, iaitu FVG.
+
+119
+00:14:07,691 --> 00:14:11,430
+Soalan lima: bagaimana FVG membantu perancangan entry?
+
+120
+00:14:11,510 --> 00:14:19,923
+Jawapan: ia memberi zon retracement yang jelas untuk entry limit, dengan invalidation yang dekat. Tetapi ia tidak semestinya diisi.
+
+121
+00:14:22,103 --> 00:14:23,314
+Ringkasnya.
+
+122
+00:14:23,394 --> 00:14:29,649
+Liquidity, MSS atau change of character, displacement, FVG, kemudian perancangan entry.
+
+123
+00:14:29,729 --> 00:14:33,297
+POI ialah lokasi, dan sweep sahaja bukan pencetus.
+
+124
+00:14:33,377 --> 00:14:39,017
+Empat model, setiap satu ada kelebihan dan kelemahan. Tiada model yang sentiasa terbaik.
+
+125
+00:14:39,097 --> 00:14:43,710
+Tidak terisi, pengesahan palsu, atau percanggahan konteks: langkau.
+
+126
+00:14:45,490 --> 00:14:47,693
+Latihan untuk video ini.
+
+127
+00:14:47,773 --> 00:14:56,009
+Cari sepuluh setup pada carta sejarah FCPO 5M, sembunyikan bahagian kanan carta, dan tandakan lima tahap pengesahan.
+
+128
+00:14:56,089 --> 00:15:02,845
+Nilai dengan senarai semak sembilan soalan: trade atau langkau. Kemudian dedahkan dan rekod hasilnya.
+
+129
+00:15:04,625 --> 00:15:14,782
+Dalam Video 10, kita belajar Stop Loss dan Take Profit: stop-loss struktur, buffer, invalidation, sasaran berasaskan liquidity, dan enam kaedah take-profit.
+
+130
+00:15:17,362 --> 00:15:20,265
+Rujukan untuk video ini dipaparkan di skrin.
+
+131
+00:15:24,045 --> 00:15:29,046
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 10.

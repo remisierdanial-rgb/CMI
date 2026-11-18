@@ -1,0 +1,403 @@
+1
+00:00:00,750 --> 00:00:04,905
+Selamat datang ke Video 11, subtopik keenam: Risk-to-Reward.
+
+2
+00:00:04,985 --> 00:00:12,356
+RR sering disalah faham sebagai jaminan keuntungan. Video ini menunjukkan kenapa ia hanya satu bahagian daripada gambaran.
+
+3
+00:00:12,436 --> 00:00:18,684
+Kita akan kira RR, win rate break-even dan expectancy, dan lihat kesan kos dagangan.
+
+4
+00:00:18,764 --> 00:00:24,538
+Kemudian kita kira saiz posisi FCPO, dan jelaskan dengan tegas kenapa margin bukan risiko.
+
+5
+00:00:26,817 --> 00:00:32,957
+Apakah risk-to-reward? Ia membandingkan potensi ganjaran dengan potensi risiko bagi satu dagangan.
+
+6
+00:00:33,038 --> 00:00:36,453
+Dalam nisbah 1 berbanding 1, potensi ganjaran sama dengan risiko.
+
+7
+00:00:36,533 --> 00:00:45,560
+Dalam 1 berbanding 2, ganjaran dua kali ganda risiko. 1 berbanding 3, tiga kali ganda. 1 berbanding 4, empat kali ganda.
+
+8
+00:00:45,640 --> 00:00:51,657
+Risiko diukur dari entry ke stop-loss. Ganjaran diukur dari entry ke sasaran.
+
+9
+00:00:51,737 --> 00:00:57,899
+RR mesti dinilai sebelum entry, kerana selepas entry, emosi mula mempengaruhi keputusan.
+
+10
+00:00:59,679 --> 00:01:04,224
+Formula risk-to-reward: potensi ganjaran bahagi potensi risiko.
+
+11
+00:01:04,304 --> 00:01:12,898
+Contoh: entry 4,500, stop-loss 4,490, take-profit 4,520.
+
+12
+00:01:12,978 --> 00:01:21,475
+Risiko 10 mata. Potensi ganjaran 20 mata. RR sama dengan 20 bahagi 10, iaitu 2.
+
+13
+00:01:21,555 --> 00:01:24,140
+Maka gross reward-to-risk ialah 2 berbanding 1.
+
+14
+00:01:24,220 --> 00:01:33,207
+Setup 2 berbanding 1 bermaksud potensi ganjaran kasar dua kali ganda risiko kasar yang dirancang. Ia tidak bermakna pedagang akan memperoleh dua kali ganda pada setiap dagangan.
+
+15
+00:01:34,987 --> 00:01:42,719
+Hubungan antara win rate dan RR. Win rate break-even ialah win rate minimum supaya hasil purata sifar.
+
+16
+00:01:42,799 --> 00:01:47,929
+Formula ringkas, sebelum kos: risiko bahagi risiko campur ganjaran.
+
+17
+00:01:48,009 --> 00:01:54,698
+Untuk 1 berbanding 1, lima puluh peratus. 1 berbanding 2, 33.33 peratus.
+
+18
+00:01:54,778 --> 00:01:57,102
+1 berbanding 3, dua puluh lima peratus. 1 berbanding 4, dua puluh peratus.
+
+19
+00:01:57,182 --> 00:02:03,316
+Ini angka teori yang dipermudahkan, sebelum kos, slippage dan kesan pelaksanaan lain.
+
+20
+00:02:05,096 --> 00:02:07,666
+Win rate dan RR mesti dibaca bersama.
+
+21
+00:02:07,746 --> 00:02:13,058
+Purata kemenangan dan purata kerugian sebenar menentukan hasil, bukan RR yang dirancang sahaja.
+
+22
+00:02:13,138 --> 00:02:20,181
+Secara umumnya, sasaran yang lebih jauh kurang kerap dicapai. Menaikkan RR boleh menurunkan win rate.
+
+23
+00:02:20,261 --> 00:02:26,499
+Win rate yang tinggi dengan RR yang kecil juga boleh rugi, jika kerugian purata lebih besar daripada kemenangan purata.
+
+24
+00:02:26,579 --> 00:02:31,557
+Hanya data dagangan anda sendiri, dengan sampel yang mencukupi, boleh menunjukkan kombinasi yang sebenar.
+
+25
+00:02:33,337 --> 00:02:36,100
+Expectancy ialah purata hasil bagi setiap dagangan.
+
+26
+00:02:36,180 --> 00:02:41,463
+Formula: win rate darab purata kemenangan, tolak loss rate darab purata kerugian.
+
+27
+00:02:41,543 --> 00:02:49,288
+Andaikan win rate empat puluh peratus, purata kemenangan dua R, loss rate enam puluh peratus, dan purata kerugian satu R.
+
+28
+00:02:49,368 --> 00:03:03,781
+0.40 darab 2R ialah 0.80R. 0.60 darab 1R ialah 0.60R. Expectancy ialah tambah 0.20R setiap dagangan, sebelum kos.
+
+29
+00:03:03,861 --> 00:03:08,568
+Expectancy positif dalam data sejarah tidak menjamin keuntungan pada masa hadapan.
+
+30
+00:03:10,348 --> 00:03:14,884
+Expectancy ialah purata jangka panjang, tetapi setiap urutan dagangan berbeza.
+
+31
+00:03:14,964 --> 00:03:21,532
+Dalam urutan hipotetikal sepuluh dagangan ini, terdapat empat kemenangan dua R, dan enam kerugian satu R.
+
+32
+00:03:21,612 --> 00:03:28,557
+Perhatikan tiga kerugian berturut-turut di awal. Pedagang yang berhenti di sini akan menyimpulkan strategi gagal.
+
+33
+00:03:28,637 --> 00:03:35,785
+Selepas sepuluh dagangan, jumlahnya tambah dua R, iaitu purata 0.2R setiap dagangan, sebelum kos.
+
+34
+00:03:35,865 --> 00:03:41,714
+Sepuluh dagangan masih sampel yang sangat kecil. Penilaian memerlukan sampel yang jauh lebih besar.
+
+35
+00:03:43,494 --> 00:03:47,180
+Prestasi sebenar membayar kos yang tidak kelihatan dalam RR kasar.
+
+36
+00:03:47,260 --> 00:03:50,881
+Brokerage, yuran bursa, dan yuran clearing.
+
+37
+00:03:50,961 --> 00:03:53,153
+Cukai atau caj yang berkaitan.
+
+38
+00:03:53,233 --> 00:03:56,945
+Slippage, bid-ask spread, dan kualiti pelaksanaan.
+
+39
+00:03:57,025 --> 00:04:06,578
+Angka yuran berubah dan berbeza mengikut broker. Video ini tidak menggunakan sebarang angka yuran. Gunakan kos sebenar anda yang terkini.
+
+40
+00:04:08,358 --> 00:04:17,531
+Lihat kesan kos pada setup 2 berbanding 1. Andaikan, secara hipotetikal, jumlah kos dan slippage setara dua mata setiap kontrak.
+
+41
+00:04:17,611 --> 00:04:26,095
+Risiko bersih menjadi 12 mata, iaitu RM300. Ganjaran bersih menjadi 18 mata, iaitu RM450.
+
+42
+00:04:26,175 --> 00:04:34,054
+RR bersih turun daripada 2 kepada 1.5. Win rate break-even naik daripada 33 peratus kepada 40 peratus.
+
+43
+00:04:34,134 --> 00:04:40,556
+RR yang menarik dari segi teori boleh menjadi kurang menarik selepas kos, terutamanya untuk sasaran yang kecil.
+
+44
+00:04:42,336 --> 00:04:49,365
+Saiz posisi menghubungkan ekuiti akaun, risiko maksimum, jarak stop, nilai setiap mata, dan kos.
+
+45
+00:04:49,445 --> 00:04:58,426
+Formula: risiko maksimum dalam ringgit, bahagi risiko ringgit setiap kontrak. Hasilnya dibundarkan ke bawah kepada bilangan kontrak penuh.
+
+46
+00:04:58,506 --> 00:05:10,357
+Bajet RM500. Stop 10 mata darab RM25, iaitu RM250 setiap kontrak. 500 bahagi 250, iaitu dua kontrak.
+
+47
+00:05:10,437 --> 00:05:21,544
+Tetapi jika risiko maksimum termasuk kos dan slippage, contohnya RM300 setiap kontrak, 500 bahagi 300 ialah 1.67, dibundarkan ke bawah menjadi satu kontrak.
+
+48
+00:05:21,624 --> 00:05:26,555
+Jangan sekali-kali bundarkan ke atas. Bundar ke atas bermakna risiko melebihi had yang anda tetapkan.
+
+49
+00:05:28,335 --> 00:05:34,210
+Bahagian yang sangat penting: margin berbanding risiko. Mula-mula, tujuh istilah.
+
+50
+00:05:34,290 --> 00:05:41,311
+Initial margin ialah deposit untuk membuka posisi. Maintenance margin ialah paras minimum ekuiti untuk mengekalkannya.
+
+51
+00:05:41,391 --> 00:05:47,409
+Kemudahan margin intraday ialah margin yang dikurangkan oleh broker bagi posisi yang ditutup dalam hari yang sama.
+
+52
+00:05:47,489 --> 00:05:54,227
+Ekuiti tersedia ialah baki yang boleh digunakan. Notional ialah harga darab saiz kontrak.
+
+53
+00:05:54,307 --> 00:06:02,400
+Risiko stop-loss dan kerugian maksimum di bawah stop yang dirancang ialah jarak stop darab nilai setiap mata darab bilangan kontrak.
+
+54
+00:06:04,180 --> 00:06:08,601
+Ingat ayat ini: margin tidak sama dengan risiko dagangan maksimum.
+
+55
+00:06:08,681 --> 00:06:20,686
+Sama ada anda menggunakan margin penuh, separuh, atau suku margin, satu kontrak tetap satu kontrak. Notionalnya kekal RM112,500 pada harga 4,500.
+
+56
+00:06:20,766 --> 00:06:26,663
+Pergerakan 10 mata yang merugikan tetap bernilai RM250 setiap kontrak, tanpa mengira margin.
+
+57
+00:06:26,743 --> 00:06:35,611
+Kemudahan margin yang lebih rendah tidak mengurangkan pendedahan pasaran. Ia hanya mengurangkan modal yang dikunci, dan boleh menggalakkan saiz posisi yang berlebihan.
+
+58
+00:06:35,691 --> 00:06:44,655
+Pedagang yang menggunakan suku atau separuh margin mesti mengira risiko berdasarkan pergerakan harga keseluruhan kontrak. Margin yang lebih rendah tidak menjadikan dagangan lebih selamat.
+
+59
+00:06:46,435 --> 00:06:48,269
+RR mengikut gaya trading.
+
+60
+00:06:48,349 --> 00:06:55,441
+Scalping, intraday dan swing mungkin menghasilkan profil RR yang berbeza, kerana jarak stop dan sasaran berbeza.
+
+61
+00:06:55,521 --> 00:07:03,881
+CMI tidak menetapkan RR minimum sejagat. Memaksa semua setup mencapai 1 berbanding 3 boleh menghasilkan sasaran yang tidak realistik.
+
+62
+00:07:03,961 --> 00:07:14,027
+RR dipengaruhi oleh volatiliti, jarak stop, jarak sasaran, struktur pasaran, liquidity, kos dagangan, win rate dan prestasi strategi.
+
+63
+00:07:15,807 --> 00:07:19,312
+Untuk menilai strategi, RR sahaja tidak mencukupi.
+
+64
+00:07:19,392 --> 00:07:23,482
+Win rate, purata kemenangan, purata kerugian, dan expectancy.
+
+65
+00:07:23,562 --> 00:07:31,862
+Profit factor, iaitu jumlah untung kasar bahagi jumlah rugi kasar. Maximum drawdown, iaitu penurunan terbesar dari puncak.
+
+66
+00:07:31,942 --> 00:07:36,731
+Bilangan dagangan, kerugian berturut-turut, slippage dan kos dagangan.
+
+67
+00:07:36,811 --> 00:07:39,786
+Dan konsistensi merentasi keadaan pasaran yang berbeza.
+
+68
+00:07:41,566 --> 00:07:48,302
+Contoh: strategi dengan RR 1 berbanding 4. Win rate break-evennya dua puluh peratus.
+
+69
+00:07:48,382 --> 00:07:52,636
+Andaikan dalam ujian, win rate sebenar hanya lapan belas peratus.
+
+70
+00:07:52,716 --> 00:08:03,206
+Expectancy: 0.18 darab 4R, tolak 0.82 darab 1R. Hasilnya tolak 0.10R setiap dagangan.
+
+71
+00:08:03,286 --> 00:08:09,192
+RR yang tinggi tidak menjamin keuntungan, jika win rate terlalu rendah atau kos pelaksanaan terlalu tinggi.
+
+72
+00:08:10,972 --> 00:08:13,065
+Lapan kesilapan RR yang biasa.
+
+73
+00:08:13,145 --> 00:08:18,678
+Memaksa setiap setup mencapai 1 berbanding 3. Mengabaikan liquidity bertentangan yang dekat.
+
+74
+00:08:18,758 --> 00:08:23,627
+Menggunakan sasaran yang tidak realistik. Mengabaikan jarak stop-loss.
+
+75
+00:08:23,707 --> 00:08:29,752
+Mengira RR tanpa kos. Mengelirukan RR yang dirancang dengan RR yang direalisasikan.
+
+76
+00:08:29,832 --> 00:08:36,891
+Menambah saiz posisi kerana sasaran jauh. Dan menganggap RR yang tinggi menjamin keuntungan.
+
+77
+00:08:38,671 --> 00:08:42,966
+Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.
+
+78
+00:08:43,046 --> 00:08:45,721
+Soalan satu: bagaimana RR dikira?
+
+79
+00:08:45,801 --> 00:08:57,785
+Jawapan: ganjaran bahagi risiko. Untuk 4,500, 4,490 dan 4,520, iaitu 20 bahagi 10, atau 2 berbanding 1.
+
+80
+00:08:57,865 --> 00:09:01,954
+Soalan dua: apakah hubungan antara RR dan win rate?
+
+81
+00:09:02,034 --> 00:09:08,727
+Jawapan: RR yang lebih tinggi menurunkan win rate break-even, tetapi sasaran yang lebih jauh secara umumnya kurang kerap dicapai.
+
+82
+00:09:08,807 --> 00:09:11,266
+Soalan tiga: apakah expectancy?
+
+83
+00:09:11,346 --> 00:09:21,316
+Jawapan: win rate darab purata kemenangan, tolak loss rate darab purata kerugian. Contohnya tambah 0.20R sebelum kos.
+
+84
+00:09:23,496 --> 00:09:25,008
+Tiga soalan lagi.
+
+85
+00:09:25,088 --> 00:09:30,209
+Soalan empat: jika jarak stop bertambah, apa berlaku kepada saiz posisi?
+
+86
+00:09:30,289 --> 00:09:36,791
+Jawapan: saiz berkurang secara songsang. Bundarkan ke bawah, dan sifar bermakna tiada dagangan.
+
+87
+00:09:36,871 --> 00:09:40,428
+Soalan lima: kenapa margin bukan risiko maksimum?
+
+88
+00:09:40,508 --> 00:09:47,721
+Jawapan: margin ialah deposit. Dengan suku margin pun, setiap mata tetap 25 ringgit setiap kontrak.
+
+89
+00:09:47,801 --> 00:09:52,714
+Soalan enam: kenapa kos dagangan mesti dimasukkan dalam penilaian strategi?
+
+90
+00:09:52,794 --> 00:10:05,107
+Jawapan: kos mengurangkan ganjaran dan menambah risiko pada setiap dagangan. RR 2.0 menjadi 1.5, dan win rate break-even naik dari 33 kepada 40 peratus.
+
+91
+00:10:07,287 --> 00:10:08,497
+Ringkasnya.
+
+92
+00:10:08,577 --> 00:10:16,161
+RR ialah ganjaran bahagi risiko, dinilai sebelum entry. RR yang dirancang tidak sama dengan yang direalisasikan.
+
+93
+00:10:16,241 --> 00:10:20,243
+Win rate break-even dan expectancy mesti dinilai selepas kos.
+
+94
+00:10:20,323 --> 00:10:25,195
+Saiz posisi dikira dari risiko ringgit setiap kontrak, dan dibundarkan ke bawah.
+
+95
+00:10:25,275 --> 00:10:28,956
+Margin bukan risiko, dan RR yang tinggi tidak menjamin apa-apa.
+
+96
+00:10:30,736 --> 00:10:32,939
+Latihan untuk video ini.
+
+97
+00:10:33,019 --> 00:10:47,209
+Latihan tujuh: short pada 4,620, stop 4,632, sasaran 4,584. Kira risiko, ganjaran, RR dan win rate break-even.
+
+98
+00:10:47,289 --> 00:11:00,506
+Latihan lapan: akaun 40,000 ringgit, risiko satu peratus, stop 14 mata ditambah kos setara 2 mata. Berapa kontrak? Bagaimana jika stop 20 mata?
+
+99
+00:11:02,286 --> 00:11:10,495
+Dalam Video 12A, kita aplikasikan semua yang dipelajari dalam empat kajian kes FCPO: scalping dan intraday, bullish dan bearish.
+
+100
+00:11:13,075 --> 00:11:15,979
+Rujukan untuk video ini dipaparkan di skrin.
+
+101
+00:11:19,759 --> 00:11:24,926
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 12A.
