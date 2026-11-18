@@ -1,0 +1,272 @@
+/* VIDEO 13 — Backtesting Foundations and Strategy Rules
+   Subtopic 6 · Backtesting & Performance Evaluation — sections A (Understanding backtesting), B (Testable rules), C (Data preparation), D (Methods), E (Look-ahead bias). */
+const LA = { seed: 1313, n: 44, way: [[0, 4140], [8, 4100], [12, 4112], [17, 4086], [20, 4094], [24, 4080], [28, 4104], [32, 4096], [38, 4128], [43, 4136]], noise: 4, wick: 5 };
+const run = (p0, seq) => { let p = p0; return seq.map(([d, v = 900, uw = 3, lw = 3]) => { const o = p, c = p + d; p = c; return { o, c, h: Math.max(o, c) + uw, l: Math.min(o, c) - lw, v }; }); };
+const FR = run(4120, [[-8], [-7], [-9], [-6, 900, 3, 6], [5], [7], [-4], [9], [8]]);
+
+EP({
+  num: '13', short: 'Backtesting Foundations', title: 'Backtesting Foundations and Strategy Rules',
+  scenes: [
+    {
+      tpl: 'title', label: 'Introduction', kicker: 'VIDEO 13 · SUBTOPIC 6 · BACKTESTING & PERFORMANCE',
+      h: 'Backtesting Foundations and Strategy Rules', sub: 'What backtesting is · Testable rules · Historical data · Methods · Look-ahead bias',
+      obj: [[1, 'Explain backtesting, forward testing, paper and live trading'], [2, 'Convert a discretionary SMC setup into testable rules'], [3, 'Prepare FCPO historical data correctly'], [4, 'Recognise and prevent look-ahead bias']],
+      viz: { type: 'equity', title: 'EQUITY CURVE · SIMULATED', r: [1, -1, 2, -1, -1, 2.2, -1, 1.8, -1, 2, -1, -1, 2.4, -1, 1.5, 2, -1, -1, 2.1], dur: 3, unit: 'R' },
+      say: [
+        ['Welcome to Video Thirteen. Subtopic Six is Backtesting and Performance Evaluation.', 'Selamat datang ke Video 13. Subtopik 6 ialah Backtesting dan Performance Evaluation.'],
+        ['Everything we have learned so far produces hypotheses. Backtesting asks whether clearly defined rules have shown historical performance under stated assumptions.', 'Semua yang telah kita pelajari setakat ini menghasilkan hipotesis. Backtesting bertanya sama ada peraturan yang jelas telah menunjukkan prestasi sejarah di bawah andaian yang dinyatakan.'],
+        ['This section must be rigorous. Backtesting is not simply counting winning and losing trades on a chart.', 'Bahagian ini mesti teliti. Backtesting bukan sekadar mengira trade menang dan kalah pada chart.'],
+        ['In this video: what backtesting is, how to write testable rules, how to prepare data, which methods to use, and how to avoid look-ahead bias.', 'Dalam video ini: apa itu backtesting, cara menulis peraturan yang boleh diuji, cara menyediakan data, kaedah yang digunakan, dan cara mengelakkan look-ahead bias.'],
+      ],
+    },
+    {
+      tpl: 'cards', label: 'Components', kicker: '13.1 · UNDERSTANDING BACKTESTING', h: 'A backtest is rules + data + assumptions', cols: 4, top: 180, ch: 200,
+      cards: [
+        { n: 'DATA', t: 'Historical market data', b: 'Contract, timeframe, sessions.', at: 1 },
+        { n: 'RULES', t: 'Strategy rules', b: 'Context, setup, filters.', at: 1 },
+        { n: 'ENTRY', t: 'Entry conditions', b: 'Observable trigger and price.', at: 2 },
+        { n: 'EXIT', t: 'Exit conditions', b: 'Time, structure or target.', at: 2 },
+        { n: 'STOP', nc: 'red2', t: 'Stop-loss', b: 'Where the idea is wrong.', at: 3 },
+        { n: 'TARGET', nc: 'green2', t: 'Take-profit', b: 'Liquidity or fixed R.', at: 3 },
+        { n: 'SIZE', nc: 'cyan', t: 'Position sizing', b: 'Risk per trade.', at: 4 },
+        { n: 'COSTS', nc: 'amber', t: 'Costs & execution', b: 'Fees, spread, slippage, fills.', at: 4 },
+      ],
+      note: { at: 5, y: 640, label: 'Why it matters', text: 'Without testing, a trader cannot know whether a setup has an edge, how large losing streaks may be, or whether results came from rules or luck.' },
+      say: [
+        ['Backtesting applies a fixed set of rules to historical market data, to see how those rules would have performed.', 'Backtesting mengaplikasikan satu set peraturan yang tetap kepada data pasaran sejarah, untuk melihat bagaimana peraturan itu akan berprestasi.'],
+        ['It needs historical data and strategy rules.', 'Ia memerlukan data sejarah dan peraturan strategi.'],
+        ['It needs exact entry conditions, and exit conditions.', 'Ia memerlukan syarat entry yang tepat, dan syarat exit.'],
+        ['It needs a stop-loss, and a take-profit.', 'Ia memerlukan stop-loss, dan take-profit.'],
+        ['And it needs position sizing, trading costs, and execution assumptions about how orders would have been filled.', 'Dan ia memerlukan saiz posisi, kos dagangan, dan andaian pelaksanaan tentang bagaimana order akan diisi.'],
+        ['Why does it matter? Without testing, you cannot know whether a setup has an edge, how long losing streaks may be, or whether results came from rules or from luck.', 'Mengapa ia penting? Tanpa ujian, anda tidak dapat mengetahui sama ada setup mempunyai kelebihan, berapa panjang siri kerugian, atau sama ada keputusan datang daripada peraturan atau nasib.'],
+      ],
+    },
+    {
+      tpl: 'table', label: 'Four ways to test', kicker: '13.1 · FOUR STAGES', h: 'Backtesting, forward testing, paper and live trading', cols: ['Stage', 'What it is', 'What it reveals', 'Limitation'], widths: [300, 480, 460, 420], hs: 36,
+      rows: [
+        [1, 'Backtesting', 'Rules applied to past data', 'Historical behaviour of the rules', 'Hindsight, data and fill assumptions'],
+        [2, 'Forward testing', 'Rules applied to new data as it arrives', 'Behaviour on unseen data', 'Takes time; small samples'],
+        [3, 'Paper trading', 'Simulated orders in real time', 'Execution discipline, workflow', 'No real fills or emotions of real money'],
+        [4, 'Live trading', 'Real orders, real capital', 'Actual fills, costs and psychology', 'Real losses'],
+      ],
+      note: { at: 5, label: 'Sequence', text: 'A professional process moves through these stages in order, with **small size** at first, and compares each stage\'s results with the previous one.' },
+      say: [
+        ['Four stages are often confused.', 'Empat peringkat sering dikelirukan.'],
+        ['Backtesting applies rules to past data. It shows how the rules behaved historically, but it depends on data and fill assumptions.', 'Backtesting mengaplikasikan peraturan kepada data lepas. Ia menunjukkan bagaimana peraturan berkelakuan secara sejarah, tetapi bergantung pada andaian data dan isian.'],
+        ['Forward testing applies the same rules to new data as it arrives. It shows behaviour on unseen data, but takes time.', 'Forward testing mengaplikasikan peraturan yang sama kepada data baharu apabila ia tiba. Ia menunjukkan tingkah laku pada data yang belum dilihat, tetapi mengambil masa.'],
+        ['Paper trading places simulated orders in real time. It tests discipline and workflow, but without real fills.', 'Paper trading meletakkan order simulasi secara masa nyata. Ia menguji disiplin dan aliran kerja, tetapi tanpa isian sebenar.'],
+        ['Live trading uses real orders and real capital, revealing actual fills, costs and psychology.', 'Live trading menggunakan order sebenar dan modal sebenar, mendedahkan isian, kos dan psikologi sebenar.'],
+        ['A professional process moves through these stages in order, starting with small size, and compares each stage with the last.', 'Proses profesional bergerak melalui peringkat ini mengikut urutan, bermula dengan saiz kecil, dan membandingkan setiap peringkat dengan yang sebelumnya.'],
+      ],
+    },
+    {
+      tpl: 'table', label: 'Vague vs testable', kicker: '13.2 · TESTABLE STRATEGY RULES', h: 'From vague ideas to observable criteria', cols: ['Vague (untestable)', 'Testable (example)'], widths: [620, 1040], hs: 38,
+      rows: [
+        [1, '"Enter when price looks strong"', 'Enter on the first 15M close above the last swing high after an SSL sweep at a 1H POI'],
+        [2, '"Buy when institutions appear active"', 'Require one bar at the POI with volume ≥ 2.0× the prior 20-bar average'],
+        [3, '"Sell when liquidity seems weak"', 'Short only if price closes back below equal highs within 2 bars of sweeping them'],
+      ],
+      note: { at: 4, label: 'Test of a good rule', text: 'Two people applying the rule to the same chart, independently, must mark the **same trades**. If they cannot, the rule is not yet testable.' },
+      say: [
+        ['To test a strategy, its rules must be testable. Vague rules cannot be tested.', 'Untuk menguji strategi, peraturannya mesti boleh diuji. Peraturan yang kabur tidak boleh diuji.'],
+        ['Enter when price looks strong becomes: enter on the first fifteen-minute close above the last swing high, after a sell-side sweep at a one-hour point of interest.', 'Masuk apabila harga kelihatan kuat menjadi: masuk pada penutupan 15 minit pertama di atas swing high terakhir, selepas sell-side sweep di POI 1 jam.'],
+        ['Buy when institutions appear active becomes: require one bar at the point of interest with volume at least two times the prior twenty-bar average.', 'Beli apabila institusi kelihatan aktif menjadi: perlukan satu bar di POI dengan volume sekurang-kurangnya dua kali purata 20 bar sebelumnya.'],
+        ['Sell when liquidity seems weak becomes: short only if price closes back below equal highs within two bars of sweeping them.', 'Jual apabila liquidity kelihatan lemah menjadi: short hanya jika harga ditutup semula di bawah equal highs dalam tempoh dua bar selepas menyapunya.'],
+        ['A good test: two people applying the rule independently to the same chart must mark the same trades. If they cannot, the rule is not yet testable.', 'Ujian yang baik: dua orang yang mengaplikasikan peraturan secara berasingan pada chart yang sama mesti menandakan trade yang sama. Jika tidak, peraturan itu belum boleh diuji.'],
+      ],
+    },
+    {
+      tpl: 'flow', label: 'Rule template', kicker: '13.2 · CONVERTING AN SMC SETUP', h: 'A complete rule set has nine parts', cols: 2, top: 160, sh: 112,
+      steps: [
+        { t: 'Market context', s: 'e.g. active FCPO month; 10:30–12:30 session only', at: 1 },
+        { t: 'Directional bias', s: 'e.g. 4H last BOS bullish', at: 1, c: 'gold' },
+        { t: 'Selected POI', s: 'e.g. 1H bullish FVG in discount of the 4H range', at: 2, c: 'gold' },
+        { t: 'Liquidity condition', s: 'e.g. SSL swept into the POI', at: 2, c: 'cyan' },
+        { t: 'Entry confirmation', s: 'e.g. 15M close above last swing high', at: 3, c: 'green2' },
+        { t: 'Stop-loss', s: 'e.g. 2 ticks below the sweep low', at: 3, c: 'red2' },
+        { t: 'Target', s: 'e.g. nearest 1H BSL, or 2R if none', at: 4, c: 'cyan' },
+        { t: 'Position size', s: 'e.g. 1% risk ÷ (stop ticks × RM25), round down', at: 4 },
+        { t: 'Exit rules', s: 'e.g. close at session end; no moving stop', at: 5 },
+      ],
+      side: { at: 6, x: 120, y: 760, w: 1680, c: 'r', label: 'Note', text: 'Session times shown are an example only — verify current Bursa Malaysia hours. These rules are a template, not a recommended strategy.' },
+      say: [
+        ['Here is how to convert a discretionary S M C setup into a complete rule set, with nine parts.', 'Ini ialah cara menukar setup SMC budi bicara kepada set peraturan lengkap, dengan sembilan bahagian.'],
+        ['Market context, such as the active contract month and a specific session; and directional bias, such as the last four-hour break of structure being bullish.', 'Konteks pasaran, seperti bulan kontrak aktif dan sesi tertentu; dan bias arah, seperti break of structure 4 jam terakhir adalah bullish.'],
+        ['The selected point of interest, such as a one-hour bullish fair value gap in discount; and the liquidity condition, such as sell-side liquidity swept into it.', 'POI yang dipilih, seperti fair value gap bullish 1 jam dalam kawasan discount; dan syarat liquidity, seperti sell-side liquidity disapu ke dalamnya.'],
+        ['Entry confirmation, such as a fifteen-minute close above the last swing high; and a stop-loss, such as two ticks below the sweep low.', 'Pengesahan entry, seperti penutupan 15 minit di atas swing high terakhir; dan stop-loss, seperti dua tick di bawah low sweep.'],
+        ['A target, such as the nearest one-hour buy-side liquidity, and a position size formula.', 'Sasaran, seperti buy-side liquidity 1 jam yang terdekat, dan formula saiz posisi.'],
+        ['And exit rules, such as closing at session end.', 'Dan peraturan exit, seperti menutup posisi pada akhir sesi.'],
+        ['The session times are an example only. Verify current Bursa Malaysia hours. These rules are a template, not a recommended strategy.', 'Waktu sesi hanyalah contoh. Sahkan waktu Bursa Malaysia yang terkini. Peraturan ini ialah templat, bukan strategi yang disyorkan.'],
+      ],
+    },
+    {
+      tpl: 'table', label: 'Historical data', kicker: '13.3 · HISTORICAL DATA PREPARATION', h: 'Bad data produces misleading backtests', cols: ['Item', 'Check'], widths: [460, 1200], hs: 38, top: 140,
+      rows: [
+        [1, 'OHLC & volume', 'Source, time zone, session boundaries, bar timestamp convention (open or close time)'],
+        [2, 'Contract month', 'Single contract or continuous; which month was "active" at each date'],
+        [3, 'Rollover & adjustment', 'Roll rule (date or volume-based); unadjusted vs back-adjusted prices'],
+        [4, 'Missing observations', 'Gaps, holidays, half-days; how missing bars are treated'],
+        [5, 'Aggregation', 'Building 1H from 5M must use the same session template'],
+        [6, 'Quality', 'Spikes, bad ticks, duplicated bars — compare with exchange-reported data'],
+      ],
+      say: [
+        ['Incorrect historical data can produce misleading backtest results, so check six things.', 'Data sejarah yang salah boleh menghasilkan keputusan backtest yang mengelirukan, jadi semak enam perkara.'],
+        ['O H L C and volume: the source, the time zone, session boundaries, and whether bars are time-stamped at their open or close.', 'OHLC dan volume: sumber, zon masa, sempadan sesi, dan sama ada bar dicap masa pada pembukaan atau penutupannya.'],
+        ['The contract month: a single contract or a continuous series, and which month was active at each date.', 'Bulan kontrak: kontrak tunggal atau siri berterusan, dan bulan mana yang aktif pada setiap tarikh.'],
+        ['Rollover and adjustment: the roll rule, and whether prices are unadjusted or back-adjusted.', 'Rollover dan pelarasan: peraturan roll, dan sama ada harga tidak dilaraskan atau dilaraskan ke belakang.'],
+        ['Missing observations such as gaps and holidays, and aggregation: building higher timeframes with the same session template.', 'Pemerhatian yang hilang seperti jurang dan cuti, dan pengagregatan: membina timeframe lebih tinggi dengan templat sesi yang sama.'],
+        ['And quality: spikes, bad ticks or duplicated bars. Compare with exchange-reported data where possible.', 'Dan kualiti: lonjakan, tick yang salah atau bar berganda. Bandingkan dengan data yang dilaporkan oleh bursa jika boleh.'],
+      ],
+    },
+    {
+      tpl: 'split', label: 'Rollover adjustment',
+      a: { type: 'lines', title: 'UNADJUSTED CONTINUOUS · ILLUSTRATIVE', tag: 'ROLL GAP', series: [{ pts: [[0, 40], [20, 50], [40, 44], [50, 52], [50, 70], [70, 76], [100, 82]], c: 'w', at: 0, dur: 2 }], hl: [{ y: 52, x1: 44, x2: 56, c: 'r', at: 1 }, { y: 70, x1: 44, x2: 56, c: 'r', at: 1 }], texts: [{ x: 50, y: 92, text: 'Roll: old month → new month', c: 'a', mono: true, at: 1 }, { x: 64, y: 61, text: '"jump" is not a real price move', c: 'r', at: 1, anchor: 'start' }] },
+      b: { type: 'lines', title: 'BACK-ADJUSTED · ILLUSTRATIVE', tag: 'NO GAP', series: [{ pts: [[0, 58], [20, 68], [40, 62], [50, 70], [70, 76], [100, 82]], c: 'g2', at: 2, dur: 2 }], texts: [{ x: 50, y: 92, text: 'Older prices shifted by the roll difference', c: 'c', mono: true, at: 2 }, { x: 30, y: 40, text: 'Shifted prices were never actually traded', c: 'a', at: 3 }] },
+      calc: [[4, 'Unadjusted: {r}false gaps{/} trigger fake signals · Back-adjusted: {a}historical levels differ from real traded prices{/}']],
+      say: [
+        ['Continuous futures charts deserve special care.', 'Chart futures berterusan memerlukan perhatian khusus.'],
+        ['An unadjusted continuous chart jumps when it switches from the old contract month to the new one. That jump is not a real price move, and can trigger false signals in a backtest.', 'Chart berterusan yang tidak dilaraskan melompat apabila ia bertukar daripada bulan kontrak lama kepada yang baharu. Lompatan itu bukan pergerakan harga sebenar, dan boleh mencetuskan isyarat palsu dalam backtest.'],
+        ['A back-adjusted chart shifts older prices by the roll difference, removing the gap.', 'Chart yang dilaraskan ke belakang mengalihkan harga lama mengikut perbezaan roll, menghapuskan jurang itu.'],
+        ['But those shifted prices were never actually traded, so historical levels no longer match real F C P O prices.', 'Tetapi harga yang dialihkan itu tidak pernah benar-benar didagangkan, jadi paras sejarah tidak lagi sepadan dengan harga FCPO sebenar.'],
+        ['Neither method is perfect. Choose one deliberately, document it, and test rules that depend on exact price levels with care.', 'Tiada kaedah yang sempurna. Pilih satu dengan sengaja, dokumentasikannya, dan uji peraturan yang bergantung pada paras harga tepat dengan berhati-hati.'],
+      ],
+    },
+    {
+      tpl: 'table', label: 'Backtesting methods', kicker: '13.4 · BACKTESTING METHODS', h: 'Five methods, with strengths and limits', cols: ['Method', 'Strength', 'Limitation'], widths: [420, 620, 620], hs: 38,
+      rows: [
+        [1, 'Manual chart backtesting', 'Fast to start; good for learning', 'High hindsight risk; slow; small samples'],
+        [2, 'Bar-by-bar backtesting', 'Hides the future; disciplined', 'Slow; still discretionary'],
+        [3, 'Replay-based testing', 'Realistic pacing; practises execution', 'Platform-dependent; time-consuming'],
+        [4, 'Automated backtesting', 'Large samples; exact and repeatable', 'Rules must be codable; overfitting risk'],
+        [5, 'Forward testing', 'Truly unseen data', 'Slow to accumulate trades'],
+      ],
+      say: [
+        ['There are five main backtesting methods.', 'Terdapat lima kaedah backtesting utama.'],
+        ['Manual chart backtesting is fast to start and good for learning, but it carries high hindsight risk and produces small samples.', 'Manual chart backtesting cepat untuk dimulakan dan baik untuk pembelajaran, tetapi ia membawa risiko hindsight yang tinggi dan menghasilkan sampel kecil.'],
+        ['Bar-by-bar backtesting hides the future and enforces discipline, but it is slow and still discretionary.', 'Bar-by-bar backtesting menyembunyikan masa depan dan menguatkuasakan disiplin, tetapi ia perlahan dan masih bersifat budi bicara.'],
+        ['Replay-based testing gives realistic pacing and practises execution, but depends on the platform.', 'Replay-based testing memberikan rentak yang realistik dan melatih pelaksanaan, tetapi bergantung pada platform.'],
+        ['Automated backtesting tests large samples exactly and repeatably, but rules must be codable, and overfitting risk is high.', 'Automated backtesting menguji sampel besar dengan tepat dan boleh diulang, tetapi peraturan mesti boleh dikodkan, dan risiko overfitting adalah tinggi.'],
+        ['And forward testing uses truly unseen data, but accumulates trades slowly.', 'Dan forward testing menggunakan data yang benar-benar belum dilihat, tetapi mengumpul trade dengan perlahan.'],
+      ],
+    },
+    {
+      tpl: 'cards', label: 'Look-ahead bias', kicker: '13.5 · LOOK-AHEAD BIAS', h: 'Using information that was not available at the time', cols: 3, top: 180, ch: 250,
+      cards: [
+        { n: '01', nc: 'red2', t: 'Chart hindsight', b: 'Seeing the whole chart makes the "right" swing, POI and range obvious.', at: 1 },
+        { n: '02', nc: 'red2', t: 'Using a bar before it closes', b: 'A rule on the close of a bar cannot be executed at that bar\'s open.', at: 2 },
+        { n: '03', nc: 'red2', t: 'Final values', b: 'Final session POC/VA, daily OI or revised data used intraday.', at: 3 },
+        { n: '04', nc: 'red2', t: 'Repainting indicators', b: 'Signals that change or move after later bars arrive.', at: 4 },
+        { n: '05', nc: 'red2', t: 'Unconfirmed swings', b: 'A swing point needs later bars to be confirmed.', at: 4, d: .2 },
+        { n: '06', nc: 'red2', t: 'Selective memory', b: 'Remembering setups that worked; skipping ones that failed.', at: 5 },
+      ],
+      say: [
+        ['Look-ahead bias means using information that was not available at the time a decision would have been made. It is the most common way backtests become unrealistically good.', 'Look-ahead bias bermaksud menggunakan maklumat yang tidak tersedia pada masa keputusan akan dibuat. Ia ialah cara paling biasa backtest menjadi terlalu baik secara tidak realistik.'],
+        ['The first source is chart hindsight. When you see the whole chart, the right swing, point of interest and range look obvious.', 'Sumber pertama ialah hindsight chart. Apabila anda melihat keseluruhan chart, swing, POI dan range yang betul kelihatan jelas.'],
+        ['The second is using a bar before it closes. A rule based on the close cannot be executed at that bar\'s open.', 'Kedua ialah menggunakan bar sebelum ia ditutup. Peraturan berdasarkan penutupan tidak boleh dilaksanakan pada pembukaan bar itu.'],
+        ['The third is using final values, such as the final session P O C, daily Open Interest, or revised data, for intraday decisions.', 'Ketiga ialah menggunakan nilai akhir, seperti POC sesi akhir, Open Interest harian, atau data yang disemak semula, untuk keputusan intraday.'],
+        ['The fourth and fifth are repainting indicators, whose signals change after later bars arrive, and unconfirmed swing points.', 'Keempat dan kelima ialah indikator yang repaint, yang isyaratnya berubah selepas bar kemudian tiba, dan swing point yang belum disahkan.'],
+        ['And the sixth is selective memory: remembering setups that worked and skipping those that failed.', 'Dan keenam ialah ingatan selektif: mengingati setup yang berjaya dan melangkau yang gagal.'],
+      ],
+    },
+    {
+      tpl: 'split', label: 'Biased vs proper test',
+      a: { type: 'candles', title: 'BIASED · WHOLE CHART VISIBLE', tag: 'LOOK-AHEAD', data: LA, volH: 60, slots: 46, reveal: [[0, 43, 1.5]], ann: [{ t: 'tag', i: 24, text: 'OBVIOUS LOW → BUY', c: 'g', pos: 'below', at: 1 }, { t: 'note', x: .5, y: .06, text: 'EVERY ENTRY LOOKS PERFECT', c: 'r', at: 2 }] },
+      b: { type: 'candles', title: 'PROPER · BAR-BY-BAR', tag: 'ONLY KNOWN BARS', data: LA, volH: 60, slots: 46, reveal: [[3, 17, 1], [4, 24, 1.5], [5, 30, 1.5], [6, 43, 1.5]], ann: [{ t: 'tag', i: 17, text: 'LOW? (2 BARS LATER: NOT YET)', c: 'a', pos: 'below', at: 3, o: 4 }, { t: 'tag', i: 24, text: 'NEW LOW — PREVIOUS IDEA FAILED', c: 'r', pos: 'below', at: 4 }, { t: 'note', x: .5, y: .06, text: 'DECISIONS RECORDED BEFORE THE NEXT BAR', c: 'c', at: 6 }] },
+      say: [
+        ['Here is look-ahead bias in action. On the left, the whole chart is visible.', 'Inilah look-ahead bias dalam tindakan. Di sebelah kiri, keseluruhan chart kelihatan.'],
+        ['The low looks obvious, and buying it looks easy.', 'Low itu kelihatan jelas, dan membelinya kelihatan mudah.'],
+        ['With the future visible, every entry looks perfect.', 'Dengan masa depan kelihatan, setiap entry kelihatan sempurna.'],
+        ['On the right, the same data is revealed bar by bar. At this point, a possible low has formed, but it is not yet confirmed.', 'Di sebelah kanan, data yang sama didedahkan bar demi bar. Pada ketika ini, kemungkinan low telah terbentuk, tetapi ia belum disahkan.'],
+        ['Price then makes a new low. A trader who bought the first low would have been stopped out. The hindsight view hid this losing trade.', 'Harga kemudian membuat low baharu. Trader yang membeli low pertama akan terkena stop. Pandangan hindsight menyembunyikan trade rugi ini.'],
+        ['Only now, with more bars, does the real low become identifiable.', 'Hanya sekarang, dengan lebih banyak bar, low sebenar boleh dikenal pasti.'],
+        ['In a proper test, each decision is recorded before the next bar is revealed.', 'Dalam ujian yang betul, setiap keputusan direkodkan sebelum bar seterusnya didedahkan.'],
+      ],
+    },
+    {
+      tpl: 'viz', label: 'Swing confirmation lag',
+      viz: { type: 'candles', title: 'SWING CONFIRMATION · HYPOTHETICAL', tag: 'A SWING NEEDS LATER BARS', bars: FR, slots: 12, range: [4070, 4130], volH: 0, vol: false, reveal: [[0, 3, 1.2], [2, 4, .4], [3, 5, .4], [4, 8, 1]], ann: [{ t: 'tag', i: 3, text: 'LOWEST SO FAR', c: 'a', pos: 'below', at: 1, o: 3 }, { t: 'tag', i: 3, text: 'SWING LOW CONFIRMED AT BAR 6 CLOSE', c: 'g', pos: 'below', at: 3 }, { t: 'vline', i: 5, c: 'g', label: 'KNOWN HERE', at: 3 }] },
+      info: { k: '13.5 · CONFIRMATION LAG', h: 'When is a swing low known?', b: [[1, 'Bar 4 makes the lowest low so far — but it is not yet a swing low', 'a'], [2, 'Rule example: a swing low needs **two higher lows after it**', 'y'], [3, 'Confirmed only at the **close of bar 6**', 'g'], [4, 'A backtest must act no earlier than bar 6 — not at bar 4\'s low', 'r']], note: { at: 5, label: 'SMC impact', text: 'Liquidity levels, BOS and CHoCH all depend on swing points. Each must be timed from the moment the swing was **confirmable**.' } },
+      say: [
+        ['A subtle form of look-ahead bias comes from swing points, which S M C depends on.', 'Satu bentuk look-ahead bias yang halus datang daripada swing point, yang menjadi asas SMC.'],
+        ['Bar four makes the lowest low so far. But at that moment, it is not yet a swing low.', 'Bar empat membuat low terendah setakat ini. Tetapi pada ketika itu, ia belum lagi swing low.'],
+        ['Suppose our rule says a swing low needs two higher lows after it.', 'Andaikan peraturan kita menyatakan swing low memerlukan dua higher low selepasnya.'],
+        ['Then the swing low is confirmed only at the close of bar six.', 'Maka swing low hanya disahkan pada penutupan bar enam.'],
+        ['A backtest must act no earlier than bar six. Acting at bar four\'s low uses future information.', 'Backtest mesti bertindak tidak lebih awal daripada bar enam. Bertindak pada low bar empat menggunakan maklumat masa depan.'],
+        ['Liquidity levels, breaks of structure and changes of character all depend on swing points. Each must be timed from the moment it became confirmable.', 'Paras liquidity, break of structure dan change of character semuanya bergantung pada swing point. Setiap satu mesti dimasakan dari saat ia boleh disahkan.'],
+      ],
+    },
+    {
+      tpl: 'cards', label: 'Preventing bias', kicker: '13.5 · PREVENTION', h: 'How to keep a backtest honest', cols: 2, top: 180, ch: 230,
+      cards: [
+        { n: '01', nc: 'green2', t: 'Bar-by-bar or replay only', b: 'Hide the future. Scroll forward one bar at a time.', at: 1 },
+        { n: '02', nc: 'green2', t: 'Record at signal time', b: 'Log date, time, price, reason and screenshot before revealing the next bar.', at: 2 },
+        { n: '03', nc: 'green2', t: 'Take every valid signal', b: 'Log all signals the rules produce — wins, losses and missed ones.', at: 3 },
+        { n: '04', nc: 'green2', t: 'Avoid repainting tools', b: 'Use only values that existed at that bar\'s close.', at: 4 },
+      ],
+      say: [
+        ['How do you keep a backtest honest? Four habits.', 'Bagaimana memastikan backtest jujur? Empat tabiat.'],
+        ['Use bar-by-bar or replay testing only. Hide the future, and move forward one bar at a time.', 'Gunakan ujian bar-by-bar atau replay sahaja. Sembunyikan masa depan, dan bergerak ke hadapan satu bar pada satu masa.'],
+        ['Record each signal at the time it occurs: date, time, price, reason and a screenshot, before revealing the next bar.', 'Rekodkan setiap isyarat pada masa ia berlaku: tarikh, masa, harga, sebab dan tangkapan skrin, sebelum mendedahkan bar seterusnya.'],
+        ['Take every valid signal the rules produce, including the losers.', 'Ambil setiap isyarat sah yang dihasilkan oleh peraturan, termasuk yang rugi.'],
+        ['And avoid repainting tools. Use only values that existed at that bar\'s close.', 'Dan elakkan alat yang repaint. Gunakan hanya nilai yang wujud pada penutupan bar tersebut.'],
+      ],
+    },
+    {
+      tpl: 'cards', label: 'Exercise 15', kicker: 'EXERCISE 15', h: 'Build a testable trading strategy', cols: 2, top: 180, ch: 380,
+      cards: [
+        { n: 'TASK', t: 'Write all nine parts', b: 'Choose one SMC setup you use. Write context, bias, POI, liquidity condition, confirmation, stop, target, size and exit — each as an observable rule. Then state your data: contract handling, roll method, session template, timeframe.', at: 1 },
+        { n: 'CHECK', nc: 'green2', t: 'The two-person test', b: 'Give your rules and one month of FCPO charts to a classmate. Compare the trades you each mark. Every difference reveals a rule that needs to be more specific.', at: 2 },
+      ],
+      say: [
+        ['Exercise Fifteen: build a testable trading strategy.', 'Latihan 15: bina strategi dagangan yang boleh diuji.'],
+        ['Choose one S M C setup you use, and write all nine parts as observable rules. Then document your data: contract handling, roll method, session template and timeframe.', 'Pilih satu setup SMC yang anda gunakan, dan tulis kesemua sembilan bahagian sebagai peraturan yang boleh diperhatikan. Kemudian dokumentasikan data anda: pengendalian kontrak, kaedah roll, templat sesi dan timeframe.'],
+        ['Then apply the two-person test. Give your rules and one month of charts to a classmate, and compare the trades you each mark. Every difference reveals a rule that needs to be more specific.', 'Kemudian aplikasikan ujian dua orang. Berikan peraturan anda dan satu bulan chart kepada rakan sekelas, dan bandingkan trade yang anda masing-masing tandakan. Setiap perbezaan mendedahkan peraturan yang perlu lebih spesifik.'],
+      ],
+    },
+    {
+      tpl: 'quiz', label: 'Knowledge check', q: 'What is look-ahead bias?',
+      opts: ['Looking at higher timeframes first', 'Using information in a historical decision that was not available at that time', 'Trading in the direction of the trend', 'Using a long look-back period for averages'], ans: 1, ansAt: 1,
+      expl: 'Examples: hindsight swings, final session values used intraday, repainting signals, unconfirmed pivots.',
+      say: [
+        ['Knowledge check. What is look-ahead bias?', 'Semakan pengetahuan. Apakah look-ahead bias?', { p: 1.5 }],
+        ['The answer is B: using information in a historical decision that was not available at that time.', 'Jawapannya ialah B: menggunakan maklumat dalam keputusan sejarah yang tidak tersedia pada masa itu.'],
+      ],
+    },
+    {
+      tpl: 'quiz', label: 'Knowledge check', q: 'What is backtesting?',
+      opts: ['Looking back at a chart to find good trades', 'Applying fixed, clearly defined rules to historical data under stated assumptions to measure performance', 'Trading with real money for a month', 'Checking whether an indicator looks correct'], ans: 1, ansAt: 1,
+      expl: 'Rules first, then data, costs and execution assumptions — and every signal recorded.',
+      say: [
+        ['Second question. What is backtesting?', 'Soalan kedua. Apakah backtesting?', { p: 1.5 }],
+        ['The answer is B: applying fixed, clearly defined rules to historical data, under stated assumptions, to measure performance.', 'Jawapannya ialah B: mengaplikasikan peraturan yang tetap dan jelas kepada data sejarah, di bawah andaian yang dinyatakan, untuk mengukur prestasi.'],
+      ],
+    },
+    {
+      tpl: 'summary', label: 'Summary', h: 'Backtesting foundations — what to remember',
+      items: [[0, 'Backtest = rules + data + costs + execution assumptions'], [1, 'Backtest → forward → paper → live, in order'], [2, 'Rules must pass the two-person test'], [3, 'Nine parts make a complete rule set'], [4, 'Check contract, roll, session and data quality'], [5, 'Continuous charts: gaps or shifted prices'], [6, 'Look-ahead bias inflates results', 'w'], [7, 'Swings are known only when confirmable', 'w']],
+      say: [
+        ['To summarise. A backtest combines rules, data, costs and execution assumptions.', 'Sebagai rumusan. Backtest menggabungkan peraturan, data, kos dan andaian pelaksanaan.'],
+        ['Move from backtest, to forward test, to paper, to live, in order.', 'Bergerak daripada backtest, ke forward test, ke paper, ke live, mengikut urutan.'],
+        ['Rules must pass the two-person test.', 'Peraturan mesti lulus ujian dua orang.'],
+        ['Nine parts make a complete rule set.', 'Sembilan bahagian membentuk set peraturan yang lengkap.'],
+        ['Check the contract, roll, session and data quality.', 'Semak kontrak, roll, sesi dan kualiti data.'],
+        ['Continuous charts contain either gaps or shifted prices.', 'Chart berterusan mengandungi sama ada jurang atau harga yang dialihkan.'],
+        ['Look-ahead bias inflates results.', 'Look-ahead bias membesarkan keputusan.'],
+        ['And swings are known only when they become confirmable.', 'Dan swing hanya diketahui apabila ia boleh disahkan.'],
+      ],
+    },
+    {
+      tpl: 'next', label: 'Next', kicker: 'UP NEXT · SUBTOPIC 6', h: 'Measuring performance',
+      chips: [[0, 'Win rate · average win/loss', ''], [0, 'Profit factor · expectancy', 'With R-multiples'], [0, 'Drawdown · Sharpe', 'Risk and variability']],
+      nk: 'NEXT · VIDEO 14', nt: 'Backtesting Performance Metrics', nAt: 1, ny: 420,
+      say: [
+        ['In Video Fourteen, we calculate and interpret the performance metrics: win rate, average win and loss, risk-to-reward, profit factor, expectancy, maximum drawdown and the Sharpe ratio.', 'Dalam Video 14, kita mengira dan mentafsir metrik prestasi: win rate, purata menang dan rugi, risk-to-reward, profit factor, expectancy, maximum drawdown dan Sharpe ratio.'],
+      ],
+    },
+    {
+      tpl: 'disclaimer', label: 'Disclaimer', text: 'Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Dagangan futures melibatkan risiko kerugian.',
+      small: 'Peraturan, chart dan keluk ekuiti dalam video ini ialah contoh hipotetikal/simulasi, bukan strategi atau prestasi CMI.', foot: 'Seterusnya: Video 14 — Backtesting Performance Metrics',
+      say: [['For educational purposes only. This is not financial advice or a guarantee of profit. Futures trading involves risk of loss.', 'Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan. Dagangan futures melibatkan risiko kerugian.']],
+    },
+  ],
+});
