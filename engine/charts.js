@@ -292,7 +292,8 @@
   function equity(s, W, H) {
     const out = [], pl = 90, pr = 40, pt = 70, pb = 60;
     let eq = [s.start || 0]; s.r.forEach(r => eq.push(eq[eq.length - 1] + r));
-    const mn = Math.min(...eq), mx = Math.max(...eq), lo = mn - (mx - mn) * .12, hi = mx + (mx - mn) * .12;
+    const all = [...eq]; if (s.series2) { let e = s.start || 0; all.push(e); s.series2.r.forEach(r => { e += r; all.push(e); }); }
+    const mn = Math.min(...all), mx = Math.max(...all), lo = mn - (mx - mn) * .12, hi = mx + (mx - mn) * .12;
     const X = i => pl + i / (eq.length - 1) * (W - pl - pr), Y = v => pt + (hi - v) / (hi - lo) * (H - pt - pb);
     if (s.title) out.push(`<text x="22" y="34" fill="#8e9bb4" font-size="14" class="mono" letter-spacing="2">${esc(s.title)}</text>`);
     if (s.tag) out.push(`<text x="${W - 22}" y="34" text-anchor="end" fill="#eef2f8" font-size="14" font-weight="800" letter-spacing="1">${esc(s.tag)}</text>`);
