@@ -96,7 +96,7 @@ Definisi ini dirujuk dalam semua skrip. Jika Level 1–8 menggunakan perkataan b
 ---
 
 ## F. Kawalan salah maklumat (Bahagian 9)
-- Tiada dakwaan "pasti", "dijamin" atau "institusi melakukan…". Narasi menggunakan istilah *potensi*, *kemungkinan* dan *hipotesis*.
+- Tiada dakwaan "pasti", "dijamin" atau "institusi melakukan…". Narasi (EN) dan sari kata (BM) menggunakan istilah *potential / potensi*, *possible / kemungkinan* dan *hypothesis / hipotesis*.
 - Babak 12 EP01 menyatakan secara jelas bahawa corak carta tidak membuktikan identiti, saiz posisi atau niat institusi.
 - Hasil menang dalam contoh EP01 diimbangi dengan laluan alternatif kena SL dan mesej tentang sampel yang besar.
 - Tiada statistik prestasi, win rate atau data sejarah direka.

@@ -27,6 +27,6 @@
 2. **Label bertindih** pada babak pelan dagangan: dibetulkan (tag alat posisi dimatikan; EQH dipudarkan apabila TP muncul; penanda "?" dialihkan ke atas).
 
 ## Had yang diketahui
-- **Suara TTS:** sebutan nombor dan akronim (SMC, POI, FVG, MSS) oleh suara neural ms-MY belum didengar oleh manusia. Disyorkan semakan pendengaran, atau rakaman suara manusia untuk versi akhir.
+- **Suara TTS:** sebutan nombor dan akronim (SMC, POI, FVG, MSS) oleh suara neural English (en-US-ChristopherNeural) belum didengar oleh manusia. Disyorkan semakan pendengaran, atau rakaman suara manusia untuk versi akhir.
 - Waktu dagangan FCPO sengaja tidak disebut dalam EP01 sehingga disahkan (V-06).
 - Nota penuh Level 9 tidak dilampirkan; pemetaan dibuat berdasarkan Master Prompt.

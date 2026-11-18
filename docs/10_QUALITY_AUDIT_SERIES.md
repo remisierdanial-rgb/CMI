@@ -43,6 +43,6 @@ Contoh menang dan kalah dicampur dengan sengaja supaya pelajar tidak menganggap 
 Ditambah contoh tetap: EP01 (4,500 / 4,490 / 4,520, +2R, disemak oleh `tools/check_ep01_chart.js`).
 
 ## 4. Had yang diketahui
-- Suara TTS neural (ms-MY-OsmanNeural) belum disemak pendengaran oleh manusia. Disyorkan semakan sebutan nombor dan akronim, atau rakaman suara manusia menggunakan `STORYBOARD.md`.
+- Suara TTS neural English (en-US-ChristopherNeural) belum disemak pendengaran oleh manusia. Disyorkan semakan sebutan nombor dan akronim, atau rakaman suara manusia menggunakan `STORYBOARD.md`.
 - Bentuk carta contoh berasal daripada satu templat yang disahkan (diskala atau dicerminkan) demi ketepatan. Bentuk visual berulang antara episod; data sejarah sebenar boleh menggantikannya apabila sumber data yang disahkan tersedia.
 - V-05 (tick), V-06 (waktu dagangan) dan V-07 (break-and-retest) masih menunggu pengesahan.

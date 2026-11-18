@@ -1,5 +1,5 @@
 # CMI · Smart Money Concept — Level 9: SMC Trading Strategy
-Siri video motion graphics pendidikan (narasi Bahasa Melayu, istilah trading dalam English), dengan gaya visual dipadankan pada video rujukan *ILMU L1 EP03*.
+Siri video motion graphics pendidikan (**narasi suara English, sari kata Bahasa Melayu**), dengan gaya visual dipadankan pada video rujukan *ILMU L1 EP03*.
 
 ## Status
 | Fasa | Hasil | Fail |
@@ -37,6 +37,7 @@ docs/       dokumen Fasa 1–5
 ```
 
 ## Nota penting
-- Narasi menggunakan suara neural Microsoft (edge-tts, `ms-MY-OsmanNeural`). Teks skrip dihantar ke perkhidmatan TTS tersebut semasa binaan. Untuk produksi akhir, rakam suara manusia menggunakan `STORYBOARD.md` sebagai skrip, letak WAV di `build/narration.wav`, dan laraskan masa cue dalam `timeline.json`.
+- Suara narasi dalam English menggunakan suara neural Microsoft (edge-tts, `en-US-ChristopherNeural`). Teks English bagi setiap cue terdapat dalam `episodes/epNN/en.txt` (dan dijana automatik untuk contoh FCPO oleh `_lib.js`). Teks BM dalam `spec.js` kekal sebagai sari kata di skrin. Teks skrip dihantar ke perkhidmatan TTS tersebut semasa binaan. `node tools/en_todo.js epNN` menyenaraikan cue yang belum mempunyai narasi English.
+- Untuk produksi akhir, suara manusia boleh dirakam menggunakan lajur English dalam `STORYBOARD.md`, diletakkan di `build/narration.wav`, dengan masa cue dilaraskan dalam `timeline.json`.
 - Semua contoh FCPO ialah **ilustrasi hipotetikal**. Sahkan spesifikasi kontrak dengan Bursa Malaysia Derivatives sebelum diterbitkan (lihat V-05 dan V-06).
 - Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan.
