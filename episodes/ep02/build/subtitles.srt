@@ -1,375 +1,375 @@
 1
-00:00:00,750 --> 00:00:07,300
+00:00:00,750 --> 00:00:07,438
 Selamat datang ke Video 2. Kita mula membina subtopik pertama Level 9: Scalping SOP.
 
 2
-00:00:07,380 --> 00:00:14,298
+00:00:07,518 --> 00:00:12,874
 Dalam bahagian pertama ini, kita fokus pada persediaan, iaitu semua kerja yang dilakukan sebelum mencari entry.
 
 3
-00:00:14,378 --> 00:00:20,881
+00:00:12,954 --> 00:00:19,435
 Kita akan definisikan scalping dan ciri-cirinya, termasuk kenapa kekerapan dagangan tidak sama dengan keuntungan.
 
 4
-00:00:20,961 --> 00:00:25,541
+00:00:19,515 --> 00:00:23,720
 Kemudian kita bina rangka timeframe dan senarai semak pra-pasaran sepuluh langkah.
 
 5
-00:00:25,621 --> 00:00:31,513
+00:00:23,800 --> 00:00:29,049
 Akhir sekali, kita petakan struktur pasaran, liquidity dan POI khusus untuk scalping.
 
 6
-00:00:33,793 --> 00:00:41,607
+00:00:31,329 --> 00:00:38,645
 Apakah scalping? Scalping ialah gaya trading jangka pendek dengan tempoh pegangan yang singkat, biasanya dalam lingkungan minit.
 
 7
-00:00:41,687 --> 00:00:48,904
+00:00:38,725 --> 00:00:46,929
 Ciri pertama: tempoh pegangan pendek. Stop-loss dan sasaran juga lebih dekat berbanding gaya trading yang lain.
 
 8
-00:00:48,984 --> 00:00:56,503
+00:00:47,009 --> 00:00:55,124
 Kedua, peluang muncul dengan kerap. Tetapi SOP yang baik tetap selektif, dan hanya mengambil setup yang memenuhi syarat.
 
 9
-00:00:56,583 --> 00:01:02,680
+00:00:55,204 --> 00:01:00,894
 Ketiga, kelajuan analisis dan pelaksanaan penting, kerana pergerakan yang disasarkan adalah kecil.
 
 10
-00:01:02,760 --> 00:01:11,733
+00:01:00,974 --> 00:01:09,392
 Keempat, kos transaksi memberi kesan besar. Apabila sasaran kecil, kos dan slippage mengambil bahagian yang lebih besar daripada ganjaran.
 
 11
-00:01:11,813 --> 00:01:17,689
+00:01:09,472 --> 00:01:14,862
 Kelima, pengurusan risiko mesti ketat, dengan had risiko setiap dagangan dan had kerugian harian.
 
 12
-00:01:17,769 --> 00:01:27,455
+00:01:14,942 --> 00:01:24,341
 Scalping bukan sekadar masuk dan keluar dengan cepat. Ia memerlukan setup, syarat entry, invalidation dan pelan exit yang ditetapkan lebih awal.
 
 13
-00:01:29,235 --> 00:01:34,476
+00:01:26,121 --> 00:01:30,100
 Adakah lebih banyak dagangan bermakna lebih banyak keuntungan? Tidak semestinya.
 
 14
-00:01:34,556 --> 00:01:40,038
+00:01:30,180 --> 00:01:35,602
 Andaikan, secara hipotetikal, kos dan slippage setara dua mata bagi setiap dagangan.
 
 15
-00:01:40,118 --> 00:01:46,488
+00:01:35,682 --> 00:01:41,765
 Pedagang yang membuat 20 dagangan sehari menanggung kos setara 40 mata, sebelum sebarang keuntungan.
 
 16
-00:01:46,568 --> 00:01:51,165
+00:01:41,845 --> 00:01:46,914
 Pedagang yang hanya mengambil tiga setup berkualiti menanggung kos setara enam mata.
 
 17
-00:01:51,245 --> 00:02:00,525
+00:01:46,994 --> 00:01:55,297
 Bagi sasaran 10 mata, kos dua mata ialah 20 peratus daripada ganjaran. Bagi sasaran 40 mata, ia hanya 5 peratus.
 
 18
-00:02:00,605 --> 00:02:07,249
+00:01:55,377 --> 00:02:01,843
 Inilah sebabnya scalping sangat sensitif kepada kos. Kekerapan tidak menggantikan kelebihan strategi.
 
 19
-00:02:09,029 --> 00:02:17,276
+00:02:03,623 --> 00:02:12,075
 Seterusnya, rangka timeframe scalping CMI. Ini rangka ilustrasi untuk FCPO, bukan formula optimum.
 
 20
-00:02:17,356 --> 00:02:23,210
+00:02:12,155 --> 00:02:18,408
 Carta 1H atau 30M memberi konteks: arah, struktur utama dan aras penting.
 
 21
-00:02:23,290 --> 00:02:29,414
+00:02:18,488 --> 00:02:24,066
 Carta 15M digunakan untuk mengenal pasti setup dan lokasi, iaitu liquidity dan POI.
 
 22
-00:02:29,494 --> 00:02:36,058
+00:02:24,146 --> 00:02:30,540
 Carta 5M digunakan untuk menilai pengesahan entry: MSS, displacement dan FVG.
 
 23
-00:02:36,138 --> 00:02:47,456
+00:02:30,620 --> 00:02:39,520
 Carta 1M adalah pilihan sahaja. Ia boleh memperhalusi entry, tetapi mengandungi lebih banyak hingar dan isyarat palsu, dan memerlukan data serta ujian yang sesuai.
 
 24
-00:02:47,536 --> 00:02:55,018
+00:02:39,600 --> 00:02:45,988
 Kombinasi timeframe yang tepat perlu diuji dan disesuaikan. Jangan anggap ia optimum untuk semua orang.
 
 25
-00:02:56,798 --> 00:02:59,632
+00:02:47,768 --> 00:02:50,304
 Lihat bagaimana tiga timeframe ini bersambung.
 
 26
-00:02:59,712 --> 00:03:05,821
+00:02:50,384 --> 00:02:57,190
 Pada 1H, struktur membuat higher high dan higher low. Konteks berpotensi bullish.
 
 27
-00:03:05,901 --> 00:03:12,459
+00:02:57,270 --> 00:03:02,761
 Pada 15M, harga menarik balik ke POI di kawasan discount, berhampiran Sell-Side Liquidity.
 
 28
-00:03:12,539 --> 00:03:18,605
+00:03:02,841 --> 00:03:08,745
 Pada 5M, kita menunggu sweep, MSS dan displacement sebelum mempertimbangkan entry.
 
 29
-00:03:18,685 --> 00:03:24,619
+00:03:08,825 --> 00:03:14,868
 Setiap timeframe menjawab soalan berbeza: ke mana arah, di mana lokasi, dan bila pencetusnya.
 
 30
-00:03:26,399 --> 00:03:34,633
+00:03:16,648 --> 00:03:24,033
 Sekarang, persediaan pra-pasaran. Sepuluh langkah ini dilakukan sebelum sesi bermula, bukan semasa harga sedang bergerak.
 
 31
-00:03:34,713 --> 00:03:42,988
+00:03:24,113 --> 00:03:31,817
 Satu, semak kalendar dagangan FCPO dan sesi dagangan semasa. Dua, ulang kaji pergerakan sesi sebelumnya.
 
 32
-00:03:43,068 --> 00:03:47,335
+00:03:31,897 --> 00:03:35,951
 Tiga dan empat, tandakan Previous Day High dan Previous Day Low.
 
 33
-00:03:47,415 --> 00:03:54,637
+00:03:36,031 --> 00:03:43,226
 Lima, kenal pasti aras Weekly dan Daily yang signifikan. Enam, tandakan liquidity pool yang relevan.
 
 34
-00:03:54,717 --> 00:04:03,879
+00:03:43,306 --> 00:03:52,513
 Tujuh, tetapkan bias awal: bullish, bearish atau neutral. Lapan, kenal pasti POI pada timeframe tinggi dan sederhana.
 
 35
-00:04:03,959 --> 00:04:10,051
+00:03:52,593 --> 00:03:58,219
 Sembilan, semak maklumat pasaran dan peristiwa berjadual, contohnya laporan bulanan MPOB.
 
 36
-00:04:10,131 --> 00:04:17,488
+00:03:58,299 --> 00:04:04,231
 Sepuluh, tetapkan risiko maksimum yang boleh diterima untuk hari ini, dalam ringgit, sebelum membuka sebarang posisi.
 
 37
-00:04:19,268 --> 00:04:21,577
+00:04:06,011 --> 00:04:08,256
 Ini rupa carta yang telah disediakan.
 
 38
-00:04:21,657 --> 00:04:27,466
+00:04:08,336 --> 00:04:14,509
 PDH dan PDL ditanda sebagai sempadan julat semalam, dan juga sebagai potensi liquidity.
 
 39
-00:04:27,546 --> 00:04:32,803
+00:04:14,589 --> 00:04:18,884
 Equal Lows di bawah, dan session high di atas, ditanda sebagai kumpulan liquidity.
 
 40
-00:04:32,883 --> 00:04:38,426
+00:04:18,964 --> 00:04:25,631
 Satu POI dipilih. Bias awal ditulis bersama syarat yang membatalkannya.
 
 41
-00:04:38,506 --> 00:04:44,716
+00:04:25,711 --> 00:04:31,556
 Carta yang baik tidak sesak. Tandakan hanya aras yang benar-benar akan digunakan dalam keputusan.
 
 42
-00:04:46,496 --> 00:04:53,921
+00:04:33,336 --> 00:04:39,251
 Seterusnya, struktur pasaran untuk scalping. Istilah ini sama seperti yang digunakan dalam Level sebelumnya.
 
 43
-00:04:54,001 --> 00:05:00,959
+00:04:39,331 --> 00:04:46,066
 Higher high dan higher low menunjukkan struktur bullish. Lower high dan lower low menunjukkan struktur bearish.
 
 44
-00:05:01,039 --> 00:05:08,474
+00:04:46,146 --> 00:04:53,820
 BOS ialah penutupan melepasi swing searah trend. CHoCH ialah pecahan pertama berlawanan arah trend.
 
 45
-00:05:08,554 --> 00:05:15,033
+00:04:53,900 --> 00:04:59,717
 MSS ialah anjakan struktur yang disertai displacement, biasanya selepas interaksi liquidity.
 
 46
-00:05:15,113 --> 00:05:21,424
+00:04:59,797 --> 00:05:06,055
 Struktur external menentukan julat utama. Struktur internal ialah swing kecil di dalamnya.
 
 47
-00:05:21,504 --> 00:05:32,498
+00:05:06,135 --> 00:05:16,438
 Displacement ialah pergerakan arah yang kuat, dengan badan candle besar dan julat mengembang. Pada scalping, ia membantu membezakan perubahan arah jangka pendek daripada hingar.
 
 48
-00:05:34,278 --> 00:05:39,557
+00:05:18,218 --> 00:05:22,706
 Kesilapan biasa pedagang scalping ialah menganggap setiap pecahan kecil sebagai perubahan arah.
 
 49
-00:05:39,637 --> 00:05:46,591
+00:05:22,786 --> 00:05:30,526
 Di kiri, 1H masih bullish. Pecahan internal kecil pada 5M hanyalah pullback di dalam trend.
 
 50
-00:05:46,671 --> 00:05:54,532
+00:05:30,606 --> 00:05:38,052
 Di kanan, harga menyapu low external, kemudian memecah struktur dengan displacement. Ini anjakan yang lebih bermakna.
 
 51
-00:05:54,612 --> 00:06:02,187
+00:05:38,132 --> 00:05:44,075
 Sebelum bertindak, tanya: adakah pecahan ini internal dan kecil, atau adakah ia mengubah konteks yang lebih besar?
 
 52
-00:06:03,967 --> 00:06:07,005
+00:05:45,855 --> 00:05:48,399
 Seterusnya, pemetaan liquidity untuk scalping.
 
 53
-00:06:07,085 --> 00:06:13,085
+00:05:48,479 --> 00:05:54,219
 Buy-Side Liquidity berada di atas high. Sell-Side Liquidity berada di bawah low.
 
 54
-00:06:13,165 --> 00:06:19,829
+00:05:54,299 --> 00:06:00,060
 Equal Highs dan Equal Lows ialah high atau low yang hampir sama, yang menjadi potensi kumpulan liquidity.
 
 55
-00:06:19,909 --> 00:06:27,248
+00:06:00,140 --> 00:06:06,506
 Session high, session low, PDH dan PDL ialah rujukan harian yang kerap digunakan oleh pedagang scalping.
 
 56
-00:06:27,328 --> 00:06:33,612
+00:06:06,586 --> 00:06:13,008
 Liquidity internal berada di dalam julat. Liquidity external berada di luar swing utama.
 
 57
-00:06:33,692 --> 00:06:39,385
+00:06:13,088 --> 00:06:18,445
 Liquidity sweep berlaku apabila harga melepasi aras, kemudian ditutup semula di dalam julat.
 
 58
-00:06:41,165 --> 00:06:43,131
+00:06:20,225 --> 00:06:22,389
 Bezakan sweep dengan breakout.
 
 59
-00:06:43,211 --> 00:06:50,741
+00:06:22,469 --> 00:06:29,950
 Sweep: harga melepasi Equal Lows, tetapi ditutup semula di atas. Ini kemungkinan pengambilan liquidity.
 
 60
-00:06:50,821 --> 00:06:56,941
+00:06:30,030 --> 00:06:36,381
 Breakout: harga ditutup dan diterima di bawah aras. Struktur bearish berterusan.
 
 61
-00:06:57,021 --> 00:07:04,525
+00:06:36,461 --> 00:06:44,223
 Tidak semua liquidity akan diambil, dan tidak semua sweep membawa reversal. Sweep hanyalah satu bahagian bukti.
 
 62
-00:07:06,305 --> 00:07:10,701
+00:06:46,003 --> 00:06:50,256
 Seterusnya, pemilihan POI mengikut definisi operasi CMI.
 
 63
-00:07:10,781 --> 00:07:15,860
+00:06:50,336 --> 00:06:54,922
 Order Block ialah candle bertentangan terakhir sebelum displacement yang memecah struktur.
 
 64
-00:07:15,940 --> 00:07:26,182
+00:06:55,002 --> 00:07:03,513
 Fair Value Gap ialah ketidakseimbangan tiga candle. Breaker Block ialah Order Block yang gagal, kemudian berfungsi dari arah bertentangan selepas sweep.
 
 65
-00:07:26,262 --> 00:07:34,960
+00:07:03,593 --> 00:07:12,367
 Mitigation Block serupa, tetapi tanpa sweep high atau low terdahulu. Rejection Block ialah kawasan wick panjang pada swing ekstrem.
 
 66
-00:07:35,040 --> 00:07:38,452
+00:07:12,447 --> 00:07:16,382
 Supply dan Demand ialah zon asal pergerakan yang kuat.
 
 67
-00:07:38,532 --> 00:07:48,395
+00:07:16,462 --> 00:07:24,973
 Untuk scalping, pilih paling banyak dua atau tiga POI yang selari dengan konteks. Terlalu banyak zon menjadikan setiap harga kelihatan seperti peluang.
 
 68
-00:07:50,175 --> 00:07:53,461
+00:07:26,753 --> 00:07:30,034
 Ingat, harga menyentuh POI bukan pengesahan.
 
 69
-00:07:53,541 --> 00:08:00,000
+00:07:30,114 --> 00:07:35,654
 Dalam contoh ini, harga memasuki POI bullish, kemudian terus menembusinya tanpa sebarang reaksi.
 
 70
-00:08:00,080 --> 00:08:04,341
+00:07:35,734 --> 00:07:39,616
 Pedagang yang membeli hanya kerana harga menyentuh zon akan terkena stop-loss.
 
 71
-00:08:04,421 --> 00:08:09,911
+00:07:39,696 --> 00:07:43,812
 Itulah sebabnya kita memerlukan pengesahan entry, yang akan dibincangkan dalam Video 3.
 
 72
-00:08:11,691 --> 00:08:14,074
+00:07:45,592 --> 00:07:47,765
 Empat kesilapan persediaan yang biasa.
 
 73
-00:08:14,154 --> 00:08:17,792
+00:07:47,845 --> 00:07:51,464
 Satu: tiada had risiko harian sebelum sesi bermula.
 
 74
-00:08:17,872 --> 00:08:22,253
+00:07:51,544 --> 00:07:55,230
 Dua: terlalu banyak garisan dan zon sehingga carta tidak boleh dibaca.
 
 75
-00:08:22,333 --> 00:08:25,397
+00:07:55,310 --> 00:07:58,570
 Tiga: menukar bias pada setiap candle kecil.
 
 76
-00:08:25,477 --> 00:08:30,334
+00:07:58,650 --> 00:08:02,989
 Empat: mengabaikan jadual peristiwa yang boleh menyebabkan volatiliti luar biasa.
 
 77
-00:08:32,114 --> 00:08:36,632
+00:08:04,769 --> 00:08:09,064
 Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.
 
 78
-00:08:36,712 --> 00:08:41,945
+00:08:09,144 --> 00:08:14,061
 Soalan satu: apakah beza utama antara scalping, intraday dan swing trading?
 
 79
-00:08:42,025 --> 00:08:51,404
+00:08:14,141 --> 00:08:23,507
 Jawapan: tempoh pegangan dan rangka timeframe. Ia membawa kepada stop-loss, sasaran, saiz posisi dan pendedahan overnight yang berbeza.
 
 80
-00:08:51,484 --> 00:08:55,659
+00:08:23,587 --> 00:08:28,180
 Soalan dua: kenapa konteks timeframe tinggi penting sebelum scalping?
 
 81
-00:08:55,739 --> 00:09:03,016
+00:08:28,260 --> 00:08:35,092
 Jawapan: ia memberi arah dan lokasi, supaya pecahan kecil pada 5M tidak disalah anggap sebagai perubahan trend.
 
 82
-00:09:03,096 --> 00:09:06,990
+00:08:35,172 --> 00:08:38,827
 Soalan tiga: adakah carta 1M wajib untuk scalping?
 
 83
-00:09:07,070 --> 00:09:14,150
+00:08:38,907 --> 00:08:45,401
 Jawapan: tidak. Ia pilihan, lebih bising, dan hanya digunakan dengan data dan ujian yang sesuai.
 
 84
-00:09:16,330 --> 00:09:17,291
+00:08:47,581 --> 00:08:48,792
 Ringkasnya.
 
 85
-00:09:17,371 --> 00:09:23,880
+00:08:48,872 --> 00:08:55,183
 Scalping ialah pegangan pendek, selektif, sensitif kepada kos, dan mempunyai had risiko yang ketat.
 
 86
-00:09:23,960 --> 00:09:31,147
+00:08:55,263 --> 00:09:02,757
 Konteks 1H atau 30M, lokasi 15M, pencetus 5M, dan 1M sebagai pilihan.
 
 87
-00:09:31,227 --> 00:09:35,976
+00:09:02,837 --> 00:09:07,438
 Sepuluh langkah persediaan pra-pasaran, termasuk had risiko harian dalam ringgit.
 
 88
-00:09:36,056 --> 00:09:43,210
+00:09:07,518 --> 00:09:14,053
 Petakan struktur, liquidity, dan dua atau tiga POI. Sentuhan pada POI bukan pengesahan.
 
 89
-00:09:44,990 --> 00:09:46,808
+00:09:15,833 --> 00:09:18,035
 Latihan untuk video ini.
 
 90
-00:09:46,888 --> 00:09:58,501
+00:09:18,115 --> 00:09:29,515
 Sediakan satu carta FCPO 15M. Tandakan PDH, PDL, satu aras Weekly atau Daily, Equal Highs atau Equal Lows, dan session high serta low.
 
 91
-00:09:58,581 --> 00:10:09,440
+00:09:29,595 --> 00:09:38,452
 Kemudian tulis lembaran persediaan: bias dan syarat pembatalan, dua atau tiga POI, peristiwa berjadual, risiko maksimum hari ini dan bilangan dagangan maksimum.
 
 92
-00:10:11,220 --> 00:10:21,102
+00:09:40,232 --> 00:09:49,927
 Dalam Video 3, kita lengkapkan Scalping SOP: prosedur entry lima belas langkah, contoh bullish dan bearish, pengurusan dagangan, dan keadaan tidak trade.
 
 93
-00:10:23,682 --> 00:10:26,644
+00:09:52,507 --> 00:09:55,411
 Rujukan untuk video ini dipaparkan di skrin.
 
 94
-00:10:30,424 --> 00:10:35,409
+00:09:59,191 --> 00:10:04,178
 Trading futures melibatkan risiko kerugian. Jumpa dalam Video 3.

@@ -1,0 +1,91 @@
+# EP02 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 2. We start building the first subtopic of Level 9: the Scalping SOP.
+S01.2 | In this first part, we focus on preparation, all the work done before looking for an entry.
+S01.3 | We will define scalping and its characteristics, including why trading frequency is not the same as profitability.
+S01.4 | Then we build the timeframe framework and a ten-step pre-market checklist.
+S01.5 | Finally, we map market structure, liquidity and POIs specifically for scalping.
+S02.1 | What is scalping? Scalping is a short-term trading style with a brief holding period, usually measured in minutes.
+S02.2 | The first characteristic: a short holding period. Stop-losses and targets are also closer than in other trading styles.
+S02.3 | Second, opportunities appear frequently. But a good SOP stays selective, and only takes setups that meet its conditions.
+S02.4 | Third, speed of analysis and execution matters, because the moves being targeted are small.
+S02.5 | Fourth, transaction costs have a large impact. When the target is small, costs and slippage take a bigger share of the reward.
+S02.6 | Fifth, risk management must be strict, with a risk limit per trade and a daily loss limit.
+S02.7 | Scalping is not simply getting in and out quickly. It needs a setup, an entry condition, an invalidation and an exit plan defined in advance.
+S03.1 | Do more trades mean more profit? Not necessarily.
+S03.2 | Assume, hypothetically, that costs and slippage are equivalent to two points per trade.
+S03.3 | A trader taking 20 trades a day pays costs equivalent to 40 points, before making any profit.
+S03.4 | A trader who only takes three quality setups pays costs equivalent to six points.
+S03.5 | For a 10-point target, a two-point cost is 20 percent of the reward. For a 40-point target, it is only 5 percent.
+S03.6 | That is why scalping is so sensitive to costs. Frequency does not replace a strategy's edge.
+S04.1 | Next, the CMI scalping timeframe framework. This is an illustrative framework for FCPO, not an optimal formula.
+S04.2 | The 1H or 30M chart provides context: direction, major structure and key levels.
+S04.3 | The 15M chart is used to identify the setup and the location: liquidity and POIs.
+S04.4 | The 5M chart is used to evaluate entry confirmation: MSS, displacement and FVG.
+S04.5 | The 1M chart is optional. It can refine the entry, but it contains more noise and false signals, and needs suitable data and testing.
+S04.6 | The right timeframe combination must be tested and adapted. Don't assume it is optimal for everyone.
+S05.1 | See how these three timeframes connect.
+S05.2 | On the 1H, structure makes higher highs and higher lows. The context is potentially bullish.
+S05.3 | On the 15M, price pulls back into a POI in discount, near Sell-Side Liquidity.
+S05.4 | On the 5M, we wait for a sweep, an MSS and displacement before considering an entry.
+S05.5 | Each timeframe answers a different question: where is direction, where is the location, and when is the trigger.
+S06.1 | Now, pre-market preparation. These ten steps are done before the session starts, not while price is moving.
+S06.2 | One, check the FCPO trading calendar and the current session. Two, review how the previous session moved.
+S06.3 | Three and four, mark the Previous Day High and the Previous Day Low.
+S06.4 | Five, identify significant Weekly and Daily levels. Six, mark the relevant liquidity pools.
+S06.5 | Seven, set a preliminary bias: bullish, bearish or neutral. Eight, identify POIs on the higher and medium timeframes.
+S06.6 | Nine, check market information and scheduled events, for example the monthly MPOB report.
+S06.7 | Ten, define the maximum acceptable risk for today, in ringgit, before opening any position.
+S07.1 | This is what a prepared chart looks like.
+S07.2 | PDH and PDL are marked as the boundaries of yesterday's range, and also as potential liquidity.
+S07.3 | Equal Lows below and the session high above are marked as liquidity pools.
+S07.4 | One POI is selected. The preliminary bias is written down together with the condition that would invalidate it.
+S07.5 | A good chart is not crowded. Mark only the levels you will actually use in your decisions.
+S08.1 | Next, market structure for scalping. These terms are the same as in the previous levels.
+S08.2 | Higher highs and higher lows show bullish structure. Lower highs and lower lows show bearish structure.
+S08.3 | A BOS is a close beyond a swing in the direction of the trend. A CHoCH is the first break against the trend.
+S08.4 | An MSS is a structure shift accompanied by displacement, usually after a liquidity interaction.
+S08.5 | External structure defines the main range. Internal structure is the smaller swings inside it.
+S08.6 | Displacement is a strong directional move, with large candle bodies and range expansion. In scalping, it helps separate a short-term change of direction from noise.
+S09.1 | A common scalping mistake is treating every small break as a change of direction.
+S09.2 | On the left, the 1H is still bullish. A small internal break on the 5M is just a pullback within the trend.
+S09.3 | On the right, price sweeps an external low, then breaks structure with displacement. This is a more meaningful shift.
+S09.4 | Before acting, ask: is this break internal and minor, or does it change the bigger context?
+S10.1 | Next, liquidity mapping for scalping.
+S10.2 | Buy-Side Liquidity sits above highs. Sell-Side Liquidity sits below lows.
+S10.3 | Equal Highs and Equal Lows are nearly identical highs or lows that form potential liquidity pools.
+S10.4 | The session high, session low, PDH and PDL are daily references that scalpers use often.
+S10.5 | Internal liquidity sits inside the range. External liquidity sits beyond the major swings.
+S10.6 | A liquidity sweep happens when price trades through a level and then closes back inside the range.
+S11.1 | Distinguish a sweep from a breakout.
+S11.2 | A sweep: price trades through the Equal Lows, but closes back above them. This is a possible liquidity grab.
+S11.3 | A breakout: price closes and is accepted below the level. Bearish structure continues.
+S11.4 | Not every liquidity level gets taken, and not every sweep leads to a reversal. A sweep is only one piece of evidence.
+S12.1 | Next, POI selection using the CMI operational definitions.
+S12.2 | An Order Block is the last opposing candle before a displacement that breaks structure.
+S12.3 | A Fair Value Gap is a three-candle imbalance. A Breaker Block is a failed Order Block that then works from the opposite side after a sweep.
+S12.4 | A Mitigation Block is similar, but without a sweep of the prior high or low. A Rejection Block is a long-wick area at a swing extreme.
+S12.5 | Supply and Demand zones are the origin zones of strong moves.
+S12.6 | For scalping, select at most two or three POIs that align with the context. Too many zones make every price look like an opportunity.
+S13.1 | Remember, price touching a POI is not confirmation.
+S13.2 | In this example, price enters a bullish POI, then breaks straight through it without any reaction.
+S13.3 | A trader who buys just because price touched the zone gets stopped out.
+S13.4 | That is why we need entry confirmation, which we cover in Video 3.
+S14.1 | Four common preparation mistakes.
+S14.2 | One: no daily risk limit before the session starts.
+S14.3 | Two: so many lines and zones that the chart can't be read.
+S14.4 | Three: changing the bias on every small candle.
+S14.5 | Four: ignoring the schedule of events that can cause unusual volatility.
+S15.2 | Question one: what is the main difference between scalping, intraday and swing trading?
+S15.3 | Answer: the holding period and the timeframe framework. These lead to different stop-losses, targets, position sizes and overnight exposure.
+S15.4 | Question two: why is higher-timeframe context important before scalping?
+S15.5 | Answer: it provides direction and location, so a minor break on the 5M is not mistaken for a trend change.
+S15.6 | Question three: is the 1M chart required for scalping?
+S15.7 | Answer: no. It is optional, noisier, and only used with suitable data and testing.
+S16.2 | Scalping means short holding periods, selectivity, sensitivity to costs and strict risk limits.
+S16.3 | Context on the 1H or 30M, location on the 15M, the trigger on the 5M, and the 1M as an option.
+S16.4 | Ten pre-market preparation steps, including a daily risk limit in ringgit.
+S16.5 | Map structure, liquidity, and two or three POIs. Touching a POI is not confirmation.
+S17.2 | Prepare one FCPO 15M chart. Mark PDH, PDL, one Weekly or Daily level, Equal Highs or Equal Lows, and the session high and low.
+S17.3 | Then write a prep sheet: bias and invalidation, two or three POIs, scheduled events, today's maximum risk and the maximum number of trades.
+S18.1 | In Video 3, we complete the Scalping SOP: the fifteen-step entry procedure, bullish and bearish examples, trade management, and no-trade conditions.
+S20.1 | Trading futures involves the risk of loss. See you in Video 3.

@@ -9,7 +9,7 @@ try:
 except Exception: pass
 import edge_tts
 
-ap = argparse.ArgumentParser(); ap.add_argument('ep'); ap.add_argument('--voice', default='ms-MY-OsmanNeural'); ap.add_argument('--rate', default='+4%')
+ap = argparse.ArgumentParser(); ap.add_argument('ep'); ap.add_argument('--voice', default='en-US-ChristopherNeural'); ap.add_argument('--rate', default='+0%'); ap.add_argument('--lang', default='en')
 A = ap.parse_args()
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EP = os.path.abspath(A.ep); B = os.path.join(EP, 'build'); CACHE = os.path.join(ROOT, '.tts-cache'); os.makedirs(B, exist_ok=True); os.makedirs(CACHE, exist_ok=True)
@@ -18,7 +18,11 @@ GAP, SCENE_IN, SCENE_OUT = 0.38, 0.75, 0.95
 
 def say_text(s):
     s = re.sub(r'RM\s?(\d[\d,]*)', r'\1 ringgit', s)
-    s = re.sub(r'\b(\d+)H\b', r'\1 jam', s); s = re.sub(r'\b(\d+)M\b', r'\1 minit', s)
+    if A.lang == 'ms':
+        s = re.sub(r'\b(\d+)H\b', r'\1 jam', s); s = re.sub(r'\b(\d+)M\b', r'\1 minit', s)
+    else:
+        s = re.sub(r'\b(\d+)H\b', r'\1-hour', s); s = re.sub(r'\b(\d+)M\b', r'\1-minute', s)
+        s = re.sub(r'(\d)R\b', r'\1 R', s)
     s = s.replace('HTF', 'H T F').replace('LTF', 'L T F').replace('CHoCH', 'change of character')
     return s
 
@@ -36,6 +40,19 @@ def wav_of(text):
     with wave.open(wv) as w: return w.readframes(w.getnframes())
 
 scenes = json.loads(subprocess.check_output(['node', os.path.join(ROOT, 'tools/cues.js'), os.path.join(EP, 'spec.js')]))
+EN = {}
+if A.lang == 'en':
+    f = os.path.join(EP, 'en.txt')
+    if os.path.exists(f):
+        for line in open(f, encoding='utf8'):
+            m = re.match(r'^(S\d\d\.\d+)\s*\|\s*(.+?)\s*$', line)
+            if m: EN[m.group(1)] = m.group(2)
+    missing = []
+    for i, sc in enumerate(scenes):
+        for k, c in enumerate(sc['cues']):
+            key = f'S{i+1:02d}.{k+1}'; c['say'] = c.get('en') or EN.get(key)
+            if not c['say']: missing.append(key)
+    if missing: sys.exit('Missing English narration for: ' + ', '.join(missing))
 pcm = array.array('h'); t = 0.0; tl = []
 def silence(sec):
     global t; n = int(round(sec * SR)); pcm.extend([0] * n); t += n / SR

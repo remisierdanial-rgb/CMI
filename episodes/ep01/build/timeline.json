@@ -5,574 +5,574 @@
    "cues": [
     {
      "start": 0.75,
-     "end": 4.287,
+     "end": 3.943,
      "text": "Selamat datang ke Level 9: SMC Trading Strategy."
     },
     {
-     "start": 4.667,
-     "end": 14.646,
+     "start": 4.323,
+     "end": 12.794,
      "text": "Dalam Level 1 hingga Level 8, kita telah membina asas: market structure, liquidity, POI, Fair Value Gap, serta Premium dan Discount."
     },
     {
-     "start": 15.026,
-     "end": 22.287,
+     "start": 13.174,
+     "end": 19.831,
      "text": "Level 9 menjawab satu soalan penting: bagaimana semua konsep ini disusun menjadi strategi trading dengan peraturan yang jelas?"
     },
     {
-     "start": 22.667,
-     "end": 25.659,
+     "start": 20.211,
+     "end": 22.677,
      "text": "Dalam video ini, kita akan lihat empat perkara."
     },
     {
-     "start": 26.039,
-     "end": 29.402,
+     "start": 23.057,
+     "end": 27.159,
      "text": "Pertama, beza antara konsep, setup dan trading plan."
     },
     {
-     "start": 29.782,
-     "end": 33.646,
+     "start": 27.539,
+     "end": 31.637,
      "text": "Kedua, tiga gaya trading yang setiap satunya memerlukan SOP sendiri."
     },
     {
-     "start": 34.026,
-     "end": 39.059,
+     "start": 32.017,
+     "end": 36.678,
      "text": "Ketiga, aliran kerja trading CMI, daripada konteks pasaran hingga jurnal."
     },
     {
-     "start": 39.439,
-     "end": 45.59,
+     "start": 37.058,
+     "end": 42.447,
      "text": "Dan keempat, satu contoh FCPO yang dibina langkah demi langkah, tanpa melihat candle masa depan."
     }
    ],
-   "end": 47.42
+   "end": 44.277
   },
   {
-   "start": 47.42,
+   "start": 44.277,
    "cues": [
     {
-     "start": 48.17,
-     "end": 56.282,
+     "start": 45.027,
+     "end": 52.523,
      "text": "Ramai pelajar boleh mengenal pasti Order Block atau FVG pada carta. Tetapi mengenal pasti setup belum lagi satu strategi."
     },
     {
-     "start": 56.662,
-     "end": 62.651,
+     "start": 52.903,
+     "end": 59.505,
      "text": "Konsep ialah alat analisis. Contohnya liquidity sweep, atau market structure shift."
     },
     {
-     "start": 63.031,
-     "end": 68.498,
+     "start": 59.885,
+     "end": 65.932,
      "text": "Setup ialah gabungan beberapa konsep pada satu lokasi tertentu, yang membentuk hipotesis trading."
     },
     {
-     "start": 68.878,
-     "end": 76.967,
+     "start": 66.312,
+     "end": 74.745,
      "text": "Trading plan pula menetapkan peraturan: bila masuk, di mana stop-loss, apa sasaran, berapa risiko, dan bila tidak trade langsung."
     },
     {
-     "start": 77.347,
-     "end": 85.964,
+     "start": 75.125,
+     "end": 83.164,
      "text": "SOP, atau Standard Operating Procedure, ialah trading plan yang ditulis sebagai langkah berturutan, supaya boleh diulang, direkod dan dinilai."
     },
     {
-     "start": 86.344,
-     "end": 91.633,
+     "start": 83.544,
+     "end": 88.49,
      "text": "Matlamat Level 9 bukan sekadar mencari setup, tetapi membina SOP yang boleh diuji."
     }
    ],
-   "end": 92.963
+   "end": 89.82
   },
   {
-   "start": 92.963,
+   "start": 89.82,
    "cues": [
     {
-     "start": 93.713,
-     "end": 98.11,
+     "start": 90.57,
+     "end": 94.755,
      "text": "Level 9 mengandungi enam subtopik, dan susunan asalnya dikekalkan."
     },
     {
-     "start": 98.49,
-     "end": 104.604,
+     "start": 95.135,
+     "end": 101.811,
      "text": "Satu, Scalping SOP. Dua, Intraday SOP. Tiga, Swing Trading SOP."
     },
     {
-     "start": 104.984,
-     "end": 113.072,
+     "start": 102.191,
+     "end": 110.552,
      "text": "Tiga subtopik pertama dipisahkan kerana setiap gaya mempunyai timeframe, tempoh pegangan, saiz stop-loss dan pengurusan posisi yang berbeza."
     },
     {
-     "start": 113.452,
-     "end": 120.596,
+     "start": 110.932,
+     "end": 118.528,
      "text": "Empat, Entry Confirmation. Lima, Stop Loss dan Take Profit. Enam, Risk-to-Reward."
     },
     {
-     "start": 120.976,
-     "end": 127.566,
+     "start": 118.908,
+     "end": 124.749,
      "text": "Tiga subtopik terakhir ialah komponen yang digunakan dalam setiap SOP, tetapi parameternya berubah mengikut gaya trading."
     }
    ],
-   "end": 128.896
+   "end": 126.079
   },
   {
-   "start": 128.896,
+   "start": 126.079,
    "cues": [
     {
-     "start": 129.646,
-     "end": 132.497,
+     "start": 126.829,
+     "end": 128.914,
      "text": "Mari kita bandingkan tiga gaya ini secara ringkas."
     },
     {
-     "start": 132.877,
-     "end": 142.557,
+     "start": 129.294,
+     "end": 138.841,
      "text": "Scalping mensasarkan pergerakan harga yang pendek. Konteks daripada 1H atau 30M, setup pada 15M, dan pengesahan pada 5M."
     },
     {
-     "start": 142.937,
-     "end": 152.081,
+     "start": 139.221,
+     "end": 148.7,
      "text": "Intraday memegang posisi dalam hari dagangan yang sama. Konteks daripada Daily dan 4H, struktur dan setup pada 1H atau 30M."
     },
     {
-     "start": 152.461,
-     "end": 158.171,
+     "start": 149.08,
+     "end": 154.61,
      "text": "Swing trading memegang posisi merentasi beberapa sesi atau hari, dengan konteks Weekly dan Daily."
     },
     {
-     "start": 158.551,
-     "end": 169.958,
+     "start": 154.99,
+     "end": 166.156,
      "text": "Pertimbangan utama juga berbeza. Scalping sangat sensitif kepada kos dan pelaksanaan, intraday kepada struktur sesi, dan swing kepada konteks HTF serta risiko overnight."
     },
     {
-     "start": 170.338,
-     "end": 178.269,
+     "start": 166.536,
+     "end": 174.086,
      "text": "Ini ialah rangka kerja pengajaran CMI, bukan standard industri sejagat. Setiap kombinasi timeframe perlu diuji."
     },
     {
-     "start": 178.649,
-     "end": 185.914,
+     "start": 174.466,
+     "end": 181.208,
      "text": "Tiada satu gaya yang secara semula jadi lebih menguntungkan. Yang penting ialah SOP yang konsisten dengan gaya yang dipilih."
     }
    ],
-   "end": 187.244
+   "end": 182.538
   },
   {
-   "start": 187.244,
+   "start": 182.538,
    "cues": [
     {
-     "start": 187.994,
-     "end": 192.846,
+     "start": 183.288,
+     "end": 187.966,
      "text": "Kenapa satu SOP tidak boleh digunakan untuk semua gaya? Lihat stop-loss."
     },
     {
-     "start": 193.226,
-     "end": 201.806,
+     "start": 188.346,
+     "end": 196.557,
      "text": "Dalam contoh hipotetikal ini, invalidation struktur bagi setup scalping mungkin sekitar 10 mata, iaitu 250 ringgit setiap kontrak."
     },
     {
-     "start": 202.186,
-     "end": 216.443,
+     "start": 196.937,
+     "end": 210.235,
      "text": "Bagi intraday, struktur yang relevan lebih besar, contohnya 18 mata, atau 450 ringgit. Bagi swing, invalidation pada Daily atau 4H mungkin 80 mata, atau 2,000 ringgit setiap kontrak."
     },
     {
-     "start": 216.823,
-     "end": 224.946,
+     "start": 210.615,
+     "end": 217.805,
      "text": "Jika stop-loss scalping digunakan untuk posisi swing, stop itu berada di dalam pergerakan biasa harga, bukan pada invalidation sebenar."
     },
     {
-     "start": 225.326,
-     "end": 232.079,
+     "start": 218.185,
+     "end": 225.124,
      "text": "Sebaliknya, jika stop swing digunakan pada setup scalping, risiko menjadi terlalu besar berbanding sasaran yang dekat."
     },
     {
-     "start": 232.459,
-     "end": 241.096,
+     "start": 225.504,
+     "end": 233.316,
      "text": "Oleh itu, setiap gaya memerlukan SOP sendiri: timeframe, stop-loss, sasaran, saiz posisi, dan cara memantau dagangan."
     }
    ],
-   "end": 242.426
+   "end": 234.646
   },
   {
-   "start": 242.426,
+   "start": 234.646,
    "cues": [
     {
-     "start": 243.176,
-     "end": 248.461,
+     "start": 235.396,
+     "end": 239.488,
      "text": "Inilah aliran kerja trading CMI, yang akan menjadi tulang belakang Level 9."
     },
     {
-     "start": 248.841,
-     "end": 251.952,
+     "start": 239.868,
+     "end": 243.158,
      "text": "Bermula dengan konteks pasaran dan bias timeframe tinggi."
     },
     {
-     "start": 252.332,
-     "end": 257.703,
+     "start": 243.538,
+     "end": 249.149,
      "text": "Kemudian pilih gaya trading. Pilihan ini menentukan timeframe dan tempoh pegangan."
     },
     {
-     "start": 258.083,
-     "end": 263.497,
+     "start": 249.529,
+     "end": 253.755,
      "text": "Seterusnya, petakan market structure dan liquidity, kemudian pilih POI yang relevan."
     },
     {
-     "start": 263.877,
-     "end": 273.063,
+     "start": 254.135,
+     "end": 262.865,
      "text": "Entry confirmation mengikut urutan: liquidity, MSS atau change of character, displacement, kemudian FVG atau execution zone."
     },
     {
-     "start": 273.443,
-     "end": 280.364,
+     "start": 263.245,
+     "end": 270.924,
      "text": "Trade planning menetapkan entry, stop-loss struktur, take-profit berasaskan liquidity, risk-to-reward dan saiz posisi."
     },
     {
-     "start": 280.744,
-     "end": 286.307,
+     "start": 271.304,
+     "end": 276.508,
      "text": "Akhir sekali, pelaksanaan dan pengurusan dagangan, diikuti jurnal dan penilaian prestasi."
     },
     {
-     "start": 286.687,
-     "end": 292.537,
+     "start": 276.888,
+     "end": 283.295,
      "text": "Perhatikan bahawa jurnal bukan langkah tambahan. Tanpa rekod, SOP tidak boleh dinilai."
     }
    ],
-   "end": 294.467
+   "end": 285.225
   },
   {
-   "start": 294.467,
+   "start": 285.225,
    "cues": [
     {
-     "start": 295.217,
-     "end": 304.101,
+     "start": 285.975,
+     "end": 294.471,
      "text": "Sekarang, mari lihat satu contoh hipotetikal FCPO pada carta 5 minit. Ini ilustrasi pendidikan, bukan data sejarah sebenar."
     },
     {
-     "start": 304.481,
-     "end": 317.402,
+     "start": 294.851,
+     "end": 305.465,
      "text": "Andaikan konteks 1H dan 30M berpotensi bullish, dan carta 15M menunjukkan satu POI bullish di sekitar 4,488 hingga 4,496."
     },
     {
-     "start": 317.782,
-     "end": 328.576,
+     "start": 305.845,
+     "end": 316.04,
      "text": "Harga sedang turun. Di atas, terdapat dua high yang hampir sama pada 4,520. Ini Equal Highs, iaitu potensi Buy-Side Liquidity."
     },
     {
-     "start": 328.956,
-     "end": 338.48,
+     "start": 316.42,
+     "end": 324.268,
      "text": "Di bawah, dua low pada 4,494 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity, yang terletak di dalam POI."
     },
     {
-     "start": 338.86,
-     "end": 344.752,
+     "start": 324.648,
+     "end": 330.777,
      "text": "Struktur dalaman masih bearish. Lower high terakhir berada pada 4,503."
     },
     {
-     "start": 345.132,
-     "end": 352.901,
+     "start": 331.157,
+     "end": 339.0,
      "text": "Pada titik ini, belum ada entry. Harga hanya menghampiri lokasi yang dipilih. POI bukan entry."
     }
    ],
-   "end": 354.631
+   "end": 340.73
   },
   {
-   "start": 354.631,
+   "start": 340.73,
    "cues": [
     {
-     "start": 355.381,
-     "end": 365.186,
+     "start": 341.48,
+     "end": 350.012,
      "text": "Candle seterusnya turun ke 4,491, melepasi Equal Lows, kemudian ditutup semula di atas 4,494."
     },
     {
-     "start": 365.566,
-     "end": 370.955,
+     "start": 350.392,
+     "end": 355.647,
      "text": "Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry."
     },
     {
-     "start": 371.335,
-     "end": 383.568,
+     "start": 356.027,
+     "end": 367.705,
      "text": "Kemudian muncul candle bullish yang besar, ditutup pada 4,508, menembusi lower high 4,503. Ini potensi bullish MSS, disertai displacement."
     },
     {
-     "start": 383.948,
-     "end": 394.953,
+     "start": 368.085,
+     "end": 378.114,
      "text": "Displacement ini meninggalkan Fair Value Gap antara 4,498 dan 4,502, iaitu ruang antara high candle pertama dan low candle ketiga."
     },
     {
-     "start": 395.333,
-     "end": 402.365,
+     "start": 378.494,
+     "end": 385.395,
      "text": "Sekarang barulah urutan pengesahan CMI lengkap: liquidity, MSS, displacement dan FVG."
     }
    ],
-   "end": 404.295
+   "end": 387.325
   },
   {
-   "start": 404.295,
+   "start": 387.325,
    "cues": [
     {
-     "start": 405.045,
-     "end": 407.869,
+     "start": 388.075,
+     "end": 390.767,
      "text": "Sebelum harga bergerak, kita tulis pelan dagangan."
     },
     {
-     "start": 408.249,
-     "end": 414.782,
+     "start": 391.147,
+     "end": 397.507,
      "text": "Entry bersyarat pada 4,500, iaitu di dalam FVG, hanya jika harga kembali ke zon ini."
     },
     {
-     "start": 415.162,
-     "end": 425.118,
+     "start": 397.887,
+     "end": 407.556,
      "text": "Stop-loss pada 4,490, satu mata di bawah low sweep. Jika harga jatuh ke paras ini, hipotesis bullish dianggap tidak sah."
     },
     {
-     "start": 425.498,
-     "end": 432.236,
+     "start": 407.936,
+     "end": 414.377,
      "text": "Sasaran pada 4,520, iaitu Equal Highs, potensi Buy-Side Liquidity di arah bertentangan."
     },
     {
-     "start": 432.616,
-     "end": 439.217,
+     "start": 414.757,
+     "end": 421.188,
      "text": "Risiko 10 mata, potensi ganjaran 20 mata. Gross risk-to-reward ialah 2 berbanding 1."
     },
     {
-     "start": 439.597,
-     "end": 453.188,
+     "start": 421.568,
+     "end": 434.677,
      "text": "Bagi satu kontrak FCPO bersaiz 25 tan metrik, setiap mata bernilai RM25. Risiko kasar RM250, potensi ganjaran kasar RM500, sebelum kos dan slippage."
     },
     {
-     "start": 453.568,
-     "end": 459.998,
+     "start": 435.057,
+     "end": 441.226,
      "text": "Perhatikan, bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia."
     }
    ],
-   "end": 461.928
+   "end": 443.156
   },
   {
-   "start": 461.928,
+   "start": 443.156,
    "cues": [
     {
-     "start": 462.678,
-     "end": 465.323,
+     "start": 443.906,
+     "end": 445.852,
      "text": "Sekarang kita dedahkan apa yang berlaku seterusnya."
     },
     {
-     "start": 465.703,
-     "end": 472.64,
+     "start": 446.232,
+     "end": 453.171,
      "text": "Harga naik dahulu, kemudian kembali ke FVG. Order entry pada 4,500 terisi."
     },
     {
-     "start": 473.02,
-     "end": 479.554,
+     "start": 453.551,
+     "end": 459.84,
      "text": "Selepas itu, harga bergerak naik dan mencapai 4,520. Sasaran tercapai."
     },
     {
-     "start": 479.934,
-     "end": 486.696,
+     "start": 460.22,
+     "end": 467.719,
      "text": "Tetapi ingat, ini hanya satu hasil. Dengan setup yang sama, harga boleh sahaja jatuh ke stop-loss."
     },
     {
-     "start": 487.076,
-     "end": 496.316,
+     "start": 468.099,
+     "end": 477.922,
      "text": "Kerugian yang mengikut pelan tidak bermakna SOP dilaksanakan dengan salah. Prestasi strategi dinilai merentasi sampel dagangan yang besar, bukan satu dagangan."
     }
    ],
-   "end": 498.146
+   "end": 479.752
   },
   {
-   "start": 498.146,
+   "start": 479.752,
    "cues": [
     {
-     "start": 498.896,
-     "end": 502.714,
+     "start": 480.502,
+     "end": 483.999,
      "text": "Satu perkara kritikal sebelum kita teruskan: margin bukan risiko."
     },
     {
-     "start": 503.094,
-     "end": 512.565,
+     "start": 484.379,
+     "end": 493.452,
      "text": "Nilai notional satu kontrak pada harga 4,500 ialah 4,500 darab 25 tan, iaitu RM112,500."
     },
     {
-     "start": 512.945,
-     "end": 522.394,
+     "start": 493.832,
+     "end": 501.747,
      "text": "Walaupun anda menggunakan kemudahan margin intraday, sama ada separuh atau suku margin, pergerakan 10 mata tetap bernilai RM250 setiap kontrak."
     },
     {
-     "start": 522.774,
-     "end": 532.158,
+     "start": 502.127,
+     "end": 510.099,
      "text": "Margin yang lebih rendah tidak mengurangkan pendedahan pasaran. Ia hanya mengurangkan modal yang dikunci, dan boleh menggalakkan saiz posisi yang berlebihan."
     },
     {
-     "start": 532.538,
-     "end": 538.667,
+     "start": 510.479,
+     "end": 517.002,
      "text": "Risiko mesti dikira daripada jarak stop-loss, nilai setiap mata dan bilangan kontrak, bukan daripada margin."
     }
    ],
-   "end": 539.997
+   "end": 518.332
   },
   {
-   "start": 539.997,
+   "start": 518.332,
    "cues": [
     {
-     "start": 540.747,
-     "end": 544.1,
+     "start": 519.082,
+     "end": 523.005,
      "text": "Sebelum masuk ke SOP pertama, buang lima salah faham ini."
     },
     {
-     "start": 544.48,
-     "end": 552.046,
+     "start": 523.385,
+     "end": 530.348,
      "text": "Satu: setiap liquidity sweep pasti menghasilkan reversal. Tidak. Sweep hanya satu kemungkinan."
     },
     {
-     "start": 552.426,
-     "end": 560.346,
+     "start": 530.728,
+     "end": 537.731,
      "text": "Dua: harga menyentuh POI bermakna entry. Tidak. POI ialah lokasi, bukan pencetus."
     },
     {
-     "start": 560.726,
-     "end": 568.553,
+     "start": 538.111,
+     "end": 546.347,
      "text": "Tiga: RR 1 berbanding 3 menjamin keuntungan. Tidak. Hasil bergantung kepada win rate dan kos."
     },
     {
-     "start": 568.933,
-     "end": 574.815,
+     "start": 546.727,
+     "end": 552.84,
      "text": "Empat: margin rendah lebih selamat. Tidak. Pendedahan harga kekal sama."
     },
     {
-     "start": 575.195,
-     "end": 582.073,
+     "start": 553.22,
+     "end": 560.059,
      "text": "Lima: satu SOP sesuai untuk semua gaya. Tidak. Setiap gaya memerlukan SOP sendiri."
     },
     {
-     "start": 582.453,
-     "end": 591.377,
+     "start": 560.439,
+     "end": 569.454,
      "text": "Ingat, konsep SMC ialah rangka kerja analisis. Corak carta tidak membuktikan identiti, saiz posisi atau niat institusi."
     }
    ],
-   "end": 592.707
+   "end": 570.784
   },
   {
-   "start": 592.707,
+   "start": 570.784,
    "cues": [
     {
-     "start": 593.457,
-     "end": 597.675,
+     "start": 571.534,
+     "end": 575.529,
      "text": "Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan."
     },
     {
-     "start": 598.055,
-     "end": 601.576,
+     "start": 575.909,
+     "end": 579.601,
      "text": "Soalan satu: apakah beza antara setup dan trading plan?"
     },
     {
-     "start": 601.956,
-     "end": 612.051,
+     "start": 579.981,
+     "end": 590.098,
      "text": "Jawapan: setup ialah hipotesis pada satu lokasi. Trading plan menetapkan peraturan entry, stop-loss, sasaran, risiko dan keadaan tidak trade."
     },
     {
-     "start": 612.431,
-     "end": 622.932,
+     "start": 590.478,
+     "end": 600.972,
      "text": "Soalan dua: entry 4,500, stop-loss 4,490, sasaran 4,520. Berapakah gross RR?"
     },
     {
-     "start": 623.312,
-     "end": 628.469,
+     "start": 601.352,
+     "end": 606.218,
      "text": "Jawapan: ganjaran 20 mata bahagi risiko 10 mata, iaitu 2 berbanding 1."
     },
     {
-     "start": 628.849,
-     "end": 634.633,
+     "start": 606.598,
+     "end": 611.134,
      "text": "Soalan tiga: jika anda menggunakan suku margin, adakah risiko 10 mata menjadi lebih kecil?"
     },
     {
-     "start": 635.013,
-     "end": 640.766,
+     "start": 611.514,
+     "end": 617.524,
      "text": "Jawapan: tidak. Ia kekal RM250 setiap kontrak, sebelum kos."
     }
    ],
-   "end": 642.496
+   "end": 619.254
   },
   {
-   "start": 642.496,
+   "start": 619.254,
    "cues": [
     {
-     "start": 643.246,
-     "end": 643.906,
+     "start": 620.004,
+     "end": 620.915,
      "text": "Ringkasnya."
     },
     {
-     "start": 644.286,
-     "end": 649.364,
+     "start": 621.295,
+     "end": 626.499,
      "text": "Setup bukan strategi. Strategi memerlukan SOP dengan peraturan yang jelas."
     },
     {
-     "start": 649.744,
-     "end": 653.299,
+     "start": 626.879,
+     "end": 630.347,
      "text": "Scalping, intraday dan swing memerlukan SOP yang berbeza."
     },
     {
-     "start": 653.679,
-     "end": 662.182,
+     "start": 630.727,
+     "end": 639.114,
      "text": "Aliran CMI: konteks, gaya, struktur dan liquidity, POI, pengesahan, perancangan, pelaksanaan dan jurnal."
     },
     {
-     "start": 662.562,
-     "end": 668.264,
+     "start": 639.494,
+     "end": 644.948,
      "text": "Bina carta tanpa melihat masa depan, dan kira risiko daripada stop-loss, bukan daripada margin."
     }
    ],
-   "end": 669.594
+   "end": 646.278
   },
   {
-   "start": 669.594,
+   "start": 646.278,
    "cues": [
     {
-     "start": 670.344,
-     "end": 671.862,
+     "start": 647.028,
+     "end": 648.93,
      "text": "Latihan untuk video ini."
     },
     {
-     "start": 672.242,
-     "end": 679.813,
+     "start": 649.31,
+     "end": 656.456,
      "text": "Pertama, pilih satu gaya trading yang paling sesuai dengan masa, modal dan keupayaan pemantauan anda, dan tulis sebab pilihan itu."
     },
     {
-     "start": 680.193,
-     "end": 688.75,
+     "start": 656.836,
+     "end": 664.628,
      "text": "Kedua, tulis draf SOP satu halaman mengikut lapan peringkat aliran kerja CMI. Kita akan memperhalusinya dalam video seterusnya."
     }
    ],
-   "end": 690.08
+   "end": 665.958
   },
   {
-   "start": 690.08,
+   "start": 665.958,
    "cues": [
     {
-     "start": 690.83,
-     "end": 699.421,
+     "start": 666.708,
+     "end": 674.878,
      "text": "Dalam Video 2, kita mula membina Scalping SOP: persediaan pra-pasaran, rangka timeframe, pemetaan liquidity dan pemilihan POI."
     }
    ],
-   "end": 701.551
+   "end": 677.008
   },
   {
-   "start": 701.551,
+   "start": 677.008,
    "cues": [
     {
-     "start": 702.301,
-     "end": 709.919,
+     "start": 677.758,
+     "end": 685.497,
      "text": "Rujukan untuk video ini dipaparkan di skrin. Sila semak spesifikasi kontrak terkini daripada Bursa Malaysia Derivatives."
     }
    ],
-   "end": 713.249
+   "end": 688.827
   },
   {
-   "start": 713.249,
+   "start": 688.827,
    "cues": [
     {
-     "start": 713.999,
-     "end": 718.649,
+     "start": 689.577,
+     "end": 694.247,
      "text": "Trading futures melibatkan risiko kerugian. Jumpa dalam Video 2."
     }
    ],
-   "end": 722.179
+   "end": 697.777
   }
  ],
- "total": 722.179
+ "total": 697.777
 }

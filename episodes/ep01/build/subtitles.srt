@@ -1,371 +1,371 @@
 1
-00:00:00,750 --> 00:00:04,587
+00:00:00,750 --> 00:00:04,243
 Selamat datang ke Level 9: SMC Trading Strategy.
 
 2
-00:00:04,667 --> 00:00:14,946
+00:00:04,323 --> 00:00:13,094
 Dalam Level 1 hingga Level 8, kita telah membina asas: market structure, liquidity, POI, Fair Value Gap, serta Premium dan Discount.
 
 3
-00:00:15,026 --> 00:00:22,587
+00:00:13,174 --> 00:00:20,131
 Level 9 menjawab satu soalan penting: bagaimana semua konsep ini disusun menjadi strategi trading dengan peraturan yang jelas?
 
 4
-00:00:22,667 --> 00:00:25,959
+00:00:20,211 --> 00:00:22,977
 Dalam video ini, kita akan lihat empat perkara.
 
 5
-00:00:26,039 --> 00:00:29,702
+00:00:23,057 --> 00:00:27,459
 Pertama, beza antara konsep, setup dan trading plan.
 
 6
-00:00:29,782 --> 00:00:33,946
+00:00:27,539 --> 00:00:31,937
 Kedua, tiga gaya trading yang setiap satunya memerlukan SOP sendiri.
 
 7
-00:00:34,026 --> 00:00:39,359
+00:00:32,017 --> 00:00:36,978
 Ketiga, aliran kerja trading CMI, daripada konteks pasaran hingga jurnal.
 
 8
-00:00:39,439 --> 00:00:45,890
+00:00:37,058 --> 00:00:42,747
 Dan keempat, satu contoh FCPO yang dibina langkah demi langkah, tanpa melihat candle masa depan.
 
 9
-00:00:48,170 --> 00:00:56,582
+00:00:45,027 --> 00:00:52,823
 Ramai pelajar boleh mengenal pasti Order Block atau FVG pada carta. Tetapi mengenal pasti setup belum lagi satu strategi.
 
 10
-00:00:56,662 --> 00:01:02,951
+00:00:52,903 --> 00:00:59,805
 Konsep ialah alat analisis. Contohnya liquidity sweep, atau market structure shift.
 
 11
-00:01:03,031 --> 00:01:08,798
+00:00:59,885 --> 00:01:06,232
 Setup ialah gabungan beberapa konsep pada satu lokasi tertentu, yang membentuk hipotesis trading.
 
 12
-00:01:08,878 --> 00:01:17,267
+00:01:06,312 --> 00:01:15,045
 Trading plan pula menetapkan peraturan: bila masuk, di mana stop-loss, apa sasaran, berapa risiko, dan bila tidak trade langsung.
 
 13
-00:01:17,347 --> 00:01:26,264
+00:01:15,125 --> 00:01:23,464
 SOP, atau Standard Operating Procedure, ialah trading plan yang ditulis sebagai langkah berturutan, supaya boleh diulang, direkod dan dinilai.
 
 14
-00:01:26,344 --> 00:01:31,933
+00:01:23,544 --> 00:01:28,790
 Matlamat Level 9 bukan sekadar mencari setup, tetapi membina SOP yang boleh diuji.
 
 15
-00:01:33,713 --> 00:01:38,410
+00:01:30,570 --> 00:01:35,055
 Level 9 mengandungi enam subtopik, dan susunan asalnya dikekalkan.
 
 16
-00:01:38,490 --> 00:01:44,904
+00:01:35,135 --> 00:01:42,111
 Satu, Scalping SOP. Dua, Intraday SOP. Tiga, Swing Trading SOP.
 
 17
-00:01:44,984 --> 00:01:53,372
+00:01:42,191 --> 00:01:50,852
 Tiga subtopik pertama dipisahkan kerana setiap gaya mempunyai timeframe, tempoh pegangan, saiz stop-loss dan pengurusan posisi yang berbeza.
 
 18
-00:01:53,452 --> 00:02:00,896
+00:01:50,932 --> 00:01:58,828
 Empat, Entry Confirmation. Lima, Stop Loss dan Take Profit. Enam, Risk-to-Reward.
 
 19
-00:02:00,976 --> 00:02:07,866
+00:01:58,908 --> 00:02:05,049
 Tiga subtopik terakhir ialah komponen yang digunakan dalam setiap SOP, tetapi parameternya berubah mengikut gaya trading.
 
 20
-00:02:09,646 --> 00:02:12,797
+00:02:06,829 --> 00:02:09,214
 Mari kita bandingkan tiga gaya ini secara ringkas.
 
 21
-00:02:12,877 --> 00:02:22,857
+00:02:09,294 --> 00:02:19,141
 Scalping mensasarkan pergerakan harga yang pendek. Konteks daripada 1H atau 30M, setup pada 15M, dan pengesahan pada 5M.
 
 22
-00:02:22,937 --> 00:02:32,381
+00:02:19,221 --> 00:02:29,000
 Intraday memegang posisi dalam hari dagangan yang sama. Konteks daripada Daily dan 4H, struktur dan setup pada 1H atau 30M.
 
 23
-00:02:32,461 --> 00:02:38,471
+00:02:29,080 --> 00:02:34,910
 Swing trading memegang posisi merentasi beberapa sesi atau hari, dengan konteks Weekly dan Daily.
 
 24
-00:02:38,551 --> 00:02:50,258
+00:02:34,990 --> 00:02:46,456
 Pertimbangan utama juga berbeza. Scalping sangat sensitif kepada kos dan pelaksanaan, intraday kepada struktur sesi, dan swing kepada konteks HTF serta risiko overnight.
 
 25
-00:02:50,338 --> 00:02:58,569
+00:02:46,536 --> 00:02:54,386
 Ini ialah rangka kerja pengajaran CMI, bukan standard industri sejagat. Setiap kombinasi timeframe perlu diuji.
 
 26
-00:02:58,649 --> 00:03:06,214
+00:02:54,466 --> 00:03:01,508
 Tiada satu gaya yang secara semula jadi lebih menguntungkan. Yang penting ialah SOP yang konsisten dengan gaya yang dipilih.
 
 27
-00:03:07,994 --> 00:03:13,146
+00:03:03,288 --> 00:03:08,266
 Kenapa satu SOP tidak boleh digunakan untuk semua gaya? Lihat stop-loss.
 
 28
-00:03:13,226 --> 00:03:22,106
+00:03:08,346 --> 00:03:16,857
 Dalam contoh hipotetikal ini, invalidation struktur bagi setup scalping mungkin sekitar 10 mata, iaitu 250 ringgit setiap kontrak.
 
 29
-00:03:22,186 --> 00:03:36,743
+00:03:16,937 --> 00:03:30,535
 Bagi intraday, struktur yang relevan lebih besar, contohnya 18 mata, atau 450 ringgit. Bagi swing, invalidation pada Daily atau 4H mungkin 80 mata, atau 2,000 ringgit setiap kontrak.
 
 30
-00:03:36,823 --> 00:03:45,246
+00:03:30,615 --> 00:03:38,105
 Jika stop-loss scalping digunakan untuk posisi swing, stop itu berada di dalam pergerakan biasa harga, bukan pada invalidation sebenar.
 
 31
-00:03:45,326 --> 00:03:52,379
+00:03:38,185 --> 00:03:45,424
 Sebaliknya, jika stop swing digunakan pada setup scalping, risiko menjadi terlalu besar berbanding sasaran yang dekat.
 
 32
-00:03:52,459 --> 00:04:01,396
+00:03:45,504 --> 00:03:53,616
 Oleh itu, setiap gaya memerlukan SOP sendiri: timeframe, stop-loss, sasaran, saiz posisi, dan cara memantau dagangan.
 
 33
-00:04:03,176 --> 00:04:08,761
+00:03:55,396 --> 00:03:59,788
 Inilah aliran kerja trading CMI, yang akan menjadi tulang belakang Level 9.
 
 34
-00:04:08,841 --> 00:04:12,252
+00:03:59,868 --> 00:04:03,458
 Bermula dengan konteks pasaran dan bias timeframe tinggi.
 
 35
-00:04:12,332 --> 00:04:18,003
+00:04:03,538 --> 00:04:09,449
 Kemudian pilih gaya trading. Pilihan ini menentukan timeframe dan tempoh pegangan.
 
 36
-00:04:18,083 --> 00:04:23,797
+00:04:09,529 --> 00:04:14,055
 Seterusnya, petakan market structure dan liquidity, kemudian pilih POI yang relevan.
 
 37
-00:04:23,877 --> 00:04:33,363
+00:04:14,135 --> 00:04:23,165
 Entry confirmation mengikut urutan: liquidity, MSS atau change of character, displacement, kemudian FVG atau execution zone.
 
 38
-00:04:33,443 --> 00:04:40,664
+00:04:23,245 --> 00:04:31,224
 Trade planning menetapkan entry, stop-loss struktur, take-profit berasaskan liquidity, risk-to-reward dan saiz posisi.
 
 39
-00:04:40,744 --> 00:04:46,607
+00:04:31,304 --> 00:04:36,808
 Akhir sekali, pelaksanaan dan pengurusan dagangan, diikuti jurnal dan penilaian prestasi.
 
 40
-00:04:46,687 --> 00:04:52,837
+00:04:36,888 --> 00:04:43,595
 Perhatikan bahawa jurnal bukan langkah tambahan. Tanpa rekod, SOP tidak boleh dinilai.
 
 41
-00:04:55,217 --> 00:05:04,401
+00:04:45,975 --> 00:04:54,771
 Sekarang, mari lihat satu contoh hipotetikal FCPO pada carta 5 minit. Ini ilustrasi pendidikan, bukan data sejarah sebenar.
 
 42
-00:05:04,481 --> 00:05:17,702
+00:04:54,851 --> 00:05:05,765
 Andaikan konteks 1H dan 30M berpotensi bullish, dan carta 15M menunjukkan satu POI bullish di sekitar 4,488 hingga 4,496.
 
 43
-00:05:17,782 --> 00:05:28,876
+00:05:05,845 --> 00:05:16,340
 Harga sedang turun. Di atas, terdapat dua high yang hampir sama pada 4,520. Ini Equal Highs, iaitu potensi Buy-Side Liquidity.
 
 44
-00:05:28,956 --> 00:05:38,780
+00:05:16,420 --> 00:05:24,568
 Di bawah, dua low pada 4,494 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity, yang terletak di dalam POI.
 
 45
-00:05:38,860 --> 00:05:45,052
+00:05:24,648 --> 00:05:31,077
 Struktur dalaman masih bearish. Lower high terakhir berada pada 4,503.
 
 46
-00:05:45,132 --> 00:05:53,201
+00:05:31,157 --> 00:05:39,300
 Pada titik ini, belum ada entry. Harga hanya menghampiri lokasi yang dipilih. POI bukan entry.
 
 47
-00:05:55,381 --> 00:06:05,486
+00:05:41,480 --> 00:05:50,312
 Candle seterusnya turun ke 4,491, melepasi Equal Lows, kemudian ditutup semula di atas 4,494.
 
 48
-00:06:05,566 --> 00:06:11,255
+00:05:50,392 --> 00:05:55,947
 Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
 
 49
-00:06:11,335 --> 00:06:23,868
+00:05:56,027 --> 00:06:08,005
 Kemudian muncul candle bullish yang besar, ditutup pada 4,508, menembusi lower high 4,503. Ini potensi bullish MSS, disertai displacement.
 
 50
-00:06:23,948 --> 00:06:35,253
+00:06:08,085 --> 00:06:18,414
 Displacement ini meninggalkan Fair Value Gap antara 4,498 dan 4,502, iaitu ruang antara high candle pertama dan low candle ketiga.
 
 51
-00:06:35,333 --> 00:06:42,665
+00:06:18,494 --> 00:06:25,695
 Sekarang barulah urutan pengesahan CMI lengkap: liquidity, MSS, displacement dan FVG.
 
 52
-00:06:45,045 --> 00:06:48,169
+00:06:28,075 --> 00:06:31,067
 Sebelum harga bergerak, kita tulis pelan dagangan.
 
 53
-00:06:48,249 --> 00:06:55,082
+00:06:31,147 --> 00:06:37,807
 Entry bersyarat pada 4,500, iaitu di dalam FVG, hanya jika harga kembali ke zon ini.
 
 54
-00:06:55,162 --> 00:07:05,418
+00:06:37,887 --> 00:06:47,856
 Stop-loss pada 4,490, satu mata di bawah low sweep. Jika harga jatuh ke paras ini, hipotesis bullish dianggap tidak sah.
 
 55
-00:07:05,498 --> 00:07:12,536
+00:06:47,936 --> 00:06:54,677
 Sasaran pada 4,520, iaitu Equal Highs, potensi Buy-Side Liquidity di arah bertentangan.
 
 56
-00:07:12,616 --> 00:07:19,517
+00:06:54,757 --> 00:07:01,488
 Risiko 10 mata, potensi ganjaran 20 mata. Gross risk-to-reward ialah 2 berbanding 1.
 
 57
-00:07:19,597 --> 00:07:33,488
+00:07:01,568 --> 00:07:14,977
 Bagi satu kontrak FCPO bersaiz 25 tan metrik, setiap mata bernilai RM25. Risiko kasar RM250, potensi ganjaran kasar RM500, sebelum kos dan slippage.
 
 58
-00:07:33,568 --> 00:07:40,298
+00:07:15,057 --> 00:07:21,526
 Perhatikan, bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
 
 59
-00:07:42,678 --> 00:07:45,623
+00:07:23,906 --> 00:07:26,152
 Sekarang kita dedahkan apa yang berlaku seterusnya.
 
 60
-00:07:45,703 --> 00:07:52,940
+00:07:26,232 --> 00:07:33,471
 Harga naik dahulu, kemudian kembali ke FVG. Order entry pada 4,500 terisi.
 
 61
-00:07:53,020 --> 00:07:59,854
+00:07:33,551 --> 00:07:40,140
 Selepas itu, harga bergerak naik dan mencapai 4,520. Sasaran tercapai.
 
 62
-00:07:59,934 --> 00:08:06,996
+00:07:40,220 --> 00:07:48,019
 Tetapi ingat, ini hanya satu hasil. Dengan setup yang sama, harga boleh sahaja jatuh ke stop-loss.
 
 63
-00:08:07,076 --> 00:08:16,616
+00:07:48,099 --> 00:07:58,222
 Kerugian yang mengikut pelan tidak bermakna SOP dilaksanakan dengan salah. Prestasi strategi dinilai merentasi sampel dagangan yang besar, bukan satu dagangan.
 
 64
-00:08:18,896 --> 00:08:23,014
+00:08:00,502 --> 00:08:04,299
 Satu perkara kritikal sebelum kita teruskan: margin bukan risiko.
 
 65
-00:08:23,094 --> 00:08:32,865
+00:08:04,379 --> 00:08:13,752
 Nilai notional satu kontrak pada harga 4,500 ialah 4,500 darab 25 tan, iaitu RM112,500.
 
 66
-00:08:32,945 --> 00:08:42,694
+00:08:13,832 --> 00:08:22,047
 Walaupun anda menggunakan kemudahan margin intraday, sama ada separuh atau suku margin, pergerakan 10 mata tetap bernilai RM250 setiap kontrak.
 
 67
-00:08:42,774 --> 00:08:52,458
+00:08:22,127 --> 00:08:30,399
 Margin yang lebih rendah tidak mengurangkan pendedahan pasaran. Ia hanya mengurangkan modal yang dikunci, dan boleh menggalakkan saiz posisi yang berlebihan.
 
 68
-00:08:52,538 --> 00:08:58,967
+00:08:30,479 --> 00:08:37,302
 Risiko mesti dikira daripada jarak stop-loss, nilai setiap mata dan bilangan kontrak, bukan daripada margin.
 
 69
-00:09:00,747 --> 00:09:04,400
+00:08:39,082 --> 00:08:43,305
 Sebelum masuk ke SOP pertama, buang lima salah faham ini.
 
 70
-00:09:04,480 --> 00:09:12,346
+00:08:43,385 --> 00:08:50,648
 Satu: setiap liquidity sweep pasti menghasilkan reversal. Tidak. Sweep hanya satu kemungkinan.
 
 71
-00:09:12,426 --> 00:09:20,646
+00:08:50,728 --> 00:08:58,031
 Dua: harga menyentuh POI bermakna entry. Tidak. POI ialah lokasi, bukan pencetus.
 
 72
-00:09:20,726 --> 00:09:28,853
+00:08:58,111 --> 00:09:06,647
 Tiga: RR 1 berbanding 3 menjamin keuntungan. Tidak. Hasil bergantung kepada win rate dan kos.
 
 73
-00:09:28,933 --> 00:09:35,115
+00:09:06,727 --> 00:09:13,140
 Empat: margin rendah lebih selamat. Tidak. Pendedahan harga kekal sama.
 
 74
-00:09:35,195 --> 00:09:42,373
+00:09:13,220 --> 00:09:20,359
 Lima: satu SOP sesuai untuk semua gaya. Tidak. Setiap gaya memerlukan SOP sendiri.
 
 75
-00:09:42,453 --> 00:09:51,677
+00:09:20,439 --> 00:09:29,754
 Ingat, konsep SMC ialah rangka kerja analisis. Corak carta tidak membuktikan identiti, saiz posisi atau niat institusi.
 
 76
-00:09:53,457 --> 00:09:57,975
+00:09:31,534 --> 00:09:35,829
 Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.
 
 77
-00:09:58,055 --> 00:10:01,876
+00:09:35,909 --> 00:09:39,901
 Soalan satu: apakah beza antara setup dan trading plan?
 
 78
-00:10:01,956 --> 00:10:12,351
+00:09:39,981 --> 00:09:50,398
 Jawapan: setup ialah hipotesis pada satu lokasi. Trading plan menetapkan peraturan entry, stop-loss, sasaran, risiko dan keadaan tidak trade.
 
 79
-00:10:12,431 --> 00:10:23,232
+00:09:50,478 --> 00:10:01,272
 Soalan dua: entry 4,500, stop-loss 4,490, sasaran 4,520. Berapakah gross RR?
 
 80
-00:10:23,312 --> 00:10:28,769
+00:10:01,352 --> 00:10:06,518
 Jawapan: ganjaran 20 mata bahagi risiko 10 mata, iaitu 2 berbanding 1.
 
 81
-00:10:28,849 --> 00:10:34,933
+00:10:06,598 --> 00:10:11,434
 Soalan tiga: jika anda menggunakan suku margin, adakah risiko 10 mata menjadi lebih kecil?
 
 82
-00:10:35,013 --> 00:10:41,066
+00:10:11,514 --> 00:10:17,824
 Jawapan: tidak. Ia kekal RM250 setiap kontrak, sebelum kos.
 
 83
-00:10:43,246 --> 00:10:44,206
+00:10:20,004 --> 00:10:21,215
 Ringkasnya.
 
 84
-00:10:44,286 --> 00:10:49,664
+00:10:21,295 --> 00:10:26,799
 Setup bukan strategi. Strategi memerlukan SOP dengan peraturan yang jelas.
 
 85
-00:10:49,744 --> 00:10:53,599
+00:10:26,879 --> 00:10:30,647
 Scalping, intraday dan swing memerlukan SOP yang berbeza.
 
 86
-00:10:53,679 --> 00:11:02,482
+00:10:30,727 --> 00:10:39,414
 Aliran CMI: konteks, gaya, struktur dan liquidity, POI, pengesahan, perancangan, pelaksanaan dan jurnal.
 
 87
-00:11:02,562 --> 00:11:08,564
+00:10:39,494 --> 00:10:45,248
 Bina carta tanpa melihat masa depan, dan kira risiko daripada stop-loss, bukan daripada margin.
 
 88
-00:11:10,344 --> 00:11:12,162
+00:10:47,028 --> 00:10:49,230
 Latihan untuk video ini.
 
 89
-00:11:12,242 --> 00:11:20,113
+00:10:49,310 --> 00:10:56,756
 Pertama, pilih satu gaya trading yang paling sesuai dengan masa, modal dan keupayaan pemantauan anda, dan tulis sebab pilihan itu.
 
 90
-00:11:20,193 --> 00:11:29,050
+00:10:56,836 --> 00:11:04,928
 Kedua, tulis draf SOP satu halaman mengikut lapan peringkat aliran kerja CMI. Kita akan memperhalusinya dalam video seterusnya.
 
 91
-00:11:30,830 --> 00:11:39,721
+00:11:06,708 --> 00:11:15,178
 Dalam Video 2, kita mula membina Scalping SOP: persediaan pra-pasaran, rangka timeframe, pemetaan liquidity dan pemilihan POI.
 
 92
-00:11:42,301 --> 00:11:50,219
+00:11:17,758 --> 00:11:25,797
 Rujukan untuk video ini dipaparkan di skrin. Sila semak spesifikasi kontrak terkini daripada Bursa Malaysia Derivatives.
 
 93
-00:11:53,999 --> 00:11:58,949
+00:11:29,577 --> 00:11:34,547
 Trading futures melibatkan risiko kerugian. Jumpa dalam Video 2.

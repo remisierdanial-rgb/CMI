@@ -151,7 +151,7 @@
 
   /* knowledge check: qs = [{q, a, qs, as}] (≤3 per scene) */
   L.kc = o => {
-    const cues = [o.intro || 'Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.'];
+    const cues = [o.intro ? o.intro : { t: 'Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.', en: 'Knowledge check. Try to answer before the answer appears.' }];
     o.qs.forEach(q => { cues.push(q.qs); cues.push(q.as); });
     return {
       label: o.label || 'KNOWLEDGE CHECK', hold: .4, cues, build(S, C) {
@@ -166,13 +166,13 @@
     };
   };
   L.summary = o => ({
-    label: 'SUMMARY', cues: ['Ringkasnya.'].concat(o.points.map(p => p.s)), build(S, C) {
+    label: 'SUMMARY', cues: [{ t: 'Ringkasnya.', en: 'To summarise.' }].concat(o.points.map(p => p.s)), build(S, C) {
       S.heading('KEY LEARNING POINTS', o.title, S.at(0, -.3));
       S.bullets(o.points.map(p => p.t), 60, 180, 1780, o.points.map((p, i) => S.at(i + 1)), { check: true, size: o.size || 30 });
     }
   });
   L.exercise = o => ({
-    label: 'EXERCISE', cues: ['Latihan untuk video ini.'].concat(o.steps.map(s => s.s)), build(S, C) {
+    label: 'EXERCISE', cues: [{ t: 'Latihan untuk video ini.', en: 'Here is the exercise for this video.' }].concat(o.steps.map(s => s.s)), build(S, C) {
       S.heading('PRACTICAL ASSIGNMENT', o.title, S.at(0, -.3));
       const n = o.steps.length, gap = 30, w = (1800 - gap * (n - 1)) / n;
       o.steps.forEach((s, i) => S.el(`<div class="num">STEP ${i + 1}</div><div class="ct">${s.t}</div><div class="cb">${s.b}</div>`, { x: 60 + i * (w + gap), y: 180, w, h: o.h || 360, cls: 'card' }, { at: S.at(i + 1) }));
@@ -187,7 +187,7 @@
     }
   });
   L.refs = o => ({
-    label: 'REFERENCES', hold: 2, cues: [o.say || 'Rujukan untuk video ini dipaparkan di skrin.'], build(S, C) {
+    label: 'REFERENCES', hold: 2, cues: [o.say || { t: 'Rujukan untuk video ini dipaparkan di skrin.', en: 'The references for this video are shown on screen.' }], build(S, C) {
       S.el('<div class="kicker">REFERENCES · RUJUKAN</div>', { x: 60, y: 40 }, { at: S.at(0, -.3) });
       S.el('<div class="h3">Primary reading for this video</div>', { x: 60, y: 74 }, { at: S.at(0, -.2) });
       o.items.forEach((r, i) => S.el(`<div style="display:flex;justify-content:space-between;align-items:center;width:100%"><span style="display:flex;gap:22px"><span class="mono" style="color:#e8b44c;font-size:20px">0${i + 1}</span><span style="font:600 23px Inter">${r[0]}</span></span><span class="small" style="font-size:18px;flex:none;margin-left:20px">${r[1]}</span></div>`, { x: 60, y: 160 + i * 82, w: 1800, h: 66, cls: 'panel', style: 'display:flex;align-items:center;padding:0 26px' }, { at: S.at(0, .4 + i * .35) }));
@@ -301,6 +301,40 @@
     if (v.kind === 'tp2') { const g = (Math.abs(v.tp1 - v.entry) * (n / 2) + v.reward * (n / 2)) * 25, rk = v.risk * 25 * n; cues4 = ['Sekarang kita dedahkan apa yang berlaku.', `Harga kembali ke FVG. Order ${fmt(v.entry)} terisi.`, `TP1 ${fmt(v.tp1)} tercapai. Separuh posisi ditutup, dan stop-loss baki posisi dialihkan ke harga entry.`, `Harga meneruskan pergerakan ke ${fmt(v.tp)}. Baki posisi ditutup di sasaran akhir.`, `Hasil kasar ${RM(g)} berbanding risiko awal ${RM(rk)}, iaitu ${rrTxt(g / rk)}R. Partial mengurangkan hasil berbanding memegang semua posisi, tetapi mengunci sebahagian keuntungan lebih awal.`]; }
     if (v.kind === 'nofill') cues4 = ['Sekarang kita dedahkan apa yang berlaku.', `Harga tidak kembali ke FVG. Order ${fmt(v.entry)} tidak terisi.`, `Harga bergerak ke ${fmt(v.tp)} tanpa kita. Ini bukan kesilapan: syarat entry tidak dipenuhi, jadi tiada dagangan.`, 'Mengejar harga selepas terlepas setup akan memburukkan lokasi entry dan risk-to-reward.'];
     if (o.outcomeExtra) cues4 = cues4.concat(o.outcomeExtra);
+
+    /* ---- English narration (spoken); Malay strings above stay as subtitles ---- */
+    const EN = {
+      tgtName: bull ? 'Equal Highs' : 'Equal Lows', tgtLiq: bull ? 'Buy-Side Liquidity' : 'Sell-Side Liquidity',
+      swName: bull ? 'Equal Lows' : 'Equal Highs', swLiq: bull ? 'Sell-Side Liquidity' : 'Buy-Side Liquidity', lhName: bull ? 'lower high' : 'higher low'
+    };
+    const RMe = x => fmt(x) + ' ringgit', ctr = n === 1 ? 'one contract' : `${n} contracts`;
+    const tpNameEn = o.tpNameEn || (o.tpName ? null : `the ${EN.tgtName}, potential ${EN.tgtLiq} on the opposite side`);
+    const E1 = [o.introEn, `The ${stf} chart shows a ${W.side} POI around ${fmt(v.poi[0])} to ${fmt(v.poi[1])}.`,
+      `${bull ? 'Above' : 'Below'}, two ${bull ? 'highs' : 'lows'} at ${fmt(v.tgtLiq)} form ${EN.tgtName}, potential ${EN.tgtLiq}.`,
+      `${bull ? 'Below' : 'Above'}, two ${bull ? 'lows' : 'highs'} at ${fmt(v.swLiq)} form ${EN.swName}, potential ${EN.swLiq}, sitting inside the POI.`,
+      `Internal structure on the ${tf} chart is still ${W.opp}. The last ${EN.lhName} is at ${fmt(v.lh)}.`,
+      'No entry yet. Price is only approaching the location. A POI is a location, not a trigger.'];
+    const E2 = [`The next candle ${bull ? 'drops to' : 'rallies to'} ${fmt(v.sweep)}, trading through the ${EN.swName}, then closes back ${bull ? 'above' : 'below'} ${fmt(v.swLiq)}.`,
+      'This is a possible liquidity sweep. But a sweep on its own is not enough for an entry.',
+      `Then a large ${W.side} candle closes at ${fmt(v.c20)}, breaking the ${EN.lhName} at ${fmt(v.lh)}. This is a potential ${W.side} MSS, with displacement.`,
+      `The displacement leaves a Fair Value Gap between ${fmt(v.fvg[0])} and ${fmt(v.fvg[1])}.`,
+      'The CMI confirmation sequence is now complete: liquidity, MSS, displacement and FVG.'];
+    const E3 = ['Before price moves, we write the trade plan.',
+      `A conditional ${bull ? 'buy' : 'sell'} entry at ${fmt(v.entry)}, inside the FVG, only if price returns to this zone.`,
+      `Stop-loss at ${fmt(v.sl)}, beyond the sweep extreme. If price reaches this level, the ${W.side} hypothesis is invalid.`,
+      tpNameEn ? (v.tp1 ? `TP1 at ${fmt(v.tp1)}, at 1R, for a partial exit. The final target is ${fmt(v.tp)}, ${tpNameEn}.` : `The target is ${fmt(v.tp)}, ${tpNameEn}.`) : null,
+      `Risk is ${v.risk} points, and potential reward is ${v.reward} points. Gross risk-to-reward is ${rrTxt(rr)} to 1.`,
+      `With ${ctr}, gross risk is ${RMe(v.risk * 25 * n)} and gross potential reward is ${RMe(v.reward * 25 * n)}, before costs and slippage.`,
+      'The right side of the chart is still hidden. The decision is made only with the information available.'];
+    if (o.planExtra) E3.splice(6, 0, ...(o.planExtraEn || o.planExtra.map(() => null)));
+    let E4;
+    if (v.kind === 'tp') E4 = ['Now we reveal what happened.', `Price returns to the FVG. The ${fmt(v.entry)} order is filled.`, `Price then moves to ${fmt(v.tp)}. Target reached: plus ${v.reward} points per contract.`, 'This is just one outcome. The same setup could just as easily have ended at the stop-loss.'];
+    if (v.kind === 'sl') E4 = ['Now we reveal what happened.', `Price returns to the FVG. The ${fmt(v.entry)} order is filled.`, `But price keeps ${bull ? 'falling' : 'rising'} and hits the stop-loss at ${fmt(v.sl)}. A loss of ${v.risk} points per contract, which is one R, or ${RMe(v.risk * 25 * n)} gross.`, 'The plan was followed and the loss was controlled. It is recorded in the journal, not answered with a revenge trade.'];
+    if (v.kind === 'tp2') { const g = (Math.abs(v.tp1 - v.entry) * (n / 2) + v.reward * (n / 2)) * 25, rk = v.risk * 25 * n; E4 = ['Now we reveal what happened.', `Price returns to the FVG. The ${fmt(v.entry)} order is filled.`, `TP1 at ${fmt(v.tp1)} is reached. Half the position is closed, and the stop on the remainder moves to the entry price.`, `Price continues to ${fmt(v.tp)}. The remaining position is closed at the final target.`, `The gross result is ${RMe(g)} against an initial risk of ${RMe(rk)}, which is ${rrTxt(g / rk)} R. Partials reduce the result compared with holding everything, but lock in part of the profit earlier.`]; }
+    if (v.kind === 'nofill') E4 = ['Now we reveal what happened.', `Price does not return to the FVG. The ${fmt(v.entry)} order is not filled.`, `Price moves to ${fmt(v.tp)} without us. This is not a mistake: the entry condition was not met, so there is no trade.`, 'Chasing price after missing a setup worsens the entry location and the risk-to-reward.'];
+    if (o.outcomeExtra) E4 = E4.concat(o.outcomeExtraEn || o.outcomeExtra.map(() => null));
+    const zip = (ms, en) => ms.forEach((t, i) => { if (en[i]) ms[i] = { t, en: en[i] }; });
+    zip(cues1, E1); zip(cues2, E2); zip(cues3, E3); zip(cues4, E4);
 
     function chart(S, C, stage, ttl) {
       const pre = S.start - 2, A = (k, d = 0) => S.at(k, d), T = (st, k, d = 0) => stage > st ? pre : A(k, d);
