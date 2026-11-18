@@ -25,7 +25,7 @@ A motion-graphics video series (14 episodes) produced for Capital Market Institu
 
 | Deliverable | Location |
 |---|---|
-| Rendered episodes (1080p30, H.264/AAC) | `renders/epXX.mp4` (not stored in git — see below) |
+| Rendered episodes (1080p30, H.264/AAC) | `renders/epXX.mp4` |
 | Subtitles — Bahasa Melayu (burned in and as files) / English | `renders/epXX.ms.srt`, `renders/epXX.en.srt` |
 | Narration scripts (EN + BM, per cue, with timings) | `docs/scripts/epXX.md` |
 | Scene-by-scene storyboards | `docs/storyboards/epXX.md` |
