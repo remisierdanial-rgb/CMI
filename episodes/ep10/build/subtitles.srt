@@ -1,0 +1,483 @@
+1
+00:00:00,750 --> 00:00:05,566
+Selamat datang ke Video 10, subtopik kelima: Stop Loss dan Take Profit.
+
+2
+00:00:05,646 --> 00:00:12,301
+Stop-loss menentukan bila tesis kita salah. Take-profit menentukan ke mana kita jangka harga mungkin pergi.
+
+3
+00:00:12,381 --> 00:00:16,455
+Kita akan belajar stop-loss struktur, buffer dan invalidation.
+
+4
+00:00:16,535 --> 00:00:24,221
+Kemudian sasaran berasaskan liquidity, enam kaedah take-profit, dan dua animasi pengurusan dagangan: satu menang, satu kalah.
+
+5
+00:00:26,501 --> 00:00:34,465
+Apakah stop-loss? Stop-loss ialah order untuk menutup posisi apabila harga mencapai aras yang membatalkan tesis dagangan.
+
+6
+00:00:34,545 --> 00:00:40,155
+Ia perlu kerana tanpa stop, satu kerugian boleh menjadi terlalu besar untuk akaun.
+
+7
+00:00:40,235 --> 00:00:48,051
+Stop-loss bukan margin. Margin ialah deposit jaminan. Stop-loss menentukan kerugian yang dirancang.
+
+8
+00:00:48,131 --> 00:00:56,868
+Jarak stop dalam mata tidak sama dengan risiko dalam ringgit. Risiko ialah jarak darab 25 ringgit darab bilangan kontrak.
+
+9
+00:00:56,948 --> 00:01:02,732
+Stop-loss mesti mencerminkan invalidation, bukan nombor arbitrari seperti sepuluh mata untuk semua setup.
+
+10
+00:01:02,812 --> 00:01:07,088
+Dan tiada penempatan stop yang boleh menjamin perlindungan daripada gap atau slippage.
+
+11
+00:01:08,868 --> 00:01:12,583
+Lihat perbezaan antara stop yang dirancang dan harga isian sebenar.
+
+12
+00:01:12,663 --> 00:01:19,129
+Pelan: stop pada 4,490, iaitu kerugian 10 mata, atau RM250.
+
+13
+00:01:19,209 --> 00:01:28,364
+Dalam pasaran yang pantas, order stop mungkin terisi pada 4,486. Slippage 4 mata menjadikan kerugian RM350.
+
+14
+00:01:28,444 --> 00:01:36,360
+Jika harga dibuka dengan gap pada 4,478, kerugian menjadi 22 mata, iaitu RM550.
+
+15
+00:01:36,440 --> 00:01:40,851
+Oleh itu, saiz posisi perlu meninggalkan ruang untuk keadaan pelaksanaan yang realistik.
+
+16
+00:01:42,631 --> 00:01:46,498
+Stop-loss struktur. Lima pendekatan.
+
+17
+00:01:46,578 --> 00:01:53,619
+Untuk setup bullish, di bawah swing low yang relevan. Untuk setup bearish, di atas swing high yang relevan.
+
+18
+00:01:53,699 --> 00:01:56,882
+Di luar sempadan invalidation POI yang dipilih.
+
+19
+00:01:56,962 --> 00:02:01,567
+Di luar ekstrem liquidity sweep yang bermakna, seperti dalam semua contoh kita.
+
+20
+00:02:01,647 --> 00:02:05,127
+Atau di luar aras struktur yang diperlukan oleh model trading anda.
+
+21
+00:02:05,207 --> 00:02:11,095
+Penempatan stop bergantung pada setup. Jangan gunakan lokasi stop yang sama untuk setiap setup.
+
+22
+00:02:12,875 --> 00:02:15,997
+Buffer ialah jarak tambahan di luar aras struktur.
+
+23
+00:02:16,077 --> 00:02:22,890
+Pedagang menggunakan buffer kerana volatiliti, saiz tick, spread, slippage dan keadaan pelaksanaan.
+
+24
+00:02:22,970 --> 00:02:35,432
+Dengan buffer satu mata di bawah low sweep 4,491, stop pada 4,490. Risiko 10 mata, RM250, jadi dua kontrak.
+
+25
+00:02:35,512 --> 00:02:46,439
+Dengan buffer arbitrari 10 mata, stop pada 4,481. Risiko 19 mata, RM475, jadi hanya satu kontrak.
+
+26
+00:02:46,519 --> 00:02:57,797
+Buffer yang besar tidak semestinya lebih selamat. Ia mengurangkan saiz posisi dan RR. Apa pun saiznya, buffer mesti dimasukkan dalam pengiraan saiz posisi.
+
+27
+00:02:59,577 --> 00:03:02,846
+Invalidation: apakah yang membatalkan tesis asal?
+
+28
+00:03:02,926 --> 00:03:12,977
+Di kiri, wick sementara menembusi aras, tetapi harga ditutup semula dan diterima di atasnya. Bagi sesetengah model, ini belum membatalkan tesis.
+
+29
+00:03:13,057 --> 00:03:20,086
+Di kanan, harga ditutup dan diterima di bawah zon. Struktur yang menyokong tesis telah dipecahkan.
+
+30
+00:03:20,166 --> 00:03:27,951
+Invalidation timeframe tinggi dan rendah juga berbeza. Kriteria invalidation mesti ditetapkan sebelum entry.
+
+31
+00:03:29,731 --> 00:03:35,949
+Satu peraturan yang tidak boleh dilanggar: jangan alihkan stop-loss lebih jauh semata-mata untuk mengelak daripada mengambil kerugian.
+
+32
+00:03:36,029 --> 00:03:48,816
+Mengalihkan stop dari 4,490 ke 4,470 menukar risiko daripada 10 mata kepada 30 mata, iaitu tiga kali ganda, daripada RM250 kepada RM750 setiap kontrak.
+
+33
+00:03:48,896 --> 00:03:54,247
+Stop yang dilebarkan bukan pengurusan risiko. Ia ialah pelan baharu yang dibuat oleh emosi.
+
+34
+00:03:56,027 --> 00:04:01,720
+Sekarang take-profit. Take-profit ialah aras di mana posisi ditutup dengan keuntungan.
+
+35
+00:04:01,800 --> 00:04:08,399
+Sasaran mesti ditetapkan sebelum entry, supaya risk-to-reward boleh dikira dan keputusan tidak dibuat oleh emosi.
+
+36
+00:04:08,479 --> 00:04:17,211
+Sasaran tetap menggunakan jarak tertentu, contohnya 2R. Sasaran berasaskan struktur atau liquidity menggunakan aras pasaran yang logik.
+
+37
+00:04:17,291 --> 00:04:22,078
+Dalam SOP CMI, setiap sasaran mesti mempunyai rujukan pasaran yang boleh dijelaskan.
+
+38
+00:04:23,858 --> 00:04:26,192
+Rujukan sasaran berasaskan liquidity.
+
+39
+00:04:26,272 --> 00:04:31,155
+Buy-Side dan Sell-Side Liquidity. Equal Highs dan Equal Lows.
+
+40
+00:04:31,235 --> 00:04:35,920
+Previous Day High dan Low. Previous Week High dan Low.
+
+41
+00:04:36,000 --> 00:04:38,392
+Swing high dan swing low utama.
+
+42
+00:04:38,472 --> 00:04:42,581
+Liquidity bertentangan, dan aras struktur timeframe tinggi yang relevan.
+
+43
+00:04:42,661 --> 00:04:48,244
+Ingat, aras liquidity ialah objektif yang berpotensi, bukan destinasi harga yang terjamin.
+
+44
+00:04:50,024 --> 00:04:52,882
+Pemilihan sasaran untuk setup bullish dan bearish.
+
+45
+00:04:52,962 --> 00:05:01,489
+Untuk long, sasaran pertama ialah liquidity bertentangan yang terdekat, contohnya Equal Highs. Sasaran kedua mungkin PDH.
+
+46
+00:05:01,569 --> 00:05:07,807
+Untuk short, sasaran ialah Sell-Side Liquidity di bawah, contohnya Equal Lows, kemudian PDL.
+
+47
+00:05:07,887 --> 00:05:14,896
+Periksa juga halangan: jika ada liquidity bertentangan yang sangat dekat dengan entry, ruang ganjaran mungkin tidak mencukupi.
+
+48
+00:05:16,676 --> 00:05:18,523
+Enam kaedah take-profit.
+
+49
+00:05:18,603 --> 00:05:29,587
+Satu, sasaran tetap: mudah diuji, tetapi tidak mengikut struktur. Dua, sasaran liquidity: mempunyai rujukan pasaran, tetapi harga mungkin berbalik sebelum sampai.
+
+50
+00:05:29,667 --> 00:05:34,778
+Tiga, partial: mengunci sebahagian keuntungan, tetapi mengurangkan RR yang direalisasikan.
+
+51
+00:05:34,858 --> 00:05:41,020
+Empat, trailing stop: membiarkan pergerakan besar berjalan, tetapi boleh keluar terlalu awal ketika retracement.
+
+52
+00:05:41,100 --> 00:05:51,272
+Lima, exit berasaskan struktur: keluar apabila struktur berlawanan muncul. Enam, exit berasaskan masa: keluar selepas tempoh tertentu atau pada akhir sesi.
+
+53
+00:05:51,352 --> 00:05:55,686
+Setiap kaedah mengubah RR yang direalisasikan, dan sesuai untuk keadaan yang berbeza.
+
+54
+00:05:57,466 --> 00:06:10,325
+Animasi pengurusan dagangan penuh. Kita gunakan dua kontrak supaya partial boleh ditunjukkan: entry, stop awal, TP1, partial, pelarasan stop, TP2 dan exit akhir.
+
+55
+00:06:10,405 --> 00:06:17,446
+Carta 15M menunjukkan POI bullish di sekitar 4,488 hingga 4,496.
+
+56
+00:06:17,526 --> 00:06:23,825
+Di atas, dua high pada 4,520 membentuk Equal Highs, iaitu potensi Buy-Side Liquidity.
+
+57
+00:06:23,905 --> 00:06:32,053
+Di bawah, dua low pada 4,494 membentuk Equal Lows, potensi Sell-Side Liquidity, yang terletak di dalam POI.
+
+58
+00:06:32,133 --> 00:06:39,662
+Struktur dalaman pada carta 5M masih bearish. Lower high terakhir berada pada 4,503.
+
+59
+00:06:39,742 --> 00:06:47,078
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+60
+00:06:49,258 --> 00:06:58,090
+Candle seterusnya turun ke 4,491, melepasi Equal Lows, kemudian ditutup semula di atas 4,494.
+
+61
+00:06:58,170 --> 00:07:03,725
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+62
+00:07:03,805 --> 00:07:15,126
+Kemudian candle bullish yang besar ditutup pada 4,508, menembusi lower high 4,503. Ini potensi bullish MSS, disertai displacement.
+
+63
+00:07:15,206 --> 00:07:21,931
+Displacement ini meninggalkan Fair Value Gap antara 4,498 dan 4,502.
+
+64
+00:07:22,011 --> 00:07:28,753
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+65
+00:07:31,133 --> 00:07:34,124
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+66
+00:07:34,204 --> 00:07:41,080
+Entry beli bersyarat pada 4,500, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+67
+00:07:41,160 --> 00:07:50,347
+Stop-loss pada 4,490, di bawah ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bullish dianggap tidak sah.
+
+68
+00:07:50,427 --> 00:08:02,144
+TP1 pada 4,510, iaitu 1R, untuk partial. Sasaran akhir pada 4,530, iaitu liquidity bertentangan seterusnya, 3R.
+
+69
+00:08:02,224 --> 00:08:09,018
+Risiko 10 mata, potensi ganjaran 30 mata. Gross risk-to-reward ialah 3 berbanding 1.
+
+70
+00:08:09,098 --> 00:08:17,526
+Dengan 2 kontrak, risiko kasar RM500 dan potensi ganjaran kasar RM1,500, sebelum kos dan slippage.
+
+71
+00:08:17,606 --> 00:08:23,554
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+72
+00:08:25,934 --> 00:08:27,716
+Sekarang kita dedahkan apa yang berlaku.
+
+73
+00:08:27,796 --> 00:08:33,291
+Harga kembali ke FVG. Order 4,500 terisi.
+
+74
+00:08:33,371 --> 00:08:42,183
+TP1 4,510 tercapai. Separuh posisi ditutup, dan stop-loss baki posisi dialihkan ke harga entry.
+
+75
+00:08:42,263 --> 00:08:48,932
+Harga meneruskan pergerakan ke 4,530. Baki posisi ditutup di sasaran akhir.
+
+76
+00:08:49,012 --> 00:08:59,541
+Hasil kasar RM1,000 berbanding risiko awal RM500, iaitu 2R. Partial mengurangkan hasil berbanding memegang semua posisi, tetapi mengunci sebahagian keuntungan lebih awal.
+
+77
+00:09:01,921 --> 00:09:09,488
+Sekarang contoh di mana harga mencapai stop-loss sebelum sasaran. Setup bearish ini kelihatan sama baiknya dengan contoh sebelum ini.
+
+78
+00:09:09,568 --> 00:09:16,300
+Carta 15M menunjukkan POI bearish di sekitar 4,580 hingga 4,589.
+
+79
+00:09:16,380 --> 00:09:22,949
+Di bawah, dua low pada 4,551 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity.
+
+80
+00:09:23,029 --> 00:09:31,272
+Di atas, dua high pada 4,582 membentuk Equal Highs, potensi Buy-Side Liquidity, yang terletak di dalam POI.
+
+81
+00:09:31,352 --> 00:09:39,166
+Struktur dalaman pada carta 5M masih bullish. Higher low terakhir berada pada 4,571.
+
+82
+00:09:39,246 --> 00:09:46,583
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+83
+00:09:48,763 --> 00:09:57,798
+Candle seterusnya naik ke 4,586, melepasi Equal Highs, kemudian ditutup semula di bawah 4,582.
+
+84
+00:09:57,878 --> 00:10:03,433
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+85
+00:10:03,513 --> 00:10:15,752
+Kemudian candle bearish yang besar ditutup pada 4,565, menembusi higher low 4,571. Ini potensi bearish MSS, disertai displacement.
+
+86
+00:10:15,832 --> 00:10:23,222
+Displacement ini meninggalkan Fair Value Gap antara 4,573 dan 4,577.
+
+87
+00:10:23,302 --> 00:10:30,044
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+88
+00:10:32,424 --> 00:10:35,416
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+89
+00:10:35,496 --> 00:10:43,332
+Entry jual bersyarat pada 4,575, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+90
+00:10:43,412 --> 00:10:52,834
+Stop-loss pada 4,587, di atas ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bearish dianggap tidak sah.
+
+91
+00:10:52,914 --> 00:11:00,045
+Sasaran pada 4,551, Equal Lows, iaitu potensi Sell-Side Liquidity di arah bertentangan.
+
+92
+00:11:00,125 --> 00:11:07,157
+Risiko 12 mata, potensi ganjaran 24 mata. Gross risk-to-reward ialah 2 berbanding 1.
+
+93
+00:11:07,237 --> 00:11:15,039
+Dengan 1 kontrak, risiko kasar RM300 dan potensi ganjaran kasar RM600, sebelum kos dan slippage.
+
+94
+00:11:15,119 --> 00:11:21,067
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+95
+00:11:23,447 --> 00:11:25,229
+Sekarang kita dedahkan apa yang berlaku.
+
+96
+00:11:25,309 --> 00:11:31,499
+Harga kembali ke FVG. Order 4,575 terisi.
+
+97
+00:11:31,579 --> 00:11:42,489
+Namun harga terus naik dan mencapai stop-loss 4,587. Kerugian 12 mata setiap kontrak, iaitu satu R, RM300 kasar.
+
+98
+00:11:42,569 --> 00:11:49,465
+Pelan diikuti dan kerugian dikawal. Ia direkod dalam jurnal, bukan dibalas dengan dagangan dendam.
+
+99
+00:11:49,545 --> 00:11:57,383
+Kerugian adalah sebahagian normal trading. Tujuan pengurusan risiko ialah mengawal pendedahan, bukan menghapuskan semua kerugian.
+
+100
+00:11:59,763 --> 00:12:12,043
+Contoh FCPO hipotetikal. Long entry 4,500, stop-loss struktur 4,490, dan sasaran awal 4,520.
+
+101
+00:12:12,123 --> 00:12:20,177
+Jarak stop 10 mata. Jarak sasaran 20 mata. Gross reward-to-risk ialah 2 berbanding 1.
+
+102
+00:12:20,257 --> 00:12:34,449
+Untuk kontrak standard FCPO 25 tan metrik, satu mata bernilai RM25 setiap kontrak. Pergerakan 10 mata yang merugikan bernilai RM250, dan pergerakan 20 mata yang menguntungkan bernilai RM500.
+
+103
+00:12:34,529 --> 00:12:46,623
+Ini pengiraan pergerakan harga kasar, sebelum brokerage, yuran bursa, cukai jika berkaitan, slippage dan kos lain. Hasil sebenar mungkin berbeza disebabkan pelaksanaan.
+
+104
+00:12:48,403 --> 00:12:52,698
+Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.
+
+105
+00:12:52,778 --> 00:12:57,267
+Soalan satu: kenapa stop-loss perlu berasaskan invalidation yang ditetapkan lebih awal?
+
+106
+00:12:57,347 --> 00:13:03,581
+Jawapan: supaya stop menandakan di mana tesis salah, dan saiz posisi boleh dikira sebelum entry.
+
+107
+00:13:03,661 --> 00:13:06,863
+Soalan dua: bagaimana liquidity digunakan untuk sasaran?
+
+108
+00:13:06,943 --> 00:13:16,677
+Jawapan: gunakan liquidity bertentangan, seperti Equal Highs, Equal Lows, PDH atau PDL, sebagai objektif yang berpotensi, bukan terjamin.
+
+109
+00:13:16,757 --> 00:13:20,303
+Soalan tiga: adakah buffer yang lebih besar secara automatik lebih selamat?
+
+110
+00:13:20,383 --> 00:13:30,102
+Jawapan: tidak. Ia menambah risiko ringgit setiap kontrak, dan mengurangkan saiz serta RR. Masukkan buffer dalam pengiraan saiz.
+
+111
+00:13:32,282 --> 00:13:33,493
+Ringkasnya.
+
+112
+00:13:33,573 --> 00:13:38,934
+Stop-loss ialah invalidation struktur yang ditetapkan lebih awal. Jangan sekali-kali melebarkannya.
+
+113
+00:13:39,014 --> 00:13:41,706
+Buffer dan slippage ialah sebahagian daripada risiko ringgit.
+
+114
+00:13:41,786 --> 00:13:47,987
+Sasaran memerlukan rujukan pasaran. Liquidity ialah objektif berpotensi, bukan terjamin.
+
+115
+00:13:48,067 --> 00:13:53,957
+Enam kaedah take-profit, setiap satu mengubah RR yang direalisasikan. Kerugian adalah normal.
+
+116
+00:13:55,737 --> 00:13:57,939
+Latihan untuk video ini.
+
+117
+00:13:58,019 --> 00:14:14,113
+Latihan lima: long dari FVG 4,498 hingga 4,502, low sweep 4,491. Di mana invalidation, di mana stop dengan buffer satu mata, dan berapa risikonya dalam ringgit?
+
+118
+00:14:14,193 --> 00:14:28,199
+Latihan enam: long dari 4,500, dengan Equal Highs pada 4,520 dan PDH pada 4,560. Pilih TP1 dan TP2, dan beri justifikasi.
+
+119
+00:14:29,979 --> 00:14:39,890
+Dalam Video 11, subtopik keenam: Risk-to-Reward, win rate, expectancy, kos, saiz posisi, dan perbezaan margin dengan risiko.
+
+120
+00:14:42,470 --> 00:14:45,373
+Rujukan untuk video ini dipaparkan di skrin.
+
+121
+00:14:49,153 --> 00:14:54,212
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 11.
