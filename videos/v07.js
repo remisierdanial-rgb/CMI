@@ -74,9 +74,9 @@ VIDEO({
     for(let d=1;d<=30;d++){const i=d-1;const is15=d===15;
       const el=S.add(`<div style="display:flex;align-items:center;justify-content:center;border-radius:8px;font:600 26px var(--mono);border:1px solid ${is15?'var(--blue2)':'var(--line)'};background:${is15?'rgba(37,99,235,.35)':'transparent'};color:${is15?'#fff':'var(--slate2)'}">${d}</div>`,{parent:cal,x:30+(i%7)*160,y:80+Math.floor(i/7)*92,w:140,h:76,at:S.c(1,.3)+i*.03,anim:'fade'});
     }
-    S.add(`<div class="chip blue" style="font-size:22px">Last trading day*</div>`,{parent:cal,x:200,y:170,at:S.c(1,3),anim:'pop'});
+    S.add(`<div class="chip blue" style="font-size:22px;position:static;display:inline-block">15 = Last trading day*</div>`,{parent:cal,x:900,y:20,at:S.c(1,3),anim:'pop'});
     S.add(`<div class="small" style="width:500px">*atau hari bekerja sebelumnya</div>`,{parent:cal,x:30,y:520,at:S.c(1,6)});
-    S.add(`<div class="tag warn" style="font-size:20px">Broker mungkin tetapkan had lebih awal</div>`,{x:110,y:680,at:S.c(2,3.5),anim:'pop'});
+    S.add(`<div class="tag warn" style="font-size:16px">Broker mungkin tetapkan had lebih awal</div>`,{x:110,y:680,at:S.c(2,3.5),anim:'pop'});
     S.add(`<div class="small" style="width:500px">Sahkan dengan spesifikasi rasmi Bursa & notis broker</div>`,{x:110,y:750,at:S.c(2,1)});
   }},
   {id:'prices',label:'HARGA BERBEZA',lines:[
@@ -112,12 +112,12 @@ VIDEO({
     S.step(S.c(1,3),on=>B.classList.toggle('hl',on));
     const tok=S.add(`<div class="chip up" style="font-size:28px">LONG × 1</div>`,{x:390,y:250,at:S.c(0,2),anim:'pop'});
     S.tween(S.c(1,2.6),1.4,p=>{tok.style.left=(390+960*p)+'px';tok.style.top=(250-80*Math.sin(Math.PI*p))+'px';});
-    S.add(`<div class="tag down" style="font-size:22px">SELL to close @ 4,000</div>`,{x:300,y:630,at:S.c(1,.8),anim:'pop'});
-    S.add(`<div class="tag up" style="font-size:22px">BUY to open @ 4,025</div>`,{x:1270,y:630,at:S.c(1,3.6),anim:'pop'});
-    S.add(`<div class="card" style="padding:22px 30px;text-align:center"><div style="font:700 30px var(--mono)"><s class="dim">−RM625</s> &nbsp; Beza RM25 ≠ rugi</div></div>`,{x:610,y:450,w:700,at:S.c(2,.6),anim:'pop'});
-    S.add(`<div class="tag blue" style="font-size:20px">P&L NOV direalisasi semasa ditutup</div>`,{x:200,y:740,at:S.c(3,.4),anim:'pop'});
-    S.add(`<div class="tag blue" style="font-size:20px">P&L seterusnya ikut pergerakan DEC</div>`,{x:820,y:740,at:S.c(3,3),anim:'pop'});
-    S.add(`<div class="tag warn" style="font-size:20px">2 × kos transaksi</div>`,{x:1460,y:740,at:S.c(3,6),anim:'pop'});
+    S.add(`<div class="tag down" style="font-size:22px">SELL to close @ 4,000</div>`,{x:300,y:620,at:S.c(1,.8),anim:'pop'});
+    S.add(`<div class="tag up" style="font-size:22px">BUY to open @ 4,025</div>`,{x:1270,y:620,at:S.c(1,3.6),anim:'pop'});
+    S.add(`<div class="card" style="padding:22px 30px;text-align:center"><div style="font:700 30px var(--mono)"><s class="dim">−RM625</s> &nbsp; Beza RM25 ≠ rugi</div></div>`,{x:610,y:690,w:700,at:S.c(2,.6),anim:'pop'});
+    S.add(`<div class="tag blue" style="font-size:20px">P&L NOV direalisasi semasa ditutup</div>`,{x:200,y:810,at:S.c(3,.4),anim:'pop'});
+    S.add(`<div class="tag blue" style="font-size:20px">P&L seterusnya ikut pergerakan DEC</div>`,{x:820,y:810,at:S.c(3,3),anim:'pop'});
+    S.add(`<div class="tag warn" style="font-size:20px">2 × kos transaksi</div>`,{x:1460,y:810,at:S.c(3,6),anim:'pop'});
   }},
   {id:'liquidity',label:'PERPINDAHAN KECAIRAN',lines:[
     ['Traders roll over to keep their exposure, and to avoid holding a position into the delivery process.','Trader melakukan rollover untuk mengekalkan pendedahan, dan untuk mengelak memegang posisi hingga ke proses penghantaran.'],

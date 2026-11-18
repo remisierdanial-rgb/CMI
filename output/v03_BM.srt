@@ -1,0 +1,191 @@
+1
+00:00:03,900 --> 00:00:10,124
+Adakah anda tahu dalam futures, anda boleh mengambil peluang apabila harga naik mahupun turun?
+
+2
+00:00:10,614 --> 00:00:15,110
+Mari lihat bagaimana ia berfungsi, dan mengapa kedua-dua arah tetap mempunyai risiko.
+
+3
+00:00:16,760 --> 00:00:23,896
+Dalam video ini, kita terangkan posisi long dan short menggunakan FCPO, serta cara untung dan rugi dikira.
+
+4
+00:00:26,346 --> 00:00:32,786
+Long position bermaksud anda membeli dahulu, menjangkakan harga naik, dan menjual kemudian untuk menutup posisi.
+
+5
+00:00:32,876 --> 00:00:39,058
+Contoh: FCPO pada RM4,000 setiap tan metrik. Anda membeli satu kontrak.
+
+6
+00:00:39,058 --> 00:00:44,620
+Harga naik ke RM4,020, dan anda menjual untuk menutup posisi.
+
+7
+00:00:44,710 --> 00:00:55,326
+Satu kontrak FCPO mewakili 25 tan metrik. Jadi pergerakan RM20 ialah RM20 darab 25, iaitu RM500 untung kasar.
+
+8
+00:00:57,176 --> 00:01:01,455
+Short position adalah sebaliknya: anda menjual dahulu, menjangkakan harga turun,
+
+9
+00:01:01,455 --> 00:01:03,952
+dan membeli kemudian untuk menutup posisi.
+
+10
+00:01:04,042 --> 00:01:07,486
+Anda tidak perlu memiliki minyak sawit untuk menjual dahulu.
+
+11
+00:01:07,486 --> 00:01:11,754
+Anda memasuki obligasi kontrak, yang ditutup dengan membelinya semula.
+
+12
+00:01:11,844 --> 00:01:19,596
+Jual satu kontrak pada RM4,000. Harga turun ke RM3,980, dan anda membeli semula.
+
+13
+00:01:19,596 --> 00:01:24,884
+Sekali lagi, RM20 darab 25 ialah RM500 untung kasar.
+
+14
+00:01:26,734 --> 00:01:28,806
+Ini perbandingannya secara bersebelahan.
+
+15
+00:01:28,896 --> 00:01:35,288
+Long bersifat bullish: beli dahulu, jual kemudian. Short bersifat bearish: jual dahulu, beli kemudian.
+
+16
+00:01:35,378 --> 00:01:40,084
+Ini boleh berlaku kerana setiap dagangan futures ialah perjanjian antara pembeli dan penjual.
+
+17
+00:01:40,084 --> 00:01:43,522
+Mengambil posisi short adalah sama standard dengan posisi long.
+
+18
+00:01:45,372 --> 00:01:47,444
+Sekarang, lihat sisi sebaliknya.
+
+19
+00:01:47,534 --> 00:01:58,222
+Jika anda long pada RM4,000 dan harga turun ke RM3,980, anda rugi RM20 darab 25, iaitu RM500.
+
+20
+00:01:58,312 --> 00:02:07,080
+Jika anda short pada RM4,000 dan harga naik ke RM4,020, anda juga rugi RM500.
+
+21
+00:02:07,170 --> 00:02:12,794
+Pergerakan RM20 yang sama yang memberi untung kepada satu posisi, memberi rugi kepada posisi yang lain.
+
+22
+00:02:14,644 --> 00:02:16,716
+Jadi, inilah formula mudahnya.
+
+23
+00:02:16,806 --> 00:02:24,086
+Bagi long position: harga keluar tolak harga masuk, darab 25, darab bilangan kontrak.
+
+24
+00:02:24,176 --> 00:02:31,360
+Bagi short position: harga masuk tolak harga keluar, darab 25, darab bilangan kontrak.
+
+25
+00:02:31,450 --> 00:02:36,426
+Ini ialah angka kasar, sebelum yuran broker, bursa dan clearing.
+
+26
+00:02:38,276 --> 00:02:41,908
+Dua lagi istilah: membuka dan menutup posisi.
+
+27
+00:02:41,998 --> 00:02:47,646
+Membuka posisi bermaksud memasuki dagangan: beli untuk membuka long, atau jual untuk membuka short.
+
+28
+00:02:47,736 --> 00:02:53,347
+Menutup posisi bermaksud membuat dagangan bertentangan dalam bulan kontrak yang sama: jual untuk menutup long,
+
+29
+00:02:53,347 --> 00:02:54,872
+beli untuk menutup short.
+
+30
+00:02:54,962 --> 00:03:00,826
+Selagi belum ditutup, posisi kekal terbuka, dan nilainya berubah mengikut setiap pergerakan harga.
+
+31
+00:03:02,676 --> 00:03:09,068
+Satu perkara terakhir yang sangat penting: arah pasaran yang betul tidak menjamin dagangan yang menguntungkan.
+
+32
+00:03:09,158 --> 00:03:14,302
+Di sini, harga naik secara keseluruhan dari RM4,000 ke RM4,030.
+
+33
+00:03:14,302 --> 00:03:20,758
+Tetapi seorang trader membeli lewat, pada RM4,035, berhampiran paras tinggi.
+
+34
+00:03:20,848 --> 00:03:26,556
+Harga kemudian berundur, dan trader keluar pada RM4,012.
+
+35
+00:03:26,556 --> 00:03:33,432
+Itu tolak RM23 darab 25, iaitu rugi RM575, walaupun pasaran naik.
+
+36
+00:03:33,522 --> 00:03:39,842
+Harga masuk dan keluar, pelaksanaan pesanan, dan kos transaksi semuanya mempengaruhi keputusan akhir.
+
+37
+00:03:41,692 --> 00:03:45,348
+Long bermaksud beli dahulu, menjangkakan harga naik.
+
+38
+00:03:45,438 --> 00:03:49,070
+Short bermaksud jual dahulu, menjangkakan harga turun.
+
+39
+00:03:49,160 --> 00:03:55,240
+Bagi FCPO, setiap pergerakan RM1 setan bernilai RM25 bagi setiap kontrak.
+
+40
+00:03:55,330 --> 00:03:59,370
+Pergerakan yang sama memberi untung kepada satu pihak dan rugi kepada pihak lain.
+
+41
+00:03:59,460 --> 00:04:03,308
+Posisi kekal terbuka sehingga ditutup dengan dagangan bertentangan.
+
+42
+00:04:03,398 --> 00:04:06,742
+Arah yang betul sahaja tidak menjamin keuntungan.
+
+43
+00:04:17,162 --> 00:04:21,178
+Ini baru asas untuk memahami pasaran niaga hadapan.
+
+44
+00:04:21,268 --> 00:04:24,516
+Kenali produk yang anda dagangkan sebelum mengambil sebarang risiko.
+
+45
+00:04:24,606 --> 00:04:27,926
+Teruskan pembelajaran anda bersama Capital Market Institute.
+
+46
+00:04:29,576 --> 00:04:35,488
+Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.
+
+47
+00:04:38,138 --> 00:04:43,439
+Untuk tujuan pendidikan sahaja. Ini bukan nasihat kewangan atau jaminan keuntungan.
+
+48
+00:04:43,439 --> 00:04:47,266
+Dagangan futures melibatkan risiko kerugian yang tinggi.

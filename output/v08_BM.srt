@@ -1,0 +1,167 @@
+1
+00:00:03,900 --> 00:00:08,612
+Kenapa pergerakan harga FCPO pada waktu malam boleh dipengaruhi oleh pasaran luar negara?
+
+2
+00:00:09,102 --> 00:00:14,774
+Kerana ketika Malaysia berdagang dalam sesi malam, pasaran komoditi utama lain juga sedang dibuka.
+
+3
+00:00:16,424 --> 00:00:22,864
+Dalam video ini, kita lalui hari dagangan FCPO, dan bagaimana pasaran di seluruh dunia boleh mempengaruhinya.
+
+4
+00:00:25,314 --> 00:00:29,546
+FCPO didagangkan dalam tiga sesi, semuanya mengikut waktu Malaysia.
+
+5
+00:00:29,636 --> 00:00:38,140
+Sesi pagi bermula 10:30 pagi hingga 12:30 tengah hari. Sesi petang bermula 2:30 petang hingga 6:00 petang.
+
+6
+00:00:38,230 --> 00:00:44,838
+Kemudian ada sesi selepas waktu, dikenali sebagai T+1, dari 9:00 malam hingga 11:30 malam.
+
+7
+00:00:46,688 --> 00:00:51,832
+Sesi pagi dan petang berjalan pada hari dagangan Bursa, Isnin hingga Jumaat.
+
+8
+00:00:51,922 --> 00:00:58,578
+Sesi selepas waktu berjalan pada malam Isnin hingga Khamis. Tiada sesi T+1 pada malam Jumaat.
+
+9
+00:00:58,668 --> 00:01:05,444
+Cuti umum dan jadual khas terpakai, jadi sentiasa semak kalendar dagangan Bursa dan notis broker anda.
+
+10
+00:01:07,294 --> 00:01:10,998
+Jadi, apa maksud T+1? T bermaksud tarikh dagangan.
+
+11
+00:01:11,088 --> 00:01:16,237
+Dagangan yang dibuat dalam sesi selepas waktu dianggap sebagai dagangan hari dagangan berikutnya.
+
+12
+00:01:16,237 --> 00:01:20,096
+Dagangan pada 10 malam Selasa direkodkan sebagai dagangan hari Rabu.
+
+13
+00:01:20,186 --> 00:01:24,202
+Ini penting untuk clearing, margin dan penyata harian anda.
+
+14
+00:01:26,052 --> 00:01:32,444
+Mengapa sesi penting? Kerana aktiviti dagangan dan volatiliti boleh berbeza antara satu sesi dengan sesi lain.
+
+15
+00:01:32,534 --> 00:01:37,513
+Di antara sesi, ketika rehat tengah hari dan waktu malam, berita masih boleh muncul.
+
+16
+00:01:37,513 --> 00:01:42,742
+Apabila dagangan disambung, harga mungkin dibuka pada paras berbeza, mewujudkan gap.
+
+17
+00:01:42,832 --> 00:01:46,824
+Mengetahui sesi dagangan membantu anda merancang pesanan dan mengurus risiko.
+
+18
+00:01:48,674 --> 00:01:55,498
+FCPO tidak didagangkan secara terasing. Beberapa pasaran global diperhatikan rapat oleh trader minyak sawit.
+
+19
+00:01:55,588 --> 00:02:01,538
+Di China, Dalian Commodity Exchange mendagangkan futures minyak soya dan palm olein.
+
+20
+00:02:01,538 --> 00:02:04,692
+China ialah pembeli utama minyak sayuran.
+
+21
+00:02:04,782 --> 00:02:09,942
+Di Amerika Syarikat, Chicago Board of Trade mendagangkan minyak soya dan kacang soya.
+
+22
+00:02:09,942 --> 00:02:14,078
+Minyak soya bersaing dengan minyak sawit sebagai minyak sayuran.
+
+23
+00:02:14,168 --> 00:02:18,956
+Minyak mentah juga penting, kerana minyak sawit turut digunakan untuk menghasilkan biodiesel.
+
+24
+00:02:18,956 --> 00:02:20,037
+Ringgit juga penting,
+
+25
+00:02:20,037 --> 00:02:25,384
+kerana FCPO berharga dalam ringgit sedangkan minyak sawit diperdagangkan di peringkat antarabangsa.
+
+26
+00:02:27,234 --> 00:02:33,986
+Begini ia boleh berlaku. Sesi petang FCPO ditutup pada 6 petang, tetapi pasaran lain terus bergerak.
+
+27
+00:02:34,076 --> 00:02:38,837
+Berita dan pergerakan harga di luar negara boleh membentuk sentimen dalam sesi T+1,
+
+28
+00:02:38,837 --> 00:02:41,668
+dan apabila FCPO dibuka semula keesokan pagi.
+
+29
+00:02:41,758 --> 00:02:45,459
+Namun pasaran ini tidak semestinya bergerak dalam arah yang sama.
+
+30
+00:02:45,459 --> 00:02:52,086
+Faktor tempatan, seperti data pengeluaran dan eksport, cuaca dan ringgit, boleh menolak FCPO ke arah berlawanan.
+
+31
+00:02:53,936 --> 00:03:00,136
+FCPO mempunyai sesi pagi, sesi petang dan sesi selepas waktu T+1.
+
+32
+00:03:00,226 --> 00:03:04,122
+Dagangan selepas waktu dikira sebagai dagangan hari berikutnya.
+
+33
+00:03:04,212 --> 00:03:08,780
+Tiada sesi T+1 pada malam Jumaat, dan cuti umum terpakai.
+
+34
+00:03:08,870 --> 00:03:12,022
+Rehat antara sesi boleh menyebabkan gap harga.
+
+35
+00:03:12,112 --> 00:03:16,848
+Dalian, Chicago, minyak mentah dan ringgit boleh mempengaruhi sentimen.
+
+36
+00:03:16,938 --> 00:03:20,858
+Namun pasaran berkaitan tidak semestinya bergerak dalam arah yang sama.
+
+37
+00:03:32,862 --> 00:03:36,878
+Ini baru asas untuk memahami pasaran niaga hadapan.
+
+38
+00:03:36,968 --> 00:03:40,216
+Kenali produk yang anda dagangkan sebelum mengambil sebarang risiko.
+
+39
+00:03:40,306 --> 00:03:43,626
+Teruskan pembelajaran anda bersama Capital Market Institute.
+
+40
+00:03:45,276 --> 00:03:51,188
+Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.
+
+41
+00:03:53,838 --> 00:03:59,139
+Untuk tujuan pendidikan sahaja. Ini bukan nasihat kewangan atau jaminan keuntungan.
+
+42
+00:03:59,139 --> 00:04:02,966
+Dagangan futures melibatkan risiko kerugian yang tinggi.

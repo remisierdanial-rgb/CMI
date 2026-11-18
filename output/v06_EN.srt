@@ -1,0 +1,135 @@
+1
+00:00:03,900 --> 00:00:07,642
+What happens when trading losses keep shrinking your margin balance?
+
+2
+00:00:08,382 --> 00:00:13,804
+To answer that, we need to understand two levels: initial margin and maintenance margin.
+
+3
+00:00:15,704 --> 00:00:22,158
+In this video, we look inside a futures account: how margin works, and what happens when equity falls.
+
+4
+00:00:24,858 --> 00:00:33,064
+Margin is collateral. It is money you place in your account to support an open futures position, and to show you can meet your obligations.
+
+5
+00:00:33,404 --> 00:00:38,298
+It is not a fee, it is not a down payment, and it is not the maximum you can lose.
+
+6
+00:00:40,398 --> 00:00:48,556
+Initial margin is the amount required to open a position. In our example, it is RM8,000 per contract.
+
+7
+00:00:48,896 --> 00:00:57,342
+Maintenance margin is the minimum equity you must keep while the position is open. In our example, RM6,000.
+
+8
+00:00:57,682 --> 00:01:05,456
+These numbers are hypothetical. Actual requirements depend on clearing house requirements, market conditions and your broker's policy.
+
+9
+00:01:07,556 --> 00:01:13,698
+Every trading day, open positions are marked to market. They are revalued at the day's settlement price.
+
+10
+00:01:14,038 --> 00:01:20,516
+Gains are credited to your account and losses are debited. This daily cash flow is called variation margin.
+
+11
+00:01:20,856 --> 00:01:38,350
+Say you are long one contract. Day one, the price falls RM40: minus RM1,000. Day two, it rises RM20: plus RM500. Day three, it falls RM80: minus RM2,000.
+
+12
+00:01:38,690 --> 00:01:47,472
+In total, a loss of RM2,500. Equity falls from RM8,000 to RM5,500.
+
+13
+00:01:49,572 --> 00:01:52,522
+Now look at the same account on an equity dashboard.
+
+14
+00:01:52,862 --> 00:02:01,476
+RM5,500 is below the illustrative maintenance level of RM6,000. The warning line has been crossed.
+
+15
+00:02:03,576 --> 00:02:13,270
+This can trigger a margin call: a request to deposit more funds, often to bring equity back up to the initial margin level, depending on your broker's terms.
+
+16
+00:02:13,610 --> 00:02:19,968
+In our example, that would be RM2,500 to return to RM8,000.
+
+17
+00:02:20,308 --> 00:02:28,682
+If the call is not met in time, or the market moves sharply, the broker may reduce or close your positions. This is forced liquidation.
+
+18
+00:02:29,022 --> 00:02:35,596
+And remember: losses are not limited to your margin. If the account goes negative, you still owe the shortfall.
+
+19
+00:02:37,696 --> 00:02:43,934
+There are two layers of margin. The clearing house sets minimum margin requirements for its clearing participants.
+
+20
+00:02:44,274 --> 00:02:51,424
+Your broker may require more than that minimum from you, based on its own risk policy. What you pay is your broker's requirement.
+
+21
+00:02:53,524 --> 00:03:02,234
+Margin requirements are not fixed. The clearing house reviews them, and they can be raised or lowered, especially when volatility changes.
+
+22
+00:03:02,574 --> 00:03:08,692
+If margin rises, you may need more funds to hold the same position, even without making a new trade.
+
+23
+00:03:10,792 --> 00:03:13,718
+Margin is collateral that supports your position.
+
+24
+00:03:14,058 --> 00:03:19,072
+Initial margin opens a position; maintenance margin is the minimum to keep it.
+
+25
+00:03:19,412 --> 00:03:23,202
+Positions are marked to market daily, through variation margin.
+
+26
+00:03:23,542 --> 00:03:28,124
+Falling below maintenance can lead to a margin call, or forced liquidation.
+
+27
+00:03:28,464 --> 00:03:31,558
+Brokers may require more than the clearing house minimum.
+
+28
+00:03:31,898 --> 00:03:35,856
+Margin requirements can change, and losses can exceed margin.
+
+29
+00:03:37,156 --> 00:03:46,106
+Margin is not the maximum you can lose. It is collateral to support a futures position. Managing capital is every trader's responsibility.
+
+30
+00:03:48,206 --> 00:03:51,972
+This is only the foundation for understanding the futures market.
+
+31
+00:03:52,312 --> 00:03:55,310
+Know the product you trade before taking any risk.
+
+32
+00:03:55,650 --> 00:03:58,720
+Continue your learning with Capital Market Institute.
+
+33
+00:04:00,620 --> 00:04:06,282
+The references for this video are shown on screen. Always check the latest official specifications.
+
+34
+00:04:09,182 --> 00:04:18,060
+For educational purposes only. This is not financial advice, and it is not a guarantee of profit. Futures trading involves a high risk of loss.

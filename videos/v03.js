@@ -156,7 +156,7 @@ VIDEO({
   dir:'Chart: hypothetical FCPO rises 4,000 → 4,040, dips to 4,010, recovers to 4,030 (net up). Late BUY marker at 4,035 near top, exit marker at 4,012 in the dip; red result box −RM575 while a teal "Trend: naik" tag shows the overall direction. Line 4: three factor chips: Entry & exit · Execution · Transaction costs.',
   build(S){
     const ch=C.chart(S,{x:40,y:100,w:1260,h:760,n:48,pts:[[0,4000],[16,4040],[22,4036],[32,4010],[47,4030]],min:3990,max:4050,ticks:[3995,4005,4015,4025,4035,4045],at:S.c(1,.1),d:3,label:'FCPO · ilustrasi hipotetikal',seed:15,noise:.25});
-    S.add(`<div class="tag up" style="font-size:20px">Keseluruhan: 4,000 → 4,030 ▲</div>`,{parent:ch.wrap,x:30,y:680,at:S.c(1,3),anim:'pop'});
+    S.add(`<div class="tag up" style="font-size:20px">Keseluruhan: 4,000 → 4,030 ▲</div>`,{parent:ch.wrap,x:30,y:64,at:S.c(1,3),anim:'pop'});
     ch.marker(S,{i:19,price:4035,at:S.c(1,5),color:'#22C3A6',label:'BUY lewat 4,035',dy:-74});
     ch.marker(S,{i:31,price:4012,at:S.c(2,1.6),color:'#EF5B5B',label:'EXIT 4,012',dy:40});
     const p=C.card(S,{x:1340,y:100,w:540,h:760,at:S.c(0,.2)});

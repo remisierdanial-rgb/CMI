@@ -50,7 +50,7 @@ VIDEO({
     C.arrow(S,sv,{x1:820,y1:400,x2:1090,y2:515,at:S.c(2,.1),d:.5,head:false,color:'#2C3D60'});
     C.node(S,{x:1440,y:280,w:380,h:150,title:'Suruhanjaya Sekuriti',sub:'Regulator · SC Malaysia',icon:C.icon.shield(44),at:S.c(2,2.6)});
     C.arrow(S,sv,{x1:1630,y1:440,x2:1340,y2:600,at:S.c(2,3),d:.6,dash:'8 10',color:'#64748B',head:false});
-    ['Senarai kontrak','Tetapkan peraturan','Pasaran elektronik'].forEach((t,i)=>S.add(`<div class="tag blue" style="font-size:20px">${t}</div>`,{x:300+i*0,y:720+i*0,at:S.c(1,1+i*1.6),anim:'pop',style:{left:(300+i*240)+'px'}}));
+    ['Senarai kontrak','Tetapkan peraturan','Pasaran elektronik'].forEach((t,i)=>S.add(`<div class="tag blue" style="font-size:20px">${t}</div>`,{x:300+[0,280,620][i],y:720,at:S.c(1,1+i*1.6),anim:'pop'}));
   }},
   {id:'why',label:'MENGAPA BURSA WUJUD',lines:[
     ['Why do we need an exchange at all? Imagine every buyer having to find, and trust, every seller individually.','Mengapa kita perlukan bursa? Bayangkan setiap pembeli perlu mencari, dan mempercayai, setiap penjual secara individu.'],
@@ -147,7 +147,7 @@ VIDEO({
     cats.forEach((c,i)=>{
       const card=C.card(S,{x:110+i*580,y:290,w:540,h:300,at:S.c(0,.4+i*1.2)});
       S.add(`<div class="h3">${c[0]}</div><div class="small" style="margin-top:6px">${c[1]}</div>`,{parent:card,x:30,y:26});
-      c[2].forEach((p,j)=>{const at=p==='FCPO'?S.c(2,.2):(p==='FKLI'?S.c(1,1.4):(p==='FUPO'?S.c(1,4.3):S.c(0,1.2+i*1.2)));S.add(`<div class="tag ${p==='FCPO'?'blue':''}" style="font-size:24px;padding:10px 18px">${p}</div>`,{parent:card,x:30+j*200,y:150,at,anim:'pop'});});
+      c[2].forEach((p,j)=>{const at=p==='FCPO'?S.c(2,.2):(p==='FKLI'?S.c(1,1.4):(p==='FUPO'?S.c(1,4.3):S.c(0,1.2+i*1.2)));S.add(`<div class="tag ${p==='FCPO'?'blue':''}" style="font-size:24px;padding:10px 18px">${p}</div>`,{parent:card,x:30+j*(p.length>6?250:160),y:150,at,anim:'pop'});});
     });
     const f=S.add(`<div class="card hl" style="display:flex;align-items:center;gap:30px;padding:0 40px">${C.icon.palm(90)}<div><div style="font:800 52px var(--sans)">FCPO</div><div class="lead" style="font-size:26px">Crude Palm Oil Futures · penanda aras harga CPO global</div></div></div>`,{x:300,y:630,w:1320,h:190,at:S.c(2,1.2),anim:'scale'});
   }},

@@ -1,0 +1,135 @@
+1
+00:00:03,900 --> 00:00:10,354
+Why can a price move of just RM1 make a RM25 difference to one FCPO contract?
+
+2
+00:00:11,094 --> 00:00:14,068
+It all comes down to the contract specifications.
+
+3
+00:00:15,968 --> 00:00:22,350
+In this video, we read the FCPO contract specifications, and what each number means for a trader.
+
+4
+00:00:25,050 --> 00:00:32,968
+FCPO, or Crude Palm Oil Futures, is a futures contract on crude palm oil, traded on Bursa Malaysia Derivatives.
+
+5
+00:00:33,308 --> 00:00:42,114
+Malaysia is one of the world's largest palm oil producers, so the industry needs a transparent local market to price and hedge crude palm oil.
+
+6
+00:00:42,454 --> 00:00:51,716
+Follow the journey: from the plantation, to the mill, to crude palm oil, to a standardised futures contract, and finally to the trading screen.
+
+7
+00:00:53,616 --> 00:00:57,118
+Here is the core of the FCPO specification sheet.
+
+8
+00:00:57,458 --> 00:01:06,000
+The contract code is FCPO, the underlying asset is crude palm oil, and one contract represents 25 metric tonnes.
+
+9
+00:01:06,340 --> 00:01:15,914
+Prices are quoted in Ringgit per metric tonne. The minimum price fluctuation is RM1 per tonne, so the tick value is RM25 per contract.
+
+10
+00:01:16,254 --> 00:01:19,012
+And the settlement method is physical delivery.
+
+11
+00:01:21,112 --> 00:01:27,614
+Twenty-five metric tonnes is twenty-five thousand kilograms of crude palm oil, in a single contract.
+
+12
+00:01:27,954 --> 00:01:36,544
+Every price on the screen is per tonne, but your exposure is always for the full 25 tonnes, multiplied by the number of contracts.
+
+13
+00:01:38,644 --> 00:01:43,322
+The smallest price change allowed is RM1 per tonne. This is called a tick.
+
+14
+00:01:43,662 --> 00:01:50,020
+Because one contract is 25 tonnes, one tick is worth RM25 per contract.
+
+15
+00:01:50,360 --> 00:02:02,526
+So a RM10 move is RM250. A RM20 move is RM500. And a RM50 move is RM1,250, for every contract, up or down.
+
+16
+00:02:04,626 --> 00:02:16,936
+Now contract value. At RM4,000 per tonne, one contract is worth RM4,000 times 25, or RM100,000.
+
+17
+00:02:17,276 --> 00:02:27,954
+Contract value is not the same as the margin needed to open a position. Margin is only a portion of it, set by clearing house requirements and your broker, and it can change.
+
+18
+00:02:30,054 --> 00:02:34,588
+FCPO is a physically delivered contract. It is not cash-settled.
+
+19
+00:02:34,928 --> 00:02:48,894
+If a position is carried into the delivery process, the exchange's delivery obligations and procedures apply. Sellers must deliver crude palm oil that meets the contract standards, and buyers must take delivery and pay for it.
+
+20
+00:02:49,234 --> 00:02:57,992
+That is why retail traders generally close their positions before delivery-related obligations become relevant, subject to their broker's policies.
+
+21
+00:03:00,092 --> 00:03:05,082
+Why does all of this matter? Because the specifications tell you exactly what you are trading.
+
+22
+00:03:05,422 --> 00:03:11,396
+How much each tick is worth, how large your exposure is, and what obligations come with the contract.
+
+23
+00:03:13,496 --> 00:03:18,270
+FCPO is the crude palm oil futures contract traded on BMD.
+
+24
+00:03:18,610 --> 00:03:23,096
+One contract is 25 metric tonnes, priced in Ringgit per tonne.
+
+25
+00:03:23,436 --> 00:03:28,282
+One tick is RM1 per tonne, worth RM25 per contract.
+
+26
+00:03:28,622 --> 00:03:32,868
+Contract value is price times 25, and it is not the margin.
+
+27
+00:03:33,208 --> 00:03:38,870
+FCPO is physically delivered, with real obligations for positions held into delivery.
+
+28
+00:03:39,210 --> 00:03:42,088
+Always check the latest official specifications.
+
+29
+00:03:43,388 --> 00:03:52,266
+Before trading FCPO, know what you are trading. Understand the contract size, the tick value and the responsibilities of every contract.
+
+30
+00:03:54,366 --> 00:03:58,132
+This is only the foundation for understanding the futures market.
+
+31
+00:03:58,472 --> 00:04:01,470
+Know the product you trade before taking any risk.
+
+32
+00:04:01,810 --> 00:04:04,880
+Continue your learning with Capital Market Institute.
+
+33
+00:04:06,780 --> 00:04:12,442
+The references for this video are shown on screen. Always check the latest official specifications.
+
+34
+00:04:15,342 --> 00:04:24,220
+For educational purposes only. This is not financial advice, and it is not a guarantee of profit. Futures trading involves a high risk of loss.

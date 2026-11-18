@@ -1,0 +1,179 @@
+1
+00:00:03,900 --> 00:00:10,604
+Kenapa pergerakan harga RM1 sahaja boleh memberikan kesan RM25 kepada satu kontrak FCPO?
+
+2
+00:00:11,094 --> 00:00:14,318
+Semuanya bergantung pada spesifikasi kontrak.
+
+3
+00:00:15,968 --> 00:00:22,600
+Dalam video ini, kita baca spesifikasi kontrak FCPO, dan maksud setiap angka kepada seorang trader.
+
+4
+00:00:25,050 --> 00:00:30,211
+FCPO, atau Crude Palm Oil Futures, ialah kontrak niaga hadapan bagi minyak sawit mentah,
+
+5
+00:00:30,211 --> 00:00:33,218
+yang didagangkan di Bursa Malaysia Derivatives.
+
+6
+00:00:33,308 --> 00:00:36,310
+Malaysia ialah antara pengeluar minyak sawit terbesar dunia,
+
+7
+00:00:36,310 --> 00:00:42,364
+jadi industri memerlukan pasaran tempatan yang telus untuk menentukan harga dan melindung nilai minyak sawit mentah.
+
+8
+00:00:42,454 --> 00:00:49,541
+Ikuti perjalanannya: dari ladang, ke kilang, ke minyak sawit mentah, ke kontrak futures yang seragam,
+
+9
+00:00:49,541 --> 00:00:51,966
+dan akhirnya ke skrin dagangan.
+
+10
+00:00:53,616 --> 00:00:57,368
+Inilah teras lembaran spesifikasi FCPO.
+
+11
+00:00:57,458 --> 00:01:06,250
+Kod kontrak ialah FCPO, underlying asset ialah minyak sawit mentah, dan satu kontrak mewakili 25 tan metrik.
+
+12
+00:01:06,340 --> 00:01:09,728
+Harga disebut dalam Ringgit setiap tan metrik.
+
+13
+00:01:09,728 --> 00:01:16,164
+Turun naik harga minimum ialah RM1 setan, jadi tick value ialah RM25 setiap kontrak.
+
+14
+00:01:16,254 --> 00:01:19,262
+Dan kaedah penyelesaian ialah penghantaran fizikal, atau physical delivery.
+
+15
+00:01:21,112 --> 00:01:27,864
+Dua puluh lima tan metrik bersamaan dua puluh lima ribu kilogram minyak sawit mentah, dalam satu kontrak.
+
+16
+00:01:27,954 --> 00:01:34,215
+Setiap harga di skrin adalah setan, tetapi pendedahan anda sentiasa bagi 25 tan penuh,
+
+17
+00:01:34,215 --> 00:01:36,794
+didarab dengan bilangan kontrak.
+
+18
+00:01:38,644 --> 00:01:43,572
+Perubahan harga terkecil yang dibenarkan ialah RM1 setan. Ini dipanggil tick.
+
+19
+00:01:43,662 --> 00:01:50,270
+Oleh kerana satu kontrak ialah 25 tan, satu tick bernilai RM25 bagi setiap kontrak.
+
+20
+00:01:50,360 --> 00:01:55,989
+Jadi pergerakan RM10 ialah RM250. Pergerakan RM20 ialah RM500.
+
+21
+00:01:55,989 --> 00:02:02,776
+Dan pergerakan RM50 ialah RM1,250, bagi setiap kontrak, naik atau turun.
+
+22
+00:02:04,626 --> 00:02:17,186
+Sekarang nilai kontrak. Pada RM4,000 setan, satu kontrak bernilai RM4,000 darab 25, iaitu RM100,000.
+
+23
+00:02:17,276 --> 00:02:21,459
+Nilai kontrak tidak sama dengan margin yang diperlukan untuk membuka posisi.
+
+24
+00:02:21,459 --> 00:02:26,798
+Margin hanyalah sebahagian daripadanya, ditetapkan oleh keperluan clearing house dan broker anda,
+
+25
+00:02:26,798 --> 00:02:28,204
+dan ia boleh berubah.
+
+26
+00:02:30,054 --> 00:02:34,838
+FCPO ialah kontrak penghantaran fizikal. Ia tidak diselesaikan secara tunai.
+
+27
+00:02:34,928 --> 00:02:40,997
+Jika posisi dibawa ke proses penghantaran, obligasi dan prosedur penghantaran bursa terpakai.
+
+28
+00:02:40,997 --> 00:02:45,957
+Penjual mesti menghantar minyak sawit mentah yang memenuhi standard kontrak,
+
+29
+00:02:45,957 --> 00:02:49,144
+dan pembeli mesti menerima serta membayarnya.
+
+30
+00:02:49,234 --> 00:02:55,399
+Sebab itulah trader runcit lazimnya menutup posisi sebelum obligasi berkaitan penghantaran menjadi relevan,
+
+31
+00:02:55,399 --> 00:02:58,242
+tertakluk kepada polisi broker masing-masing.
+
+32
+00:03:00,092 --> 00:03:05,332
+Mengapa semua ini penting? Kerana spesifikasi memberitahu dengan tepat apa yang anda dagangkan.
+
+33
+00:03:05,422 --> 00:03:11,646
+Berapa nilai setiap tick, berapa besar pendedahan anda, dan apakah obligasi yang datang bersama kontrak.
+
+34
+00:03:13,496 --> 00:03:18,520
+FCPO ialah kontrak niaga hadapan minyak sawit mentah yang didagangkan di BMD.
+
+35
+00:03:18,610 --> 00:03:23,346
+Satu kontrak ialah 25 tan metrik, berharga dalam Ringgit setan.
+
+36
+00:03:23,436 --> 00:03:28,532
+Satu tick ialah RM1 setan, bernilai RM25 sekontrak.
+
+37
+00:03:28,622 --> 00:03:33,118
+Nilai kontrak ialah harga darab 25, dan ia bukan margin.
+
+38
+00:03:33,208 --> 00:03:39,120
+FCPO diselesaikan secara penghantaran fizikal, dengan obligasi sebenar bagi posisi yang dibawa ke penghantaran.
+
+39
+00:03:39,210 --> 00:03:42,338
+Sentiasa semak spesifikasi rasmi terkini.
+
+40
+00:03:54,366 --> 00:03:58,382
+Ini baru asas untuk memahami pasaran niaga hadapan.
+
+41
+00:03:58,472 --> 00:04:01,720
+Kenali produk yang anda dagangkan sebelum mengambil sebarang risiko.
+
+42
+00:04:01,810 --> 00:04:05,130
+Teruskan pembelajaran anda bersama Capital Market Institute.
+
+43
+00:04:06,780 --> 00:04:12,692
+Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.
+
+44
+00:04:15,342 --> 00:04:20,643
+Untuk tujuan pendidikan sahaja. Ini bukan nasihat kewangan atau jaminan keuntungan.
+
+45
+00:04:20,643 --> 00:04:24,470
+Dagangan futures melibatkan risiko kerugian yang tinggi.

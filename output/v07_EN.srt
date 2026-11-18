@@ -1,0 +1,139 @@
+1
+00:00:03,900 --> 00:00:08,362
+Why would a trader need to switch from the November contract to the December contract?
+
+2
+00:00:09,102 --> 00:00:13,612
+Because every futures contract has an expiry. Let us see what that means.
+
+3
+00:00:15,512 --> 00:00:21,414
+In this video, we look at contract months, expiry, and how traders roll positions forward.
+
+4
+00:00:24,114 --> 00:00:31,480
+Every futures contract is linked to a specific month, called the contract month. It tells you when that contract expires.
+
+5
+00:00:31,820 --> 00:00:38,514
+Several contract months are listed and traded at the same time, each as a separate contract with its own price.
+
+6
+00:00:38,854 --> 00:00:45,404
+The exact listing cycle for FCPO is set out in Bursa Malaysia's official contract specifications.
+
+7
+00:00:47,504 --> 00:00:55,182
+Why do futures expire? Because a futures contract is an agreement for a future date. At some point, that date arrives.
+
+8
+00:00:55,522 --> 00:01:03,464
+For FCPO, which is physically delivered, expiry is when trading in that month stops and the delivery process takes over.
+
+9
+00:01:05,564 --> 00:01:10,098
+The nearest contract month that is currently expiring is called the spot month.
+
+10
+00:01:10,438 --> 00:01:22,436
+The last day it can be traded is the last trading day. For FCPO, this is generally the 15th day of the contract month, or the preceding business day if the 15th is not a business day.
+
+11
+00:01:22,776 --> 00:01:32,422
+Always confirm the exact date in the official specification and your broker's notices, because brokers may also set earlier cut-off times for retail clients.
+
+12
+00:01:34,522 --> 00:01:44,984
+Each contract month has its own price. In this illustration, November trades at RM4,000, and December at RM4,025.
+
+13
+00:01:45,324 --> 00:01:53,434
+These differences reflect expectations about supply and demand, storage and financing costs, and timing. They change every day.
+
+14
+00:01:55,534 --> 00:02:02,540
+Now, rollover. Say you hold a long position in November, and you want to keep your exposure beyond November's expiry.
+
+15
+00:02:02,880 --> 00:02:10,294
+You close the November position by selling it, and open a new long position in December by buying it. That switch is a rollover.
+
+16
+00:02:10,634 --> 00:02:23,856
+Notice: selling November at RM4,000 and buying December at RM4,025 is not a RM25 loss. You simply hold a different contract, at its own price.
+
+17
+00:02:24,196 --> 00:02:34,082
+Your profit or loss on November is realised when you close it. From then on, your result depends on how December moves. Each leg also has transaction costs.
+
+18
+00:02:36,182 --> 00:02:42,516
+Traders roll over to keep their exposure, and to avoid holding a position into the delivery process.
+
+19
+00:02:42,856 --> 00:02:56,222
+As a month approaches expiry, trading activity tends to move to later months. For FCPO, activity is often concentrated in the third-month contract, which market reports commonly quote as the benchmark.
+
+20
+00:02:58,322 --> 00:03:03,144
+When later months are priced higher than nearer months, the market is in contango.
+
+21
+00:03:03,484 --> 00:03:10,970
+When nearer months are priced higher than later months, often because near-term supply is tight, the market is in backwardation.
+
+22
+00:03:13,070 --> 00:03:21,036
+Some traders trade the difference between two months directly. This is a calendar spread: long one month and short another at the same time.
+
+23
+00:03:21,376 --> 00:03:30,326
+Here, the result depends on how the gap between the two months changes, not simply on whether prices go up or down. Spreads still carry risk.
+
+24
+00:03:32,426 --> 00:03:36,312
+Every futures contract has a contract month and an expiry.
+
+25
+00:03:36,652 --> 00:03:41,642
+The spot month is the nearest expiring month; trading stops on the last trading day.
+
+26
+00:03:41,982 --> 00:03:43,948
+Different months have different prices.
+
+27
+00:03:44,288 --> 00:03:50,478
+Rollover means closing the near month and opening a later one; the price gap itself is not a loss.
+
+28
+00:03:50,818 --> 00:03:54,800
+Contango and backwardation describe the shape of the price curve.
+
+29
+00:03:55,140 --> 00:03:59,890
+Always confirm expiry dates with the official specification and your broker.
+
+30
+00:04:01,190 --> 00:04:09,948
+Futures contracts have a maturity. Understanding contract months and rollover helps traders manage their positions in a more organised way.
+
+31
+00:04:12,048 --> 00:04:15,814
+This is only the foundation for understanding the futures market.
+
+32
+00:04:16,154 --> 00:04:19,152
+Know the product you trade before taking any risk.
+
+33
+00:04:19,492 --> 00:04:22,562
+Continue your learning with Capital Market Institute.
+
+34
+00:04:24,462 --> 00:04:30,124
+The references for this video are shown on screen. Always check the latest official specifications.
+
+35
+00:04:33,024 --> 00:04:41,902
+For educational purposes only. This is not financial advice, and it is not a guarantee of profit. Futures trading involves a high risk of loss.

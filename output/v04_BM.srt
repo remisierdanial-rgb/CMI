@@ -1,0 +1,147 @@
+1
+00:00:03,900 --> 00:00:11,324
+Bagaimana RM8,000 boleh memberikan pendedahan kepada kontrak bernilai RM100,000?
+
+2
+00:00:11,814 --> 00:00:17,006
+Jawapannya ialah leverage. Ia boleh menyebelahi anda, dan juga menentang anda, pada kelajuan yang sama.
+
+3
+00:00:18,656 --> 00:00:25,648
+Dalam video ini, kita huraikan leverage: apa ia, bagaimana ia dikira, dan mengapa ia mesti dihormati.
+
+4
+00:00:28,098 --> 00:00:39,890
+Mulakan dengan nilai kontrak. FCPO pada RM4,000 setan, darab 25 tan, memberikan nilai kontrak RM100,000.
+
+5
+00:00:39,980 --> 00:00:44,308
+Itulah saiz pendedahan harga yang anda tanggung dengan hanya satu kontrak.
+
+6
+00:00:46,158 --> 00:00:50,761
+Namun trader futures tidak membayar RM100,000 penuh di awal.
+
+7
+00:00:50,761 --> 00:00:56,534
+Sebaliknya, mereka mendepositkan margin: cagaran untuk menyokong posisi.
+
+8
+00:00:56,624 --> 00:01:06,280
+Dalam contoh ini, andaikan margin awal RM8,000. Ini angka hipotetikal untuk pendidikan, bukan kadar margin semasa.
+
+9
+00:01:06,370 --> 00:01:14,706
+Margin bukan bayaran pendahuluan dan bukan harga kontrak. Anda tidak memiliki minyak sawit bernilai RM100,000.
+
+10
+00:01:16,556 --> 00:01:27,124
+Leverage membandingkan pendedahan dengan modal. RM100,000 bahagi RM8,000 ialah 12.5 kali.
+
+11
+00:01:27,214 --> 00:01:38,622
+50 pendedahan kontrak. Leverage bukan wang percuma; ia pendedahan kepada risiko harga.
+
+12
+00:01:40,472 --> 00:01:43,813
+Sekarang lihat kesan pergerakan harga yang kecil.
+
+13
+00:01:43,813 --> 00:01:48,904
+Pergerakan RM40 yang menentang anda hanyalah 1% daripada harga RM4,000.
+
+14
+00:01:48,994 --> 00:01:55,242
+Tetapi RM40 darab 25 ialah kerugian RM1,000 bagi setiap kontrak.
+
+15
+00:01:55,332 --> 00:02:07,196
+Dan RM1,000 ialah 12.5% daripada margin RM8,000. Pergerakan harga 1% menjadi perubahan 12.5% pada margin anda.
+
+16
+00:02:07,286 --> 00:02:12,187
+Ia berfungsi dengan cara yang sama apabila memihak kepada anda, sebab itulah leverage nampak menarik,
+
+17
+00:02:12,187 --> 00:02:13,990
+dan sebab itu juga ia berbahaya.
+
+18
+00:02:15,840 --> 00:02:22,477
+Jika kerugian terus mengurangkan ekuiti akaun di bawah paras yang diperlukan, broker boleh mengeluarkan margin call,
+
+19
+00:02:22,477 --> 00:02:24,272
+meminta anda menambah dana.
+
+20
+00:02:24,362 --> 00:02:29,252
+Jika dana tidak ditambah tepat pada masanya, atau pasaran bergerak sangat pantas,
+
+21
+00:02:29,252 --> 00:02:34,090
+posisi boleh dilikuidasi secara paksa, iaitu ditutup, mengikut terma broker.
+
+22
+00:02:34,180 --> 00:02:39,900
+Dan kerugian boleh melebihi margin yang anda depositkan. Anda tetap bertanggungjawab ke atas sebarang kekurangan.
+
+23
+00:02:41,750 --> 00:02:45,814
+Sebab itulah pengurusan risiko amat penting apabila berdagang dengan leverage.
+
+24
+00:02:45,904 --> 00:02:51,600
+Ketahui nilai kontrak penuh, bukan sekadar margin. Saiz posisi mesti sepadan dengan modal anda.
+
+25
+00:02:51,690 --> 00:02:56,858
+Rancang titik keluar sebelum masuk, dan simpan penampan dana yang mencukupi untuk menghadapi turun naik harga.
+
+26
+00:02:58,708 --> 00:03:08,340
+Nilai kontrak ialah harga darab saiz kontrak: bagi FCPO pada RM4,000, iaitu RM100,000.
+
+27
+00:03:08,430 --> 00:03:12,086
+Margin ialah cagaran, bukan harga kontrak.
+
+28
+00:03:12,176 --> 00:03:17,368
+Leverage membandingkan pendedahan dengan margin: di sini, 12.5 kali.
+
+29
+00:03:17,458 --> 00:03:21,282
+Pergerakan harga yang kecil mewujudkan perubahan yang jauh lebih besar pada margin anda.
+
+30
+00:03:21,372 --> 00:03:26,804
+Kerugian boleh mencetuskan margin call atau likuidasi paksa, dan boleh melebihi margin anda.
+
+31
+00:03:26,894 --> 00:03:29,062
+Pengurusan risiko mesti didahulukan.
+
+32
+00:03:39,338 --> 00:03:43,354
+Ini baru asas untuk memahami pasaran niaga hadapan.
+
+33
+00:03:43,444 --> 00:03:46,692
+Kenali produk yang anda dagangkan sebelum mengambil sebarang risiko.
+
+34
+00:03:46,782 --> 00:03:50,102
+Teruskan pembelajaran anda bersama Capital Market Institute.
+
+35
+00:03:51,752 --> 00:03:57,664
+Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.
+
+36
+00:04:00,314 --> 00:04:05,615
+Untuk tujuan pendidikan sahaja. Ini bukan nasihat kewangan atau jaminan keuntungan.
+
+37
+00:04:05,615 --> 00:04:09,442
+Dagangan futures melibatkan risiko kerugian yang tinggi.

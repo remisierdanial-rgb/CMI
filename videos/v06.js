@@ -63,7 +63,7 @@ VIDEO({
     const zoneB=svgEl('rect',{x:220,y:y(6000),width:740,height:y(0)-y(6000),fill:'rgba(239,91,91,.08)'});sv.appendChild(zoneB);S.tween(S.c(1,2),.6,p=>zoneB.style.opacity=p,'out');
     [[8000,'#60A5FA','INITIAL MARGIN · RM8,000',S.c(0,1.6)],[6000,'#F5A524','MAINTENANCE MARGIN · RM6,000',S.c(1,1)]].forEach(l=>{
       const ln=svgEl('line',{x1:220,x2:960,y1:y(l[0]),y2:y(l[0]),stroke:l[1],'stroke-width':3,'stroke-dasharray':'12 10'});sv.appendChild(ln);S.tween(l[3],.6,p=>ln.style.opacity=p,'out');
-      S.add(`<div style="font:600 20px var(--mono);color:${l[1]}">${l[2]}</div>`,{parent:card,x:240,y:y(l[0])-36,at:l[3]});
+      S.add(`<div style="font:600 20px var(--mono);color:${l[1]};background:rgba(16,27,50,.95);padding:2px 8px">${l[2]}</div>`,{parent:card,x:240,y:y(l[0])-40,at:l[3]});
     });
     [0,2000,4000,6000,8000,10000].forEach(v=>S.add(`<div class="ax" style="font:500 18px var(--mono);color:var(--slate)">${C.fmt(v)}</div>`,{parent:card,x:60,y:y(v)-12,at:S.c(0,.3)}));
     S.add(`<div class="small" style="color:var(--down)">Zon margin call</div>`,{parent:card,x:700,y:y(3000),at:S.c(1,2.4)});
@@ -97,8 +97,8 @@ VIDEO({
     const W=1180,H=560;const card=C.card(S,{x:110,y:280,w:W,h:H,at:S.c(0,.1)});
     const sv=C.svg(S,{parent:card,w:W,h:H});
     const y=v=>480-((v-4000)/5000)*400, x=d=>120+d*330;
-    [[8000,'#60A5FA','INITIAL 8,000'],[6000,'#F5A524','MAINTENANCE 6,000']].forEach(l=>{const ln=svgEl('line',{x1:100,x2:W-30,y1:y(l[0]),y2:y(l[0]),stroke:l[1],'stroke-width':3,'stroke-dasharray':'12 10'});sv.appendChild(ln);
-      S.add(`<div style="font:600 18px var(--mono);color:${l[1]}">${l[2]}</div>`,{parent:card,x:W-260,y:y(l[0])-32,at:S.c(0,.6)});S.tween(S.c(0,.5),.5,p=>ln.style.opacity=p,'out');});
+    [[8000,'#60A5FA','── INITIAL 8,000',0],[6000,'#F5A524','── MAINTENANCE 6,000',1]].forEach(l=>{const ln=svgEl('line',{x1:100,x2:W-30,y1:y(l[0]),y2:y(l[0]),stroke:l[1],'stroke-width':3,'stroke-dasharray':'12 10'});sv.appendChild(ln);
+      S.add(`<div style="font:600 18px var(--mono);color:${l[1]}">${l[2]}</div>`,{parent:card,x:30+l[3]*300,y:22,at:S.c(0,.6)});S.tween(S.c(0,.5),.5,p=>ln.style.opacity=p,'out');});
     const pts=[[0,8000],[1,7000],[2,7500],[3,5500]];
     const path=svgEl('path',{d:'M'+pts.map(p=>`${x(p[0])},${y(p[1])}`).join(' L'),stroke:'#F1F5F9','stroke-width':5,fill:'none'});sv.appendChild(path);
     S.draw(path,S.c(0,1),S.c(1,1.5)-S.c(0,1),'lin');
