@@ -28,11 +28,12 @@ if (opt('stills')) {
 }
 const t0 = +(opt('from') || 0), t1 = Math.min(+(opt('to') || total), total), N = Math.ceil((t1 - t0) * fps);
 const outFile = opt('outfile') || path.join(B, `${ep.toUpperCase()}.mp4`);
+const tmpFile = outFile.replace(/\.mp4$/, '.rendering.mp4');
 const wav = path.join(B, 'narration.wav');
 const ff = spawn('ffmpeg', ['-v', 'error', '-y', '-f', 'image2pipe', '-framerate', String(fps), '-i', '-',
   ...(fs.existsSync(wav) ? ['-ss', String(t0), '-t', String(t1 - t0), '-i', wav] : []),
   '-c:v', 'libx264', '-preset', 'medium', '-crf', '18', '-pix_fmt', 'yuv420p', '-r', String(fps),
-  ...(fs.existsSync(wav) ? ['-c:a', 'aac', '-b:a', '160k', '-ar', '44100', '-ac', '2', '-shortest'] : []), '-movflags', '+faststart', outFile], { stdio: ['pipe', 'inherit', 'inherit'] });
+  ...(fs.existsSync(wav) ? ['-c:a', 'aac', '-b:a', '160k', '-ar', '44100', '-ac', '2', '-shortest'] : []), '-movflags', '+faststart', tmpFile], { stdio: ['pipe', 'inherit', 'inherit'] });
 const start = Date.now();
 for (let f = 0; f < N; f++) {
   await page.evaluate(t => window.__render(t), t0 + f / fps);
@@ -40,5 +41,7 @@ for (let f = 0; f < N; f++) {
   if (!ff.stdin.write(buf)) await new Promise(r => ff.stdin.once('drain', r));
   if (f % 300 === 0) { const el = (Date.now() - start) / 1000; console.log(`frame ${f}/${N}  ${(f / Math.max(el, .01)).toFixed(1)} fps`); }
 }
-ff.stdin.end(); await new Promise(r => ff.on('close', r)); await browser.close();
+ff.stdin.end(); const code = await new Promise(r => ff.on('close', r)); await browser.close();
+if (code !== 0) { console.error('ffmpeg failed', code); process.exit(1); }
+fs.renameSync(tmpFile, outFile);
 console.log('wrote', outFile, ((Date.now() - start) / 1000).toFixed(0) + 's');
