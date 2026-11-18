@@ -1,0 +1,342 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [
+    {
+     "start": 0.75,
+     "end": 6.72,
+     "text": "Selamat datang ke Video 8. Kita telah membina tiga SOP: scalping, intraday dan swing."
+    },
+    {
+     "start": 7.1,
+     "end": 10.308,
+     "text": "Dalam video ini, kita bandingkan ketiga-tiganya secara terus."
+    },
+    {
+     "start": 10.688,
+     "end": 20.988,
+     "text": "Kita lihat perbezaan dalam persediaan, tempoh pegangan, stop-loss, sasaran, saiz posisi, pemantauan, kos, risiko overnight dan tuntutan psikologi."
+    },
+    {
+     "start": 21.368,
+     "end": 26.295,
+     "text": "Kemudian kita bincangkan cara memilih gaya yang sesuai dengan masa, modal dan keadaan anda."
+    }
+   ],
+   "end": 28.125
+  },
+  {
+   "start": 28.125,
+   "cues": [
+    {
+     "start": 28.875,
+     "end": 31.905,
+     "text": "Inilah jadual perbandingan rangka kerja CMI."
+    },
+    {
+     "start": 32.285,
+     "end": 39.907,
+     "text": "Objektif utama: scalping mensasarkan pergerakan pendek, intraday pergerakan dalam hari, dan swing pergerakan pasaran yang lebih besar."
+    },
+    {
+     "start": 40.287,
+     "end": 45.524,
+     "text": "Tempoh pegangan: pendek, dalam hari dagangan, atau merentasi beberapa sesi dan hari."
+    },
+    {
+     "start": 45.904,
+     "end": 53.715,
+     "text": "Konteks timeframe tinggi: 1H dan 30M untuk scalping, Daily dan 4H untuk intraday, Weekly dan Daily untuk swing."
+    },
+    {
+     "start": 54.095,
+     "end": 67.283,
+     "text": "Timeframe setup: 15M, 1H atau 30M, dan 4H atau 1H. Timeframe entry: 5M, 15M atau 5M, dan 1H hingga 15M."
+    },
+    {
+     "start": 67.663,
+     "end": 74.309,
+     "text": "Pertimbangan utama: pelaksanaan dan kos, struktur sesi, serta konteks HTF dan risiko overnight."
+    },
+    {
+     "start": 74.689,
+     "end": 79.517,
+     "text": "Ini rangka pengajaran yang dicadangkan oleh CMI, bukan standard industri sejagat."
+    }
+   ],
+   "end": 80.847
+  },
+  {
+   "start": 80.847,
+   "cues": [
+    {
+     "start": 81.597,
+     "end": 84.508,
+     "text": "Bayangkan satu pergerakan harga FCPO yang sama."
+    },
+    {
+     "start": 84.888,
+     "end": 90.741,
+     "text": "Pedagang swing melihat keseluruhan pergerakan: dari POI Daily ke liquidity utama, merentasi beberapa hari."
+    },
+    {
+     "start": 91.121,
+     "end": 94.851,
+     "text": "Pedagang intraday mengambil satu bahagian, dalam satu hari dagangan."
+    },
+    {
+     "start": 95.231,
+     "end": 98.915,
+     "text": "Pedagang scalping mengambil satu pergerakan kecil di dalamnya, dalam beberapa minit."
+    },
+    {
+     "start": 99.295,
+     "end": 104.855,
+     "text": "Ketiga-tiganya boleh betul. Tetapi setiap satu memerlukan stop, sasaran dan saiz posisi yang berbeza."
+    }
+   ],
+   "end": 106.185
+  },
+  {
+   "start": 106.185,
+   "cues": [
+    {
+     "start": 106.935,
+     "end": 109.11,
+     "text": "Sekarang sembilan perbezaan praktikal."
+    },
+    {
+     "start": 109.49,
+     "end": 118.35,
+     "text": "Persediaan: scalping memerlukan persediaan sesi, intraday persediaan harian dengan dua senario, dan swing analisis Weekly serta Daily."
+    },
+    {
+     "start": 118.73,
+     "end": 124.002,
+     "text": "Tempoh pegangan berbeza, dan jarak stop-loss berbeza: ketat, sederhana, dan lebar."
+    },
+    {
+     "start": 124.382,
+     "end": 131.028,
+     "text": "Sasaran: liquidity sesi untuk scalping, PDH atau PDL untuk intraday, dan liquidity utama untuk swing."
+    },
+    {
+     "start": 131.408,
+     "end": 137.713,
+     "text": "Dengan bajet risiko ringgit yang sama, saiz posisi swing biasanya paling kecil, kerana stop paling lebar."
+    },
+    {
+     "start": 138.093,
+     "end": 144.217,
+     "text": "Pemantauan: scalping memerlukan perhatian berterusan, swing lebih jarang tetapi terdedah semalaman."
+    },
+    {
+     "start": 144.597,
+     "end": 149.611,
+     "text": "Kos adalah paling ketara untuk scalping. Risiko overnight hanya wujud untuk swing."
+    },
+    {
+     "start": 149.991,
+     "end": 158.176,
+     "text": "Tuntutan psikologi juga berbeza: kelajuan keputusan dalam scalping, disiplin sesi dalam intraday, dan kesabaran menghadapi retracement dalam swing."
+    }
+   ],
+   "end": 159.506
+  },
+  {
+   "start": 159.506,
+   "cues": [
+    {
+     "start": 160.256,
+     "end": 165.797,
+     "text": "Lihat kesan perbezaan stop-loss terhadap saiz posisi, dengan bajet risiko yang sama, iaitu 500 ringgit."
+    },
+    {
+     "start": 166.177,
+     "end": 174.745,
+     "text": "Scalping, stop 10 mata: RM250 setiap kontrak. 500 bahagi 250, iaitu dua kontrak."
+    },
+    {
+     "start": 175.125,
+     "end": 186.1,
+     "text": "Intraday, stop 18 mata: RM450 setiap kontrak. 500 bahagi 450 ialah 1.11, dibundarkan ke bawah menjadi satu kontrak."
+    },
+    {
+     "start": 186.48,
+     "end": 196.535,
+     "text": "Swing, stop 80 mata: RM2,000 setiap kontrak. Hasilnya sifar kontrak. Dengan bajet ini, tiada dagangan swing."
+    },
+    {
+     "start": 196.915,
+     "end": 200.575,
+     "text": "Pemilihan gaya mesti sepadan dengan modal anda, bukan sebaliknya."
+    }
+   ],
+   "end": 201.905
+  },
+  {
+   "start": 201.905,
+   "cues": [
+    {
+     "start": 202.655,
+     "end": 204.147,
+     "text": "Bagaimana memilih gaya yang sesuai?"
+    },
+    {
+     "start": 204.527,
+     "end": 213.431,
+     "text": "Pertama, masa skrin. Scalping memerlukan perhatian penuh semasa sesi. Swing lebih sesuai jika anda tidak dapat memantau carta sepanjang hari."
+    },
+    {
+     "start": 213.811,
+     "end": 219.808,
+     "text": "Kedua, modal. Stop yang lebar memerlukan bajet risiko yang lebih besar untuk satu kontrak."
+    },
+    {
+     "start": 220.188,
+     "end": 223.009,
+     "text": "Ketiga, toleransi terhadap risiko overnight dan gap."
+    },
+    {
+     "start": 223.389,
+     "end": 230.113,
+     "text": "Keempat, perangai dan kos. Adakah anda selesa membuat keputusan pantas, dan adakah kos dagangan anda rendah?"
+    },
+    {
+     "start": 230.493,
+     "end": 238.497,
+     "text": "Dan akhir sekali, bukti ujian. Pilih gaya yang SOP-nya telah diuji dan menunjukkan hasil yang konsisten dalam rekod anda sendiri."
+    }
+   ],
+   "end": 239.827
+  },
+  {
+   "start": 239.827,
+   "cues": [
+    {
+     "start": 240.577,
+     "end": 244.873,
+     "text": "Mesej utama video ini: tiada gaya trading yang secara semula jadi lebih menguntungkan."
+    },
+    {
+     "start": 245.253,
+     "end": 253.487,
+     "text": "Yang menentukan hasil ialah kualiti SOP, konsistensi pelaksanaan, kawalan risiko dan kos, merentasi sampel dagangan yang besar."
+    },
+    {
+     "start": 253.867,
+     "end": 259.633,
+     "text": "Jangan campurkan SOP. Pilih satu gaya, kuasai, dan nilai dengan jurnal."
+    }
+   ],
+   "end": 260.963
+  },
+  {
+   "start": 260.963,
+   "cues": [
+    {
+     "start": 261.713,
+     "end": 265.708,
+     "text": "Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan."
+    },
+    {
+     "start": 266.088,
+     "end": 270.705,
+     "text": "Soalan satu: apakah beza utama antara scalping, intraday dan swing trading?"
+    },
+    {
+     "start": 271.085,
+     "end": 279.389,
+     "text": "Jawapan: tempoh pegangan dan rangka timeframe, yang membawa kepada stop, sasaran, saiz posisi, kos dan risiko overnight yang berbeza."
+    },
+    {
+     "start": 279.769,
+     "end": 283.024,
+     "text": "Soalan dua: kenapa setiap gaya perlu SOP yang berbeza?"
+    },
+    {
+     "start": 283.404,
+     "end": 290.719,
+     "text": "Jawapan: menggunakan stop dan sasaran satu gaya pada gaya lain sama ada meletakkan stop di dalam hingar, atau menjadikan risiko terlalu besar."
+    },
+    {
+     "start": 291.099,
+     "end": 297.477,
+     "text": "Soalan tiga: bajet 500 ringgit dan stop swing 80 mata. Berapa kontrak?"
+    },
+    {
+     "start": 297.857,
+     "end": 307.504,
+     "text": "Jawapan: 80 darab 25 ialah 2,000 ringgit. 500 bahagi 2,000 ialah 0.25, jadi sifar kontrak dan tiada dagangan."
+    }
+   ],
+   "end": 309.234
+  },
+  {
+   "start": 309.234,
+   "cues": [
+    {
+     "start": 309.984,
+     "end": 310.894,
+     "text": "Ringkasnya."
+    },
+    {
+     "start": 311.274,
+     "end": 315.319,
+     "text": "Rangka kerja ini cadangan CMI, bukan standard sejagat."
+    },
+    {
+     "start": 315.699,
+     "end": 324.801,
+     "text": "Sembilan perbezaan: persediaan, tempoh, stop, sasaran, saiz, pemantauan, kos, overnight dan psikologi."
+    },
+    {
+     "start": 325.181,
+     "end": 328.504,
+     "text": "Bajet ringgit yang sama menghasilkan saiz posisi yang sangat berbeza."
+    },
+    {
+     "start": 328.884,
+     "end": 333.315,
+     "text": "Tiada gaya yang secara semula jadi lebih menguntungkan. Jangan campurkan SOP."
+    }
+   ],
+   "end": 334.645
+  },
+  {
+   "start": 334.645,
+   "cues": [
+    {
+     "start": 335.395,
+     "end": 345.274,
+     "text": "Dalam Video 9, kita masuk ke subtopik keempat: Entry Confirmation, iaitu metodologi lengkap, empat model entry, pengesahan palsu dan senarai semak CMI."
+    }
+   ],
+   "end": 347.404
+  },
+  {
+   "start": 347.404,
+   "cues": [
+    {
+     "start": 348.154,
+     "end": 350.757,
+     "text": "Rujukan untuk video ini dipaparkan di skrin."
+    }
+   ],
+   "end": 354.087
+  },
+  {
+   "start": 354.087,
+   "cues": [
+    {
+     "start": 354.837,
+     "end": 359.575,
+     "text": "Trading futures melibatkan risiko kerugian. Jumpa dalam Video 9."
+    }
+   ],
+   "end": 363.105
+  }
+ ],
+ "total": 363.105
+}

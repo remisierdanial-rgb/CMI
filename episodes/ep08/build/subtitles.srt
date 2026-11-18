@@ -1,0 +1,211 @@
+1
+00:00:00,750 --> 00:00:07,020
+Selamat datang ke Video 8. Kita telah membina tiga SOP: scalping, intraday dan swing.
+
+2
+00:00:07,100 --> 00:00:10,608
+Dalam video ini, kita bandingkan ketiga-tiganya secara terus.
+
+3
+00:00:10,688 --> 00:00:21,288
+Kita lihat perbezaan dalam persediaan, tempoh pegangan, stop-loss, sasaran, saiz posisi, pemantauan, kos, risiko overnight dan tuntutan psikologi.
+
+4
+00:00:21,368 --> 00:00:26,595
+Kemudian kita bincangkan cara memilih gaya yang sesuai dengan masa, modal dan keadaan anda.
+
+5
+00:00:28,875 --> 00:00:32,205
+Inilah jadual perbandingan rangka kerja CMI.
+
+6
+00:00:32,285 --> 00:00:40,207
+Objektif utama: scalping mensasarkan pergerakan pendek, intraday pergerakan dalam hari, dan swing pergerakan pasaran yang lebih besar.
+
+7
+00:00:40,287 --> 00:00:45,824
+Tempoh pegangan: pendek, dalam hari dagangan, atau merentasi beberapa sesi dan hari.
+
+8
+00:00:45,904 --> 00:00:54,015
+Konteks timeframe tinggi: 1H dan 30M untuk scalping, Daily dan 4H untuk intraday, Weekly dan Daily untuk swing.
+
+9
+00:00:54,095 --> 00:01:07,583
+Timeframe setup: 15M, 1H atau 30M, dan 4H atau 1H. Timeframe entry: 5M, 15M atau 5M, dan 1H hingga 15M.
+
+10
+00:01:07,663 --> 00:01:14,609
+Pertimbangan utama: pelaksanaan dan kos, struktur sesi, serta konteks HTF dan risiko overnight.
+
+11
+00:01:14,689 --> 00:01:19,817
+Ini rangka pengajaran yang dicadangkan oleh CMI, bukan standard industri sejagat.
+
+12
+00:01:21,597 --> 00:01:24,808
+Bayangkan satu pergerakan harga FCPO yang sama.
+
+13
+00:01:24,888 --> 00:01:31,041
+Pedagang swing melihat keseluruhan pergerakan: dari POI Daily ke liquidity utama, merentasi beberapa hari.
+
+14
+00:01:31,121 --> 00:01:35,151
+Pedagang intraday mengambil satu bahagian, dalam satu hari dagangan.
+
+15
+00:01:35,231 --> 00:01:39,215
+Pedagang scalping mengambil satu pergerakan kecil di dalamnya, dalam beberapa minit.
+
+16
+00:01:39,295 --> 00:01:45,155
+Ketiga-tiganya boleh betul. Tetapi setiap satu memerlukan stop, sasaran dan saiz posisi yang berbeza.
+
+17
+00:01:46,935 --> 00:01:49,410
+Sekarang sembilan perbezaan praktikal.
+
+18
+00:01:49,490 --> 00:01:58,650
+Persediaan: scalping memerlukan persediaan sesi, intraday persediaan harian dengan dua senario, dan swing analisis Weekly serta Daily.
+
+19
+00:01:58,730 --> 00:02:04,302
+Tempoh pegangan berbeza, dan jarak stop-loss berbeza: ketat, sederhana, dan lebar.
+
+20
+00:02:04,382 --> 00:02:11,328
+Sasaran: liquidity sesi untuk scalping, PDH atau PDL untuk intraday, dan liquidity utama untuk swing.
+
+21
+00:02:11,408 --> 00:02:18,013
+Dengan bajet risiko ringgit yang sama, saiz posisi swing biasanya paling kecil, kerana stop paling lebar.
+
+22
+00:02:18,093 --> 00:02:24,517
+Pemantauan: scalping memerlukan perhatian berterusan, swing lebih jarang tetapi terdedah semalaman.
+
+23
+00:02:24,597 --> 00:02:29,911
+Kos adalah paling ketara untuk scalping. Risiko overnight hanya wujud untuk swing.
+
+24
+00:02:29,991 --> 00:02:38,476
+Tuntutan psikologi juga berbeza: kelajuan keputusan dalam scalping, disiplin sesi dalam intraday, dan kesabaran menghadapi retracement dalam swing.
+
+25
+00:02:40,256 --> 00:02:46,097
+Lihat kesan perbezaan stop-loss terhadap saiz posisi, dengan bajet risiko yang sama, iaitu 500 ringgit.
+
+26
+00:02:46,177 --> 00:02:55,045
+Scalping, stop 10 mata: RM250 setiap kontrak. 500 bahagi 250, iaitu dua kontrak.
+
+27
+00:02:55,125 --> 00:03:06,400
+Intraday, stop 18 mata: RM450 setiap kontrak. 500 bahagi 450 ialah 1.11, dibundarkan ke bawah menjadi satu kontrak.
+
+28
+00:03:06,480 --> 00:03:16,835
+Swing, stop 80 mata: RM2,000 setiap kontrak. Hasilnya sifar kontrak. Dengan bajet ini, tiada dagangan swing.
+
+29
+00:03:16,915 --> 00:03:20,875
+Pemilihan gaya mesti sepadan dengan modal anda, bukan sebaliknya.
+
+30
+00:03:22,655 --> 00:03:24,447
+Bagaimana memilih gaya yang sesuai?
+
+31
+00:03:24,527 --> 00:03:33,731
+Pertama, masa skrin. Scalping memerlukan perhatian penuh semasa sesi. Swing lebih sesuai jika anda tidak dapat memantau carta sepanjang hari.
+
+32
+00:03:33,811 --> 00:03:40,108
+Kedua, modal. Stop yang lebar memerlukan bajet risiko yang lebih besar untuk satu kontrak.
+
+33
+00:03:40,188 --> 00:03:43,309
+Ketiga, toleransi terhadap risiko overnight dan gap.
+
+34
+00:03:43,389 --> 00:03:50,413
+Keempat, perangai dan kos. Adakah anda selesa membuat keputusan pantas, dan adakah kos dagangan anda rendah?
+
+35
+00:03:50,493 --> 00:03:58,797
+Dan akhir sekali, bukti ujian. Pilih gaya yang SOP-nya telah diuji dan menunjukkan hasil yang konsisten dalam rekod anda sendiri.
+
+36
+00:04:00,577 --> 00:04:05,173
+Mesej utama video ini: tiada gaya trading yang secara semula jadi lebih menguntungkan.
+
+37
+00:04:05,253 --> 00:04:13,787
+Yang menentukan hasil ialah kualiti SOP, konsistensi pelaksanaan, kawalan risiko dan kos, merentasi sampel dagangan yang besar.
+
+38
+00:04:13,867 --> 00:04:19,933
+Jangan campurkan SOP. Pilih satu gaya, kuasai, dan nilai dengan jurnal.
+
+39
+00:04:21,713 --> 00:04:26,008
+Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan.
+
+40
+00:04:26,088 --> 00:04:31,005
+Soalan satu: apakah beza utama antara scalping, intraday dan swing trading?
+
+41
+00:04:31,085 --> 00:04:39,689
+Jawapan: tempoh pegangan dan rangka timeframe, yang membawa kepada stop, sasaran, saiz posisi, kos dan risiko overnight yang berbeza.
+
+42
+00:04:39,769 --> 00:04:43,324
+Soalan dua: kenapa setiap gaya perlu SOP yang berbeza?
+
+43
+00:04:43,404 --> 00:04:51,019
+Jawapan: menggunakan stop dan sasaran satu gaya pada gaya lain sama ada meletakkan stop di dalam hingar, atau menjadikan risiko terlalu besar.
+
+44
+00:04:51,099 --> 00:04:57,777
+Soalan tiga: bajet 500 ringgit dan stop swing 80 mata. Berapa kontrak?
+
+45
+00:04:57,857 --> 00:05:07,804
+Jawapan: 80 darab 25 ialah 2,000 ringgit. 500 bahagi 2,000 ialah 0.25, jadi sifar kontrak dan tiada dagangan.
+
+46
+00:05:09,984 --> 00:05:11,194
+Ringkasnya.
+
+47
+00:05:11,274 --> 00:05:15,619
+Rangka kerja ini cadangan CMI, bukan standard sejagat.
+
+48
+00:05:15,699 --> 00:05:25,101
+Sembilan perbezaan: persediaan, tempoh, stop, sasaran, saiz, pemantauan, kos, overnight dan psikologi.
+
+49
+00:05:25,181 --> 00:05:28,804
+Bajet ringgit yang sama menghasilkan saiz posisi yang sangat berbeza.
+
+50
+00:05:28,884 --> 00:05:33,615
+Tiada gaya yang secara semula jadi lebih menguntungkan. Jangan campurkan SOP.
+
+51
+00:05:35,395 --> 00:05:45,574
+Dalam Video 9, kita masuk ke subtopik keempat: Entry Confirmation, iaitu metodologi lengkap, empat model entry, pengesahan palsu dan senarai semak CMI.
+
+52
+00:05:48,154 --> 00:05:51,057
+Rujukan untuk video ini dipaparkan di skrin.
+
+53
+00:05:54,837 --> 00:05:59,875
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 9.
