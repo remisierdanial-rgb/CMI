@@ -1,0 +1,220 @@
+1
+00:00:00,700 --> 00:00:07,468
+Welcome to Episode Five, an extended lesson on Kill Zones. Now we apply the schedule to price.
+
+2
+00:00:07,888 --> 00:00:16,480
+We will walk through the Asian, London and New York sessions, map their ranges, and study what happens when the textbook pattern does not appear.
+
+3
+00:00:16,900 --> 00:00:21,916
+All charts use New York time and the CMI reference schedule from Episode Four.
+
+4
+00:00:23,736 --> 00:00:31,368
+The Asian session. In the CMI schedule, the Asian Kill Zone runs from eight p m to midnight, New York time.
+
+5
+00:00:31,788 --> 00:00:38,052
+For many forex pairs and US index futures, this is often a quieter, range-bound period.
+
+6
+00:00:38,472 --> 00:00:44,328
+We mark the Asian high and Asian low: the extremes printed inside the window only.
+
+7
+00:00:44,748 --> 00:00:50,676
+Stops may rest just beyond them, so they become potential buy-side and sell-side liquidity.
+
+8
+00:00:51,096 --> 00:00:55,416
+Later sessions may interact with these levels. May, not must.
+
+9
+00:00:57,236 --> 00:01:03,620
+London. In a bullish scenario, price trades below the Asian low early in the London window.
+
+10
+00:01:04,040 --> 00:01:09,656
+The sweep is followed by a reclaim and an expansion higher. London then leaves its own high.
+
+11
+00:01:10,076 --> 00:01:14,444
+That London high and London low become new references for New York.
+
+12
+00:01:14,864 --> 00:01:20,696
+The bearish scenario is the mirror. London takes the Asian high, then expands lower.
+
+13
+00:01:21,116 --> 00:01:27,620
+In both cases, an early London extreme can turn out to be the high or low of the day. But not always.
+
+14
+00:01:28,040 --> 00:01:35,192
+London may reverse after taking an Asian extreme, or simply continue through it. Read the reaction, not the clock.
+
+15
+00:01:37,012 --> 00:01:40,396
+The New York morning. We bring in the London high and low.
+
+16
+00:01:40,816 --> 00:01:45,232
+And the previous day high and low, which are higher-timeframe references.
+
+17
+00:01:45,652 --> 00:01:49,420
+New York may continue London’s direction, or reverse it.
+
+18
+00:01:49,840 --> 00:01:58,864
+Many scheduled US economic releases come out at eight thirty New York time, inside this window. Volatility often rises around them.
+
+19
+00:01:59,284 --> 00:02:06,964
+In this example, New York continues London’s bullish move, takes the London high, and sweeps the previous day high.
+
+20
+00:02:07,384 --> 00:02:13,816
+After that, price pulls back. Whether that becomes a reversal is something only later price can show.
+
+21
+00:02:15,636 --> 00:02:22,788
+Around New York lunch, from noon to one, participation often reduces and price commonly consolidates.
+
+22
+00:02:23,208 --> 00:02:26,760
+So breakouts during lunch are usually treated with caution.
+
+23
+00:02:27,180 --> 00:02:32,628
+In the afternoon window, from one thirty to four, price may continue the morning move.
+
+24
+00:02:33,048 --> 00:02:36,936
+Or it may reverse into the close, as positions are squared.
+
+25
+00:02:37,356 --> 00:02:40,932
+The lesson: time alone does not determine direction.
+
+26
+00:02:42,752 --> 00:02:46,808
+Now we map the whole day. Start with the three session windows.
+
+27
+00:02:47,228 --> 00:02:49,124
+Mark the Asian high and low.
+
+28
+00:02:49,544 --> 00:02:51,440
+Mark the London high and low.
+
+29
+00:02:51,860 --> 00:02:53,948
+Mark the New York morning range.
+
+30
+00:02:54,368 --> 00:02:56,408
+And the previous day high and low.
+
+31
+00:02:56,828 --> 00:03:06,476
+Each session’s extremes become reference levels and potential liquidity for the next. This map turns time into price references you can actually use.
+
+32
+00:03:08,296 --> 00:03:15,616
+Session models fail often, so let’s study the failures. Failure one: London never sweeps the Asian low.
+
+33
+00:03:16,036 --> 00:03:23,236
+It simply breaks the Asian high and trends higher all day. Anyone waiting for a sweep of the low misses the move.
+
+34
+00:03:23,656 --> 00:03:27,832
+Failure two: London breaks the Asian low and just keeps going.
+
+35
+00:03:28,252 --> 00:03:33,748
+There is no reclaim. The break was continuation, and New York continues it as well.
+
+36
+00:03:34,168 --> 00:03:40,648
+In both cases, the correct response is to observe the actual chart, not to force a session model.
+
+37
+00:03:42,468 --> 00:03:48,012
+Failure three: London rallies, and New York reverses the entire London move.
+
+38
+00:03:48,432 --> 00:03:53,064
+A trader who assumed New York would continue London is now on the wrong side.
+
+39
+00:03:53,484 --> 00:04:01,164
+Failure four: a news release at eight thirty creates one abnormal candle that sweeps both sides of the range.
+
+40
+00:04:01,584 --> 00:04:07,464
+Sweeps caused by news spikes are not clean model evidence. Treat them with extra caution.
+
+41
+00:04:07,884 --> 00:04:14,892
+Failure five: the Kill Zones open and close, and nothing happens. No sweep, no displacement.
+
+42
+00:04:15,312 --> 00:04:18,672
+That happens more often than social media suggests.
+
+43
+00:04:19,092 --> 00:04:24,156
+When the session gives no clear evidence, no trade is a valid conclusion.
+
+44
+00:04:25,976 --> 00:04:32,192
+To summarise. The Asian session often forms a range whose extremes become references.
+
+45
+00:04:32,612 --> 00:04:42,068
+London may sweep an Asian extreme or continue through it. New York interacts with London’s range, the previous day’s levels, and scheduled news.
+
+46
+00:04:42,488 --> 00:04:44,768
+Map every session’s high and low.
+
+47
+00:04:45,188 --> 00:04:49,364
+And remember that failed session patterns are normal. Do not force them.
+
+48
+00:04:51,184 --> 00:04:56,920
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+49
+00:04:58,840 --> 00:05:04,264
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+50
+00:05:08,084 --> 00:05:14,300
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+51
+00:05:21,120 --> 00:05:27,216
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+52
+00:05:27,636 --> 00:05:32,820
+Then complete the practical task, and record what would make your interpretation invalid.
+
+53
+00:05:33,240 --> 00:05:37,608
+Answer guides for every exercise are in the Level Seven workbook.
+
+54
+00:05:39,428 --> 00:05:48,404
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+55
+00:05:48,824 --> 00:05:56,288
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

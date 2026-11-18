@@ -1,0 +1,264 @@
+1
+00:00:00,700 --> 00:00:08,284
+Selamat datang ke Episod 14, episod terakhir Level 7: kajian kes praktikal FCPO.
+
+2
+00:00:08,704 --> 00:00:15,132
+Kita mengaplikasikan setiap konsep Level 7 pada niaga hadapan minyak sawit mentah di Bursa Malaysia Derivatives,
+
+3
+00:00:15,132 --> 00:00:17,944
+tanpa memindahkan andaian forex secara mekanikal.
+
+4
+00:00:18,364 --> 00:00:24,054
+Setiap carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+5
+00:00:24,054 --> 00:00:27,556
+Tiada kemasukan, stop atau dakwaan keuntungan diberikan.
+
+6
+00:00:29,376 --> 00:00:36,072
+Pertama, spesifikasi rujukan. Satu kontrak FCPO ialah 25 tan metrik.
+
+7
+00:00:36,492 --> 00:00:43,356
+Turun naik harga minimum ialah RM1 setiap tan, jadi satu tick bernilai RM25 setiap kontrak.
+
+8
+00:00:43,776 --> 00:00:50,891
+Waktu dagangan ialah 10:30 hingga 12:30 tengah hari dan 2:30 hingga 6 petang, Isnin hingga Jumaat,
+
+9
+00:00:50,891 --> 00:00:55,392
+serta sesi T+1 dari 9 hingga 11:30 malam, Isnin hingga Khamis.
+
+10
+00:00:55,812 --> 00:01:00,588
+Bulan kontrak dan peraturan penghantaran dinyatakan dalam spesifikasi Bursa.
+
+11
+00:01:01,008 --> 00:01:05,856
+Sentiasa sahkan maklumat ini dengan dokumentasi terkini Bursa sebelum menggunakannya.
+
+12
+00:01:07,676 --> 00:01:15,284
+Kes bullish. Pada carta harian FCPO, struktur adalah bullish, dengan higher high dan higher low.
+
+13
+00:01:15,704 --> 00:01:19,592
+Potensi draw ialah buy-side liquidity di atas high lama.
+
+14
+00:01:20,012 --> 00:01:24,788
+Harga sedang retrace ke dalam discount, berhampiran bullish fair value gap.
+
+15
+00:01:25,208 --> 00:01:34,904
+Jadi Daily Bias ialah bullish, sebagai hipotesis kerja, dan objektif realistik hari ini ialah previous day high pada 4,244.
+
+16
+00:01:36,724 --> 00:01:44,836
+Pada carta 15 minit, hari dibuka pada 10:30 pagi. Sesi pagi membentuk range di sekitar harga pembukaan: accumulation.
+
+17
+00:01:45,256 --> 00:01:49,600
+Morning low, yang disentuh dua kali, menjadi rujukan sell-side.
+
+18
+00:01:50,020 --> 00:01:56,130
+Selepas rehat tengah hari, sesi petang dibuka dengan penurunan yang menyapu morning low.
+
+19
+00:01:56,130 --> 00:01:59,116
+Itulah fasa manipulation dalam istilah PO3.
+
+20
+00:01:59,536 --> 00:02:06,204
+Bolehkah ia digelar Judas Swing? Hanya sebagai tafsiran gaya Judas yang telah anda uji pada FCPO.
+
+21
+00:02:06,204 --> 00:02:12,184
+ICT mentakrifkan konsep ini di sekitar pembukaan New York dan London, bukan sesi Bursa.
+
+22
+00:02:12,604 --> 00:02:16,396
+Bullish displacement menyusul, meninggalkan fair value gap.
+
+23
+00:02:16,816 --> 00:02:18,952
+Harga memecah ke atas morning high.
+
+24
+00:02:19,372 --> 00:02:25,204
+Distribution membawa harga ke previous day high, di mana buy-side liquidity diambil.
+
+25
+00:02:27,024 --> 00:02:33,720
+Dan alternatifnya. Sapuan petang terus bergerak ke bawah. Tiada reclaim, tiada displacement.
+
+26
+00:02:34,140 --> 00:02:38,524
+Harga memecah paras invalidation, yang ditulis sebelum sesi.
+
+27
+00:02:38,524 --> 00:02:40,716
+Tafsiran bullish ditinggalkan.
+
+28
+00:02:41,136 --> 00:02:48,336
+Setiap kes CMI diringkaskan dalam kad kes: konteks, timeframe, bias dan liquidity.
+
+29
+00:02:48,756 --> 00:02:53,652
+Masa sesi, dan tafsiran PO3 atau AMD.
+
+30
+00:02:54,072 --> 00:02:58,680
+Status Judas dan SMT, struktur dan PD array.
+
+31
+00:02:59,100 --> 00:03:02,724
+Dan, sentiasa, invalidation serta alternatifnya.
+
+32
+00:03:04,544 --> 00:03:12,531
+Kes bearish mencerminkannya. Struktur harian bearish, harga telah retrace ke dalam premium berhampiran bearish fair value gap,
+
+33
+00:03:12,531 --> 00:03:15,320
+dan draw ialah sell-side liquidity di bawah.
+
+34
+00:03:15,740 --> 00:03:20,345
+Secara intraday, sesi pagi bergerak dalam range di sekitar pembukaan 10:30.
+
+35
+00:03:20,345 --> 00:03:22,556
+Morning high ialah rujukan buy-side.
+
+36
+00:03:22,976 --> 00:03:31,400
+Pembukaan petang menyapu morning high, kemungkinan pergerakan gaya Judas, hanya jika ujian anda pada FCPO menyokong bacaan tersebut.
+
+37
+00:03:31,820 --> 00:03:37,148
+Bearish displacement meninggalkan fair value gap, dan harga memecah ke bawah morning low.
+
+38
+00:03:37,568 --> 00:03:46,472
+Distribution bergerak ke arah previous day low. Alternatifnya, di mana harga diterima di atas high yang disapu, membatalkan kes bearish.
+
+39
+00:03:48,292 --> 00:03:55,235
+Bagi analisis sesi FCPO, mulakan dengan sesi Bursa: pagi, petang dan sesi T+1.
+
+40
+00:03:55,235 --> 00:04:00,220
+Tandakan open, high dan low setiap sesi sebagai rujukan.
+
+41
+00:04:00,640 --> 00:04:07,264
+Ingat bahawa dagangan T+1 direkodkan untuk hari dagangan berikutnya, yang mempengaruhi cara candle harian dibina.
+
+42
+00:04:07,684 --> 00:04:11,001
+ICT Kill Zones ditakrifkan dalam waktu New York.
+
+43
+00:04:11,001 --> 00:04:17,980
+Tetingkap London bertindih dengan sesi petang FCPO dari segi jam, tetapi itu kebetulan, bukan takrif.
+
+44
+00:04:18,400 --> 00:04:27,282
+Pengaruh antarabangsa adalah nyata: minyak Dalian, soybean oil CBOT, ringgit, minyak mentah dan data eksport.
+
+45
+00:04:27,282 --> 00:04:32,416
+Ini boleh menjelaskan pergerakan FCPO tanpa sebarang model ICT.
+
+46
+00:04:32,836 --> 00:04:41,236
+Tingkah laku harga FCPO tempatan ialah penilai terakhir. Uji sebarang idea berasaskan masa pada data FCPO itu sendiri.
+
+47
+00:04:43,056 --> 00:04:50,000
+Jika anda membandingkan FCPO dengan Dalian atau CBOT, sahkan kontrak sebenar dan sesi dagangannya.
+
+48
+00:04:51,420 --> 00:04:56,916
+Segerakkan cap masa kepada waktu Malaysia, dan terangkan hubungan ekonominya.
+
+49
+00:04:57,336 --> 00:05:03,696
+Terangkan perbezaan mata wang dan kontrak, dan gunakan data sebenar hanya jika ia boleh dipercayai.
+
+50
+00:05:04,116 --> 00:05:08,877
+Labelkan sebarang contoh ilustrasi dengan jelas, seperti dalam Episod 12.
+
+51
+00:05:08,877 --> 00:05:12,660
+Dan jangan sekali-kali mereka-reka SMT divergence sejarah.
+
+52
+00:05:14,480 --> 00:05:20,648
+Itu melengkapkan Level 7. Power of Three dan AMD menerangkan bagaimana harga mungkin dihantar.
+
+53
+00:05:21,068 --> 00:05:26,252
+Kill Zones dan Daily Bias memberitahu kita bila untuk memerhati, dan arah mana yang kita jangkakan.
+
+54
+00:05:26,672 --> 00:05:33,272
+Judas Swing dan SMT ialah tafsiran terperinci yang memerlukan konteks dan pengesahan.
+
+55
+00:05:33,692 --> 00:05:39,620
+Langkah seterusnya ialah penilaian komprehensif Level 7. Terima kasih, dan berdagang dengan disiplin.
+
+56
+00:05:41,440 --> 00:05:48,676
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+57
+00:05:49,096 --> 00:05:52,672
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+58
+00:05:52,672 --> 00:05:56,520
+Penaakulan itulah yang dinilai.
+
+59
+00:05:58,340 --> 00:06:09,556
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+60
+00:06:11,376 --> 00:06:17,472
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+61
+00:06:17,892 --> 00:06:23,076
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+62
+00:06:23,496 --> 00:06:27,864
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+63
+00:06:29,684 --> 00:06:35,496
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+64
+00:06:35,496 --> 00:06:38,660
+Trading futures melibatkan risiko kerugian.
+
+65
+00:06:39,080 --> 00:06:44,678
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+66
+00:06:44,678 --> 00:06:46,544
+Jumpa dalam episod seterusnya.
+

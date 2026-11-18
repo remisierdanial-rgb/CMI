@@ -1,0 +1,204 @@
+1
+00:00:00,700 --> 00:00:08,284
+Welcome to Episode Fourteen, the final episode of Level Seven: FCPO practical case studies.
+
+2
+00:00:08,704 --> 00:00:17,944
+We apply every Level Seven concept to crude palm oil futures on Bursa Malaysia Derivatives, without transferring forex assumptions mechanically.
+
+3
+00:00:18,364 --> 00:00:27,556
+Every chart in this episode is an illustrative scenario, not actual historical trading data. No entries, stops or profit claims are given.
+
+4
+00:00:29,376 --> 00:00:36,072
+First, the reference specifications. One FCPO contract is twenty-five metric tonnes.
+
+5
+00:00:36,492 --> 00:00:43,356
+The minimum price fluctuation is one ringgit per tonne, so one tick is worth twenty-five ringgit per contract.
+
+6
+00:00:43,776 --> 00:00:55,392
+Trading hours are ten thirty to twelve thirty and two thirty to six p m, Monday to Friday, plus the T plus one session from nine to eleven thirty p m, Monday to Thursday.
+
+7
+00:00:55,812 --> 00:01:00,588
+Contract months and delivery rules are set out in Bursa’s specification.
+
+8
+00:01:01,008 --> 00:01:05,856
+Always verify these against Bursa’s current documentation before using them.
+
+9
+00:01:07,676 --> 00:01:15,284
+The bullish case. On the daily FCPO chart, structure is bullish, with higher highs and higher lows.
+
+10
+00:01:15,704 --> 00:01:19,592
+The potential draw is buy-side liquidity above the old high.
+
+11
+00:01:20,012 --> 00:01:24,788
+Price is retracing into discount, near a bullish fair value gap.
+
+12
+00:01:25,208 --> 00:01:34,904
+So the Daily Bias is bullish, as a working hypothesis, and today’s realistic objective is the previous day high at four thousand two hundred and forty-four.
+
+13
+00:01:36,724 --> 00:01:44,836
+On the fifteen-minute chart, the day opens at ten thirty. The morning session forms a range around the open: accumulation.
+
+14
+00:01:45,256 --> 00:01:49,600
+The morning low, touched twice, becomes the sell-side reference.
+
+15
+00:01:50,020 --> 00:01:59,116
+After the lunch break, the afternoon session opens with a drop that sweeps the morning low. That is the manipulation phase in PO3 terms.
+
+16
+00:01:59,536 --> 00:02:12,184
+Could it be called a Judas Swing? Only as a Judas-style interpretation that you have tested on FCPO. ICT defined the concept around New York and London opens, not Bursa sessions.
+
+17
+00:02:12,604 --> 00:02:16,396
+Bullish displacement follows, leaving a fair value gap.
+
+18
+00:02:16,816 --> 00:02:18,952
+Price breaks above the morning high.
+
+19
+00:02:19,372 --> 00:02:25,204
+Distribution carries price to the previous day high, where buy-side liquidity is taken.
+
+20
+00:02:27,024 --> 00:02:33,720
+And the alternative. The afternoon sweep simply continues lower. No reclaim, no displacement.
+
+21
+00:02:34,140 --> 00:02:40,716
+Price breaks the invalidation level, written before the session. The bullish interpretation is abandoned.
+
+22
+00:02:41,136 --> 00:02:48,336
+Every CMI case is summarised in a case card: context, timeframe, bias and liquidity.
+
+23
+00:02:48,756 --> 00:02:53,652
+Session timing, and the PO3 or AMD interpretation.
+
+24
+00:02:54,072 --> 00:02:58,680
+Judas and SMT status, structure and PD arrays.
+
+25
+00:02:59,100 --> 00:03:02,724
+And, always, invalidation and the alternative.
+
+26
+00:03:04,544 --> 00:03:15,320
+The bearish case mirrors it. The daily structure is bearish, price has retraced into premium near a bearish fair value gap, and the draw is sell-side liquidity below.
+
+27
+00:03:15,740 --> 00:03:22,556
+Intraday, the morning session ranges around the ten thirty open. The morning high is the buy-side reference.
+
+28
+00:03:22,976 --> 00:03:31,400
+The afternoon open sweeps the morning high, a possible Judas-style move, only if your testing on FCPO supports that reading.
+
+29
+00:03:31,820 --> 00:03:37,148
+Bearish displacement leaves a fair value gap, and price breaks below the morning low.
+
+30
+00:03:37,568 --> 00:03:46,472
+Distribution runs toward the previous day low. The alternative, where price accepts above the swept high, invalidates the bearish case.
+
+31
+00:03:48,292 --> 00:04:00,220
+For FCPO session analysis, start from Bursa’s sessions: morning, afternoon and the T plus one session. Mark each session’s open, high and low as references.
+
+32
+00:04:00,640 --> 00:04:07,264
+Remember that T plus one trades are booked to the next trading day, which affects how daily candles are built.
+
+33
+00:04:07,684 --> 00:04:17,980
+ICT Kill Zones are defined in New York time. The London window overlaps the FCPO afternoon on the clock, but that is coincidence, not a definition.
+
+34
+00:04:18,400 --> 00:04:32,416
+International influence is real: Dalian oils, CBOT soybean oil, the ringgit, crude oil and export data. These can explain FCPO moves without any ICT model.
+
+35
+00:04:32,836 --> 00:04:41,236
+Local FCPO price behaviour is the final judge. Test any time-based idea on FCPO data itself.
+
+36
+00:04:43,056 --> 00:04:50,000
+If you compare FCPO with Dalian or CBOT, verify the actual contracts and their trading sessions.
+
+37
+00:04:51,420 --> 00:04:56,916
+Synchronise the timestamps to Malaysia time, and explain the economic relationship.
+
+38
+00:04:57,336 --> 00:05:03,696
+Explain the currency and contract differences, and use actual data only if it is reliable.
+
+39
+00:05:04,116 --> 00:05:12,660
+Label any illustrative example clearly, as in Episode Twelve. And never fabricate a historical SMT divergence.
+
+40
+00:05:14,480 --> 00:05:20,648
+That completes Level Seven. Power of Three and AMD describe how price may be delivered.
+
+41
+00:05:21,068 --> 00:05:26,252
+Kill Zones and Daily Bias tell us when to watch, and which direction we expect.
+
+42
+00:05:26,672 --> 00:05:33,272
+Judas Swing and SMT are refined interpretations that require context and confirmation.
+
+43
+00:05:33,692 --> 00:05:39,620
+Your next step is the Level Seven comprehensive assessment. Thank you, and trade with discipline.
+
+44
+00:05:41,440 --> 00:05:47,176
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+45
+00:05:49,096 --> 00:05:54,520
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+46
+00:05:58,340 --> 00:06:04,556
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+47
+00:06:11,376 --> 00:06:17,472
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+48
+00:06:17,892 --> 00:06:23,076
+Then complete the practical task, and record what would make your interpretation invalid.
+
+49
+00:06:23,496 --> 00:06:27,864
+Answer guides for every exercise are in the Level Seven workbook.
+
+50
+00:06:29,684 --> 00:06:38,660
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+51
+00:06:39,080 --> 00:06:46,544
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

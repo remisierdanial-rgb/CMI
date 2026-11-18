@@ -1,0 +1,224 @@
+1
+00:00:00,700 --> 00:00:06,244
+Selamat datang ke Episod 11, pelajaran lanjutan tentang SMT Divergence.
+
+2
+00:00:06,664 --> 00:00:13,865
+Kita akan meneliti kajian kes bullish dan bearish langkah demi langkah, membandingkan setiap satu dengan alternatif di mana SMT gagal,
+
+3
+00:00:13,865 --> 00:00:17,680
+dan kemudian melihat keadaan pasaran yang mengubah kebolehpercayaannya.
+
+4
+00:00:19,500 --> 00:00:23,412
+Langkah satu: Instrumen A menghampiri low sebelumnya.
+
+5
+00:00:23,832 --> 00:00:29,880
+Langkah dua: Instrumen B menghampiri low sebelumnya yang sepadan, pada masa yang sama.
+
+6
+00:00:30,300 --> 00:00:35,676
+Langkah tiga: Instrumen A didagangkan di bawah low sebelumnya, iaitu lower low.
+
+7
+00:00:36,096 --> 00:00:40,375
+Langkah empat: Instrumen B tidak membuat lower low yang sepadan.
+
+8
+00:00:40,375 --> 00:00:41,712
+Ia bertahan di atas.
+
+9
+00:00:42,132 --> 00:00:50,508
+Langkah lima: tonjolkan percanggahan tersebut. Garisan menegak menunjukkan dua swing yang sama, pada masa yang sama, pada kedua-dua carta.
+
+10
+00:00:50,928 --> 00:00:55,742
+Langkah enam: labelkan sebagai potensi SMT divergence bullish.
+
+11
+00:00:55,742 --> 00:00:58,848
+Potensi, kerana belum ada yang disahkan.
+
+12
+00:00:59,268 --> 00:01:06,036
+Langkah tujuh: pengesahan muncul pada Instrumen A, apabila harga ditutup di atas lower high terakhir.
+
+13
+00:01:06,456 --> 00:01:10,176
+Langkah lapan ialah alternatifnya, dan ia wajar diteliti secara berasingan.
+
+14
+00:01:11,996 --> 00:01:16,844
+Ini alternatifnya. Kedua-dua instrumen didagangkan di bawah low sebelumnya.
+
+15
+00:01:17,264 --> 00:01:22,640
+Tiada percanggahan, jadi tiada SMT, dan kedua-duanya terus turun.
+
+16
+00:01:23,060 --> 00:01:28,100
+Apabila instrumen berkaitan saling mengesahkan, kesinambungan ialah bacaan yang lebih mudah.
+
+17
+00:01:29,920 --> 00:01:35,224
+Kes bearish. Langkah satu: Instrumen A menghampiri high sebelumnya.
+
+18
+00:01:35,644 --> 00:01:40,300
+Langkah dua: Instrumen B menghampiri high sebelumnya yang sepadan.
+
+19
+00:01:40,720 --> 00:01:45,040
+Langkah tiga: Instrumen A didagangkan di atas high sebelumnya.
+
+20
+00:01:45,460 --> 00:01:50,044
+Langkah empat: Instrumen B gagal membuat higher high yang sepadan.
+
+21
+00:01:50,464 --> 00:01:55,360
+Langkah lima: percanggahan ditandakan pada swing yang sama di kedua-dua carta.
+
+22
+00:01:55,780 --> 00:02:00,124
+Langkah enam: potensi SMT divergence bearish.
+
+23
+00:02:00,544 --> 00:02:06,352
+Langkah tujuh: pengesahan pada Instrumen A, penutupan di bawah higher low terakhir.
+
+24
+00:02:06,772 --> 00:02:13,338
+Langkah lapan: alternatifnya, di mana kedua-dua instrumen membuat higher high dan terus naik.
+
+25
+00:02:13,338 --> 00:02:14,044
+Tiada SMT.
+
+26
+00:02:15,864 --> 00:02:20,688
+Dalam alternatif bearish, kedua-dua instrumen memecah high sebelumnya bersama-sama.
+
+27
+00:02:21,108 --> 00:02:26,220
+Persetujuan bermakna tiada SMT. Jangan cari divergence yang tidak wujud.
+
+28
+00:02:28,040 --> 00:02:31,035
+Kebolehpercayaan SMT bergantung pada keadaan.
+
+29
+00:02:31,035 --> 00:02:38,024
+Antara instrumen yang berkorelasi kuat, divergence jarang berlaku, jadi ia membawa lebih banyak maklumat.
+
+30
+00:02:38,444 --> 00:02:43,916
+Antara instrumen yang berkorelasi lemah, divergence kerap berlaku, jadi ia memberitahu sedikit.
+
+31
+00:02:44,336 --> 00:02:50,288
+Korelasi berubah mengikut masa. Hubungan semalam mungkin tidak bertahan hari ini, jadi semak semula.
+
+32
+00:02:50,708 --> 00:02:57,308
+Waktu sesi yang berbeza boleh menghasilkan divergence palsu, apabila satu instrumen ditutup atau didagangkan secara nipis.
+
+33
+00:02:57,728 --> 00:03:01,212
+Berita boleh menjejaskan satu instrumen lebih teruk daripada yang lain.
+
+34
+00:03:01,212 --> 00:03:04,352
+Divergence itu bersifat fundamental, bukan kekuatan tersembunyi.
+
+35
+00:03:04,772 --> 00:03:09,716
+Dan sesetengah divergence bersifat sementara, selesai dengan cepat tanpa kesan.
+
+36
+00:03:11,536 --> 00:03:15,671
+Akhir sekali, divergence yang tidak membawa kepada pembalikan.
+
+37
+00:03:15,671 --> 00:03:20,872
+A membuat lower low manakala B mengekalkan higher low: SMT bullish yang tulen.
+
+38
+00:03:21,292 --> 00:03:27,628
+Tetapi A tidak pernah mengalihkan struktur. Kedua-dua instrumen kembali jatuh, dan B akhirnya memecah low-nya juga.
+
+39
+00:03:28,048 --> 00:03:31,290
+Divergence yang sebenar, dan tiada pembalikan.
+
+40
+00:03:31,290 --> 00:03:39,184
+Itulah sebabnya pengesahan pada A penting, dan mengapa tafsiran SMT menjadi lemah apabila hubungan tidak stabil.
+
+41
+00:03:41,004 --> 00:03:46,072
+Sebagai rumusan. Gunakan lapan langkah tersebut, dan sentiasa lihat alternatifnya.
+
+42
+00:03:46,072 --> 00:03:47,988
+Persetujuan bermakna tiada SMT.
+
+43
+00:03:48,408 --> 00:03:52,790
+Kebolehpercayaan bergantung pada kekuatan dan kestabilan hubungan.
+
+44
+00:03:52,790 --> 00:03:56,376
+Waktu sesi dan berita boleh mencipta divergence palsu.
+
+45
+00:03:56,796 --> 00:04:00,516
+Dan divergence tanpa pengesahan hanyalah amaran.
+
+46
+00:04:02,336 --> 00:04:09,572
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+47
+00:04:09,992 --> 00:04:13,568
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+48
+00:04:13,568 --> 00:04:17,416
+Penaakulan itulah yang dinilai.
+
+49
+00:04:19,236 --> 00:04:30,452
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+50
+00:04:32,272 --> 00:04:38,368
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+51
+00:04:38,788 --> 00:04:43,972
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+52
+00:04:44,392 --> 00:04:48,760
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+53
+00:04:50,580 --> 00:04:56,392
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+54
+00:04:56,392 --> 00:04:59,556
+Trading futures melibatkan risiko kerugian.
+
+55
+00:04:59,976 --> 00:05:05,574
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+56
+00:05:05,574 --> 00:05:07,440
+Jumpa dalam episod seterusnya.
+

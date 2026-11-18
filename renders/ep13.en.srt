@@ -1,0 +1,180 @@
+1
+00:00:00,700 --> 00:00:06,628
+Welcome to Episode Thirteen. Here we bring all six Level Seven subtopics together.
+
+2
+00:00:07,048 --> 00:00:15,640
+We will follow one integrated bullish scenario, one bearish scenario, and a conflicting day where the right answer is to stay neutral.
+
+3
+00:00:16,060 --> 00:00:20,764
+Treat the sequence as one possible path, not a required recipe.
+
+4
+00:00:22,584 --> 00:00:28,752
+Step one: higher-timeframe market structure is bullish, with higher highs and higher lows.
+
+5
+00:00:29,172 --> 00:00:32,436
+Step two: the Daily Bias is bullish.
+
+6
+00:00:32,856 --> 00:00:38,736
+Step three: the potential draw on liquidity is buy-side liquidity above the old high.
+
+7
+00:00:39,156 --> 00:00:43,812
+Step four: map the dealing range from the swing low to the swing high.
+
+8
+00:00:44,232 --> 00:00:49,416
+Step five: price is retracing into discount, below equilibrium.
+
+9
+00:00:49,836 --> 00:00:57,084
+Step six: identify the liquidity pools for today: the Asian low below, and the previous day high above.
+
+10
+00:00:58,904 --> 00:01:04,400
+Step seven: during the London Kill Zone, price interacts with session liquidity.
+
+11
+00:01:04,820 --> 00:01:13,148
+Step eight: it drops below the midnight open and sweeps the Asian low. A possible Judas Swing, still unconfirmed.
+
+12
+00:01:13,568 --> 00:01:22,952
+Step nine: SMT. In this illustration we have no verified related instrument, so we do not evaluate it. We do not invent one.
+
+13
+00:01:23,372 --> 00:01:25,940
+Step ten: bullish displacement.
+
+14
+00:01:26,360 --> 00:01:30,728
+Step eleven: a market structure shift above the last lower high.
+
+15
+00:01:31,148 --> 00:01:36,716
+Step twelve: the fair value gap left by displacement is a relevant PD array.
+
+16
+00:01:37,136 --> 00:01:49,904
+Step thirteen: the expansion toward the previous day high can be interpreted as the distribution phase of PO3 and AMD. One possible integrated scenario, not a required sequence.
+
+17
+00:01:51,724 --> 00:02:01,852
+The integrated bearish scenario is the inverse. Higher-timeframe structure is bearish, the bias is bearish, and the draw is sell-side liquidity below.
+
+18
+00:02:02,272 --> 00:02:06,520
+The dealing range is mapped, and price has retraced into premium.
+
+19
+00:02:06,940 --> 00:02:11,020
+In the London Kill Zone, price interacts with session liquidity.
+
+20
+00:02:11,440 --> 00:02:18,112
+It rallies above the midnight open and sweeps buy-side liquidity: a possible bearish Judas Swing.
+
+21
+00:02:18,532 --> 00:02:29,044
+SMT is evaluated only if a verified related instrument exists. Then bearish displacement, a market structure shift and a bearish fair value gap.
+
+22
+00:02:29,464 --> 00:02:34,528
+The expansion toward sell-side liquidity is read as the distribution phase.
+
+23
+00:02:34,948 --> 00:02:37,444
+Same thirteen steps, inverted.
+
+24
+00:02:39,264 --> 00:02:42,888
+Now a conflicting day. The Daily Bias is bullish.
+
+25
+00:02:43,308 --> 00:02:50,172
+But on the lower timeframe, structure is drifting lower, and SMT is absent or unclear.
+
+26
+00:02:50,592 --> 00:02:55,848
+Price never sweeps the expected liquidity. The Asian low is untouched.
+
+27
+00:02:56,268 --> 00:03:01,716
+Both Kill Zones pass without meaningful movement, and no displacement develops.
+
+28
+00:03:02,136 --> 00:03:10,032
+The conclusion is neutral, and no trade. Not every day offers a setup, and staying out is a decision, not a failure.
+
+29
+00:03:11,852 --> 00:03:20,852
+Here is the CMI Advanced Analysis Workflow. One to three: higher-timeframe structure, Daily Bias, and the draw on liquidity.
+
+30
+00:03:21,272 --> 00:03:27,200
+Four to six: the dealing range, premium and discount, and relevant PD arrays.
+
+31
+00:03:27,620 --> 00:03:35,132
+Seven and eight: session and Kill Zone context, and the PO3 or AMD interpretation.
+
+32
+00:03:35,552 --> 00:03:40,976
+Nine and ten: a potential Judas Swing, and SMT where appropriate.
+
+33
+00:03:41,396 --> 00:03:48,572
+Eleven and twelve: displacement and lower-timeframe confirmation, then invalidation and risk assessment.
+
+34
+00:03:48,992 --> 00:03:57,512
+This is a structured process, not a checklist that generates automatic trade signals. Not every analysis needs every element.
+
+35
+00:03:59,332 --> 00:04:08,548
+To summarise. Build context first, then read delivery, then look for confirmation. Each Level Seven concept answers a different question.
+
+36
+00:04:08,968 --> 00:04:13,840
+Optional elements stay optional, and conflicting evidence leads to neutral.
+
+37
+00:04:14,260 --> 00:04:17,452
+And always finish with invalidation and risk.
+
+38
+00:04:19,272 --> 00:04:25,008
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+39
+00:04:26,928 --> 00:04:32,352
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+40
+00:04:36,172 --> 00:04:42,388
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+41
+00:04:49,208 --> 00:04:55,304
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+42
+00:04:55,724 --> 00:05:00,908
+Then complete the practical task, and record what would make your interpretation invalid.
+
+43
+00:05:01,328 --> 00:05:05,696
+Answer guides for every exercise are in the Level Seven workbook.
+
+44
+00:05:07,516 --> 00:05:16,492
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+45
+00:05:16,912 --> 00:05:24,376
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

@@ -1,0 +1,256 @@
+1
+00:00:00,700 --> 00:00:07,084
+Welcome to Episode Ten, subtopic seven point six: SMT Divergence.
+
+2
+00:00:07,504 --> 00:00:12,112
+Every concept so far looked at one chart. SMT compares two.
+
+3
+00:00:12,532 --> 00:00:21,436
+We will define it, set a clear convention, learn how to choose a valid pair, and see how it fits with liquidity, structure and PD arrays.
+
+4
+00:00:23,256 --> 00:00:30,984
+SMT Divergence is a relative comparison of swing highs and lows between related instruments, over the same period.
+
+5
+00:00:31,404 --> 00:00:36,588
+In ICT terminology, SMT stands for Smart Money Technique.
+
+6
+00:00:37,008 --> 00:00:43,560
+Related markets usually move together. When they reach a swing point together, we expect similar behaviour.
+
+7
+00:00:43,980 --> 00:00:52,020
+When one makes a new extreme and the other does not, that disagreement is information about relative strength and weakness.
+
+8
+00:00:52,440 --> 00:00:58,608
+This is not RSI or MACD divergence. No indicator is involved.
+
+9
+00:00:59,028 --> 00:01:06,756
+And it is an analytical comparison. It does not prove institutional activity, and it does not predict a reversal on its own.
+
+10
+00:01:08,576 --> 00:01:17,288
+SMT is only as good as the pair. First, do they share a similar underlying exposure, and a real economic relationship?
+
+11
+00:01:17,708 --> 00:01:22,772
+Second, do they have a history of moving together? Check it; do not assume it.
+
+12
+00:01:23,192 --> 00:01:28,760
+Third, do they trade at the same time? Different session hours create false divergences.
+
+13
+00:01:29,180 --> 00:01:34,004
+Fourth, are the data, contract specifications and currencies comparable?
+
+14
+00:01:34,424 --> 00:01:38,120
+Fifth, what drivers do they share, and where do they differ?
+
+15
+00:01:38,540 --> 00:01:46,148
+And remember, correlation is not constant. Never compare unrelated instruments just because their charts look alike.
+
+16
+00:01:47,968 --> 00:01:56,296
+Bullish SMT. Two related instruments, on the same timeframe and the same time axis. Both have made a first swing low.
+
+17
+00:01:56,716 --> 00:02:04,612
+Instrument A falls again and trades below its first low. It makes a lower low, sweeping the sell-side liquidity beneath.
+
+18
+00:02:05,032 --> 00:02:11,368
+At the same time, Instrument B fails to make a corresponding lower low. It holds a higher low.
+
+19
+00:02:11,788 --> 00:02:20,980
+That disagreement is the bullish SMT Divergence. B is showing relative strength, a warning that the bearish move may be weakening.
+
+20
+00:02:21,400 --> 00:02:29,080
+Further confirmation is still needed. Here, Instrument A later shifts structure, closing above its last lower high.
+
+21
+00:02:29,500 --> 00:02:41,212
+Definitions vary on which instrument leads. The CMI convention: A is the instrument that makes the new extreme, B fails to confirm, and we look for confirmation on A.
+
+22
+00:02:43,032 --> 00:02:48,360
+Bearish SMT is the opposite. Both instruments make a first swing high.
+
+23
+00:02:48,780 --> 00:02:56,268
+Instrument A rallies above its first high, a higher high. Instrument B fails to follow, and prints a lower high.
+
+24
+00:02:56,688 --> 00:03:04,656
+That is bearish SMT Divergence: relative weakness, a warning that the bullish move may be losing strength.
+
+25
+00:03:05,076 --> 00:03:10,284
+Again, confirmation is needed. Here Instrument A later shifts structure lower.
+
+26
+00:03:10,704 --> 00:03:15,240
+Without that confirmation, the divergence is only an observation.
+
+27
+00:03:17,060 --> 00:03:25,124
+SMT connects naturally with Level Three liquidity. Both instruments have sell-side liquidity under a previous low.
+
+28
+00:03:25,544 --> 00:03:27,248
+Instrument A sweeps it.
+
+29
+00:03:27,668 --> 00:03:32,228
+Instrument B does not. Its sell-side liquidity remains intact.
+
+30
+00:03:32,648 --> 00:03:45,296
+The same applies with buy-side liquidity in bearish SMT. But evaluate it within the broader market. Not every mismatch between two highs or lows is meaningful SMT.
+
+31
+00:03:47,116 --> 00:03:55,060
+Now link SMT with Level Two structure. On Instrument A, the bearish leg prints a lower high and a lower low.
+
+32
+00:03:55,480 --> 00:04:01,384
+The SMT divergence appears at that lower low, because Instrument B holds its low.
+
+33
+00:04:01,804 --> 00:04:06,532
+Structure then confirms with a market structure shift above the lower high.
+
+34
+00:04:06,952 --> 00:04:09,496
+A new higher high would extend the shift.
+
+35
+00:04:09,916 --> 00:04:15,916
+SMT adds context around a possible shift. It does not replace structure analysis.
+
+36
+00:04:17,736 --> 00:04:25,920
+SMT is often studied at PD arrays. Here, Instrument A trades into a higher-timeframe bullish order block.
+
+37
+00:04:26,340 --> 00:04:28,380
+The order block sits in discount.
+
+38
+00:04:28,800 --> 00:04:35,184
+At the same time, the SMT divergence forms: A makes a lower low, B does not.
+
+39
+00:04:35,604 --> 00:04:39,036
+Displacement follows and leaves a fair value gap.
+
+40
+00:04:39,456 --> 00:04:46,680
+SMT at a PD array is an interesting analytical confluence. It does not guarantee a reaction.
+
+41
+00:04:48,500 --> 00:05:04,100
+How does SMT differ from RSI or MACD divergence? SMT compares one instrument’s price with a related instrument’s price. Oscillator divergence compares price with an indicator calculated from that same price.
+
+42
+00:05:04,520 --> 00:05:13,712
+SMT uses relative highs and lows across instruments. Oscillator divergence uses price extremes versus indicator extremes.
+
+43
+00:05:14,132 --> 00:05:22,196
+SMT depends on the relationship between instruments. Oscillator divergence depends on the indicator formula and settings.
+
+44
+00:05:22,616 --> 00:05:28,640
+SMT highlights relative strength or weakness. Oscillator divergence highlights momentum.
+
+45
+00:05:29,060 --> 00:05:32,540
+They are separate techniques, with separate failure modes.
+
+46
+00:05:34,360 --> 00:05:38,152
+Common mistakes. Comparing unrelated instruments.
+
+47
+00:05:38,572 --> 00:05:41,668
+Using different or misaligned timeframes.
+
+48
+00:05:42,088 --> 00:05:46,672
+Ignoring session differences, and comparing data that is not synchronised.
+
+49
+00:05:47,092 --> 00:05:49,468
+Assuming correlation is permanent.
+
+50
+00:05:49,888 --> 00:05:53,128
+Treating every mismatch as SMT.
+
+51
+00:05:53,548 --> 00:05:57,388
+Treating SMT as an automatic reversal signal.
+
+52
+00:05:57,808 --> 00:06:03,304
+Confusing SMT with RSI or MACD divergence.
+
+53
+00:06:03,724 --> 00:06:06,196
+And ignoring the broader market structure.
+
+54
+00:06:08,016 --> 00:06:16,848
+To summarise. SMT compares the swings of related instruments, on the same timeframe, the same time axis, and the same swing.
+
+55
+00:06:17,268 --> 00:06:24,732
+Bullish: A makes a lower low while B holds a higher low. Bearish: A makes a higher high while B makes a lower high.
+
+56
+00:06:25,152 --> 00:06:33,312
+Look for confirmation on A with structure. And remember: it is not oscillator divergence, and it does not guarantee a reversal.
+
+57
+00:06:35,132 --> 00:06:40,868
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+58
+00:06:42,788 --> 00:06:48,212
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+59
+00:06:52,032 --> 00:06:58,248
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+60
+00:07:05,068 --> 00:07:11,164
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+61
+00:07:11,584 --> 00:07:16,768
+Then complete the practical task, and record what would make your interpretation invalid.
+
+62
+00:07:17,188 --> 00:07:21,556
+Answer guides for every exercise are in the Level Seven workbook.
+
+63
+00:07:23,376 --> 00:07:32,352
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+64
+00:07:32,772 --> 00:07:40,236
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

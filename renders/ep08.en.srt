@@ -1,0 +1,280 @@
+1
+00:00:00,700 --> 00:00:06,052
+Welcome to Episode Eight, subtopic seven point five: the Judas Swing.
+
+2
+00:00:06,472 --> 00:00:12,880
+This concept brings together everything so far: liquidity, timing, and Daily Bias.
+
+3
+00:00:13,300 --> 00:00:19,972
+Our main goal is precision: knowing when the label applies, and when an ordinary sweep is just a sweep.
+
+4
+00:00:21,792 --> 00:00:33,960
+A Judas Swing is an ICT interpretation of an initial, counter-directional move early in a session, that runs liquidity before price moves in the direction of the Daily Bias.
+
+5
+00:00:34,380 --> 00:00:39,516
+The name suggests betrayal: the early move misleads traders who follow it.
+
+6
+00:00:39,936 --> 00:00:47,640
+It is session-based. The London and New York opens are where it is studied most, often measured from the New York midnight open.
+
+7
+00:00:48,060 --> 00:00:50,580
+It usually involves a liquidity sweep.
+
+8
+00:00:50,000 --> 00:00:57,408
+It requires a Daily Bias set before the move. Otherwise, “counter-directional” has no meaning.
+
+9
+00:00:57,828 --> 00:01:03,492
+And it is confirmed only later, by displacement and structure in the bias direction.
+
+10
+00:01:03,912 --> 00:01:10,848
+Like manipulation, the term describes price behaviour. It is not proof of deliberate manipulation by anyone.
+
+11
+00:01:12,668 --> 00:01:19,700
+The bullish Judas Swing model. Step one: the Daily Bias is bullish, established before the session.
+
+12
+00:01:20,120 --> 00:01:25,880
+Step two: identify the references. The New York midnight open, and the Asian range.
+
+13
+00:01:26,300 --> 00:01:32,564
+Step three: at the London open, price initially moves down, below the midnight open.
+
+14
+00:01:32,984 --> 00:01:40,568
+Step four: it sweeps sell-side liquidity below the Asian low. This is only a potential Judas Swing at this point.
+
+15
+00:01:40,988 --> 00:01:46,772
+Step five: the downward move fails to sustain. Price stops making progress lower.
+
+16
+00:01:47,192 --> 00:01:52,232
+Step six: bullish displacement develops, back above the midnight open.
+
+17
+00:01:52,652 --> 00:01:58,004
+Step seven: a possible bullish market structure shift above the last lower high.
+
+18
+00:01:58,424 --> 00:02:08,696
+Step eight: price moves toward buy-side liquidity, here the previous day high. Only now, with context and confirmation, does the Judas Swing label fit.
+
+19
+00:02:10,516 --> 00:02:17,932
+The bearish Judas Swing is the mirror image. Step one: a bearish Daily Bias, set before the session.
+
+20
+00:02:18,352 --> 00:02:22,840
+Step two: the midnight open and the Asian range as references.
+
+21
+00:02:23,260 --> 00:02:27,868
+Step three: price initially moves up, above the midnight open.
+
+22
+00:02:28,288 --> 00:02:32,728
+Step four: it sweeps buy-side liquidity above the Asian high.
+
+23
+00:02:33,148 --> 00:02:39,436
+Steps five and six: the rally fails to sustain, and bearish displacement follows.
+
+24
+00:02:39,856 --> 00:02:43,648
+Step seven: a possible bearish market structure shift.
+
+25
+00:02:44,068 --> 00:02:47,980
+Step eight: price moves toward sell-side liquidity below.
+
+26
+00:02:49,800 --> 00:03:01,824
+Judas Swings are usually studied around specific times. The New York midnight open is midnight New York time: noon in Malaysia during daylight time, or one p m during standard time.
+
+27
+00:03:02,244 --> 00:03:12,252
+The London window, two to five a m New York, is two to five p m in Malaysia during EDT, and three to six p m during EST.
+
+28
+00:03:12,672 --> 00:03:20,784
+The New York morning window is seven to ten p m Malaysia time during EDT, and eight to eleven p m during EST.
+
+29
+00:03:21,204 --> 00:03:30,996
+But timing is context. These are where false moves are most often studied, not where they must occur. Many sessions open without any Judas Swing at all.
+
+30
+00:03:32,816 --> 00:03:41,528
+Here is the relationship with Daily Bias. On the left, the daily chart sets a bullish bias, with buy-side liquidity as the draw.
+
+31
+00:03:41,948 --> 00:03:49,556
+On the right, the session’s first move goes the other way. Price falls below the midnight open and takes sell-side liquidity.
+
+32
+00:03:49,976 --> 00:04:00,344
+The initial move creates the liquidity, and the better price, before the expected direction. Displacement and a structure shift then provide additional evidence.
+
+33
+00:04:00,764 --> 00:04:08,324
+In a bearish bias, everything inverts: the first move goes up, takes buy-side liquidity, then fails.
+
+34
+00:04:10,144 --> 00:04:17,272
+This comparison is mandatory. A liquidity sweep is simply price trading through a relevant high or low.
+
+35
+00:04:17,692 --> 00:04:22,732
+It can happen in any context, and by itself it does not imply a reversal.
+
+36
+00:04:23,152 --> 00:04:25,744
+It does not require any session model.
+
+37
+00:04:26,164 --> 00:04:32,308
+A Judas Swing is an ICT-specific interpretation of an initial deceptive move.
+
+38
+00:04:32,728 --> 00:04:37,432
+It is discussed within session-based delivery, and it often involves a sweep.
+
+39
+00:04:37,852 --> 00:04:42,724
+But it also needs a Daily Bias, relevant timing, and later confirmation.
+
+40
+00:04:43,144 --> 00:04:50,080
+So: a Judas Swing may involve a liquidity sweep, but not every liquidity sweep is a Judas Swing.
+
+41
+00:04:51,900 --> 00:04:59,436
+How does a Judas Swing differ from a classic false breakout? They look similar: a level breaks, then price returns.
+
+42
+00:04:59,856 --> 00:05:11,208
+The methodology differs. False breakouts, or bull and bear traps, belong to general technical analysis. Judas Swing belongs to ICT’s session-based model.
+
+43
+00:05:11,628 --> 00:05:16,092
+Liquidity is central to a Judas Swing. Which liquidity was run?
+
+44
+00:05:16,512 --> 00:05:21,624
+Timing matters: it happens early in a session, measured from a defined open.
+
+45
+00:05:22,044 --> 00:05:26,460
+A Daily Bias is required, because the move must be counter to it.
+
+46
+00:05:26,880 --> 00:05:35,448
+And what follows matters: displacement and expansion in the bias direction. So, not every false breakout is a Judas Swing.
+
+47
+00:05:37,268 --> 00:05:44,804
+Now the failures. Failure one: the initial move sweeps liquidity and simply continues in the same direction.
+
+48
+00:05:45,224 --> 00:05:51,344
+Failure two: the sweep happens, but no displacement follows. Price drifts sideways.
+
+49
+00:05:51,764 --> 00:06:00,956
+Failure three: price bounces, but never breaks the last lower high. No meaningful structure shift develops, and the decline resumes.
+
+50
+00:06:01,376 --> 00:06:09,752
+There are two more. Price can remain in consolidation all session, or the assumed Daily Bias itself can become invalid.
+
+51
+00:06:10,172 --> 00:06:15,644
+This is why the initial sweep should never be treated as an entry signal by itself.
+
+52
+00:06:17,464 --> 00:06:22,264
+Common mistakes. Calling every liquidity sweep a Judas Swing.
+
+53
+00:06:22,684 --> 00:06:24,388
+Ignoring session timing.
+
+54
+00:06:24,808 --> 00:06:26,800
+Ignoring the Daily Bias.
+
+55
+00:06:27,220 --> 00:06:30,844
+Entering before there is evidence of a directional shift.
+
+56
+00:06:31,264 --> 00:06:36,304
+Assuming every initial move is deceptive. Many first moves are genuine.
+
+57
+00:06:36,724 --> 00:06:40,924
+Treating the concept as proof of institutional manipulation.
+
+58
+00:06:41,344 --> 00:06:47,368
+And ignoring alternative explanations, such as news, or a genuine change in sentiment.
+
+59
+00:06:49,188 --> 00:06:57,228
+To summarise. A Judas Swing is an initial, counter-bias move early in a session, measured from a defined open.
+
+60
+00:06:57,648 --> 00:07:04,464
+It usually sweeps liquidity, but it also needs bias, timing, displacement and structure.
+
+61
+00:07:04,884 --> 00:07:09,732
+Not every sweep, and not every false breakout, is a Judas Swing.
+
+62
+00:07:10,152 --> 00:07:12,816
+No confirmation, no Judas Swing.
+
+63
+00:07:14,636 --> 00:07:20,372
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+64
+00:07:22,292 --> 00:07:27,716
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+65
+00:07:31,536 --> 00:07:37,752
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+66
+00:07:44,572 --> 00:07:50,668
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+67
+00:07:51,088 --> 00:07:56,272
+Then complete the practical task, and record what would make your interpretation invalid.
+
+68
+00:07:56,692 --> 00:08:01,060
+Answer guides for every exercise are in the Level Seven workbook.
+
+69
+00:08:02,880 --> 00:08:11,856
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+70
+00:08:12,276 --> 00:08:19,740
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

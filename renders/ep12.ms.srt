@@ -1,0 +1,268 @@
+1
+00:00:00,700 --> 00:00:06,148
+Selamat datang ke Episod 12, pelajaran terakhir tentang SMT Divergence.
+
+2
+00:00:06,568 --> 00:00:12,933
+Kita melihat timeframe, masa sesi, kesukaran khusus FCPO, dan proses pengesahan.
+
+3
+00:00:12,933 --> 00:00:18,184
+Sebahagian besar episod ini tentang batasan, dan itu disengajakan.
+
+4
+00:00:20,004 --> 00:00:22,841
+SMT boleh dibaca pada mana-mana timeframe.
+
+5
+00:00:22,841 --> 00:00:30,204
+Pada carta harian, swing ialah high dan low berbilang hari, memberikan konteks bagi bias mingguan dan harian.
+
+6
+00:00:30,624 --> 00:00:33,912
+Pada carta empat jam, swing berlaku dari sesi ke sesi.
+
+7
+00:00:34,332 --> 00:00:38,148
+Pada carta sejam, swing ialah titik pusingan intraday.
+
+8
+00:00:38,568 --> 00:00:44,952
+Pada carta 15 minit, swing bersaiz Kill Zone, berguna sebagai pengesahan timeframe rendah.
+
+9
+00:00:45,372 --> 00:00:50,196
+Di bawah itu, swing kecil dan bising, dan divergence kerap berlaku.
+
+10
+00:00:50,616 --> 00:00:56,092
+Peraturannya: bandingkan swing 15 minit dengan swing 15 minit, pada cap masa yang sama.
+
+11
+00:00:56,092 --> 00:01:03,960
+Dan divergence timeframe rendah dalam trend timeframe tinggi ialah isyarat yang lebih kecil, bukan pembalikan trend tersebut.
+
+12
+00:01:05,780 --> 00:01:10,572
+Instrumen mesti dibandingkan dalam tempoh dagangan yang serasi.
+
+13
+00:01:10,572 --> 00:01:15,668
+FCPO didagangkan pada waktu pagi, petang, dan dalam sesi malam T+1.
+
+14
+00:01:16,088 --> 00:01:21,834
+Sesi siang dan malam Dalian menggunakan waktu Beijing, yang sama dengan waktu Malaysia.
+
+15
+00:01:21,834 --> 00:01:25,928
+Semak peraturan DCE terkini sebelum bergantung pada waktu ini.
+
+16
+00:01:26,348 --> 00:01:34,316
+Soybean oil CBOT didagangkan mengikut waktu Chicago, jadi waktu Malaysia-nya beralih satu jam mengikut daylight saving AS.
+
+17
+00:01:34,736 --> 00:01:39,459
+Jika satu pasaran ditutup, cartanya rata, dan sebarang divergence hanyalah artifak.
+
+18
+00:01:39,459 --> 00:01:44,750
+Berita yang dikeluarkan ketika hanya satu pasaran dibuka akan menjejaskan pasaran itu dahulu.
+
+19
+00:01:44,750 --> 00:01:48,392
+Selaraskan semuanya kepada satu zon waktu sebelum membandingkan.
+
+20
+00:01:50,212 --> 00:01:55,229
+Mengaplikasikan contoh SMT konvensional kepada FCPO adalah sukar.
+
+21
+00:01:55,229 --> 00:02:03,796
+Pembanding yang mungkin termasuk FCPO Bursa itu sendiri, berharga dalam ringgit per tan, 25 tan setiap kontrak.
+
+22
+00:02:04,216 --> 00:02:09,732
+Niaga hadapan RBD palm olein Dalian, 10 tan setiap lot, berharga dalam yuan.
+
+23
+00:02:09,732 --> 00:02:13,144
+Itu produk bertapis, bukan minyak sawit mentah.
+
+24
+00:02:13,564 --> 00:02:16,924
+Niaga hadapan soybean oil Dalian, juga dalam yuan.
+
+25
+00:02:17,344 --> 00:02:24,568
+Dan soybean oil CBOT, 60,000 paun setiap kontrak, disebut harga dalam sen AS per paun.
+
+26
+00:02:24,988 --> 00:02:32,259
+Ini pasaran minyak sayuran yang berkaitan, tetapi ia tidak boleh saling menggantikan, dan tidak berkorelasi secara konsisten.
+
+27
+00:02:32,259 --> 00:02:34,876
+Sahkan spesifikasi terkini sebelum digunakan.
+
+28
+00:02:36,696 --> 00:02:43,944
+Mengapa divergence FCPO boleh menjadi tidak bermakna? Spesifikasi kontrak yang berbeza, dan mata wang yang berbeza.
+
+29
+00:02:44,364 --> 00:02:49,668
+Sesi dagangan yang berbeza, dan peraturan bursa yang berbeza, termasuk had harga harian.
+
+30
+00:02:50,088 --> 00:02:54,816
+Keadaan liquidity yang berbeza, dan struktur penghantaran serta kontrak yang berbeza.
+
+31
+00:02:55,236 --> 00:03:00,540
+Pemacu supply dan demand yang berbeza, serta suapan data dan konvensyen cap masa yang berbeza.
+
+32
+00:03:00,960 --> 00:03:06,136
+Dan perbezaan asas antara produk, seperti minyak sawit mentah berbanding olein bertapis.
+
+33
+00:03:06,136 --> 00:03:10,488
+Mana-mana satu daripadanya boleh mencipta divergence tanpa makna analisis.
+
+34
+00:03:12,308 --> 00:03:19,112
+Sebelum menggunakan mana-mana pasangan untuk kajian kes SMT FCPO, ikuti lapan langkah.
+
+35
+00:03:19,112 --> 00:03:23,780
+Terangkan hubungan ekonomi, dan sahkan spesifikasi kontrak.
+
+36
+00:03:24,200 --> 00:03:28,664
+Selaraskan tempoh pemerhatian, dan pastikan data boleh dibandingkan.
+
+37
+00:03:29,084 --> 00:03:35,348
+Semak pergerakan bersama dari segi sejarah, dan kenal pasti swing high dan low yang relevan pada kedua-dua carta.
+
+38
+00:03:35,768 --> 00:03:41,048
+Terangkan mengapa divergence itu bermakna, dan tunjukkan penjelasan alternatif.
+
+39
+00:03:41,468 --> 00:03:49,196
+Dan jangan sekali-kali mereka-reka korelasi yang stabil, atau membayangkan bahawa Dalian dan FCPO mesti sentiasa bergerak bersama.
+
+40
+00:03:51,016 --> 00:03:56,070
+Ini senario ilustrasi yang dilabel dengan jelas, bukan data sejarah sebenar.
+
+41
+00:03:56,070 --> 00:04:01,456
+Kedua-dua carta 15 minit, dalam waktu Malaysia, semasa sesi malam yang bertindih.
+
+42
+00:04:01,876 --> 00:04:07,276
+FCPO membuat lower low, manakala palm olein Dalian mengekalkan higher low.
+
+43
+00:04:07,696 --> 00:04:15,592
+FCPO kemudian mengalihkan struktur. Dalam laporan CMI, di sinilah kita mesti menyenaraikan penjelasan alternatif.
+
+44
+00:04:16,012 --> 00:04:24,052
+Mungkin yuan bergerak, berita permintaan China hanya menjejaskan Dalian, asas olein-ke-mentah berubah, atau liquidity malam nipis.
+
+45
+00:04:24,052 --> 00:04:28,876
+Mana-mana satu boleh menjelaskan divergence tanpa sebarang cerita smart money.
+
+46
+00:04:30,696 --> 00:04:39,768
+Untuk mengesahkan pemerhatian SMT, semak: adakah hubungan itu sebenar dan semasa, dan adakah data diselaraskan kepada satu zon waktu?
+
+47
+00:04:40,188 --> 00:04:44,628
+Timeframe yang sama pada kedua-dua carta, dan swing yang sepadan dipilih.
+
+48
+00:04:45,048 --> 00:04:50,304
+Adakah tingkah laku high dan low relatif jelas, dan apakah struktur pasaran yang lebih luas?
+
+49
+00:04:50,724 --> 00:04:54,516
+Apakah konteks liquidity, dan adakah harga kemudiannya mengesahkan?
+
+50
+00:04:54,936 --> 00:04:57,336
+Dan apakah yang akan membatalkan pemerhatian tersebut?
+
+51
+00:04:57,756 --> 00:05:00,569
+Perhatikan apa yang tiada: nombor ajaib.
+
+52
+00:05:00,569 --> 00:05:07,812
+CMI tidak menetapkan ambang sejagat bagi kesahihan SMT tanpa bukti yang boleh dipercayai dan pengujian.
+
+53
+00:05:09,632 --> 00:05:17,072
+Sebagai rumusan. Kekalkan pemilihan timeframe dan swing yang konsisten, dan bandingkan hanya tempoh dagangan yang bertindih.
+
+54
+00:05:17,492 --> 00:05:21,710
+Pembanding FCPO adalah berkaitan, tetapi tidak boleh saling menggantikan.
+
+55
+00:05:21,710 --> 00:05:25,292
+Ikuti senarai semak lapan langkah sebelum sebarang kajian kes.
+
+56
+00:05:25,712 --> 00:05:31,664
+Labelkan senario ilustrasi dengan jelas, dan jangan mereka-reka ambang atau korelasi.
+
+57
+00:05:33,484 --> 00:05:40,720
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+58
+00:05:41,140 --> 00:05:44,716
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+59
+00:05:44,716 --> 00:05:48,564
+Penaakulan itulah yang dinilai.
+
+60
+00:05:50,384 --> 00:06:01,600
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+61
+00:06:03,420 --> 00:06:09,516
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+62
+00:06:09,936 --> 00:06:15,120
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+63
+00:06:15,540 --> 00:06:19,908
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+64
+00:06:21,728 --> 00:06:27,540
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+65
+00:06:27,540 --> 00:06:30,704
+Trading futures melibatkan risiko kerugian.
+
+66
+00:06:31,124 --> 00:06:36,722
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+67
+00:06:36,722 --> 00:06:38,588
+Jumpa dalam episod seterusnya.
+

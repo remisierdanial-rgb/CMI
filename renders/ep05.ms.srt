@@ -1,0 +1,276 @@
+1
+00:00:00,700 --> 00:00:04,584
+Selamat datang ke Episod 5, pelajaran lanjutan tentang Kill Zones.
+
+2
+00:00:04,584 --> 00:00:07,468
+Kini kita aplikasikan jadual tersebut pada harga.
+
+3
+00:00:07,888 --> 00:00:12,397
+Kita akan meneliti sesi Asia, London dan New York, memetakan range mereka,
+
+4
+00:00:12,397 --> 00:00:16,480
+dan mengkaji apa yang berlaku apabila corak buku teks tidak muncul.
+
+5
+00:00:16,900 --> 00:00:21,916
+Semua carta menggunakan waktu New York dan jadual rujukan CMI daripada Episod 4.
+
+6
+00:00:23,736 --> 00:00:31,368
+Sesi Asia. Dalam jadual CMI, Asian Kill Zone bermula dari 8 malam hingga tengah malam, waktu New York.
+
+7
+00:00:31,788 --> 00:00:38,052
+Bagi kebanyakan pasangan forex dan niaga hadapan indeks AS, ini sering menjadi tempoh yang lebih tenang dan bergerak dalam range.
+
+8
+00:00:38,472 --> 00:00:44,328
+Kita tandakan Asian high dan Asian low: ekstrem yang tercetak di dalam tetingkap itu sahaja.
+
+9
+00:00:44,748 --> 00:00:50,676
+Stop mungkin berada tepat di luar paras ini, jadi ia menjadi potensi buy-side dan sell-side liquidity.
+
+10
+00:00:51,096 --> 00:00:55,416
+Sesi kemudian mungkin berinteraksi dengan paras ini. Mungkin, bukan mesti.
+
+11
+00:00:57,236 --> 00:01:03,620
+London. Dalam senario bullish, harga didagangkan di bawah Asian low pada awal tetingkap London.
+
+12
+00:01:04,040 --> 00:01:09,656
+Sapuan itu diikuti oleh reclaim dan pengembangan ke atas. London kemudian meninggalkan high tersendiri.
+
+13
+00:01:10,076 --> 00:01:14,444
+London high dan London low itu menjadi rujukan baharu bagi New York.
+
+14
+00:01:14,864 --> 00:01:20,696
+Senario bearish ialah cerminannya. London mengambil Asian high, kemudian berkembang ke bawah.
+
+15
+00:01:21,116 --> 00:01:26,357
+Dalam kedua-dua kes, ekstrem awal London boleh menjadi high atau low hari tersebut.
+
+16
+00:01:26,357 --> 00:01:27,620
+Tetapi tidak selalu.
+
+17
+00:01:28,040 --> 00:01:33,419
+London mungkin berbalik selepas mengambil ekstrem Asia, atau terus bergerak melepasinya.
+
+18
+00:01:33,419 --> 00:01:35,192
+Baca reaksi harga, bukan jam.
+
+19
+00:01:37,012 --> 00:01:40,396
+Pagi New York. Kita masukkan London high dan low.
+
+20
+00:01:40,816 --> 00:01:45,232
+Dan previous day high dan low, iaitu rujukan timeframe yang lebih tinggi.
+
+21
+00:01:45,652 --> 00:01:49,420
+New York mungkin meneruskan arah London, atau membalikkannya.
+
+22
+00:01:49,840 --> 00:01:56,157
+Banyak siaran ekonomi AS berjadual dikeluarkan pada 8:30 pagi waktu New York, dalam tetingkap ini.
+
+23
+00:01:56,157 --> 00:01:58,864
+Volatiliti sering meningkat di sekitarnya.
+
+24
+00:01:59,284 --> 00:02:06,964
+Dalam contoh ini, New York meneruskan pergerakan bullish London, mengambil London high, dan menyapu previous day high.
+
+25
+00:02:07,384 --> 00:02:13,816
+Selepas itu, harga berundur. Sama ada ia menjadi pembalikan hanya boleh ditunjukkan oleh harga kemudian.
+
+26
+00:02:15,636 --> 00:02:22,788
+Sekitar waktu makan tengah hari New York, dari 12 hingga 1 petang, penyertaan sering berkurangan dan harga lazimnya berkonsolidasi.
+
+27
+00:02:23,208 --> 00:02:26,760
+Jadi breakout semasa waktu makan tengah hari biasanya dilayan dengan berhati-hati.
+
+28
+00:02:27,180 --> 00:02:32,628
+Dalam tetingkap petang, dari 1:30 hingga 4 petang, harga mungkin meneruskan pergerakan pagi.
+
+29
+00:02:33,048 --> 00:02:36,936
+Atau ia mungkin berbalik menjelang penutupan, apabila posisi diselaraskan.
+
+30
+00:02:37,356 --> 00:02:40,932
+Pengajarannya: masa semata-mata tidak menentukan arah.
+
+31
+00:02:42,752 --> 00:02:46,808
+Kini kita petakan keseluruhan hari. Mulakan dengan tiga tetingkap sesi.
+
+32
+00:02:47,228 --> 00:02:49,124
+Tandakan Asian high dan low.
+
+33
+00:02:49,544 --> 00:02:51,440
+Tandakan London high dan low.
+
+34
+00:02:51,860 --> 00:02:53,948
+Tandakan range pagi New York.
+
+35
+00:02:54,368 --> 00:02:56,408
+Dan previous day high dan low.
+
+36
+00:02:56,828 --> 00:03:01,922
+Ekstrem setiap sesi menjadi paras rujukan dan potensi liquidity bagi sesi seterusnya.
+
+37
+00:03:01,922 --> 00:03:06,476
+Peta ini menukar masa kepada rujukan harga yang benar-benar boleh digunakan.
+
+38
+00:03:08,296 --> 00:03:12,238
+Model sesi kerap gagal, jadi mari kita kaji kegagalan tersebut.
+
+39
+00:03:12,238 --> 00:03:15,616
+Kegagalan satu: London tidak pernah menyapu Asian low.
+
+40
+00:03:16,036 --> 00:03:23,236
+Ia hanya memecah Asian high dan trend naik sepanjang hari. Sesiapa yang menunggu sapuan low akan terlepas pergerakan itu.
+
+41
+00:03:23,656 --> 00:03:27,832
+Kegagalan dua: London memecah Asian low dan terus bergerak.
+
+42
+00:03:28,252 --> 00:03:33,748
+Tiada reclaim. Pecahan itu ialah kesinambungan, dan New York juga meneruskannya.
+
+43
+00:03:34,168 --> 00:03:40,648
+Dalam kedua-dua kes, respons yang betul ialah memerhati carta sebenar, bukan memaksa model sesi.
+
+44
+00:03:42,468 --> 00:03:48,012
+Kegagalan tiga: London naik, dan New York membalikkan keseluruhan pergerakan London.
+
+45
+00:03:48,432 --> 00:03:53,064
+Trader yang menganggap New York akan meneruskan arah London kini berada di pihak yang salah.
+
+46
+00:03:53,484 --> 00:04:01,164
+Kegagalan empat: siaran berita pada 8:30 pagi menghasilkan satu candle luar biasa yang menyapu kedua-dua sisi range.
+
+47
+00:04:01,584 --> 00:04:05,601
+Sapuan yang disebabkan lonjakan berita bukan bukti model yang bersih.
+
+48
+00:04:05,601 --> 00:04:07,464
+Layan dengan lebih berhati-hati.
+
+49
+00:04:07,884 --> 00:04:12,731
+Kegagalan lima: Kill Zones dibuka dan ditutup, dan tiada apa yang berlaku.
+
+50
+00:04:12,731 --> 00:04:14,892
+Tiada sapuan, tiada displacement.
+
+51
+00:04:15,312 --> 00:04:18,672
+Itu berlaku lebih kerap daripada yang digambarkan di media sosial.
+
+52
+00:04:19,092 --> 00:04:24,156
+Apabila sesi tidak memberikan bukti yang jelas, tidak berdagang ialah kesimpulan yang sah.
+
+53
+00:04:25,976 --> 00:04:32,192
+Sebagai rumusan. Sesi Asia sering membentuk range yang ekstremnya menjadi rujukan.
+
+54
+00:04:32,612 --> 00:04:36,433
+London mungkin menyapu ekstrem Asia atau terus melepasinya.
+
+55
+00:04:36,433 --> 00:04:42,068
+New York berinteraksi dengan range London, paras hari sebelumnya, dan berita berjadual.
+
+56
+00:04:42,488 --> 00:04:44,768
+Petakan high dan low setiap sesi.
+
+57
+00:04:45,188 --> 00:04:48,400
+Dan ingat bahawa corak sesi yang gagal adalah perkara biasa.
+
+58
+00:04:48,400 --> 00:04:49,364
+Jangan memaksanya.
+
+59
+00:04:51,184 --> 00:04:58,420
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+60
+00:04:58,840 --> 00:05:02,416
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+61
+00:05:02,416 --> 00:05:06,264
+Penaakulan itulah yang dinilai.
+
+62
+00:05:08,084 --> 00:05:19,300
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+63
+00:05:21,120 --> 00:05:27,216
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+64
+00:05:27,636 --> 00:05:32,820
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+65
+00:05:33,240 --> 00:05:37,608
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+66
+00:05:39,428 --> 00:05:45,240
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+67
+00:05:45,240 --> 00:05:48,404
+Trading futures melibatkan risiko kerugian.
+
+68
+00:05:48,824 --> 00:05:54,422
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+69
+00:05:54,422 --> 00:05:56,288
+Jumpa dalam episod seterusnya.
+

@@ -1,0 +1,216 @@
+1
+00:00:00,700 --> 00:00:05,428
+Selamat datang ke Episod 9, pelajaran lanjutan tentang Judas Swing.
+
+2
+00:00:05,848 --> 00:00:09,952
+Kita akan membina dua kes beranotasi penuh, satu bullish dan satu bearish,
+
+3
+00:00:09,952 --> 00:00:15,664
+dan kemudian mengkaji situasi di mana keputusan yang betul ialah tidak memaksa label tersebut langsung.
+
+4
+00:00:17,484 --> 00:00:24,708
+Kes bullish. Pertama, timeframe tinggi: higher high dan higher low, jadi struktur adalah bullish.
+
+5
+00:00:25,128 --> 00:00:30,593
+Draw ialah buy-side liquidity di atas high lama, dan harga berada dalam discount.
+
+6
+00:00:30,593 --> 00:00:32,280
+Daily Bias ialah bullish.
+
+7
+00:00:32,700 --> 00:00:37,236
+Pada carta 30 minit, tandakan midnight open dan range Asia.
+
+8
+00:00:37,656 --> 00:00:43,800
+Liquidity yang relevan: sell-side di bawah Asian low, dan buy-side di atas previous day high.
+
+9
+00:00:44,220 --> 00:00:49,188
+Masa sesi: London Kill Zone, 2 hingga 5 pagi New York.
+
+10
+00:00:49,608 --> 00:00:55,872
+Semua setakat ini ditetapkan sebelum London dibuka. Itulah yang menjadikan pergerakan seterusnya boleh ditafsir.
+
+11
+00:00:57,692 --> 00:01:06,044
+London dibuka. Harga mula bergerak turun, di bawah midnight open, dan menyapu sell-side liquidity di bawah Asian low.
+
+12
+00:01:06,464 --> 00:01:10,808
+Pergerakan turun gagal bertahan. Candle seterusnya ditutup semula ke atas.
+
+13
+00:01:11,228 --> 00:01:17,468
+Bullish displacement menyusul, meninggalkan fair value gap, jika ada, sebagai PD array.
+
+14
+00:01:17,888 --> 00:01:22,424
+Harga ditutup di atas lower high terakhir: market structure shift.
+
+15
+00:01:22,844 --> 00:01:27,407
+Di New York, harga mencapai buy-side liquidity di atas previous day high.
+
+16
+00:01:27,407 --> 00:01:31,532
+Sepuluh anotasi, semuanya boleh dilihat, semuanya mengikut urutan.
+
+17
+00:01:33,352 --> 00:01:35,262
+Kes bearish mencerminkannya.
+
+18
+00:01:35,262 --> 00:01:44,128
+Struktur timeframe tinggi adalah bearish: lower high, lower low, harga dalam premium, dan draw ialah sell-side liquidity di bawah.
+
+19
+00:01:44,548 --> 00:01:51,772
+Sebelum London, tandakan midnight open, Asian high dengan buy-side liquidity di atasnya, dan previous day low.
+
+20
+00:01:52,192 --> 00:01:58,600
+London dibuka dengan pergerakan awal ke atas, di atas midnight open, menyapu buy-side liquidity.
+
+21
+00:01:59,020 --> 00:02:06,964
+Bearish displacement menyusul, meninggalkan bearish fair value gap, dan penutupan di bawah higher low terakhir mengalihkan struktur.
+
+22
+00:02:07,384 --> 00:02:11,896
+Harga kemudian bergerak ke arah sell-side liquidity di bawah previous day low.
+
+23
+00:02:12,316 --> 00:02:14,884
+Sepuluh anotasi yang sama, terbalik.
+
+24
+00:02:16,704 --> 00:02:22,158
+Senario tanpa dagangan satu: sapuan berlaku, tetapi tiada displacement yang menyusul.
+
+25
+00:02:22,158 --> 00:02:22,992
+Harga hanyut.
+
+26
+00:02:23,412 --> 00:02:27,804
+Senario dua: pasaran terus bergerak melepasi paras yang disapu.
+
+27
+00:02:28,224 --> 00:02:33,769
+Senario tiga: harga melantun tetapi gagal membentuk struktur yang bermakna.
+
+28
+00:02:33,769 --> 00:02:35,544
+Lower high itu bertahan.
+
+29
+00:02:35,964 --> 00:02:41,460
+Dalam ketiga-tiganya, keputusan yang betul ialah tidak memaksa tafsiran Judas Swing.
+
+30
+00:02:43,280 --> 00:02:52,112
+Senario empat: Daily Bias tidak jelas. Harga berada di tengah range, antara equal highs dan equal lows.
+
+31
+00:02:52,532 --> 00:02:57,043
+Tanpa bias, pergerakan awal tidak boleh bertentangan dengan apa-apa.
+
+32
+00:02:57,043 --> 00:02:59,564
+Tiada Judas Swing untuk dikenal pasti.
+
+33
+00:02:59,984 --> 00:03:07,736
+Senario lima: masa sesi tidak relevan. Di sini Asian low disapu pada tengah hari waktu New York, semasa waktu makan tengah hari.
+
+34
+00:03:08,156 --> 00:03:14,492
+Itu satu sapuan, tetapi ia di luar konteks pembukaan sesi di mana Judas Swing ditakrifkan.
+
+35
+00:03:14,912 --> 00:03:20,072
+Dalam kedua-dua kes, jawapan profesional ialah mengelak daripada memaksa tafsiran tersebut.
+
+36
+00:03:21,892 --> 00:03:31,444
+Ini jadual keputusan. Hanya apabila bias, masa, sapuan, displacement dan struktur semuanya sejajar barulah tafsiran itu disokong.
+
+37
+00:03:31,864 --> 00:03:38,272
+Sapuan tanpa displacement, atau kesinambungan melepasi paras, tidak disokong atau ditolak.
+
+38
+00:03:38,692 --> 00:03:43,996
+Bias yang tidak jelas atau masa yang tidak relevan menjadikan konsep ini tidak terpakai.
+
+39
+00:03:44,416 --> 00:03:50,008
+Dan tiada anjakan struktur bermakna tiada sokongan. Apabila ragu-ragu, keputusannya ialah tidak berdagang.
+
+40
+00:03:51,828 --> 00:03:58,198
+Sebagai rumusan. Konteks didahulukan: timeframe tinggi, bias, liquidity dan masa.
+
+41
+00:03:58,198 --> 00:04:02,916
+Kemudian pergerakan awal, sapuan, displacement dan struktur.
+
+42
+00:04:03,336 --> 00:04:09,792
+Fair value gap ialah confluence pilihan, dan objektifnya ialah liquidity di sisi bertentangan.
+
+43
+00:04:10,212 --> 00:04:15,420
+Ingat lima senario tanpa dagangan. Tiada tafsiran ialah hasil yang sah.
+
+44
+00:04:17,240 --> 00:04:24,476
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+45
+00:04:24,896 --> 00:04:28,472
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+46
+00:04:28,472 --> 00:04:32,320
+Penaakulan itulah yang dinilai.
+
+47
+00:04:34,140 --> 00:04:45,356
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+48
+00:04:47,176 --> 00:04:53,272
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+49
+00:04:53,692 --> 00:04:58,876
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+50
+00:04:59,296 --> 00:05:03,664
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+51
+00:05:05,484 --> 00:05:11,296
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+52
+00:05:11,296 --> 00:05:14,460
+Trading futures melibatkan risiko kerugian.
+
+53
+00:05:14,880 --> 00:05:20,478
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+54
+00:05:20,478 --> 00:05:22,344
+Jumpa dalam episod seterusnya.
+

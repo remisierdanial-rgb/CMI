@@ -1,0 +1,172 @@
+1
+00:00:00,700 --> 00:00:06,244
+Welcome to Episode Eleven, an extended lesson on SMT Divergence.
+
+2
+00:00:06,664 --> 00:00:17,680
+We will walk through bullish and bearish case studies step by step, compare each with an alternative where SMT fails, and then look at market conditions that change its reliability.
+
+3
+00:00:19,500 --> 00:00:23,412
+Step one: Instrument A approaches its previous low.
+
+4
+00:00:23,832 --> 00:00:29,880
+Step two: Instrument B approaches its corresponding previous low, at the same time.
+
+5
+00:00:30,300 --> 00:00:35,676
+Step three: Instrument A trades below its previous low, a lower low.
+
+6
+00:00:36,096 --> 00:00:41,712
+Step four: Instrument B does not make a corresponding lower low. It holds above.
+
+7
+00:00:42,132 --> 00:00:50,508
+Step five: highlight the discrepancy. The vertical lines show the same two swings, at the same times, on both charts.
+
+8
+00:00:50,928 --> 00:00:58,848
+Step six: label it a potential bullish SMT divergence. Potential, because nothing is confirmed yet.
+
+9
+00:00:59,268 --> 00:01:06,036
+Step seven: confirmation appears in Instrument A, as price closes above the last lower high.
+
+10
+00:01:06,456 --> 00:01:10,176
+Step eight is the alternative, and it deserves its own look.
+
+11
+00:01:11,996 --> 00:01:16,844
+Here is the alternative. Both instruments trade below their previous lows.
+
+12
+00:01:17,264 --> 00:01:22,640
+There is no disagreement, so there is no SMT, and both continue lower.
+
+13
+00:01:23,060 --> 00:01:28,100
+When related instruments confirm each other, continuation is the simpler reading.
+
+14
+00:01:29,920 --> 00:01:35,224
+The bearish case. Step one: Instrument A approaches its previous high.
+
+15
+00:01:35,644 --> 00:01:40,300
+Step two: Instrument B approaches its corresponding previous high.
+
+16
+00:01:40,720 --> 00:01:45,040
+Step three: Instrument A trades above its previous high.
+
+17
+00:01:45,460 --> 00:01:50,044
+Step four: Instrument B fails to make a corresponding higher high.
+
+18
+00:01:50,464 --> 00:01:55,360
+Step five: the discrepancy is marked at the same swings on both charts.
+
+19
+00:01:55,780 --> 00:02:00,124
+Step six: potential bearish SMT divergence.
+
+20
+00:02:00,544 --> 00:02:06,352
+Step seven: confirmation in Instrument A, a close below the last higher low.
+
+21
+00:02:06,772 --> 00:02:14,044
+Step eight: the alternative, where both instruments make higher highs and continue higher. No SMT.
+
+22
+00:02:15,864 --> 00:02:20,688
+In the bearish alternative, both instruments break their previous highs together.
+
+23
+00:02:21,108 --> 00:02:26,220
+Agreement means no SMT. Do not search for a divergence that is not there.
+
+24
+00:02:28,040 --> 00:02:38,024
+SMT reliability depends on conditions. Between strongly correlated instruments, divergence is unusual, so it carries more information.
+
+25
+00:02:38,444 --> 00:02:43,916
+Between weakly correlated instruments, divergence is common, so it tells you little.
+
+26
+00:02:44,336 --> 00:02:50,288
+Correlations change over time. Yesterday’s relationship may not hold today, so recheck it.
+
+27
+00:02:50,708 --> 00:02:57,308
+Different session hours can produce false divergences, when one instrument is closed or thinly traded.
+
+28
+00:02:57,728 --> 00:03:04,352
+News can hit one instrument harder than the other. That divergence is fundamental, not hidden strength.
+
+29
+00:03:04,772 --> 00:03:09,716
+And some divergences are temporary, resolving quickly without consequence.
+
+30
+00:03:11,536 --> 00:03:20,872
+Finally, a divergence that does not lead to a reversal. A makes a lower low while B holds a higher low: a genuine bullish SMT.
+
+31
+00:03:21,292 --> 00:03:27,628
+But A never shifts structure. Both instruments resume falling, and B eventually breaks its low too.
+
+32
+00:03:28,048 --> 00:03:39,184
+A real divergence, and no reversal. That is exactly why confirmation on A matters, and why SMT interpretation weakens when the relationship is unstable.
+
+33
+00:03:41,004 --> 00:03:47,988
+To summarise. Use the eight steps, and always look at the alternative. Agreement means no SMT.
+
+34
+00:03:48,408 --> 00:03:56,376
+Reliability depends on how strong and stable the relationship is. Session hours and news can create false divergences.
+
+35
+00:03:56,796 --> 00:04:00,516
+And a divergence without confirmation is only a warning.
+
+36
+00:04:02,336 --> 00:04:08,072
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+37
+00:04:09,992 --> 00:04:15,416
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+38
+00:04:19,236 --> 00:04:25,452
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+39
+00:04:32,272 --> 00:04:38,368
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+40
+00:04:38,788 --> 00:04:43,972
+Then complete the practical task, and record what would make your interpretation invalid.
+
+41
+00:04:44,392 --> 00:04:48,760
+Answer guides for every exercise are in the Level Seven workbook.
+
+42
+00:04:50,580 --> 00:04:59,556
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+43
+00:04:59,976 --> 00:05:07,440
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

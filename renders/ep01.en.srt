@@ -1,0 +1,344 @@
+1
+00:00:00,700 --> 00:00:07,468
+Welcome to Level Seven of the CMI Smart Money Concept programme: Advanced ICT Concepts.
+
+2
+00:00:07,888 --> 00:00:13,648
+In this first episode, we study the Power of Three, often shortened to PO3.
+
+3
+00:00:14,068 --> 00:00:22,180
+By the end, you should be able to define the framework, describe its three phases, and build bullish and bearish models step by step.
+
+4
+00:00:22,600 --> 00:00:28,960
+We will also study where the model fails, because a framework is only useful when you know its limits.
+
+5
+00:00:30,780 --> 00:00:36,180
+Level Seven has six original subtopics, and we keep them in this exact order.
+
+6
+00:00:36,600 --> 00:00:44,400
+Power of Three, AMD, Kill Zones, Daily Bias, Judas Swing, and SMT Divergence.
+
+7
+00:00:44,820 --> 00:00:54,348
+Each one builds on what you learned in Levels Two to Six: structure, liquidity, institutional zones, displacement, and premium and discount.
+
+8
+00:00:54,768 --> 00:01:01,104
+Treat every concept here as an analytical framework, not as proof of what institutions are doing.
+
+9
+00:01:02,924 --> 00:01:09,116
+So what is the Power of Three? At CMI, we define it as a conceptual model of price delivery.
+
+10
+00:01:09,536 --> 00:01:16,712
+The framework was popularised in modern trading education by the Inner Circle Trader, Michael J. Huddleston.
+
+11
+00:01:17,132 --> 00:01:27,308
+However, the underlying ideas, such as trading ranges and runs on stops, are much older. Wyckoff wrote about accumulation in the early twentieth century.
+
+12
+00:01:27,728 --> 00:01:34,472
+PO3 is usually drawn as three phases: accumulation, manipulation and distribution.
+
+13
+00:01:34,892 --> 00:01:40,340
+It describes one possible sequence. It is not a pattern that every day must produce.
+
+14
+00:01:40,760 --> 00:01:46,472
+Keep a clear line between what you observe on the chart, and the label you choose to interpret it with.
+
+15
+00:01:48,292 --> 00:01:53,476
+Let’s build the three phases on a model chart. The gold line is the opening price.
+
+16
+00:01:53,896 --> 00:02:00,376
+Phase one is accumulation. Price forms a range and stays relatively contained around the open.
+
+17
+00:02:00,796 --> 00:02:07,708
+Directional progress is limited, and liquidity may build around the obvious range highs and lows.
+
+18
+00:02:08,128 --> 00:02:14,728
+Phase two is manipulation. Price moves beyond one side of the range, here below the range low.
+
+19
+00:02:15,148 --> 00:02:21,796
+This may sweep sell-side liquidity resting below the lows, and it moves against the direction that follows.
+
+20
+00:02:22,216 --> 00:02:26,224
+Traders often call this a false breakout or a liquidity raid.
+
+21
+00:02:26,644 --> 00:02:32,092
+Phase three is distribution. Price expands directionally away from the range.
+
+22
+00:02:32,512 --> 00:02:38,728
+Market structure develops, and price may travel toward a liquidity objective, such as an old high.
+
+23
+00:02:40,548 --> 00:02:45,492
+Two words in this model need careful handling. The first is manipulation.
+
+24
+00:02:45,912 --> 00:02:53,424
+A sweep through a level is an observable event. Calling it manipulation is an interpretation from the ICT framework.
+
+25
+00:02:53,844 --> 00:03:01,308
+A sweep alone does not prove deliberate institutional action. Stops are triggered by many participants, and by news.
+
+26
+00:03:01,728 --> 00:03:08,304
+The second word is distribution. In PO3, it simply means the directional expansion phase.
+
+27
+00:03:08,724 --> 00:03:16,860
+So in a bullish PO3, distribution moves up. Do not confuse it with Wyckoff Distribution, which is a topping process.
+
+28
+00:03:18,680 --> 00:03:24,152
+Now the full bullish model, step by step. Step one: mark the opening price.
+
+29
+00:03:24,572 --> 00:03:30,356
+Step two: price consolidates around the open, rotating above and below it.
+
+30
+00:03:30,776 --> 00:03:38,672
+Step three: identify the range high and range low. Sell-side liquidity is assumed to rest below the lows.
+
+31
+00:03:39,092 --> 00:03:44,468
+Step four: price moves below the range low, trading under the opening price.
+
+32
+00:03:44,888 --> 00:03:52,040
+Step five: this candle visibly trades through the lows. That is a possible sell-side liquidity sweep.
+
+33
+00:03:52,460 --> 00:03:57,116
+Step six: price fails to continue lower and reclaims the range.
+
+34
+00:03:57,536 --> 00:04:03,440
+Step seven: bullish displacement. Strong candles leave a fair value gap behind them.
+
+35
+00:04:03,860 --> 00:04:10,796
+Step eight: a candle closes above the last lower high. That is a possible bullish market structure shift.
+
+36
+00:04:11,216 --> 00:04:15,560
+Step nine: price expands upward, away from the range.
+
+37
+00:04:15,980 --> 00:04:23,780
+Step ten: a possible objective is buy-side liquidity above an old high, here at four thousand two hundred and four.
+
+38
+00:04:24,200 --> 00:04:33,560
+Labelled together: accumulation, manipulation, distribution. Remember, this is one possible bullish sequence, not a guarantee.
+
+39
+00:04:35,380 --> 00:04:40,228
+The bearish model is the inverse. Step one: mark the opening price.
+
+40
+00:04:40,648 --> 00:04:44,824
+Step two: accumulation. Price ranges around the open.
+
+41
+00:04:45,244 --> 00:04:52,972
+Step three: identify the range high and range low. This time we focus on buy-side liquidity above the highs.
+
+42
+00:04:53,392 --> 00:04:58,744
+Step four: price moves above the range high, trading over the opening price.
+
+43
+00:04:59,164 --> 00:05:04,900
+Step five: the wick trades through the highs. A possible buy-side liquidity sweep.
+
+44
+00:05:05,320 --> 00:05:10,240
+Step six: price cannot hold above and returns below the range high.
+
+45
+00:05:10,660 --> 00:05:15,604
+Step seven: bearish displacement, leaving a bearish fair value gap.
+
+46
+00:05:16,024 --> 00:05:22,192
+Step eight: a close below the last higher low. A possible bearish market structure shift.
+
+47
+00:05:22,612 --> 00:05:25,444
+Step nine: price expands downward.
+
+48
+00:05:25,864 --> 00:05:31,168
+Step ten: a possible objective is sell-side liquidity below an old low.
+
+49
+00:05:31,588 --> 00:05:37,132
+Accumulation, manipulation, distribution again, with the direction reversed.
+
+50
+00:05:38,952 --> 00:05:45,888
+The opening price is the anchor of the PO3 model, so we need to be precise about which open we mean.
+
+51
+00:05:46,308 --> 00:05:54,108
+The daily open is the first price of the trading day under a stated convention. In ICT forex material, that is often New York midnight.
+
+52
+00:05:54,528 --> 00:06:01,872
+A session open is the first price of a session, such as London, New York, or an FCPO trading session.
+
+53
+00:06:02,292 --> 00:06:04,692
+A daily PO3 uses the daily open. A session-based PO3 uses the session open.
+
+54
+00:06:05,112 --> 00:06:14,760
+For FCPO, the day session opens at ten thirty Malaysia time, and the after-hours T plus one session is booked to the next trading day.
+
+55
+00:06:15,180 --> 00:06:19,620
+So choose one convention, write it on your chart, and keep it consistent.
+
+56
+00:06:20,040 --> 00:06:28,416
+And remember: the open is a reference. It is not automatic support or resistance, and it is not the same as equilibrium.
+
+57
+00:06:30,236 --> 00:06:37,316
+In the bullish model, the manipulation phase usually trades below the opening price before the expansion higher.
+
+58
+00:06:37,736 --> 00:06:44,912
+So some ICT traders prefer to look for bullish setups only while price is below the open, on a bullish day.
+
+59
+00:06:45,332 --> 00:06:50,996
+In the bearish model, the reverse applies. The false move trades above the open first.
+
+60
+00:06:51,416 --> 00:06:57,632
+This gives a simple location filter, but it only makes sense once you already have a directional context.
+
+61
+00:06:58,052 --> 00:07:04,700
+Price location versus the open is one input to your interpretation. It is never a signal on its own.
+
+62
+00:07:06,520 --> 00:07:15,016
+PO3 can be read on different timeframes. On the left, the entire intraday sequence is aggregated into one candle.
+
+63
+00:07:15,436 --> 00:07:22,612
+Its open is the open, its low wick is the manipulation, and its close near the high reflects the expansion.
+
+64
+00:07:23,032 --> 00:07:30,544
+This is the classic daily PO3 picture: open, low, high, close for a bullish day.
+
+65
+00:07:30,964 --> 00:07:35,356
+The same idea can be applied to a session, or to an intraday swing.
+
+66
+00:07:35,776 --> 00:07:44,272
+But a small PO3 inside a larger move is not necessarily part of the same market cycle. Always state which timeframe you are reading.
+
+67
+00:07:46,092 --> 00:07:53,796
+Let’s close the concept with common mistakes. One: assuming every day follows PO3. Many days do not.
+
+68
+00:07:54,216 --> 00:07:58,488
+Two: forcing the three phases onto a chart after the fact.
+
+69
+00:07:58,908 --> 00:08:04,788
+Three: treating every breakout as manipulation. Many breakouts simply continue.
+
+70
+00:08:05,208 --> 00:08:09,984
+Four: assuming distribution must reach a particular liquidity target.
+
+71
+00:08:10,404 --> 00:08:15,780
+Five: confusing the opening price with equilibrium. They are different references.
+
+72
+00:08:16,200 --> 00:08:19,488
+Six: ignoring market structure from Level Two.
+
+73
+00:08:19,908 --> 00:08:24,348
+Seven: confusing PO3 with the Wyckoff market cycle.
+
+74
+00:08:24,768 --> 00:08:29,304
+And eight: claiming institutional manipulation without evidence.
+
+75
+00:08:31,124 --> 00:08:39,332
+To summarise. PO3 is a conceptual model with three phases: accumulation, manipulation and distribution.
+
+76
+00:08:39,752 --> 00:08:47,648
+The opening price anchors the model. Bullish models trade below the open first; bearish models trade above it first.
+
+77
+00:08:48,068 --> 00:08:52,892
+A sweep is what you observe. Manipulation is how the framework interprets it.
+
+78
+00:08:53,312 --> 00:08:58,544
+And when the sequence is incomplete, the professional answer is not to force it.
+
+79
+00:09:00,364 --> 00:09:06,100
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+80
+00:09:08,020 --> 00:09:13,444
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+81
+00:09:17,264 --> 00:09:23,480
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+82
+00:09:30,300 --> 00:09:36,396
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+83
+00:09:36,816 --> 00:09:42,000
+Then complete the practical task, and record what would make your interpretation invalid.
+
+84
+00:09:42,420 --> 00:09:46,788
+Answer guides for every exercise are in the Level Seven workbook.
+
+85
+00:09:48,608 --> 00:09:57,584
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+86
+00:09:58,004 --> 00:10:05,468
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

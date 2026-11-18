@@ -1,0 +1,432 @@
+1
+00:00:00,700 --> 00:00:05,740
+Selamat datang ke Episod 6, subtopik 7.4: Daily Bias.
+
+2
+00:00:06,160 --> 00:00:10,676
+Setakat ini kita mengkaji bagaimana harga mungkin dihantar dan bila kita memerhatinya.
+
+3
+00:00:10,676 --> 00:00:13,984
+Daily Bias bertanya arah mana yang kita jangkakan, dan mengapa.
+
+4
+00:00:14,404 --> 00:00:20,908
+Anda akan belajar membina bias daripada struktur, liquidity dan lokasi, dan menulis apa yang akan membuktikannya salah.
+
+5
+00:00:22,728 --> 00:00:26,688
+Daily Bias ialah hipotesis kerja berarah bagi hari tersebut.
+
+6
+00:00:27,108 --> 00:00:32,687
+Bias bullish menjangkakan hari itu memihak kepada harga lebih tinggi dan objektif buy-side.
+
+7
+00:00:32,687 --> 00:00:34,956
+Bias bearish menjangkakan sebaliknya.
+
+8
+00:00:35,376 --> 00:00:40,848
+Bias neutral bermaksud tiada kelebihan arah yang jelas. Itu jawapan yang sah.
+
+9
+00:00:41,268 --> 00:00:47,700
+Kita tetapkan bias sebelum analisis intraday kerana ia menentukan setup mana yang kita kaji, dan mana yang kita abaikan.
+
+10
+00:00:48,120 --> 00:00:54,936
+Tetapi bias bukan ramalan yang dijamin. Ia hipotesis yang perlu dikemas kini apabila keadaan berubah.
+
+11
+00:00:55,356 --> 00:01:03,300
+Dan bias bukan pengesahan. Jangkaan arah masih memerlukan bukti timeframe lebih rendah sebelum sebarang keputusan dagangan.
+
+12
+00:01:05,120 --> 00:01:09,580
+Langkah pertama ialah struktur pasaran timeframe tinggi, daripada Level 2.
+
+13
+00:01:09,580 --> 00:01:13,256
+Ini carta harian. Pertama, kenal pasti trend yang lebih luas.
+
+14
+00:01:13,676 --> 00:01:18,572
+Seterusnya, labelkan titik swing yang bermakna. Higher high dan higher low.
+
+15
+00:01:18,992 --> 00:01:24,128
+Nilai pecahan struktur terkini. Dua break of structure ke atas.
+
+16
+00:01:24,548 --> 00:01:29,132
+Struktur luaran ialah urutan higher high dan higher low.
+
+17
+00:01:29,552 --> 00:01:33,924
+Kemudian tanya: adakah harga sedang trend, retrace atau berkonsolidasi?
+
+18
+00:01:33,924 --> 00:01:37,064
+Sekarang, ia sedang retrace daripada high terakhir.
+
+19
+00:01:37,484 --> 00:01:43,292
+Jadi hipotesis awal ialah bullish, tetapi kita belum menyemak liquidity atau lokasi.
+
+20
+00:01:45,112 --> 00:01:52,264
+Langkah kedua ialah Draw on Liquidity: kolam liquidity yang dinilai paling mungkin menjadi arah harga seterusnya.
+
+21
+00:01:52,684 --> 00:02:00,124
+Di atas, buy-side liquidity berada di luar high lama. Ini external liquidity, di tepi range.
+
+22
+00:02:00,544 --> 00:02:05,007
+Di bawah, sell-side liquidity berada di bawah swing low terakhir.
+
+23
+00:02:05,007 --> 00:02:05,968
+Juga external.
+
+24
+00:02:06,388 --> 00:02:13,372
+Di dalam range, fair value gap ialah internal liquidity, tempat yang mungkin dikunjungi semula oleh harga dalam perjalanan.
+
+25
+00:02:13,792 --> 00:02:20,728
+Dengan struktur bullish dan harga sedang retrace, draw yang munasabah ialah buy-side liquidity di atas high lama.
+
+26
+00:02:21,148 --> 00:02:27,004
+Tetapi Draw on Liquidity ialah jangkaan analisis, bukan destinasi yang dijamin.
+
+27
+00:02:28,824 --> 00:02:35,304
+Paras manakah calon bagi draw? Previous day high dan low ialah objektif intraday yang paling lazim.
+
+28
+00:02:35,724 --> 00:02:40,620
+Previous week high dan low ialah objektif yang lebih besar dan mungkin mengambil beberapa hari.
+
+29
+00:02:41,040 --> 00:02:45,432
+Equal highs dan equal lows, tetapi hanya di mana ia benar-benar sama.
+
+30
+00:02:45,852 --> 00:02:51,036
+Swing high dan low lama di tepi dealing range ialah external liquidity.
+
+31
+00:02:51,456 --> 00:02:54,914
+Dan ketidakseimbangan di dalam range ialah internal liquidity,
+
+32
+00:02:54,914 --> 00:02:59,208
+yang mungkin diseimbangkan semula oleh harga sebelum mencapai sasaran luaran.
+
+33
+00:03:01,028 --> 00:03:08,852
+Langkah ketiga ialah lokasi, daripada Level 6. Tentukan dealing range dari swing low terkini yang signifikan hingga swing high.
+
+34
+00:03:09,272 --> 00:03:15,008
+Equilibrium ialah paras 50 peratus. Di bawahnya ialah discount; di atasnya ialah premium.
+
+35
+00:03:15,428 --> 00:03:20,609
+Zon optimal trade entry berada antara retracement 62 dan 79 peratus.
+
+36
+00:03:20,609 --> 00:03:23,276
+Harga kini didagangkan di dalamnya.
+
+37
+00:03:23,696 --> 00:03:28,424
+Tepat di bawah harga terdapat bullish fair value gap, iaitu bullish PD array.
+
+38
+00:03:28,844 --> 00:03:35,996
+Struktur bullish dengan harga dalam discount, menghampiri bullish PD array, menyokong hipotesis bullish.
+
+39
+00:03:36,416 --> 00:03:43,427
+Jika struktur yang sama didagangkan dalam premium, ke arah bearish array, kes bullish akan menjadi lebih lemah.
+
+40
+00:03:43,427 --> 00:03:47,912
+Dan jika lokasi harian dan intraday bercanggah, keyakinan menurun lagi.
+
+41
+00:03:49,732 --> 00:03:53,020
+Pada carta sejam, tandakan paras semalam.
+
+42
+00:03:53,440 --> 00:03:57,040
+Previous day high dan low ialah rujukan liquidity.
+
+43
+00:03:57,460 --> 00:04:03,364
+Previous day open dan close menambah konteks: adakah semalam ditutup kuat atau lemah?
+
+44
+00:04:03,784 --> 00:04:08,152
+Previous week high dan low memainkan peranan yang sama pada skala mingguan.
+
+45
+00:04:08,572 --> 00:04:09,868
+Hari ini bermula.
+
+46
+00:04:10,288 --> 00:04:14,296
+Pada awal hari, harga didagangkan di bawah previous day low.
+
+47
+00:04:14,716 --> 00:04:20,164
+Kemudian ia berbalik dan bergerak ke arah previous day high, selaras dengan draw bullish.
+
+48
+00:04:20,584 --> 00:04:24,182
+Tetapi jangan anggap setiap high atau low sebelumnya akan disasarkan.
+
+49
+00:04:24,182 --> 00:04:26,320
+Banyak hari tidak mengambil kedua-duanya.
+
+50
+00:04:28,140 --> 00:04:34,020
+Mari kita susun model Daily Bias bullish. Satu: struktur timeframe tinggi yang bullish.
+
+51
+00:04:34,440 --> 00:04:41,640
+Dua dan tiga: external liquidity yang relevan di atas, memberikan potensi draw ke arah buy-side liquidity.
+
+52
+00:04:42,060 --> 00:04:44,772
+Empat: harga didagangkan ke dalam discount.
+
+53
+00:04:45,192 --> 00:04:49,176
+Lima: bullish PD array, iaitu fair value gap.
+
+54
+00:04:49,596 --> 00:04:56,652
+Enam: pada carta 15 minit, kemungkinan interaksi liquidity. Sell-side liquidity disapu.
+
+55
+00:04:57,072 --> 00:05:02,016
+Tujuh: bullish displacement pada timeframe rendah dan market structure shift.
+
+56
+00:05:02,436 --> 00:05:07,183
+Lapan: bersama-sama, ini memberikan potensi senario intraday bullish.
+
+57
+00:05:07,183 --> 00:05:08,628
+Potensi, bukan pasti.
+
+58
+00:05:10,448 --> 00:05:14,768
+Kini alternatifnya. Sapuan sell-side berlaku, sama seperti sebelum ini.
+
+59
+00:05:15,188 --> 00:05:19,909
+Tetapi tiada reclaim, tiada displacement, dan tiada anjakan struktur.
+
+60
+00:05:19,909 --> 00:05:21,140
+Harga terus jatuh.
+
+61
+00:05:21,560 --> 00:05:29,768
+Ia memecah paras invalidation yang anda tulis sebelum sesi, contohnya kegagalan discount array atau low timeframe tinggi.
+
+62
+00:05:30,188 --> 00:05:36,300
+Bias bullish tidak lagi sah. Kemas kini kepada neutral, atau nilai semula untuk keadaan bearish.
+
+63
+00:05:36,300 --> 00:05:37,892
+Jangan mempertahankannya.
+
+64
+00:05:39,712 --> 00:05:47,032
+Model bearish ialah songsangannya. Satu: struktur timeframe tinggi yang bearish, lower high dan lower low.
+
+65
+00:05:47,452 --> 00:05:53,572
+Dua dan tiga: external sell-side liquidity di bawah, memberikan potensi draw ke bawah.
+
+66
+00:05:53,992 --> 00:05:56,824
+Empat: harga retrace ke dalam premium.
+
+67
+00:05:57,244 --> 00:06:01,660
+Lima: bearish PD array, iaitu bearish fair value gap.
+
+68
+00:06:02,080 --> 00:06:06,616
+Enam: pada timeframe rendah, buy-side liquidity disapu.
+
+69
+00:06:07,036 --> 00:06:11,020
+Tujuh: bearish displacement dan market structure shift.
+
+70
+00:06:11,440 --> 00:06:14,030
+Lapan: potensi senario intraday bearish.
+
+71
+00:06:14,030 --> 00:06:21,928
+Alternatifnya, di mana harga reclaim dan memecah invalidation di atas, akan menamatkan bias bearish dengan cara yang sama.
+
+72
+00:06:23,748 --> 00:06:32,052
+Kadangkala pasaran tidak menawarkan arah yang jelas. Di sini, struktur timeframe tinggi bercanggah: range selepas penurunan yang tajam.
+
+73
+00:06:32,472 --> 00:06:39,720
+Harga terperangkap antara buy-side liquidity di atas equal highs dan sell-side liquidity di bawah equal lows.
+
+74
+00:06:40,140 --> 00:06:41,988
+Ia berada berhampiran equilibrium.
+
+75
+00:06:42,408 --> 00:06:45,792
+Dan tiada displacement yang jelas ke mana-mana arah.
+
+76
+00:06:46,212 --> 00:06:53,508
+Tambah risiko peristiwa besar, atau PD array yang bertindih dan bercanggah, dan gambaran menjadi lebih kabur.
+
+77
+00:06:53,928 --> 00:06:57,579
+Dalam keadaan ini, neutral ialah kesimpulan analisis yang sah.
+
+78
+00:06:57,579 --> 00:07:01,584
+Tidak mempunyai pendapat kadangkala ialah pendapat yang profesional.
+
+79
+00:07:03,404 --> 00:07:08,706
+Ini senarai semak Daily Bias CMI. Satu: apakah struktur timeframe tinggi?
+
+80
+00:07:08,706 --> 00:07:14,372
+Dua: apakah break of structure atau change of character terkini yang bermakna?
+
+81
+00:07:14,792 --> 00:07:21,680
+Tiga dan empat: di manakah harga dalam dealing range, dan adakah ia dalam premium, discount, atau berhampiran equilibrium?
+
+82
+00:07:22,100 --> 00:07:28,124
+Lima dan enam: kolam liquidity mana yang relevan, dan apakah potensi draw on liquidity?
+
+83
+00:07:28,544 --> 00:07:33,584
+Tujuh dan lapan: adakah terdapat PD array yang relevan, dan adakah terdapat displacement?
+
+84
+00:07:34,004 --> 00:07:39,116
+Sembilan: apakah yang akan membatalkan bias semasa? Tulis ini sebelum sesi bermula.
+
+85
+00:07:39,536 --> 00:07:43,712
+Dan sepuluh: adakah bias itu bullish, bearish atau neutral?
+
+86
+00:07:45,532 --> 00:07:50,500
+Kesilapan biasa. Menganggap struktur bullish menjamin hari yang bullish.
+
+87
+00:07:50,920 --> 00:07:53,032
+Menggunakan satu timeframe sahaja.
+
+88
+00:07:53,452 --> 00:07:55,732
+Mengabaikan external liquidity.
+
+89
+00:07:56,152 --> 00:07:58,840
+Menukar bias selepas setiap candle.
+
+90
+00:07:59,260 --> 00:08:02,212
+Menganggap Daily Bias sebagai ramalan yang tetap.
+
+91
+00:08:02,632 --> 00:08:05,392
+Mengabaikan peristiwa ekonomi berjadual.
+
+92
+00:08:05,812 --> 00:08:08,668
+Memaksa kesimpulan bullish atau bearish.
+
+93
+00:08:09,088 --> 00:08:11,752
+Dan mengabaikan syarat invalidation.
+
+94
+00:08:13,572 --> 00:08:18,804
+Sebagai rumusan. Daily Bias ialah hipotesis kerja, bukan ramalan.
+
+95
+00:08:19,224 --> 00:08:27,768
+Bina daripada struktur, liquidity, lokasi dan PD array. Draw on liquidity membentuk rangka hari itu, tetapi tidak pernah dijamin.
+
+96
+00:08:28,188 --> 00:08:33,468
+Bias masih memerlukan pengesahan timeframe rendah, dan neutral ialah jawapan yang sah.
+
+97
+00:08:33,888 --> 00:08:37,944
+Paling penting, tulis invalidation anda sebelum sesi bermula.
+
+98
+00:08:39,764 --> 00:08:47,000
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+99
+00:08:47,420 --> 00:08:50,996
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+100
+00:08:50,996 --> 00:08:54,844
+Penaakulan itulah yang dinilai.
+
+101
+00:08:56,664 --> 00:09:07,880
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+102
+00:09:09,700 --> 00:09:15,796
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+103
+00:09:16,216 --> 00:09:21,400
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+104
+00:09:21,820 --> 00:09:26,188
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+105
+00:09:28,008 --> 00:09:33,820
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+106
+00:09:33,820 --> 00:09:36,984
+Trading futures melibatkan risiko kerugian.
+
+107
+00:09:37,404 --> 00:09:43,002
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+108
+00:09:43,002 --> 00:09:44,868
+Jumpa dalam episod seterusnya.
+

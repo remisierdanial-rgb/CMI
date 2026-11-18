@@ -1,0 +1,172 @@
+1
+00:00:00,700 --> 00:00:07,348
+Welcome to Episode Seven, an extended lesson on Daily Bias, focused on the draw on liquidity.
+
+2
+00:00:07,768 --> 00:00:15,520
+We will map liquidity, decide which objective matters most, and then combine bias with PO3 and Kill Zones.
+
+3
+00:00:17,340 --> 00:00:23,004
+Before you choose an objective, map everything. Start with the previous day high and low.
+
+4
+00:00:23,424 --> 00:00:29,208
+Add the previous week high and low. Here, last week’s high is also the most recent swing high.
+
+5
+00:00:29,628 --> 00:00:33,348
+Mark earlier swing highs and lows that have not been taken.
+
+6
+00:00:33,768 --> 00:00:41,496
+Then separate internal liquidity, such as imbalances inside the range, from external liquidity at the range edges.
+
+7
+00:00:43,316 --> 00:00:46,700
+Equal highs and equal lows deserve a closer look.
+
+8
+00:00:47,120 --> 00:00:55,064
+Here two four-hour highs print at exactly the same price. That is a genuine equal high, with buy-side liquidity above.
+
+9
+00:00:55,484 --> 00:01:02,036
+Lower down, two lows match exactly: equal lows, with sell-side liquidity below.
+
+10
+00:01:02,456 --> 00:01:06,680
+Because they are obvious, many traders place stops just beyond them.
+
+11
+00:01:07,100 --> 00:01:12,956
+But roughly similar highs, far apart in price, are not equal highs. Be strict.
+
+12
+00:01:14,776 --> 00:01:22,048
+How do we prioritise? First, alignment with the bias. A bullish bias puts buy-side objectives first.
+
+13
+00:01:22,468 --> 00:01:30,484
+Second, significance. A weekly level usually outranks a daily one, and a daily level outranks an intraday one.
+
+14
+00:01:30,904 --> 00:01:35,560
+Third, realistic reach. Is the level within a normal day’s range?
+
+15
+00:01:35,980 --> 00:01:39,652
+Fourth, cleanliness. Has the level already been raided?
+
+16
+00:01:40,072 --> 00:01:50,488
+For example: with a bullish bias, the untouched previous day high may be today’s realistic objective, while the previous week high is the larger draw for the week.
+
+17
+00:01:52,308 --> 00:02:00,972
+A useful mental model: price often moves from one external liquidity pool toward the other, passing through internal liquidity on the way.
+
+18
+00:02:01,392 --> 00:02:09,000
+Here, after sell-side liquidity is taken, displacement leaves internal liquidity behind, a fair value gap.
+
+19
+00:02:09,420 --> 00:02:14,724
+The objective, defined in advance, is buy-side liquidity above the old high.
+
+20
+00:02:15,144 --> 00:02:19,920
+Price reaches it, but not in a straight line. There are pauses and pullbacks.
+
+21
+00:02:20,340 --> 00:02:30,828
+Once the objective is reached, behaviour may change: consolidation or reversal. That is the moment to reassess, not to extend the target automatically.
+
+22
+00:02:31,248 --> 00:02:36,576
+A bearish bias follows the same logic with sell-side liquidity as the objective.
+
+23
+00:02:38,396 --> 00:02:48,380
+Now combine Daily Bias with PO3. On the left, the daily context: bullish structure, discount, and the previous day high as the objective.
+
+24
+00:02:48,800 --> 00:02:54,032
+On the right, today. Mark the daily open; accumulation forms around it.
+
+25
+00:02:54,452 --> 00:02:58,820
+Manipulation trades below the open, against the bullish bias.
+
+26
+00:02:59,240 --> 00:03:02,816
+Distribution then expands toward the daily objective.
+
+27
+00:03:03,236 --> 00:03:12,620
+PO3 is one possible interpretation of how a bullish day is delivered. The bias itself still comes from the higher-timeframe context.
+
+28
+00:03:14,440 --> 00:03:22,048
+Now combine bias with timing. The higher-timeframe bias is bullish, with the previous day high as the objective.
+
+29
+00:03:22,468 --> 00:03:29,068
+During the London window, price sweeps the Asian low, a liquidity interaction against the bias.
+
+30
+00:03:29,488 --> 00:03:34,720
+Displacement and a market structure shift follow: lower-timeframe confirmation.
+
+31
+00:03:35,140 --> 00:03:38,452
+In the New York window, price reaches the objective.
+
+32
+00:03:38,872 --> 00:03:51,496
+Notice the order of reasoning. The bias came first, from structure and liquidity. The Kill Zone only told us when to watch for evidence. A Kill Zone does not determine the Daily Bias by itself.
+
+33
+00:03:53,316 --> 00:03:58,932
+To summarise. Map all liquidity first, and separate internal from external.
+
+34
+00:03:59,352 --> 00:04:07,800
+Prioritise objectives by bias, significance, reach and cleanliness, and expect a stepped path rather than a straight line.
+
+35
+00:04:08,220 --> 00:04:16,836
+PO3 is a lens on how the day may be delivered within the bias. Kill Zones time the evidence, but they do not set the bias.
+
+36
+00:04:18,656 --> 00:04:24,392
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+37
+00:04:26,312 --> 00:04:31,736
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+38
+00:04:35,556 --> 00:04:41,772
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+39
+00:04:48,592 --> 00:04:54,688
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+40
+00:04:55,108 --> 00:05:00,292
+Then complete the practical task, and record what would make your interpretation invalid.
+
+41
+00:05:00,712 --> 00:05:05,080
+Answer guides for every exercise are in the Level Seven workbook.
+
+42
+00:05:06,900 --> 00:05:15,876
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+43
+00:05:16,296 --> 00:05:23,760
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

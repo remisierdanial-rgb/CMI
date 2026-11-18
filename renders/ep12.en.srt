@@ -1,0 +1,192 @@
+1
+00:00:00,700 --> 00:00:06,148
+Welcome to Episode Twelve, the final lesson on SMT Divergence.
+
+2
+00:00:06,568 --> 00:00:18,184
+We look at timeframes, session timing, the special difficulties of FCPO, and a validation process. Much of this episode is about limitations, and that is deliberate.
+
+3
+00:00:20,004 --> 00:00:30,204
+SMT can be read on any timeframe. On the daily chart, swings are multi-day highs and lows, giving context for weekly and daily bias.
+
+4
+00:00:30,624 --> 00:00:33,912
+On four-hour charts, swings are session-to-session.
+
+5
+00:00:34,332 --> 00:00:38,148
+On one-hour charts, swings are intraday turning points.
+
+6
+00:00:38,568 --> 00:00:44,952
+On fifteen-minute charts, swings are Kill Zone-sized, useful as lower-timeframe confirmation.
+
+7
+00:00:45,372 --> 00:00:50,196
+Below that, swings are small and noisy, and divergences are frequent.
+
+8
+00:00:50,616 --> 00:01:03,960
+The rule: compare a fifteen-minute swing with a fifteen-minute swing, at the same timestamps. And a lower-timeframe divergence inside a higher-timeframe trend is a smaller signal, not a reversal of that trend.
+
+9
+00:01:05,780 --> 00:01:15,668
+Instruments must be compared during compatible trading periods. FCPO trades in the morning, afternoon, and in the T plus one evening session.
+
+10
+00:01:16,088 --> 00:01:25,928
+Dalian’s day and night sessions use Beijing time, which is the same as Malaysia time. Check the current DCE rules before relying on these hours.
+
+11
+00:01:26,348 --> 00:01:34,316
+CBOT soybean oil trades on Chicago time, so its Malaysia-time hours shift by one hour with US daylight saving.
+
+12
+00:01:34,736 --> 00:01:48,392
+If one market is closed, its chart is flat, and any divergence is an artefact. News released while only one market is open hits that market first. Align everything to one time zone before you compare.
+
+13
+00:01:50,212 --> 00:02:03,796
+Applying conventional SMT examples to FCPO is difficult. Possible comparators include Bursa’s FCPO itself, priced in ringgit per tonne, twenty-five tonnes per contract.
+
+14
+00:02:04,216 --> 00:02:13,144
+Dalian’s RBD palm olein futures, ten tonnes per lot, priced in yuan. That is a refined product, not crude palm oil.
+
+15
+00:02:13,564 --> 00:02:16,924
+Dalian soybean oil futures, also in yuan.
+
+16
+00:02:17,344 --> 00:02:24,568
+And CBOT soybean oil, sixty thousand pounds per contract, quoted in US cents per pound.
+
+17
+00:02:24,988 --> 00:02:34,876
+These are related vegetable-oil markets, but they are not interchangeable, and they are not consistently correlated. Verify current specifications before use.
+
+18
+00:02:36,696 --> 00:02:43,944
+Why can an FCPO divergence be meaningless? Different contract specifications, and different currencies.
+
+19
+00:02:44,364 --> 00:02:49,668
+Different trading sessions, and different exchange rules, including daily price limits.
+
+20
+00:02:50,088 --> 00:02:54,816
+Different liquidity conditions, and different delivery and contract structures.
+
+21
+00:02:55,236 --> 00:03:00,540
+Different supply and demand drivers, and different data feeds and timestamp conventions.
+
+22
+00:03:00,960 --> 00:03:10,488
+And basis differences between products, such as crude palm oil versus refined olein. Any of these can create a divergence with no analytical meaning.
+
+23
+00:03:12,308 --> 00:03:23,780
+Before using any pair for an FCPOSMT case study, follow eight steps. Explain the economic relationship, and verify the contract specifications.
+
+24
+00:03:24,200 --> 00:03:28,664
+Align the observation periods, and confirm the data is comparable.
+
+25
+00:03:29,084 --> 00:03:35,348
+Review historical co-movement, and identify the relevant swing highs and lows on both charts.
+
+26
+00:03:35,768 --> 00:03:41,048
+Explain why the divergence is meaningful, and show the alternative explanations.
+
+27
+00:03:41,468 --> 00:03:49,196
+And never fabricate a stable correlation, or imply that Dalian and FCPO must always move together.
+
+28
+00:03:51,016 --> 00:04:01,456
+Here is a clearly labelled illustrative scenario, not actual historical data. Both charts are fifteen minutes, in Malaysia time, during the overlapping night session.
+
+29
+00:04:01,876 --> 00:04:07,276
+FCPO makes a lower low, while Dalian palm olein holds a higher low.
+
+30
+00:04:07,696 --> 00:04:15,592
+FCPO then shifts structure. In a CMI write-up, this is where we must list alternative explanations.
+
+31
+00:04:16,012 --> 00:04:28,876
+Perhaps the yuan moved, Chinese demand news hit Dalian only, the olein-to-crude basis changed, or night liquidity was thin. Any of these could explain the divergence without any smart money story.
+
+32
+00:04:30,696 --> 00:04:39,768
+To validate an SMT observation, check: is the relationship real and current, and is the data aligned to one time zone?
+
+33
+00:04:40,188 --> 00:04:44,628
+Same timeframe on both charts, and corresponding swings selected.
+
+34
+00:04:45,048 --> 00:04:50,304
+Is the relative high and low behaviour clear, and what is the broader market structure?
+
+35
+00:04:50,724 --> 00:04:54,516
+What is the liquidity context, and did price later confirm?
+
+36
+00:04:54,936 --> 00:04:57,336
+And what would invalidate the observation?
+
+37
+00:04:57,756 --> 00:05:07,812
+Note what is missing: a magic number. CMI does not set a universal threshold for SMT validity without credible evidence and testing.
+
+38
+00:05:09,632 --> 00:05:17,072
+To summarise. Keep timeframe and swing selection consistent, and compare only overlapping trading periods.
+
+39
+00:05:17,492 --> 00:05:25,292
+FCPO comparators are related, but not interchangeable. Follow the eight-step checklist before any case study.
+
+40
+00:05:25,712 --> 00:05:31,664
+Label illustrative scenarios clearly, and do not invent thresholds or correlations.
+
+41
+00:05:33,484 --> 00:05:39,220
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+42
+00:05:41,140 --> 00:05:46,564
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+43
+00:05:50,384 --> 00:05:56,600
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+44
+00:06:03,420 --> 00:06:09,516
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+45
+00:06:09,936 --> 00:06:15,120
+Then complete the practical task, and record what would make your interpretation invalid.
+
+46
+00:06:15,540 --> 00:06:19,908
+Answer guides for every exercise are in the Level Seven workbook.
+
+47
+00:06:21,728 --> 00:06:30,704
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+48
+00:06:31,124 --> 00:06:38,588
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

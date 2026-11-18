@@ -1,0 +1,220 @@
+1
+00:00:00,700 --> 00:00:07,348
+Selamat datang ke Episod 7, pelajaran lanjutan tentang Daily Bias, yang memfokuskan draw on liquidity.
+
+2
+00:00:07,768 --> 00:00:15,520
+Kita akan memetakan liquidity, menentukan objektif yang paling penting, dan kemudian menggabungkan bias dengan PO3 dan Kill Zones.
+
+3
+00:00:17,340 --> 00:00:23,004
+Sebelum memilih objektif, petakan semuanya. Mulakan dengan previous day high dan low.
+
+4
+00:00:23,424 --> 00:00:29,208
+Tambah previous week high dan low. Di sini, high minggu lepas juga merupakan swing high terkini.
+
+5
+00:00:29,628 --> 00:00:33,348
+Tandakan swing high dan low terdahulu yang belum diambil.
+
+6
+00:00:33,768 --> 00:00:41,496
+Kemudian asingkan internal liquidity, seperti ketidakseimbangan di dalam range, daripada external liquidity di tepi range.
+
+7
+00:00:43,316 --> 00:00:46,700
+Equal highs dan equal lows wajar diteliti dengan lebih dekat.
+
+8
+00:00:47,120 --> 00:00:50,000
+Di sini dua high empat jam tercetak pada harga yang sama tepat.
+
+9
+00:00:50,000 --> 00:00:55,064
+Itu equal high yang sebenar, dengan buy-side liquidity di atasnya.
+
+10
+00:00:55,484 --> 00:01:02,036
+Di bawah, dua low sepadan dengan tepat: equal lows, dengan sell-side liquidity di bawahnya.
+
+11
+00:01:02,456 --> 00:01:06,680
+Kerana ia jelas, ramai trader meletakkan stop tepat di luarnya.
+
+12
+00:01:07,100 --> 00:01:12,050
+Tetapi high yang hampir serupa, yang berjauhan dari segi harga, bukan equal highs.
+
+13
+00:01:12,050 --> 00:01:12,956
+Bersikap tegas.
+
+14
+00:01:14,776 --> 00:01:18,915
+Bagaimana kita menentukan keutamaan? Pertama, keselarasan dengan bias.
+
+15
+00:01:18,915 --> 00:01:22,048
+Bias bullish meletakkan objektif buy-side di hadapan.
+
+16
+00:01:22,468 --> 00:01:30,484
+Kedua, kepentingan. Paras mingguan biasanya mengatasi paras harian, dan paras harian mengatasi paras intraday.
+
+17
+00:01:30,904 --> 00:01:35,560
+Ketiga, jangkauan yang realistik. Adakah paras itu dalam julat normal sehari?
+
+18
+00:01:35,980 --> 00:01:39,652
+Keempat, kebersihan. Adakah paras itu sudah diserbu sebelum ini?
+
+19
+00:01:40,072 --> 00:01:46,105
+Contohnya: dengan bias bullish, previous day high yang belum disentuh mungkin objektif realistik hari ini,
+
+20
+00:01:46,105 --> 00:01:50,488
+manakala previous week high ialah draw yang lebih besar bagi minggu tersebut.
+
+21
+00:01:52,308 --> 00:01:58,447
+Model mental yang berguna: harga sering bergerak dari satu kolam external liquidity ke arah yang satu lagi,
+
+22
+00:01:58,447 --> 00:02:00,972
+melalui internal liquidity dalam perjalanan.
+
+23
+00:02:01,392 --> 00:02:09,000
+Di sini, selepas sell-side liquidity diambil, displacement meninggalkan internal liquidity, iaitu fair value gap.
+
+24
+00:02:09,420 --> 00:02:14,724
+Objektifnya, yang ditetapkan lebih awal, ialah buy-side liquidity di atas high lama.
+
+25
+00:02:15,144 --> 00:02:19,920
+Harga mencapainya, tetapi bukan dalam garis lurus. Terdapat jeda dan pengunduran.
+
+26
+00:02:20,340 --> 00:02:25,648
+Sebaik objektif dicapai, tingkah laku mungkin berubah: konsolidasi atau pembalikan.
+
+27
+00:02:25,648 --> 00:02:30,828
+Itulah masanya untuk menilai semula, bukan memanjangkan sasaran secara automatik.
+
+28
+00:02:31,248 --> 00:02:36,576
+Bias bearish mengikut logik yang sama dengan sell-side liquidity sebagai objektif.
+
+29
+00:02:38,396 --> 00:02:48,380
+Kini gabungkan Daily Bias dengan PO3. Di sebelah kiri, konteks harian: struktur bullish, discount, dan previous day high sebagai objektif.
+
+30
+00:02:48,800 --> 00:02:54,032
+Di sebelah kanan, hari ini. Tandakan daily open; accumulation terbentuk di sekelilingnya.
+
+31
+00:02:54,452 --> 00:02:58,820
+Manipulation didagangkan di bawah harga pembukaan, bertentangan dengan bias bullish.
+
+32
+00:02:59,240 --> 00:03:02,816
+Distribution kemudian berkembang ke arah objektif harian.
+
+33
+00:03:03,236 --> 00:03:08,361
+PO3 ialah satu tafsiran yang mungkin tentang bagaimana hari bullish dihantar.
+
+34
+00:03:08,361 --> 00:03:12,620
+Bias itu sendiri masih datang daripada konteks timeframe tinggi.
+
+35
+00:03:14,440 --> 00:03:22,048
+Kini gabungkan bias dengan masa. Bias timeframe tinggi ialah bullish, dengan previous day high sebagai objektif.
+
+36
+00:03:22,468 --> 00:03:29,068
+Semasa tetingkap London, harga menyapu Asian low, iaitu interaksi liquidity yang bertentangan dengan bias.
+
+37
+00:03:29,488 --> 00:03:34,720
+Displacement dan market structure shift menyusul: pengesahan timeframe rendah.
+
+38
+00:03:35,140 --> 00:03:38,452
+Dalam tetingkap New York, harga mencapai objektif.
+
+39
+00:03:38,872 --> 00:03:44,245
+Perhatikan susunan penaakulan. Bias datang dahulu, daripada struktur dan liquidity.
+
+40
+00:03:44,245 --> 00:03:51,496
+Kill Zone hanya memberitahu bila untuk memerhati bukti. Kill Zone tidak menentukan Daily Bias dengan sendirinya.
+
+41
+00:03:53,316 --> 00:03:58,932
+Sebagai rumusan. Petakan semua liquidity dahulu, dan asingkan internal daripada external.
+
+42
+00:03:59,352 --> 00:04:07,800
+Tentukan keutamaan objektif mengikut bias, kepentingan, jangkauan dan kebersihan, dan jangkakan laluan berperingkat, bukan garis lurus.
+
+43
+00:04:08,220 --> 00:04:12,621
+PO3 ialah lensa tentang bagaimana hari itu mungkin dihantar dalam bias.
+
+44
+00:04:12,621 --> 00:04:16,836
+Kill Zones menentukan masa bagi bukti, tetapi tidak menetapkan bias.
+
+45
+00:04:18,656 --> 00:04:25,892
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+46
+00:04:26,312 --> 00:04:29,888
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+47
+00:04:29,888 --> 00:04:33,736
+Penaakulan itulah yang dinilai.
+
+48
+00:04:35,556 --> 00:04:46,772
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+49
+00:04:48,592 --> 00:04:54,688
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+50
+00:04:55,108 --> 00:05:00,292
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+51
+00:05:00,712 --> 00:05:05,080
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+52
+00:05:06,900 --> 00:05:12,712
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+53
+00:05:12,712 --> 00:05:15,876
+Trading futures melibatkan risiko kerugian.
+
+54
+00:05:16,296 --> 00:05:21,894
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+55
+00:05:21,894 --> 00:05:23,760
+Jumpa dalam episod seterusnya.
+

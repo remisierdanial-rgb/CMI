@@ -1,0 +1,408 @@
+1
+00:00:00,700 --> 00:00:07,468
+Selamat datang ke Level 7 program CMI Smart Money Concept: Advanced ICT Concepts.
+
+2
+00:00:07,888 --> 00:00:13,648
+Dalam episod pertama ini, kita kaji Power of Three, atau ringkasnya PO3.
+
+3
+00:00:14,068 --> 00:00:19,010
+Di akhir episod, anda sepatutnya boleh mentakrif rangka kerja ini, menerangkan tiga fasanya,
+
+4
+00:00:19,010 --> 00:00:22,180
+dan membina model bullish dan bearish langkah demi langkah.
+
+5
+00:00:22,600 --> 00:00:28,960
+Kita juga akan kaji bila model ini gagal, kerana sesuatu rangka kerja hanya berguna apabila anda tahu hadnya.
+
+6
+00:00:30,780 --> 00:00:36,180
+Level 7 mempunyai enam subtopik asal, dan kita kekalkan susunannya tepat seperti ini.
+
+7
+00:00:36,600 --> 00:00:44,400
+Power of Three, AMD, Kill Zones, Daily Bias, Judas Swing, dan SMT Divergence.
+
+8
+00:00:44,820 --> 00:00:52,598
+Setiap satu dibina atas apa yang anda pelajari dalam Level 2 hingga 6: struktur, liquidity, zon institusi, displacement,
+
+9
+00:00:52,598 --> 00:00:54,348
+serta premium dan discount.
+
+10
+00:00:54,768 --> 00:01:01,104
+Anggap setiap konsep di sini sebagai rangka kerja analisis, bukan bukti tentang apa yang sedang dilakukan institusi.
+
+11
+00:01:02,924 --> 00:01:09,116
+Jadi apakah Power of Three? Di CMI, kita takrifkannya sebagai model konseptual bagi price delivery.
+
+12
+00:01:09,536 --> 00:01:16,712
+Rangka kerja ini dipopularkan dalam pendidikan trading moden oleh Inner Circle Trader, Michael J. Huddleston.
+
+13
+00:01:17,132 --> 00:01:22,908
+Namun, idea asasnya, seperti trading range dan larian ke atas stop, jauh lebih lama.
+
+14
+00:01:22,908 --> 00:01:27,308
+Wyckoff telah menulis tentang accumulation pada awal abad ke-20.
+
+15
+00:01:27,728 --> 00:01:34,472
+PO3 biasanya dilukis sebagai tiga fasa: accumulation, manipulation dan distribution.
+
+16
+00:01:34,892 --> 00:01:40,340
+Ia menerangkan satu urutan yang mungkin berlaku. Ia bukan corak yang mesti terhasil setiap hari.
+
+17
+00:01:40,760 --> 00:01:46,472
+Asingkan dengan jelas apa yang anda lihat pada carta, dan label yang anda pilih untuk mentafsirkannya.
+
+18
+00:01:48,292 --> 00:01:53,476
+Mari kita bina tiga fasa ini pada carta model. Garisan emas ialah harga pembukaan, atau opening price.
+
+19
+00:01:53,896 --> 00:02:00,376
+Fasa pertama ialah accumulation. Harga membentuk range dan kekal agak terkawal di sekitar harga pembukaan.
+
+20
+00:02:00,796 --> 00:02:07,708
+Pergerakan berarah adalah terhad, dan liquidity mungkin terkumpul di sekitar high dan low range yang jelas.
+
+21
+00:02:08,128 --> 00:02:14,728
+Fasa kedua ialah manipulation. Harga bergerak melepasi satu sisi range, di sini di bawah range low.
+
+22
+00:02:15,148 --> 00:02:21,796
+Ini mungkin menyapu sell-side liquidity di bawah low tersebut, dan ia bergerak bertentangan dengan arah yang menyusul.
+
+23
+00:02:22,216 --> 00:02:26,224
+Trader sering menggelarnya false breakout atau liquidity raid.
+
+24
+00:02:26,644 --> 00:02:32,092
+Fasa ketiga ialah distribution. Harga berkembang secara berarah, menjauhi range.
+
+25
+00:02:32,512 --> 00:02:38,728
+Struktur pasaran terbentuk, dan harga mungkin bergerak ke arah objektif liquidity, seperti high lama.
+
+26
+00:02:40,548 --> 00:02:43,827
+Dua perkataan dalam model ini perlu dikendalikan dengan teliti.
+
+27
+00:02:43,827 --> 00:02:45,492
+Yang pertama ialah manipulation.
+
+28
+00:02:45,912 --> 00:02:49,522
+Sapuan melepasi satu paras ialah peristiwa yang boleh dilihat.
+
+29
+00:02:49,522 --> 00:02:53,424
+Menggelarnya manipulation ialah tafsiran daripada rangka kerja ICT.
+
+30
+00:02:53,844 --> 00:02:57,818
+Sapuan semata-mata tidak membuktikan tindakan institusi yang disengajakan.
+
+31
+00:02:57,818 --> 00:03:01,308
+Stop dicetuskan oleh ramai peserta pasaran, dan juga oleh berita.
+
+32
+00:03:01,728 --> 00:03:08,304
+Perkataan kedua ialah distribution. Dalam PO3, ia hanya bermaksud fasa pengembangan berarah.
+
+33
+00:03:08,724 --> 00:03:16,860
+Jadi dalam PO3 bullish, distribution bergerak naik. Jangan kelirukan dengan Wyckoff Distribution, iaitu proses pembentukan puncak.
+
+34
+00:03:18,680 --> 00:03:24,152
+Kini model bullish penuh, langkah demi langkah. Langkah satu: tandakan opening price.
+
+35
+00:03:24,572 --> 00:03:30,356
+Langkah dua: harga berkonsolidasi di sekitar harga pembukaan, berputar di atas dan di bawahnya.
+
+36
+00:03:30,776 --> 00:03:38,672
+Langkah tiga: kenal pasti range high dan range low. Sell-side liquidity diandaikan berada di bawah low tersebut.
+
+37
+00:03:39,092 --> 00:03:44,468
+Langkah empat: harga bergerak di bawah range low, didagangkan di bawah harga pembukaan.
+
+38
+00:03:44,888 --> 00:03:48,966
+Langkah lima: candle ini jelas didagangkan melepasi low tersebut.
+
+39
+00:03:48,966 --> 00:03:52,040
+Itu ialah kemungkinan sapuan sell-side liquidity.
+
+40
+00:03:52,460 --> 00:03:57,116
+Langkah enam: harga gagal meneruskan penurunan dan kembali ke dalam range.
+
+41
+00:03:57,536 --> 00:04:03,440
+Langkah tujuh: bullish displacement. Candle yang kuat meninggalkan fair value gap di belakangnya.
+
+42
+00:04:03,860 --> 00:04:07,627
+Langkah lapan: satu candle ditutup di atas lower high terakhir.
+
+43
+00:04:07,627 --> 00:04:10,796
+Itu ialah kemungkinan bullish market structure shift.
+
+44
+00:04:11,216 --> 00:04:15,560
+Langkah sembilan: harga berkembang ke atas, menjauhi range.
+
+45
+00:04:15,980 --> 00:04:23,780
+Langkah sepuluh: objektif yang mungkin ialah buy-side liquidity di atas high lama, di sini pada 4,204.
+
+46
+00:04:24,200 --> 00:04:33,560
+Dilabel bersama: accumulation, manipulation, distribution. Ingat, ini satu urutan bullish yang mungkin, bukan jaminan.
+
+47
+00:04:35,380 --> 00:04:40,228
+Model bearish ialah songsangannya. Langkah satu: tandakan opening price.
+
+48
+00:04:40,648 --> 00:04:44,824
+Langkah dua: accumulation. Harga bergerak dalam range di sekitar harga pembukaan.
+
+49
+00:04:45,244 --> 00:04:52,972
+Langkah tiga: kenal pasti range high dan range low. Kali ini kita fokus pada buy-side liquidity di atas high.
+
+50
+00:04:53,392 --> 00:04:58,744
+Langkah empat: harga bergerak di atas range high, didagangkan di atas harga pembukaan.
+
+51
+00:04:59,164 --> 00:05:02,720
+Langkah lima: sumbu candle didagangkan melepasi high tersebut.
+
+52
+00:05:02,720 --> 00:05:04,900
+Kemungkinan sapuan buy-side liquidity.
+
+53
+00:05:05,320 --> 00:05:10,240
+Langkah enam: harga tidak dapat bertahan di atas dan kembali ke bawah range high.
+
+54
+00:05:10,660 --> 00:05:15,604
+Langkah tujuh: bearish displacement, meninggalkan bearish fair value gap.
+
+55
+00:05:16,024 --> 00:05:22,192
+Langkah lapan: penutupan di bawah higher low terakhir. Kemungkinan bearish market structure shift.
+
+56
+00:05:22,612 --> 00:05:25,444
+Langkah sembilan: harga berkembang ke bawah.
+
+57
+00:05:25,864 --> 00:05:31,168
+Langkah sepuluh: objektif yang mungkin ialah sell-side liquidity di bawah low lama.
+
+58
+00:05:31,588 --> 00:05:37,132
+Accumulation, manipulation, distribution sekali lagi, dengan arah yang terbalik.
+
+59
+00:05:38,952 --> 00:05:45,888
+Opening price ialah sauh model PO3, jadi kita perlu tepat tentang harga pembukaan yang mana dimaksudkan.
+
+60
+00:05:46,308 --> 00:05:50,853
+Daily open ialah harga pertama hari dagangan mengikut konvensyen yang dinyatakan.
+
+61
+00:05:50,853 --> 00:05:54,108
+Dalam bahan forex ICT, ia selalunya tengah malam New York.
+
+62
+00:05:54,528 --> 00:06:01,872
+Session open ialah harga pertama sesuatu sesi, seperti London, New York, atau sesi dagangan FCPO.
+
+63
+00:06:02,292 --> 00:06:04,692
+PO3 harian menggunakan daily open. PO3 berasaskan sesi menggunakan session open.
+
+64
+00:06:05,112 --> 00:06:14,760
+Bagi FCPO, sesi siang dibuka pada 10:30 pagi waktu Malaysia, dan sesi after-hours T+1 direkodkan untuk hari dagangan berikutnya.
+
+65
+00:06:15,180 --> 00:06:19,620
+Jadi pilih satu konvensyen, tulis pada carta anda, dan kekalkan secara konsisten.
+
+66
+00:06:20,040 --> 00:06:28,416
+Dan ingat: harga pembukaan ialah rujukan. Ia bukan support atau resistance automatik, dan ia tidak sama dengan equilibrium.
+
+67
+00:06:30,236 --> 00:06:37,316
+Dalam model bullish, fasa manipulation biasanya didagangkan di bawah opening price sebelum pengembangan ke atas.
+
+68
+00:06:37,736 --> 00:06:44,912
+Jadi sesetengah trader ICT lebih suka mencari setup bullish hanya ketika harga di bawah harga pembukaan, pada hari yang bullish.
+
+69
+00:06:45,332 --> 00:06:50,996
+Dalam model bearish, sebaliknya berlaku. Pergerakan palsu didagangkan di atas harga pembukaan dahulu.
+
+70
+00:06:51,416 --> 00:06:57,632
+Ini memberi penapis lokasi yang ringkas, tetapi ia hanya bermakna apabila anda sudah mempunyai konteks arah.
+
+71
+00:06:58,052 --> 00:07:01,951
+Lokasi harga berbanding harga pembukaan ialah satu input kepada tafsiran anda.
+
+72
+00:07:01,951 --> 00:07:04,700
+Ia tidak sekali-kali menjadi isyarat dengan sendirinya.
+
+73
+00:07:06,520 --> 00:07:15,016
+PO3 boleh dibaca pada pelbagai timeframe. Di sebelah kiri, keseluruhan urutan intraday digabungkan menjadi satu candle.
+
+74
+00:07:15,436 --> 00:07:22,612
+Open candle itu ialah harga pembukaan, sumbu bawahnya ialah manipulation, dan penutupan berhampiran high mencerminkan pengembangan.
+
+75
+00:07:23,032 --> 00:07:30,544
+Inilah gambaran klasik PO3 harian: open, low, high, close bagi hari bullish.
+
+76
+00:07:30,964 --> 00:07:35,356
+Idea yang sama boleh digunakan pada satu sesi, atau pada swing intraday.
+
+77
+00:07:35,776 --> 00:07:41,945
+Tetapi PO3 kecil dalam pergerakan yang lebih besar tidak semestinya sebahagian daripada kitaran pasaran yang sama.
+
+78
+00:07:41,945 --> 00:07:44,272
+Sentiasa nyatakan timeframe yang anda baca.
+
+79
+00:07:46,092 --> 00:07:52,164
+Mari kita tutup konsep ini dengan kesilapan biasa. Satu: menganggap setiap hari mengikut PO3.
+
+80
+00:07:52,164 --> 00:07:53,796
+Banyak hari tidak begitu.
+
+81
+00:07:54,216 --> 00:07:58,488
+Dua: memaksa tiga fasa ke atas carta selepas sesuatu berlaku.
+
+82
+00:07:58,908 --> 00:08:04,788
+Tiga: menganggap setiap breakout sebagai manipulation. Banyak breakout terus bergerak.
+
+83
+00:08:05,208 --> 00:08:09,984
+Empat: menganggap distribution mesti mencapai sasaran liquidity tertentu.
+
+84
+00:08:10,404 --> 00:08:15,780
+Lima: mengelirukan opening price dengan equilibrium. Kedua-duanya rujukan berbeza.
+
+85
+00:08:16,200 --> 00:08:19,488
+Enam: mengabaikan struktur pasaran daripada Level 2.
+
+86
+00:08:19,908 --> 00:08:24,348
+Tujuh: mengelirukan PO3 dengan kitaran pasaran Wyckoff.
+
+87
+00:08:24,768 --> 00:08:29,304
+Dan lapan: mendakwa manipulasi institusi tanpa bukti.
+
+88
+00:08:31,124 --> 00:08:39,332
+Sebagai rumusan. PO3 ialah model konseptual dengan tiga fasa: accumulation, manipulation dan distribution.
+
+89
+00:08:39,752 --> 00:08:47,648
+Opening price menjadi sauh model. Model bullish didagangkan di bawah harga pembukaan dahulu; model bearish di atasnya dahulu.
+
+90
+00:08:48,068 --> 00:08:52,892
+Sapuan ialah apa yang anda lihat. Manipulation ialah cara rangka kerja ini mentafsirnya.
+
+91
+00:08:53,312 --> 00:08:58,544
+Dan apabila urutan tidak lengkap, jawapan profesional ialah tidak memaksanya.
+
+92
+00:09:00,364 --> 00:09:07,600
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+93
+00:09:08,020 --> 00:09:11,596
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+94
+00:09:11,596 --> 00:09:15,444
+Penaakulan itulah yang dinilai.
+
+95
+00:09:17,264 --> 00:09:28,480
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+96
+00:09:30,300 --> 00:09:36,396
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+97
+00:09:36,816 --> 00:09:42,000
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+98
+00:09:42,420 --> 00:09:46,788
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+99
+00:09:48,608 --> 00:09:54,420
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+100
+00:09:54,420 --> 00:09:57,584
+Trading futures melibatkan risiko kerugian.
+
+101
+00:09:58,004 --> 00:10:03,602
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+102
+00:10:03,602 --> 00:10:05,468
+Jumpa dalam episod seterusnya.
+

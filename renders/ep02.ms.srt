@@ -1,0 +1,320 @@
+1
+00:00:00,700 --> 00:00:07,468
+Selamat datang ke Episod 2. Ini ialah pelajaran lanjutan di bawah subtopik 7.1, Power of Three.
+
+2
+00:00:07,888 --> 00:00:14,992
+Kita akan teliti satu kes bullish lengkap dan satu kes bearish lengkap, kemudian kaji lima cara model ini gagal.
+
+3
+00:00:15,412 --> 00:00:20,116
+Akhir sekali, kita kaitkan PO3 dengan apa yang anda pelajari dalam Level 2 hingga 6.
+
+4
+00:00:21,936 --> 00:00:28,416
+Ini kes bullish secara penuh. Kita mulakan dengan daily open pada 4,268.
+
+5
+00:00:28,836 --> 00:00:32,560
+Harga membina range accumulation di sekitar harga pembukaan.
+
+6
+00:00:32,560 --> 00:00:34,980
+Kita tandakan range high dan range low.
+
+7
+00:00:35,400 --> 00:00:41,952
+Dua sentuhan pada low meninggalkan equal lows. Sell-side liquidity diandaikan berada di bawahnya.
+
+8
+00:00:42,372 --> 00:00:46,679
+Kemudian harga jatuh, di bawah harga pembukaan dan melepasi range low.
+
+9
+00:00:46,679 --> 00:00:50,556
+Sapuan itu jelas: sumbunya didagangkan di bawah paras tersebut.
+
+10
+00:00:50,976 --> 00:00:56,424
+Seterusnya berlaku reclaim. Satu candle bullish yang kuat ditutup semula di atas range low.
+
+11
+00:00:56,844 --> 00:01:01,284
+Displacement menyusul, dan pergerakan itu meninggalkan bullish fair value gap.
+
+12
+00:01:01,704 --> 00:01:09,552
+Harga ditutup di atas lower high terakhir, iaitu market structure shift, dan kemudian di atas range high, iaitu break of structure.
+
+13
+00:01:09,972 --> 00:01:13,476
+Kini fasa distribution. Harga berkembang ke atas.
+
+14
+00:01:13,896 --> 00:01:18,744
+Ia bergerak ke arah buy-side liquidity di atas high lama, dan didagangkan melepasinya.
+
+15
+00:01:19,164 --> 00:01:23,506
+Setiap langkah berlaku mengikut urutan dan setiap satu boleh dilihat pada carta.
+
+16
+00:01:23,506 --> 00:01:26,220
+Itulah yang menjadikan ini ilustrasi yang lengkap.
+
+17
+00:01:28,040 --> 00:01:32,404
+Apakah yang membezakan ilustrasi yang sah daripada formasi yang tidak lengkap?
+
+18
+00:01:32,404 --> 00:01:36,488
+Pertama, rujukan yang jelas, dan sempadan range yang boleh dikenal pasti.
+
+19
+00:01:36,908 --> 00:01:43,364
+Kedua, sapuan yang benar-benar didagangkan melepasi paras, diikuti oleh reclaim dan displacement.
+
+20
+00:01:43,784 --> 00:01:49,328
+Ketiga, anjakan struktur ke arah baharu, dan pengembangan menjauhi range.
+
+21
+00:01:49,748 --> 00:01:53,426
+Formasi yang tidak lengkap kekurangan satu atau lebih elemen ini.
+
+22
+00:01:53,426 --> 00:01:58,292
+Mungkin tiada range sebenar, atau sapuan yang disebut itu tidak pernah melepasi paras.
+
+23
+00:01:58,712 --> 00:02:04,040
+Mungkin harga tidak pernah reclaim, atau tiada displacement atau anjakan struktur yang muncul.
+
+24
+00:02:04,460 --> 00:02:10,124
+Dan jujurlah tentang hindsight. Label yang dilukis hanya selepas pergerakan berlaku bukanlah analisis.
+
+25
+00:02:11,944 --> 00:02:16,264
+Kini kes bearish. Daily open yang sama, urutan bertentangan.
+
+26
+00:02:16,684 --> 00:02:19,612
+Range accumulation terbentuk di sekitar harga pembukaan.
+
+27
+00:02:20,032 --> 00:02:25,288
+Equal highs di bahagian atas range menunjukkan buy-side liquidity berada di atasnya.
+
+28
+00:02:25,708 --> 00:02:29,663
+Harga naik di atas harga pembukaan dan didagangkan melepasi range high.
+
+29
+00:02:29,663 --> 00:02:31,612
+Itulah kemungkinan sapuan buy-side.
+
+30
+00:02:32,032 --> 00:02:36,664
+Harga tidak dapat bertahan. Ia ditolak dan kembali ke bawah range high.
+
+31
+00:02:37,084 --> 00:02:41,380
+Bearish displacement menyusul, meninggalkan bearish fair value gap.
+
+32
+00:02:41,800 --> 00:02:49,744
+Penutupan di bawah higher low terakhir memberi market structure shift, dan penutupan di bawah range low mengesahkan break of structure.
+
+33
+00:02:50,164 --> 00:02:55,228
+Distribution bergerak lebih rendah, ke arah sell-side liquidity di bawah low lama.
+
+34
+00:02:55,648 --> 00:02:59,584
+Sekali lagi, setiap elemen boleh dilihat, dan mengikut urutan.
+
+35
+00:03:01,404 --> 00:03:06,036
+Kegagalan satu. Harga menyapu range low, tetapi tidak pernah reclaim.
+
+36
+00:03:06,456 --> 00:03:11,506
+Ia terus ditutup di bawah paras itu dan jatuh lebih jauh. Tafsiran bullish itu salah.
+
+37
+00:03:11,506 --> 00:03:13,704
+Sapuan tersebut sebenarnya breakdown.
+
+38
+00:03:14,124 --> 00:03:19,572
+Kegagalan dua. Harga keluar daripada range dan terus bergerak ke arah breakout tersebut.
+
+39
+00:03:19,992 --> 00:03:21,657
+Tiada pergerakan palsu langsung.
+
+40
+00:03:21,657 --> 00:03:27,432
+Sesiapa yang menunggu manipulation dahulu akan terlepas pergerakan ini, atau lebih teruk, berdagang melawannya.
+
+41
+00:03:27,852 --> 00:03:34,516
+Dalam kedua-dua kes, sapuan atau breakout itu hanyalah kemungkinan manipulation sehingga bukti pembalikan muncul,
+
+42
+00:03:34,516 --> 00:03:36,108
+dan ia tidak pernah muncul.
+
+43
+00:03:37,928 --> 00:03:44,048
+Kegagalan tiga. Sapuan berlaku dan harga pulih sedikit, tetapi ia kembali bergerak dalam range.
+
+44
+00:03:44,468 --> 00:03:49,748
+Tiada fasa distribution yang bermakna. Tiada pengembangan, tiada struktur baharu.
+
+45
+00:03:50,168 --> 00:03:55,832
+Kegagalan empat. Harga berkembang seketika, kemudian jatuh semula ke dalam range asal.
+
+46
+00:03:56,252 --> 00:04:00,908
+Bahagian awal kelihatan seperti PO3, tetapi pengembangan itu tidak bertahan.
+
+47
+00:04:01,328 --> 00:04:09,152
+Dalam kedua-dua kes, urutannya tidak lengkap. Uruskan idea itu sebagai gagal, dan jangan regangkan label supaya kelihatan sesuai.
+
+48
+00:04:10,972 --> 00:04:14,908
+Kegagalan lima: harga membentuk struktur yang langsung berbeza.
+
+49
+00:04:15,328 --> 00:04:19,408
+Di sini ia menyapu range low, kemudian menyapu range high juga.
+
+50
+00:04:19,828 --> 00:04:22,828
+Kedua-dua pergerakan tidak diikuti oleh pengembangan yang berterusan.
+
+51
+00:04:23,248 --> 00:04:28,120
+Ini ialah range yang melebar atau berputar, bukan urutan Power of Three.
+
+52
+00:04:28,540 --> 00:04:36,316
+Respons profesional ialah berdiri di tepi dan membaca semula struktur, bukannya memaksa label PO3 ke atasnya.
+
+53
+00:04:38,136 --> 00:04:45,864
+Sekarang mari kita kaitkan PO3 dengan level sebelumnya. Level 2, struktur pasaran, mengesahkan anjakan selepas sapuan.
+
+54
+00:04:46,284 --> 00:04:52,164
+Level 3, liquidity, memberitahu di mana sapuan berlaku dan di mana objektifnya mungkin berada.
+
+55
+00:04:52,584 --> 00:04:58,920
+Level 4 menambah zon harga institusi, seperti order block berhampiran ekstrem manipulation.
+
+56
+00:04:59,340 --> 00:05:05,580
+Level 5 menambah displacement dan fair value gap sebagai bukti pembalikan yang sebenar.
+
+57
+00:05:05,000 --> 00:05:13,080
+Level 6 bertanya sama ada manipulation berlaku dalam discount bagi model bullish, atau premium bagi model bearish.
+
+58
+00:05:13,500 --> 00:05:19,692
+Faktor-faktor ini menyokong sesuatu tafsiran. Ia bukan syarat wajib bagi setiap PO3.
+
+59
+00:05:21,512 --> 00:05:26,912
+Ini kes bullish dengan setiap lensa ditambah. Level 2: market structure shift.
+
+60
+00:05:27,332 --> 00:05:31,868
+Level 3: sapuan sell-side, dan objektif buy-side di atas.
+
+61
+00:05:32,288 --> 00:05:39,896
+Level 4: candle down-close terakhir sebelum displacement, yang ditakrifkan dalam Level 4 sebagai bullish order block.
+
+62
+00:05:40,316 --> 00:05:44,084
+Level 5: displacement dan fair value gap yang terhasil.
+
+63
+00:05:44,504 --> 00:05:53,624
+Level 6: diukur dari low sapuan ke high lama, accumulation dan sapuan kedua-duanya berada dalam discount, di bawah equilibrium.
+
+64
+00:05:54,044 --> 00:05:57,908
+Setiap lensa menambah konteks. Tiada satu pun yang menjamin pergerakan itu.
+
+65
+00:05:59,728 --> 00:06:07,576
+Sebagai rumusan. PO3 yang lengkap menunjukkan setiap langkah mengikut urutan, dan sapuan mesti jelas didagangkan melepasi paras.
+
+66
+00:06:07,996 --> 00:06:12,292
+Reclaim, displacement dan anjakan struktur ialah bukti anda.
+
+67
+00:06:12,712 --> 00:06:20,123
+Kita telah lihat lima jenis kegagalan: tiada pembalikan, breakout yang bersih, tiada distribution, kembali ke range,
+
+68
+00:06:20,123 --> 00:06:21,784
+dan struktur yang berbeza.
+
+69
+00:06:22,204 --> 00:06:29,308
+Level sebelumnya menambah konteks, bukan peraturan wajib. Dan jika urutan tidak lengkap, jangan memaksanya.
+
+70
+00:06:31,128 --> 00:06:38,364
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+71
+00:06:38,784 --> 00:06:42,360
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+72
+00:06:42,360 --> 00:06:46,208
+Penaakulan itulah yang dinilai.
+
+73
+00:06:48,028 --> 00:06:59,244
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+74
+00:07:01,064 --> 00:07:07,160
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+75
+00:07:07,580 --> 00:07:12,764
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+76
+00:07:13,184 --> 00:07:17,552
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+77
+00:07:19,372 --> 00:07:25,184
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+78
+00:07:25,184 --> 00:07:28,348
+Trading futures melibatkan risiko kerugian.
+
+79
+00:07:28,768 --> 00:07:34,366
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+80
+00:07:34,366 --> 00:07:36,232
+Jumpa dalam episod seterusnya.
+

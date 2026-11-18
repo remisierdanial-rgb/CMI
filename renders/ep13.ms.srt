@@ -1,0 +1,224 @@
+1
+00:00:00,700 --> 00:00:06,628
+Selamat datang ke Episod 13. Di sini kita menghimpunkan keenam-enam subtopik Level 7.
+
+2
+00:00:07,048 --> 00:00:11,374
+Kita akan mengikuti satu senario bullish bersepadu, satu senario bearish,
+
+3
+00:00:11,374 --> 00:00:15,640
+dan satu hari bercanggah di mana jawapan yang betul ialah kekal neutral.
+
+4
+00:00:16,060 --> 00:00:20,764
+Anggap urutan ini sebagai satu laluan yang mungkin, bukan resipi yang wajib.
+
+5
+00:00:22,584 --> 00:00:28,752
+Langkah satu: struktur pasaran timeframe tinggi adalah bullish, dengan higher high dan higher low.
+
+6
+00:00:29,172 --> 00:00:32,436
+Langkah dua: Daily Bias ialah bullish.
+
+7
+00:00:32,856 --> 00:00:38,736
+Langkah tiga: potensi draw on liquidity ialah buy-side liquidity di atas high lama.
+
+8
+00:00:39,156 --> 00:00:43,812
+Langkah empat: petakan dealing range dari swing low ke swing high.
+
+9
+00:00:44,232 --> 00:00:49,416
+Langkah lima: harga sedang retrace ke dalam discount, di bawah equilibrium.
+
+10
+00:00:49,836 --> 00:00:57,084
+Langkah enam: kenal pasti kolam liquidity bagi hari ini: Asian low di bawah, dan previous day high di atas.
+
+11
+00:00:58,904 --> 00:01:04,400
+Langkah tujuh: semasa London Kill Zone, harga berinteraksi dengan liquidity sesi.
+
+12
+00:01:04,820 --> 00:01:09,817
+Langkah lapan: ia jatuh di bawah midnight open dan menyapu Asian low.
+
+13
+00:01:09,817 --> 00:01:13,148
+Kemungkinan Judas Swing, masih belum disahkan.
+
+14
+00:01:13,568 --> 00:01:21,234
+Langkah sembilan: SMT. Dalam ilustrasi ini kita tiada instrumen berkaitan yang disahkan, jadi kita tidak menilainya.
+
+15
+00:01:21,234 --> 00:01:22,952
+Kita tidak mereka-rekanya.
+
+16
+00:01:23,372 --> 00:01:25,940
+Langkah sepuluh: bullish displacement.
+
+17
+00:01:26,360 --> 00:01:30,728
+Langkah sebelas: market structure shift di atas lower high terakhir.
+
+18
+00:01:31,148 --> 00:01:36,716
+Langkah dua belas: fair value gap yang ditinggalkan oleh displacement ialah PD array yang relevan.
+
+19
+00:01:37,136 --> 00:01:45,625
+Langkah tiga belas: pengembangan ke arah previous day high boleh ditafsirkan sebagai fasa distribution dalam PO3 dan AMD.
+
+20
+00:01:45,625 --> 00:01:49,904
+Satu senario bersepadu yang mungkin, bukan urutan yang wajib.
+
+21
+00:01:51,724 --> 00:01:55,076
+Senario bearish bersepadu ialah songsangannya.
+
+22
+00:01:55,076 --> 00:02:01,852
+Struktur timeframe tinggi bearish, bias bearish, dan draw ialah sell-side liquidity di bawah.
+
+23
+00:02:02,272 --> 00:02:06,520
+Dealing range dipetakan, dan harga telah retrace ke dalam premium.
+
+24
+00:02:06,940 --> 00:02:11,020
+Dalam London Kill Zone, harga berinteraksi dengan liquidity sesi.
+
+25
+00:02:11,440 --> 00:02:18,112
+Ia naik di atas midnight open dan menyapu buy-side liquidity: kemungkinan Judas Swing bearish.
+
+26
+00:02:18,532 --> 00:02:23,131
+SMT dinilai hanya jika instrumen berkaitan yang disahkan wujud.
+
+27
+00:02:23,131 --> 00:02:29,044
+Kemudian bearish displacement, market structure shift dan bearish fair value gap.
+
+28
+00:02:29,464 --> 00:02:34,528
+Pengembangan ke arah sell-side liquidity dibaca sebagai fasa distribution.
+
+29
+00:02:34,948 --> 00:02:37,444
+Tiga belas langkah yang sama, terbalik.
+
+30
+00:02:39,264 --> 00:02:42,888
+Kini hari yang bercanggah. Daily Bias ialah bullish.
+
+31
+00:02:43,308 --> 00:02:50,172
+Tetapi pada timeframe rendah, struktur hanyut ke bawah, dan SMT tiada atau tidak jelas.
+
+32
+00:02:50,592 --> 00:02:55,848
+Harga tidak pernah menyapu liquidity yang dijangka. Asian low tidak disentuh.
+
+33
+00:02:56,268 --> 00:03:01,716
+Kedua-dua Kill Zone berlalu tanpa pergerakan bermakna, dan tiada displacement terbentuk.
+
+34
+00:03:02,136 --> 00:03:10,032
+Kesimpulannya neutral, dan tiada dagangan. Bukan setiap hari menawarkan setup, dan tidak berdagang ialah satu keputusan, bukan kegagalan.
+
+35
+00:03:11,852 --> 00:03:20,852
+Ini Aliran Kerja Analisis Lanjutan CMI. Satu hingga tiga: struktur timeframe tinggi, Daily Bias, dan draw on liquidity.
+
+36
+00:03:21,272 --> 00:03:27,200
+Empat hingga enam: dealing range, premium dan discount, dan PD array yang relevan.
+
+37
+00:03:27,620 --> 00:03:35,132
+Tujuh dan lapan: konteks sesi dan Kill Zone, dan tafsiran PO3 atau AMD.
+
+38
+00:03:35,552 --> 00:03:40,976
+Sembilan dan sepuluh: potensi Judas Swing, dan SMT di mana sesuai.
+
+39
+00:03:41,396 --> 00:03:48,572
+Sebelas dan dua belas: displacement dan pengesahan timeframe rendah, kemudian invalidation dan penilaian risiko.
+
+40
+00:03:48,992 --> 00:03:54,568
+Ini proses yang berstruktur, bukan senarai semak yang menjana isyarat dagangan automatik.
+
+41
+00:03:54,568 --> 00:03:57,512
+Bukan setiap analisis memerlukan setiap elemen.
+
+42
+00:03:59,332 --> 00:04:05,142
+Sebagai rumusan. Bina konteks dahulu, kemudian baca delivery, kemudian cari pengesahan.
+
+43
+00:04:05,142 --> 00:04:08,548
+Setiap konsep Level 7 menjawab soalan yang berbeza.
+
+44
+00:04:08,968 --> 00:04:13,840
+Elemen pilihan kekal pilihan, dan bukti yang bercanggah membawa kepada neutral.
+
+45
+00:04:14,260 --> 00:04:17,452
+Dan sentiasa akhiri dengan invalidation dan risiko.
+
+46
+00:04:19,272 --> 00:04:26,508
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+47
+00:04:26,928 --> 00:04:30,504
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+48
+00:04:30,504 --> 00:04:34,352
+Penaakulan itulah yang dinilai.
+
+49
+00:04:36,172 --> 00:04:47,388
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+50
+00:04:49,208 --> 00:04:55,304
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+51
+00:04:55,724 --> 00:05:00,908
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+52
+00:05:01,328 --> 00:05:05,696
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+53
+00:05:07,516 --> 00:05:13,328
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+54
+00:05:13,328 --> 00:05:16,492
+Trading futures melibatkan risiko kerugian.
+
+55
+00:05:16,912 --> 00:05:22,510
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+56
+00:05:22,510 --> 00:05:24,376
+Jumpa dalam episod seterusnya.
+

@@ -1,0 +1,416 @@
+1
+00:00:00,700 --> 00:00:05,764
+Selamat datang ke Episod 4, subtopik 7.3: Kill Zones.
+
+2
+00:00:06,184 --> 00:00:13,000
+Setakat ini kita mengkaji ke mana harga bergerak. Kill Zones menambah soalan kedua: bilakah kita memberi perhatian paling rapi?
+
+3
+00:00:13,420 --> 00:00:19,122
+Kita akan mentakrifnya, menetapkan satu jadual rujukan, menukarnya ke waktu Malaysia dengan betul,
+
+4
+00:00:19,122 --> 00:00:21,508
+dan kemudian meneliti FCPO dengan teliti.
+
+5
+00:00:23,328 --> 00:00:27,967
+ICT Kill Zone ialah tetingkap masa, dinyatakan dalam waktu tempatan New York,
+
+6
+00:00:27,967 --> 00:00:31,944
+yang ditekankan oleh metodologi ini untuk memantau price delivery.
+
+7
+00:00:32,364 --> 00:00:39,036
+Masa penting kerana penyertaan pasaran berubah sepanjang hari, apabila pusat kewangan utama dibuka dan ditutup.
+
+8
+00:00:39,456 --> 00:00:44,520
+Pembukaan sesi boleh membawa pesanan baharu, berita berjadual dan larian ke atas liquidity.
+
+9
+00:00:44,940 --> 00:00:54,108
+Tetapi Kill Zone bukan tempoh dagangan rasmi bursa. Bursa menentukan waktu dagangan; pendidik ICT menentukan Kill Zones.
+
+10
+00:00:54,528 --> 00:00:59,904
+Ia juga bukan peluang yang dijamin. Tiada apa yang perlu berlaku hanya kerana satu tetingkap telah dibuka.
+
+11
+00:01:00,324 --> 00:01:05,892
+Dan ia bukan hukum pasaran sejagat. Ia satu konvensyen dalam satu metodologi.
+
+12
+00:01:06,312 --> 00:01:11,688
+Fikirkan begini: jam memberitahu bila untuk melihat. Harga memberitahu apa yang sebenarnya berlaku.
+
+13
+00:01:13,508 --> 00:01:21,706
+Pendidik dan sumber ICT tidak semuanya menggunakan tetingkap yang sama, jadi CMI menetapkan satu jadual rujukan, dalam waktu New York,
+
+14
+00:01:21,706 --> 00:01:24,092
+dan menggunakannya dalam setiap episod.
+
+15
+00:01:24,512 --> 00:01:28,808
+Asian Kill Zone bermula dari 8 malam hingga tengah malam waktu New York.
+
+16
+00:01:29,228 --> 00:01:33,404
+London Kill Zone bermula dari 2 pagi hingga 5 pagi.
+
+17
+00:01:33,824 --> 00:01:40,136
+New York AM Kill Zone bermula dari 7 hingga 10 pagi, sekitar banyak siaran data AS.
+
+18
+00:01:40,556 --> 00:01:46,148
+New York Lunch, dari tengah hari hingga 1 petang, sering menjadi tempoh penyertaan yang lebih rendah.
+
+19
+00:01:46,568 --> 00:01:50,696
+Dan tetingkap New York PM bermula dari 1:30 hingga 4 petang.
+
+20
+00:01:51,116 --> 00:01:55,698
+Sesetengah sumber menggunakan variasi, seperti tetingkap pagi New York yang lebih lewat.
+
+21
+00:01:55,698 --> 00:02:00,332
+Itu tidak mengapa, asalkan anda nyatakan takrif yang digunakan dan tidak mencampurkannya.
+
+22
+00:02:02,152 --> 00:02:07,624
+Ini jadual yang sama pada paksi 24 jam, bermula pada 6 petang waktu New York.
+
+23
+00:02:08,044 --> 00:02:12,388
+Tetingkap Asia datang dahulu, dari 8 malam hingga tengah malam.
+
+24
+00:02:12,808 --> 00:02:15,544
+Kemudian London, dari 2 hingga 5 pagi.
+
+25
+00:02:15,964 --> 00:02:18,796
+Kemudian pagi New York, dari 7 hingga 10.
+
+26
+00:02:19,216 --> 00:02:22,168
+Diikuti waktu makan tengah hari, dan petang New York.
+
+27
+00:02:22,588 --> 00:02:24,447
+Perhatikan tengah malam New York.
+
+28
+00:02:24,447 --> 00:02:30,700
+Ramai trader ICT menggunakannya sebagai rujukan harian, yang akan kita bincang semula dalam episod Judas Swing.
+
+29
+00:02:32,520 --> 00:02:38,856
+Waktu Malaysia ialah UTC+8 sepanjang tahun. Malaysia tidak mengamalkan daylight saving.
+
+30
+00:02:39,276 --> 00:02:49,308
+New York Standard Time, EST, ialah UTC−5. Semasa EST, Malaysia 13 jam di hadapan New York.
+
+31
+00:02:49,728 --> 00:02:58,656
+New York Daylight Time, EDT, ialah UTC−4. Semasa EDT, Malaysia 12 jam di hadapan.
+
+32
+00:02:59,076 --> 00:03:06,136
+Pada tahun 2026, waktu daylight bermula Ahad 8 Mac hingga Ahad 1 November.
+
+33
+00:03:06,136 --> 00:03:10,620
+Pada tahun 2027, dari 14 Mac hingga 7 November.
+
+34
+00:03:11,040 --> 00:03:17,880
+Jadi pada 15 Januari 2026, 2 pagi di New York ialah 3 petang di Malaysia.
+
+35
+00:03:18,300 --> 00:03:22,819
+Tetapi pada 15 Julai, 2 pagi di New York ialah 2 petang di Malaysia.
+
+36
+00:03:22,819 --> 00:03:26,076
+Kill Zone yang sama, waktu Malaysia yang berbeza.
+
+37
+00:03:26,496 --> 00:03:30,273
+Tarikh-tarikh ini diambil daripada pangkalan data zon waktu IANA.
+
+38
+00:03:30,273 --> 00:03:33,120
+Sentiasa semak tarikh sebelum anda menukar waktu.
+
+39
+00:03:34,940 --> 00:03:38,852
+Ini lima tetingkap itu sekali lagi. Baris atas ialah waktu New York.
+
+40
+00:03:39,272 --> 00:03:44,444
+Baris tengah menunjukkan waktu Malaysia ketika New York menggunakan waktu daylight.
+
+41
+00:03:44,444 --> 00:03:49,304
+London menjadi 2 hingga 5 petang, dan pagi New York menjadi 7 hingga 10 malam.
+
+42
+00:03:49,724 --> 00:03:54,697
+Baris bawah menunjukkan waktu Malaysia ketika New York menggunakan waktu standard.
+
+43
+00:03:54,697 --> 00:04:02,036
+Setiap tetingkap beralih satu jam lebih lewat: London ialah 3 hingga 6 petang, dan pagi New York ialah 8 hingga 11 malam.
+
+44
+00:04:02,456 --> 00:04:08,984
+Perhatikan bahawa tetingkap Asia, 8 malam hingga tengah malam di New York, ialah pagi keesokan harinya di Malaysia.
+
+45
+00:04:09,404 --> 00:04:13,484
+Jadi jangan sekali-kali menggunakan satu jadual waktu Malaysia yang tetap sepanjang tahun.
+
+46
+00:04:15,304 --> 00:04:22,528
+Satu lagi perincian yang sering mengelirukan trader. Amerika Syarikat dan United Kingdom menukar jam pada tarikh yang berbeza.
+
+47
+00:04:22,948 --> 00:04:28,156
+Sebelum 8 Mac, 2 pagi di New York ialah 7 pagi di London.
+
+48
+00:04:28,576 --> 00:04:37,696
+Dari 8 hingga 28 Mac, New York telah berubah tetapi London belum, jadi 2 pagi New York hanya 6 pagi London.
+
+49
+00:04:38,116 --> 00:04:43,300
+Dari akhir Mac, kedua-duanya menggunakan waktu musim panas, dan hubungan biasa kembali.
+
+50
+00:04:43,720 --> 00:04:47,288
+Ketidakpadanan yang sama berlaku selama seminggu pada akhir Oktober.
+
+51
+00:04:47,288 --> 00:04:53,008
+Oleh kerana Kill Zones ditakrifkan dalam waktu New York, semak hubungan dengan London pada minggu-minggu ini.
+
+52
+00:04:54,828 --> 00:05:00,530
+Kini mari kita kaitkan Kill Zones dengan liquidity Level 3. Ini carta 30 minit dalam waktu New York.
+
+53
+00:05:00,530 --> 00:05:03,324
+Harga bergerak dalam range semasa tetingkap Asia.
+
+54
+00:05:03,744 --> 00:05:09,864
+Asian high dan Asian low menjadi paras rujukan, bersama previous day high dan low.
+
+55
+00:05:10,284 --> 00:05:11,532
+London dibuka.
+
+56
+00:05:11,952 --> 00:05:17,880
+Dalam contoh ini, harga menyapu Asian low semasa tetingkap London, kemudian berbalik naik.
+
+57
+00:05:18,300 --> 00:05:23,724
+London meninggalkan high dan low tersendiri, yang menjadi rujukan bagi New York.
+
+58
+00:05:24,144 --> 00:05:29,784
+Pada pagi New York, harga didagangkan melepasi London high dan bergerak ke arah previous day high.
+
+59
+00:05:30,204 --> 00:05:38,532
+Ia menyapu previous day high, kemudian berundur. Ini tingkah laku yang mungkin berlaku di sekitar tetingkap sesi, bukan corak wajib.
+
+60
+00:05:40,352 --> 00:05:48,968
+Beberapa perkara boleh menjadikan tetingkap sibuk: pembukaan dan pertindihan sesi, penyertaan yang lebih tinggi, siaran ekonomi berjadual.
+
+61
+00:05:49,388 --> 00:05:53,228
+Dan liquidity yang berada di high dan low sesi yang jelas.
+
+62
+00:05:53,648 --> 00:06:00,440
+Perkara lain menjadikannya senyap: cuti umum, penyertaan yang nipis, atau pasaran yang menunggu pengumuman kemudian.
+
+63
+00:06:00,860 --> 00:06:05,732
+Kadangkala aktiviti utama sesuatu instrumen memang berlaku pada waktu lain dalam sehari.
+
+64
+00:06:06,152 --> 00:06:09,861
+Jadi jangan anggap setiap Kill Zone menghasilkan volatiliti tinggi.
+
+65
+00:06:09,861 --> 00:06:13,016
+Instrumen berbeza mempunyai profil aktiviti yang berbeza.
+
+66
+00:06:14,836 --> 00:06:22,276
+Ini sangat penting. FCPO didagangkan di Bursa Malaysia Derivatives, dengan sesi rasminya sendiri.
+
+67
+00:06:22,696 --> 00:06:27,208
+Sesi pagi bermula dari 10:30 hingga 12:30 tengah hari, waktu Malaysia.
+
+68
+00:06:27,628 --> 00:06:31,276
+Sesi petang bermula dari 2:30 hingga 6 petang.
+
+69
+00:06:31,696 --> 00:06:38,152
+Dan sesi after-hours T+1 bermula dari 9 hingga 11:30 malam, Isnin hingga Khamis.
+
+70
+00:06:38,572 --> 00:06:41,895
+Waktu ini diambil daripada maklumat produk yang diterbitkan Bursa.
+
+71
+00:06:41,895 --> 00:06:47,836
+Sahkan pekeliling terkini sebelum setiap pengambilan pelajar, kerana bursa ada kalanya menyemak semula waktu dagangan.
+
+72
+00:06:48,256 --> 00:06:53,233
+Perhatikan bahawa sesi petang bertindih dengan tetingkap London dari segi jam.
+
+73
+00:06:53,233 --> 00:06:56,488
+Itu tidak menjadikannya London Kill Zone bagi FCPO.
+
+74
+00:06:56,908 --> 00:07:04,220
+FCPO bertindak balas kepada pesertanya sendiri, kepada pasaran minyak sayuran Dalian dan CBOT, kepada ringgit,
+
+75
+00:07:04,220 --> 00:07:06,148
+dan kepada data minyak sawit.
+
+76
+00:07:07,968 --> 00:07:14,520
+Jadi bagaimana kita mengkaji masa dalam FCPO? Pertama, gunakan sesi rasmi Bursa sebagai asas.
+
+77
+00:07:14,940 --> 00:07:20,124
+Kedua, tandakan open, high dan low setiap sesi sebagai rujukan liquidity.
+
+78
+00:07:20,544 --> 00:07:29,880
+Ketiga, catatkan pengaruh antarabangsa: bila Dalian dan CBOT sedang berdagang, pergerakan ringgit, dan siaran data minyak sawit.
+
+79
+00:07:30,300 --> 00:07:36,684
+Keempat, uji sebelum bergantung pada sebarang corak masa. Rekod banyak sesi dan kemudian buat penilaian.
+
+80
+00:07:37,104 --> 00:07:43,903
+Tingkah laku mengikut waktu mungkin wujud dalam FCPO, tetapi Kill Zones mesti disesuaikan dan diuji secara bebas,
+
+81
+00:07:43,903 --> 00:07:45,888
+bukan digunakan secara mekanikal.
+
+82
+00:07:47,708 --> 00:07:51,308
+Kesilapan biasa. Menggunakan waktu sesi yang sudah lapuk.
+
+83
+00:07:51,728 --> 00:07:56,888
+Mengabaikan daylight saving, atau mengelirukan EST dengan EDT.
+
+84
+00:07:57,308 --> 00:08:00,380
+Menganggap setiap Kill Zone menghasilkan setup.
+
+85
+00:08:00,800 --> 00:08:04,136
+Menganggap Kill Zones sebagai tempoh rasmi bursa.
+
+86
+00:08:04,556 --> 00:08:09,020
+Menggunakan andaian sesi forex terus kepada FCPO.
+
+87
+00:08:09,440 --> 00:08:12,224
+Mengabaikan pengumuman ekonomi utama.
+
+88
+00:08:12,644 --> 00:08:16,220
+Dan memasuki dagangan hanya kerana Kill Zone telah bermula.
+
+89
+00:08:18,040 --> 00:08:24,094
+Sebagai rumusan. Kill Zones ialah tetingkap masa ICT yang ditakrifkan dalam waktu tempatan New York,
+
+90
+00:08:24,094 --> 00:08:27,424
+dan CMI menggunakan satu jadual rujukan yang konsisten.
+
+91
+00:08:27,844 --> 00:08:35,620
+Malaysia 13 jam di hadapan semasa EST dan 12 jam di hadapan semasa EDT, jadi sentiasa semak tarikh.
+
+92
+00:08:36,040 --> 00:08:40,120
+Kill Zones bukan waktu bursa dan ia tidak menjamin pergerakan.
+
+93
+00:08:40,540 --> 00:08:48,508
+Bagi FCPO, mulakan dengan sesi rasmi Bursa dan uji sebarang idea berasaskan masa pada FCPO itu sendiri.
+
+94
+00:08:50,328 --> 00:08:57,564
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+95
+00:08:57,984 --> 00:09:01,560
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+96
+00:09:01,560 --> 00:09:05,408
+Penaakulan itulah yang dinilai.
+
+97
+00:09:07,228 --> 00:09:18,444
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+98
+00:09:20,264 --> 00:09:26,360
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+99
+00:09:26,780 --> 00:09:31,964
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+100
+00:09:32,384 --> 00:09:36,752
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+101
+00:09:38,572 --> 00:09:44,384
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+102
+00:09:44,384 --> 00:09:47,548
+Trading futures melibatkan risiko kerugian.
+
+103
+00:09:47,968 --> 00:09:53,566
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+104
+00:09:53,566 --> 00:09:55,432
+Jumpa dalam episod seterusnya.
+

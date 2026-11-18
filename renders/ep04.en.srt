@@ -1,0 +1,332 @@
+1
+00:00:00,700 --> 00:00:05,764
+Welcome to Episode Four, subtopic seven point three: Kill Zones.
+
+2
+00:00:06,184 --> 00:00:13,000
+Until now we have studied where price goes. Kill Zones add a second question: when do we pay closest attention?
+
+3
+00:00:13,420 --> 00:00:21,508
+We will define them, fix one reference schedule, convert it to Malaysia time correctly, and then look carefully at FCPO.
+
+4
+00:00:23,328 --> 00:00:31,944
+An ICT Kill Zone is a time window, stated in New York local time, that the methodology highlights for monitoring price delivery.
+
+5
+00:00:32,364 --> 00:00:39,036
+Time matters because participation changes through the day, as major financial centres open and close.
+
+6
+00:00:39,456 --> 00:00:44,520
+Session opens can bring new orders, scheduled news and runs on liquidity.
+
+7
+00:00:44,940 --> 00:00:54,108
+But a Kill Zone is not an official exchange trading period. Exchanges define trading hours; ICT educators define Kill Zones.
+
+8
+00:00:54,528 --> 00:00:59,904
+It is also not a guaranteed opportunity. Nothing has to happen because a window has opened.
+
+9
+00:01:00,324 --> 00:01:05,892
+And it is not a universal law of markets. It is a convention inside one methodology.
+
+10
+00:01:06,312 --> 00:01:11,688
+Think of it this way: the clock tells you when to look. Price tells you what is actually happening.
+
+11
+00:01:13,508 --> 00:01:24,092
+ICT educators and resources do not all use the same windows, so CMI fixes one reference schedule, in New York time, and uses it in every episode.
+
+12
+00:01:24,512 --> 00:01:28,808
+The Asian Kill Zone runs from eight p m to midnight New York time.
+
+13
+00:01:29,228 --> 00:01:33,404
+The London Kill Zone runs from two a m to five a m.
+
+14
+00:01:33,824 --> 00:01:40,136
+The New York AM Kill Zone runs from seven to ten a m, around many US data releases.
+
+15
+00:01:40,556 --> 00:01:46,148
+New York Lunch, from noon to one p m, is often a lower-participation period.
+
+16
+00:01:46,568 --> 00:01:50,696
+And the New York PM window runs from one thirty to four p m.
+
+17
+00:01:51,116 --> 00:02:00,332
+Some sources use variants, such as a later New York morning window. That is fine, as long as you state which definition you use and do not mix them.
+
+18
+00:02:02,152 --> 00:02:07,624
+Here is the same schedule on a twenty-four hour axis, starting at six p m New York time.
+
+19
+00:02:08,044 --> 00:02:12,388
+The Asian window comes first, from eight p m to midnight.
+
+20
+00:02:12,808 --> 00:02:15,544
+Then London, from two to five in the morning.
+
+21
+00:02:15,964 --> 00:02:18,796
+Then the New York morning, from seven to ten.
+
+22
+00:02:19,216 --> 00:02:22,168
+Followed by lunch, and the New York afternoon.
+
+23
+00:02:22,588 --> 00:02:30,700
+Note New York midnight. Many ICT traders use it as a daily reference, which we will return to in the Judas Swing episodes.
+
+24
+00:02:32,520 --> 00:02:38,856
+Malaysia Time is UTC plus eight all year. Malaysia does not observe daylight saving.
+
+25
+00:02:39,276 --> 00:02:49,308
+New York Standard Time, EST, is UTC minus five. During EST, Malaysia is thirteen hours ahead of New York.
+
+26
+00:02:49,728 --> 00:02:58,656
+New York Daylight Time, EDT, is UTC minus four. During EDT, Malaysia is twelve hours ahead.
+
+27
+00:02:59,076 --> 00:03:10,620
+In twenty twenty-six, daylight time runs from Sunday the eighth of March to Sunday the first of November. In twenty twenty-seven, from the fourteenth of March to the seventh of November.
+
+28
+00:03:11,040 --> 00:03:17,880
+So on the fifteenth of January twenty twenty-six, two a m in New York is three p m in Malaysia.
+
+29
+00:03:18,300 --> 00:03:26,076
+But on the fifteenth of July, two a m in New York is two p m in Malaysia. Same Kill Zone, different Malaysia time.
+
+30
+00:03:26,496 --> 00:03:33,120
+These dates come from the IANA time zone database. Always check the date before you convert.
+
+31
+00:03:34,940 --> 00:03:38,852
+Here are the five windows again. The top row is New York time.
+
+32
+00:03:39,272 --> 00:03:49,304
+The middle row shows Malaysia time while New York is on daylight time. London becomes two to five p m, and the New York morning becomes seven to ten p m.
+
+33
+00:03:49,724 --> 00:04:02,036
+The bottom row shows Malaysia time while New York is on standard time. Every window moves one hour later: London is three to six p m, and New York morning is eight to eleven p m.
+
+34
+00:04:02,456 --> 00:04:08,984
+Notice that the Asian window, eight p m to midnight in New York, is the next morning in Malaysia.
+
+35
+00:04:09,404 --> 00:04:13,484
+So never use one fixed Malaysia-time schedule all year round.
+
+36
+00:04:15,304 --> 00:04:22,528
+One more detail that catches many traders. The United States and the United Kingdom change their clocks on different dates.
+
+37
+00:04:22,948 --> 00:04:28,156
+Before the eighth of March, two a m in New York is seven a m in London.
+
+38
+00:04:28,576 --> 00:04:37,696
+From the eighth to the twenty-eighth of March, New York has moved but London has not, so two a m New York is only six a m London.
+
+39
+00:04:38,116 --> 00:04:43,300
+From late March, both are on summer time, and the usual relationship returns.
+
+40
+00:04:43,720 --> 00:04:53,008
+The same mismatch happens for one week in late October. Because Kill Zones are defined in New York time, check the London relationship in these weeks.
+
+41
+00:04:54,828 --> 00:05:03,324
+Now let’s connect Kill Zones with Level Three liquidity. This is a thirty-minute chart in New York time. Price ranges during the Asian window.
+
+42
+00:05:03,744 --> 00:05:09,864
+The Asian high and Asian low become reference levels, alongside the previous day high and low.
+
+43
+00:05:10,284 --> 00:05:11,532
+London opens.
+
+44
+00:05:11,952 --> 00:05:17,880
+In this example, price sweeps the Asian low during the London window, then reverses higher.
+
+45
+00:05:18,300 --> 00:05:23,724
+London leaves its own high and low behind, which become references for New York.
+
+46
+00:05:24,144 --> 00:05:29,784
+In the New York morning, price trades through the London high and runs toward the previous day high.
+
+47
+00:05:30,204 --> 00:05:38,532
+It sweeps the previous day high, then pulls back. These are possible behaviours around session windows, not mandatory patterns.
+
+48
+00:05:40,352 --> 00:05:48,968
+Several things can make a window busy: session opens and overlaps, higher participation, scheduled economic releases.
+
+49
+00:05:49,388 --> 00:05:53,228
+And liquidity resting at obvious session highs and lows.
+
+50
+00:05:53,648 --> 00:06:00,440
+Other things make it quiet: holidays, thin participation, or a market waiting for a later announcement.
+
+51
+00:06:00,860 --> 00:06:05,732
+Sometimes an instrument’s main activity simply happens at another time of day.
+
+52
+00:06:06,152 --> 00:06:13,016
+So do not assume every Kill Zone produces high volatility. Different instruments have different activity profiles.
+
+53
+00:06:14,836 --> 00:06:22,276
+This is extremely important. FCPO trades on Bursa Malaysia Derivatives, with its own official sessions.
+
+54
+00:06:22,696 --> 00:06:27,208
+The morning session runs from ten thirty to twelve thirty, Malaysia time.
+
+55
+00:06:27,628 --> 00:06:31,276
+The afternoon session runs from two thirty to six p m.
+
+56
+00:06:31,696 --> 00:06:38,152
+And the T plus one after-hours session runs from nine to eleven thirty p m, Monday to Thursday.
+
+57
+00:06:38,572 --> 00:06:47,836
+These hours come from Bursa’s published product information. Verify the current circular before each intake, because exchanges do revise hours.
+
+58
+00:06:48,256 --> 00:06:56,488
+Notice that the afternoon session overlaps the London window on the clock. That does not make it a London Kill Zone for FCPO.
+
+59
+00:06:56,908 --> 00:07:06,148
+FCPO responds to its own participants, to Dalian and CBOT vegetable-oil markets, to the ringgit, and to palm-oil data.
+
+60
+00:07:07,968 --> 00:07:14,520
+So how should we study time in FCPO? First, use the official Bursa sessions as the base.
+
+61
+00:07:14,940 --> 00:07:20,124
+Second, mark each session’s open, high and low as liquidity references.
+
+62
+00:07:20,544 --> 00:07:29,880
+Third, log international influences: when Dalian and CBOT are trading, ringgit moves, and palm-oil data releases.
+
+63
+00:07:30,300 --> 00:07:36,684
+Fourth, test before you rely on any time pattern. Record many sessions and then judge.
+
+64
+00:07:37,104 --> 00:07:45,888
+Time-of-day behaviour may exist in FCPO, but Kill Zones must be adapted and independently tested, never applied mechanically.
+
+65
+00:07:47,708 --> 00:07:51,308
+Common mistakes. Using outdated session times.
+
+66
+00:07:51,728 --> 00:07:56,888
+Ignoring daylight saving, or confusing EST with EDT.
+
+67
+00:07:57,308 --> 00:08:00,380
+Assuming every Kill Zone creates a setup.
+
+68
+00:08:00,800 --> 00:08:04,136
+Treating Kill Zones as official exchange periods.
+
+69
+00:08:04,556 --> 00:08:09,020
+Applying forex session assumptions directly to FCPO.
+
+70
+00:08:09,440 --> 00:08:12,224
+Ignoring major economic announcements.
+
+71
+00:08:12,644 --> 00:08:16,220
+And entering a trade only because a Kill Zone has started.
+
+72
+00:08:18,040 --> 00:08:27,424
+To summarise. Kill Zones are ICT time windows defined in New York local time, and CMI uses one consistent reference schedule.
+
+73
+00:08:27,844 --> 00:08:35,620
+Malaysia is thirteen hours ahead during EST and twelve hours ahead during EDT, so always check the date.
+
+74
+00:08:36,040 --> 00:08:40,120
+Kill Zones are not exchange hours and they do not guarantee movement.
+
+75
+00:08:40,540 --> 00:08:48,508
+For FCPO, start from Bursa’s official sessions and test any time-based idea on FCPO itself.
+
+76
+00:08:50,328 --> 00:08:56,064
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+77
+00:08:57,984 --> 00:09:03,408
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+78
+00:09:07,228 --> 00:09:13,444
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+79
+00:09:20,264 --> 00:09:26,360
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+80
+00:09:26,780 --> 00:09:31,964
+Then complete the practical task, and record what would make your interpretation invalid.
+
+81
+00:09:32,384 --> 00:09:36,752
+Answer guides for every exercise are in the Level Seven workbook.
+
+82
+00:09:38,572 --> 00:09:47,548
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+83
+00:09:47,968 --> 00:09:55,432
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

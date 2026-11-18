@@ -94,9 +94,9 @@ const scenes=[
 
  {label:'SCENE 6 · 7.4 · DEALING RANGE & LOCATION',layout:'chart',comps:[
    {type:'chart',slot:'main',title:HT,note:'ILLUSTRATIVE SCENARIO',tag:'LEVEL 6 · LOCATION',tagColor:'purple',candles:cs,padR:5,reveal:[[0,cs.length]],
-    overlays:[O.bracket(D.sh3+5,D.H,D.L,'DEALING RANGE','white',{in:0}),O.level(D.EQ,'EQUILIBRIUM '+D.EQ,'neutral',{i0:D.sl2,in:1}),
+    overlays:[O.bracket(D.cur+4,D.H,D.L,'DEALING RANGE','white',{in:0}),O.level(D.EQ,'EQUILIBRIUM '+D.EQ,'neutral',{i0:D.sl2,i1:D.cur+3,in:1,lpos:'left'}),
       O.zone(D.EQ,D.H,D.sl2,D.cur+4,'PREMIUM','red',{in:1,alpha:0.06,stroke:false,lpos:'above'}),O.zone(D.L,D.EQ,D.sl2,D.cur+4,'DISCOUNT','green',{in:1,alpha:0.06,stroke:false,lpos:'below'}),
-      O.zone(D.ote[0],D.ote[1],D.sl2+4,D.cur+4,'OTE 62–79%','purple',{in:2,alpha:0.14,lpos:'right'}),O.fvg(D.fvg,{in:3,i1:37,label:'BULLISH FVG · PD ARRAY'})],
+      O.zone(D.ote[0],D.ote[1],D.sl2+4,D.cur+3,'OTE 62–79%','purple',{in:2,alpha:0.14,lpos:'in'}),O.fvg(D.fvg,{in:3,i1:D.cur+3,label:'BULLISH FVG · PD ARRAY'})],
     checks:[{sweepBelow:[D.cur,D.EQ]},{sweepBelow:[D.cur,D.ote[0]]}]},
    {type:'notes',slot:'side',eyebrow:'7.4 · LEVEL 6 REVIEW',title:'Where is price?',items:[
      {text:'Dealing range: swing low → swing high',in:0},{text:'Below EQ = discount; above = premium',in:1,color:'green'},{text:'OTE: 62–79% retracement',in:2,color:'purple'},

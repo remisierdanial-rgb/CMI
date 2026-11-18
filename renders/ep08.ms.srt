@@ -1,0 +1,352 @@
+1
+00:00:00,700 --> 00:00:06,052
+Selamat datang ke Episod 8, subtopik 7.5: Judas Swing.
+
+2
+00:00:06,472 --> 00:00:12,880
+Konsep ini menghimpunkan semua yang telah dipelajari: liquidity, masa, dan Daily Bias.
+
+3
+00:00:13,300 --> 00:00:19,972
+Matlamat utama kita ialah ketepatan: mengetahui bila label ini sesuai digunakan, dan bila sapuan biasa hanyalah sapuan.
+
+4
+00:00:21,792 --> 00:00:28,594
+Judas Swing ialah tafsiran ICT bagi pergerakan awal yang bertentangan arah pada awal sesi,
+
+5
+00:00:28,594 --> 00:00:33,960
+yang menyapu liquidity sebelum harga bergerak mengikut arah Daily Bias.
+
+6
+00:00:34,380 --> 00:00:39,516
+Namanya membayangkan pengkhianatan: pergerakan awal itu mengelirukan trader yang mengikutinya.
+
+7
+00:00:39,936 --> 00:00:47,640
+Ia berasaskan sesi. Pembukaan London dan New York ialah tempat ia paling banyak dikaji, sering diukur dari midnight open New York.
+
+8
+00:00:48,060 --> 00:00:50,580
+Ia biasanya melibatkan sapuan liquidity.
+
+9
+00:00:50,000 --> 00:00:54,789
+Ia memerlukan Daily Bias yang ditetapkan sebelum pergerakan berlaku.
+
+10
+00:00:54,789 --> 00:00:57,408
+Jika tidak, “bertentangan arah” tidak bermakna.
+
+11
+00:00:57,828 --> 00:01:03,492
+Dan ia hanya disahkan kemudian, melalui displacement dan struktur ke arah bias.
+
+12
+00:01:03,912 --> 00:01:07,607
+Seperti manipulation, istilah ini menerangkan tingkah laku harga.
+
+13
+00:01:07,607 --> 00:01:10,848
+Ia bukan bukti manipulasi yang disengajakan oleh sesiapa.
+
+14
+00:01:12,668 --> 00:01:19,700
+Model Judas Swing bullish. Langkah satu: Daily Bias ialah bullish, ditetapkan sebelum sesi.
+
+15
+00:01:20,120 --> 00:01:25,880
+Langkah dua: kenal pasti rujukan. Midnight open New York, dan range Asia.
+
+16
+00:01:26,300 --> 00:01:32,564
+Langkah tiga: pada pembukaan London, harga mula bergerak turun, di bawah midnight open.
+
+17
+00:01:32,984 --> 00:01:37,507
+Langkah empat: ia menyapu sell-side liquidity di bawah Asian low.
+
+18
+00:01:37,507 --> 00:01:40,568
+Pada tahap ini ia hanya potensi Judas Swing.
+
+19
+00:01:40,988 --> 00:01:46,772
+Langkah lima: pergerakan turun gagal bertahan. Harga berhenti membuat kemajuan ke bawah.
+
+20
+00:01:47,192 --> 00:01:52,232
+Langkah enam: bullish displacement terbentuk, kembali di atas midnight open.
+
+21
+00:01:52,652 --> 00:01:58,004
+Langkah tujuh: kemungkinan bullish market structure shift di atas lower high terakhir.
+
+22
+00:01:58,424 --> 00:02:03,622
+Langkah lapan: harga bergerak ke arah buy-side liquidity, di sini previous day high.
+
+23
+00:02:03,622 --> 00:02:08,696
+Hanya sekarang, dengan konteks dan pengesahan, label Judas Swing sesuai digunakan.
+
+24
+00:02:10,516 --> 00:02:17,932
+Judas Swing bearish ialah imej cerminnya. Langkah satu: Daily Bias bearish, ditetapkan sebelum sesi.
+
+25
+00:02:18,352 --> 00:02:22,840
+Langkah dua: midnight open dan range Asia sebagai rujukan.
+
+26
+00:02:23,260 --> 00:02:27,868
+Langkah tiga: harga mula bergerak naik, di atas midnight open.
+
+27
+00:02:28,288 --> 00:02:32,728
+Langkah empat: ia menyapu buy-side liquidity di atas Asian high.
+
+28
+00:02:33,148 --> 00:02:39,436
+Langkah lima dan enam: kenaikan gagal bertahan, dan bearish displacement menyusul.
+
+29
+00:02:39,856 --> 00:02:43,648
+Langkah tujuh: kemungkinan bearish market structure shift.
+
+30
+00:02:44,068 --> 00:02:47,980
+Langkah lapan: harga bergerak ke arah sell-side liquidity di bawah.
+
+31
+00:02:49,800 --> 00:02:53,147
+Judas Swing biasanya dikaji di sekitar waktu tertentu.
+
+32
+00:02:53,147 --> 00:02:59,593
+Midnight open New York ialah tengah malam waktu New York: tengah hari di Malaysia semasa waktu daylight,
+
+33
+00:02:59,593 --> 00:03:01,824
+atau 1 petang semasa waktu standard.
+
+34
+00:03:02,244 --> 00:03:12,252
+Tetingkap London, 2 hingga 5 pagi New York, ialah 2 hingga 5 petang di Malaysia semasa EDT, dan 3 hingga 6 petang semasa EST.
+
+35
+00:03:12,672 --> 00:03:20,784
+Tetingkap pagi New York ialah 7 hingga 10 malam waktu Malaysia semasa EDT, dan 8 hingga 11 malam semasa EST.
+
+36
+00:03:21,204 --> 00:03:28,052
+Tetapi masa ialah konteks. Di sinilah pergerakan palsu paling kerap dikaji, bukan di mana ia mesti berlaku.
+
+37
+00:03:28,052 --> 00:03:30,996
+Banyak sesi dibuka tanpa sebarang Judas Swing.
+
+38
+00:03:32,816 --> 00:03:41,528
+Ini hubungan dengan Daily Bias. Di sebelah kiri, carta harian menetapkan bias bullish, dengan buy-side liquidity sebagai draw.
+
+39
+00:03:41,948 --> 00:03:45,936
+Di sebelah kanan, pergerakan pertama sesi itu bergerak ke arah bertentangan.
+
+40
+00:03:45,936 --> 00:03:49,556
+Harga jatuh di bawah midnight open dan mengambil sell-side liquidity.
+
+41
+00:03:49,976 --> 00:03:55,845
+Pergerakan awal mencipta liquidity, dan harga yang lebih baik, sebelum arah yang dijangka.
+
+42
+00:03:55,845 --> 00:04:00,344
+Displacement dan anjakan struktur kemudian memberikan bukti tambahan.
+
+43
+00:04:00,764 --> 00:04:08,324
+Dalam bias bearish, semuanya terbalik: pergerakan pertama naik, mengambil buy-side liquidity, kemudian gagal.
+
+44
+00:04:10,144 --> 00:04:17,272
+Perbandingan ini wajib. Sapuan liquidity hanyalah harga yang didagangkan melepasi high atau low yang relevan.
+
+45
+00:04:17,692 --> 00:04:22,732
+Ia boleh berlaku dalam apa jua konteks, dan dengan sendirinya ia tidak membayangkan pembalikan.
+
+46
+00:04:23,152 --> 00:04:25,744
+Ia tidak memerlukan sebarang model sesi.
+
+47
+00:04:26,164 --> 00:04:32,308
+Judas Swing ialah tafsiran khusus ICT bagi pergerakan awal yang mengelirukan.
+
+48
+00:04:32,728 --> 00:04:37,432
+Ia dibincangkan dalam konteks price delivery berasaskan sesi, dan ia sering melibatkan sapuan.
+
+49
+00:04:37,852 --> 00:04:42,724
+Tetapi ia juga memerlukan Daily Bias, masa yang relevan, dan pengesahan kemudian.
+
+50
+00:04:43,144 --> 00:04:50,080
+Jadi: Judas Swing mungkin melibatkan sapuan liquidity, tetapi bukan setiap sapuan liquidity ialah Judas Swing.
+
+51
+00:04:51,900 --> 00:04:55,356
+Bagaimana Judas Swing berbeza daripada false breakout klasik?
+
+52
+00:04:55,356 --> 00:04:59,436
+Kedua-duanya kelihatan serupa: satu paras pecah, kemudian harga kembali.
+
+53
+00:04:59,856 --> 00:05:07,424
+Metodologinya berbeza. False breakout, atau bull trap dan bear trap, tergolong dalam analisis teknikal umum.
+
+54
+00:05:07,424 --> 00:05:11,208
+Judas Swing tergolong dalam model ICT berasaskan sesi.
+
+55
+00:05:11,628 --> 00:05:16,092
+Liquidity adalah teras bagi Judas Swing. Liquidity manakah yang disapu?
+
+56
+00:05:16,512 --> 00:05:21,624
+Masa penting: ia berlaku pada awal sesi, diukur dari pembukaan yang ditakrifkan.
+
+57
+00:05:22,044 --> 00:05:26,460
+Daily Bias diperlukan, kerana pergerakan itu mesti bertentangan dengannya.
+
+58
+00:05:26,880 --> 00:05:31,912
+Dan apa yang menyusul penting: displacement dan pengembangan ke arah bias.
+
+59
+00:05:31,912 --> 00:05:35,448
+Jadi, bukan setiap false breakout ialah Judas Swing.
+
+60
+00:05:37,268 --> 00:05:44,804
+Kini kegagalan. Kegagalan satu: pergerakan awal menyapu liquidity dan terus bergerak ke arah yang sama.
+
+61
+00:05:45,224 --> 00:05:49,798
+Kegagalan dua: sapuan berlaku, tetapi tiada displacement yang menyusul.
+
+62
+00:05:49,798 --> 00:05:51,344
+Harga bergerak mendatar.
+
+63
+00:05:51,764 --> 00:05:56,906
+Kegagalan tiga: harga melantun, tetapi tidak pernah memecah lower high terakhir.
+
+64
+00:05:56,906 --> 00:06:00,956
+Tiada anjakan struktur yang bermakna, dan penurunan bersambung.
+
+65
+00:06:01,376 --> 00:06:09,752
+Ada dua lagi. Harga boleh kekal dalam konsolidasi sepanjang sesi, atau Daily Bias yang diandaikan itu sendiri boleh menjadi tidak sah.
+
+66
+00:06:10,172 --> 00:06:15,644
+Inilah sebabnya sapuan awal tidak sepatutnya dianggap sebagai isyarat kemasukan dengan sendirinya.
+
+67
+00:06:17,464 --> 00:06:22,264
+Kesilapan biasa. Menggelar setiap sapuan liquidity sebagai Judas Swing.
+
+68
+00:06:22,684 --> 00:06:24,388
+Mengabaikan masa sesi.
+
+69
+00:06:24,808 --> 00:06:26,800
+Mengabaikan Daily Bias.
+
+70
+00:06:27,220 --> 00:06:30,844
+Memasuki dagangan sebelum ada bukti anjakan arah.
+
+71
+00:06:31,264 --> 00:06:36,304
+Menganggap setiap pergerakan awal mengelirukan. Banyak pergerakan pertama adalah tulen.
+
+72
+00:06:36,724 --> 00:06:40,924
+Menganggap konsep ini sebagai bukti manipulasi institusi.
+
+73
+00:06:41,344 --> 00:06:47,368
+Dan mengabaikan penjelasan alternatif, seperti berita, atau perubahan sentimen yang tulen.
+
+74
+00:06:49,188 --> 00:06:57,228
+Sebagai rumusan. Judas Swing ialah pergerakan awal yang bertentangan dengan bias pada awal sesi, diukur dari pembukaan yang ditakrifkan.
+
+75
+00:06:57,648 --> 00:07:04,464
+Ia biasanya menyapu liquidity, tetapi ia juga memerlukan bias, masa, displacement dan struktur.
+
+76
+00:07:04,884 --> 00:07:09,732
+Bukan setiap sapuan, dan bukan setiap false breakout, ialah Judas Swing.
+
+77
+00:07:10,152 --> 00:07:12,816
+Tiada pengesahan, tiada Judas Swing.
+
+78
+00:07:14,636 --> 00:07:21,872
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+79
+00:07:22,292 --> 00:07:25,868
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+80
+00:07:25,868 --> 00:07:29,716
+Penaakulan itulah yang dinilai.
+
+81
+00:07:31,536 --> 00:07:42,752
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+82
+00:07:44,572 --> 00:07:50,668
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+83
+00:07:51,088 --> 00:07:56,272
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+84
+00:07:56,692 --> 00:08:01,060
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+85
+00:08:02,880 --> 00:08:08,692
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+86
+00:08:08,692 --> 00:08:11,856
+Trading futures melibatkan risiko kerugian.
+
+87
+00:08:12,276 --> 00:08:17,874
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+88
+00:08:17,874 --> 00:08:19,740
+Jumpa dalam episod seterusnya.
+

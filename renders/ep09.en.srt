@@ -1,0 +1,172 @@
+1
+00:00:00,700 --> 00:00:05,428
+Welcome to Episode Nine, an extended lesson on the Judas Swing.
+
+2
+00:00:05,848 --> 00:00:15,664
+We will build two fully annotated cases, one bullish and one bearish, and then study the situations where the right decision is not to force the label at all.
+
+3
+00:00:17,484 --> 00:00:24,708
+The bullish case. First, the higher timeframe: higher highs and higher lows, so structure is bullish.
+
+4
+00:00:25,128 --> 00:00:32,280
+The draw is buy-side liquidity above the old high, and price is in discount. The Daily Bias is bullish.
+
+5
+00:00:32,700 --> 00:00:37,236
+On the thirty-minute chart, mark the midnight open and the Asian range.
+
+6
+00:00:37,656 --> 00:00:43,800
+Relevant liquidity: sell-side below the Asian low, and buy-side above the previous day high.
+
+7
+00:00:44,220 --> 00:00:49,188
+Session timing: the London Kill Zone, two to five a m New York.
+
+8
+00:00:49,608 --> 00:00:55,872
+Everything so far is defined before London opens. That is what makes the next move interpretable.
+
+9
+00:00:57,692 --> 00:01:06,044
+London opens. Price initially moves down, below the midnight open, and sweeps sell-side liquidity under the Asian low.
+
+10
+00:01:06,464 --> 00:01:10,808
+The down move fails to sustain. The next candle closes back up.
+
+11
+00:01:11,228 --> 00:01:17,468
+Bullish displacement follows, leaving a fair value gap, where present, as a PD array.
+
+12
+00:01:17,888 --> 00:01:22,424
+Price closes above the last lower high: a market structure shift.
+
+13
+00:01:22,844 --> 00:01:31,532
+In New York, price reaches buy-side liquidity above the previous day high. Ten annotations, all visible, all in order.
+
+14
+00:01:33,352 --> 00:01:44,128
+The bearish case mirrors it. Higher-timeframe structure is bearish: lower highs, lower lows, price in premium, and the draw is sell-side liquidity below.
+
+15
+00:01:44,548 --> 00:01:51,772
+Before London, mark the midnight open, the Asian high with buy-side liquidity above it, and the previous day low.
+
+16
+00:01:52,192 --> 00:01:58,600
+London opens with an initial move up, above the midnight open, sweeping buy-side liquidity.
+
+17
+00:01:59,020 --> 00:02:06,964
+Bearish displacement follows, leaving a bearish fair value gap, and a close below the last higher low shifts structure.
+
+18
+00:02:07,384 --> 00:02:11,896
+Price then moves toward sell-side liquidity below the previous day low.
+
+19
+00:02:12,316 --> 00:02:14,884
+Same ten annotations, inverted.
+
+20
+00:02:16,704 --> 00:02:22,992
+No-trade scenario one: the sweep occurs, but no displacement follows. Price drifts.
+
+21
+00:02:23,412 --> 00:02:27,804
+Scenario two: the market continues straight through the swept level.
+
+22
+00:02:28,224 --> 00:02:35,544
+Scenario three: price bounces but fails to establish a meaningful structure. The lower high holds.
+
+23
+00:02:35,964 --> 00:02:41,460
+In all three, the correct decision is not to force a Judas Swing interpretation.
+
+24
+00:02:43,280 --> 00:02:52,112
+Scenario four: the Daily Bias is unclear. Price sits in the middle of a range, between equal highs and equal lows.
+
+25
+00:02:52,532 --> 00:02:59,564
+Without a bias, an initial move cannot be counter to anything. There is no Judas Swing to identify.
+
+26
+00:02:59,984 --> 00:03:07,736
+Scenario five: session timing is not relevant. Here the Asian low is swept at noon New York time, during lunch.
+
+27
+00:03:08,156 --> 00:03:14,492
+That is a sweep, but it is outside the session-open context in which the Judas Swing is defined.
+
+28
+00:03:14,912 --> 00:03:20,072
+In both cases, the professional answer is to avoid forcing the interpretation.
+
+29
+00:03:21,892 --> 00:03:31,444
+Here is the decision table. Only when bias, timing, sweep, displacement and structure all line up is the interpretation supported.
+
+30
+00:03:31,864 --> 00:03:38,272
+A sweep without displacement, or a continuation through the level, is not supported or is rejected.
+
+31
+00:03:38,692 --> 00:03:43,996
+An unclear bias or irrelevant timing makes the concept not applicable.
+
+32
+00:03:44,416 --> 00:03:50,008
+And no structure shift means no support. When in doubt, the decision is no trade.
+
+33
+00:03:51,828 --> 00:04:02,916
+To summarise. Context comes first: higher timeframe, bias, liquidity and timing. Then the initial move, the sweep, displacement and structure.
+
+34
+00:04:03,336 --> 00:04:09,792
+A fair value gap is optional confluence, and the objective is liquidity on the opposite side.
+
+35
+00:04:10,212 --> 00:04:15,420
+Remember the five no-trade scenarios. No interpretation is a valid result.
+
+36
+00:04:17,240 --> 00:04:22,976
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+37
+00:04:24,896 --> 00:04:30,320
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+38
+00:04:34,140 --> 00:04:40,356
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+39
+00:04:47,176 --> 00:04:53,272
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+40
+00:04:53,692 --> 00:04:58,876
+Then complete the practical task, and record what would make your interpretation invalid.
+
+41
+00:04:59,296 --> 00:05:03,664
+Answer guides for every exercise are in the Level Seven workbook.
+
+42
+00:05:05,484 --> 00:05:14,460
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+43
+00:05:14,880 --> 00:05:22,344
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

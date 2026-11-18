@@ -1,0 +1,268 @@
+1
+00:00:00,700 --> 00:00:07,468
+Welcome to Episode Two. This is an extended lesson under subtopic seven point one, the Power of Three.
+
+2
+00:00:07,888 --> 00:00:14,992
+We will work through a complete bullish case and a complete bearish case, then study five ways the model fails.
+
+3
+00:00:15,412 --> 00:00:20,116
+Finally, we connect PO3 with what you learned in Levels Two to Six.
+
+4
+00:00:21,936 --> 00:00:28,416
+Here is the bullish case in full. We begin with the daily open at four thousand two hundred and sixty-eight.
+
+5
+00:00:28,836 --> 00:00:34,980
+Price builds an accumulation range around the open. We mark the range high and the range low.
+
+6
+00:00:35,400 --> 00:00:41,952
+Two touches of the low leave equal lows. Sell-side liquidity is assumed to rest beneath them.
+
+7
+00:00:42,372 --> 00:00:50,556
+Then price drops, below the open and through the range low. The sweep is visible: the wick trades clearly beneath the level.
+
+8
+00:00:50,976 --> 00:00:56,424
+Next comes the reclaim. A strong bullish candle closes back above the range low.
+
+9
+00:00:56,844 --> 00:01:01,284
+Displacement follows, and the move leaves a bullish fair value gap.
+
+10
+00:01:01,704 --> 00:01:09,552
+Price closes above the last lower high, a market structure shift, and then above the range high, a break of structure.
+
+11
+00:01:09,972 --> 00:01:13,476
+Now the distribution phase. Price expands upward.
+
+12
+00:01:13,896 --> 00:01:18,744
+It runs toward buy-side liquidity above the old high, and trades through it.
+
+13
+00:01:19,164 --> 00:01:26,220
+Every step is in order and each one is visible on the chart. That is what makes this a complete illustration.
+
+14
+00:01:28,040 --> 00:01:36,488
+What separates a valid illustration from an incomplete formation? First, a clear reference, and identifiable range boundaries.
+
+15
+00:01:36,908 --> 00:01:43,364
+Second, a sweep that genuinely trades through the level, followed by a reclaim and displacement.
+
+16
+00:01:43,784 --> 00:01:49,328
+Third, a structure shift in the new direction, and expansion away from the range.
+
+17
+00:01:49,748 --> 00:01:58,292
+An incomplete formation is missing one or more of these. Perhaps there is no real range, or the so-called sweep never crossed the level.
+
+18
+00:01:58,712 --> 00:02:04,040
+Perhaps price never reclaims, or no displacement or structure shift appears.
+
+19
+00:02:04,460 --> 00:02:10,124
+And be honest about hindsight. Labels drawn only after the move are not analysis.
+
+20
+00:02:11,944 --> 00:02:16,264
+Now the bearish case. Same daily open, opposite sequence.
+
+21
+00:02:16,684 --> 00:02:19,612
+An accumulation range forms around the open.
+
+22
+00:02:20,032 --> 00:02:25,288
+Equal highs at the top of the range suggest buy-side liquidity resting above.
+
+23
+00:02:25,708 --> 00:02:31,612
+Price rallies above the open and trades through the range high. That is the possible buy-side sweep.
+
+24
+00:02:32,032 --> 00:02:36,664
+Price cannot hold. It is rejected and returns below the range high.
+
+25
+00:02:37,084 --> 00:02:41,380
+Bearish displacement follows, leaving a bearish fair value gap.
+
+26
+00:02:41,800 --> 00:02:49,744
+A close below the last higher low gives a market structure shift, and a close below the range low confirms a break of structure.
+
+27
+00:02:50,164 --> 00:02:55,228
+Distribution runs lower, toward sell-side liquidity beneath the old low.
+
+28
+00:02:55,648 --> 00:02:59,584
+Again, every element is visible, and in order.
+
+29
+00:03:01,404 --> 00:03:06,036
+Failure one. Price sweeps the range low, but it never reclaims.
+
+30
+00:03:06,456 --> 00:03:13,704
+It keeps closing below the level and falls further. The bullish reading was simply wrong. The sweep was a breakdown.
+
+31
+00:03:14,124 --> 00:03:19,572
+Failure two. Price breaks out of the range and continues in the breakout direction.
+
+32
+00:03:19,992 --> 00:03:27,432
+There is no false move at all. Someone waiting for manipulation first would miss the move, or worse, trade against it.
+
+33
+00:03:27,852 --> 00:03:36,108
+In both cases, the sweep or breakout was only a possible manipulation until reversal evidence appeared, and it never did.
+
+34
+00:03:37,928 --> 00:03:44,048
+Failure three. The sweep happens and price recovers a little, but it simply goes back to ranging.
+
+35
+00:03:44,468 --> 00:03:49,748
+There is no meaningful distribution phase. No expansion, no new structure.
+
+36
+00:03:50,168 --> 00:03:55,832
+Failure four. Price expands briefly, then falls back into the original range.
+
+37
+00:03:56,252 --> 00:04:00,908
+The early part looked like PO3, but the expansion did not hold.
+
+38
+00:04:01,328 --> 00:04:09,152
+In both cases, the sequence is incomplete. Manage the idea as failed, rather than stretching the labels to fit.
+
+39
+00:04:10,972 --> 00:04:14,908
+Failure five: price forms a different structure altogether.
+
+40
+00:04:15,328 --> 00:04:19,408
+Here it sweeps the range low, then sweeps the range high as well.
+
+41
+00:04:19,828 --> 00:04:22,828
+Neither move is followed by a sustained expansion.
+
+42
+00:04:23,248 --> 00:04:28,120
+This is a widening or rotating range, not a Power of Three sequence.
+
+43
+00:04:28,540 --> 00:04:36,316
+The professional response is to stand aside and re-read the structure, instead of forcing a PO3 label onto it.
+
+44
+00:04:38,136 --> 00:04:45,864
+Now let’s connect PO3 with earlier levels. Level Two, market structure, confirms the shift after the sweep.
+
+45
+00:04:46,284 --> 00:04:52,164
+Level Three, liquidity, tells us where the sweep happened and where the objective may be.
+
+46
+00:04:52,584 --> 00:04:58,920
+Level Four adds institutional price zones, such as an order block near the manipulation extreme.
+
+47
+00:04:59,340 --> 00:05:05,580
+Level Five adds displacement and fair value gaps as evidence of a genuine reversal.
+
+48
+00:05:05,000 --> 00:05:13,080
+Level Six asks whether manipulation happened in discount for a bullish model, or premium for a bearish one.
+
+49
+00:05:13,500 --> 00:05:19,692
+These factors support an interpretation. They are not mandatory conditions for every PO3.
+
+50
+00:05:21,512 --> 00:05:26,912
+Here is the bullish case with each lens added. Level Two: the market structure shift.
+
+51
+00:05:27,332 --> 00:05:31,868
+Level Three: the sell-side sweep, and the buy-side objective above.
+
+52
+00:05:32,288 --> 00:05:39,896
+Level Four: the last down-close candle before displacement, which Level Four defines as a bullish order block.
+
+53
+00:05:40,316 --> 00:05:44,084
+Level Five: the displacement and its fair value gap.
+
+54
+00:05:44,504 --> 00:05:53,624
+Level Six: measured from the sweep low to the old high, the accumulation and the sweep both sat in discount, below equilibrium.
+
+55
+00:05:54,044 --> 00:05:57,908
+Each lens adds context. None of them guarantees the move.
+
+56
+00:05:59,728 --> 00:06:07,576
+To summarise. A complete PO3 shows every step in order, and the sweep must visibly trade through the level.
+
+57
+00:06:07,996 --> 00:06:12,292
+Reclaim, displacement and a structure shift are your evidence.
+
+58
+00:06:12,712 --> 00:06:21,784
+We saw five failure types: no reversal, a clean breakout, no distribution, a return to the range, and a different structure.
+
+59
+00:06:22,204 --> 00:06:29,308
+Earlier levels add context, not mandatory rules. And if the sequence is incomplete, do not force it.
+
+60
+00:06:31,128 --> 00:06:36,864
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+61
+00:06:38,784 --> 00:06:44,208
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+62
+00:06:48,028 --> 00:06:54,244
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+63
+00:07:01,064 --> 00:07:07,160
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+64
+00:07:07,580 --> 00:07:12,764
+Then complete the practical task, and record what would make your interpretation invalid.
+
+65
+00:07:13,184 --> 00:07:17,552
+Answer guides for every exercise are in the Level Seven workbook.
+
+66
+00:07:19,372 --> 00:07:28,348
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+67
+00:07:28,768 --> 00:07:36,232
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

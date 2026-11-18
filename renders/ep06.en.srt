@@ -1,0 +1,360 @@
+1
+00:00:00,700 --> 00:00:05,740
+Welcome to Episode Six, subtopic seven point four: Daily Bias.
+
+2
+00:00:06,160 --> 00:00:13,984
+So far we have studied how price may be delivered and when we watch it. Daily Bias asks which direction we expect, and why.
+
+3
+00:00:14,404 --> 00:00:20,908
+You will learn to build bias from structure, liquidity and location, and to write down what would prove it wrong.
+
+4
+00:00:22,728 --> 00:00:26,688
+Daily Bias is a directional working hypothesis for the day.
+
+5
+00:00:27,108 --> 00:00:34,956
+A bullish bias expects the day to favour higher prices and buy-side objectives. A bearish bias expects the opposite.
+
+6
+00:00:35,376 --> 00:00:40,848
+A neutral bias means there is no clear directional edge. That is a legitimate answer.
+
+7
+00:00:41,268 --> 00:00:47,700
+We set bias before intraday analysis because it frames which setups we study, and which we ignore.
+
+8
+00:00:48,120 --> 00:00:54,936
+But bias is not a guaranteed prediction. It is a hypothesis that should be updated when conditions change.
+
+9
+00:00:55,356 --> 00:01:03,300
+And bias is not confirmation. A directional expectation still needs lower-timeframe evidence before any trade decision.
+
+10
+00:01:05,120 --> 00:01:13,256
+Step one is higher-timeframe market structure, from Level Two. This is a daily chart. First, identify the broader trend.
+
+11
+00:01:13,676 --> 00:01:18,572
+Next, label the meaningful swing points. Higher highs and higher lows.
+
+12
+00:01:18,992 --> 00:01:24,128
+Evaluate the latest structural breaks. Two breaks of structure to the upside.
+
+13
+00:01:24,548 --> 00:01:29,132
+The external structure is a sequence of higher highs and higher lows.
+
+14
+00:01:29,552 --> 00:01:37,064
+Then ask: is price trending, retracing or consolidating? Right now, it is retracing from the last high.
+
+15
+00:01:37,484 --> 00:01:43,292
+So the initial hypothesis is bullish, but we have not yet checked liquidity or location.
+
+16
+00:01:45,112 --> 00:01:52,264
+Step two is the Draw on Liquidity: the liquidity pool price is judged most likely to move toward next.
+
+17
+00:01:52,684 --> 00:02:00,124
+Above, buy-side liquidity rests beyond the old high. This is external liquidity, at the edge of the range.
+
+18
+00:02:00,544 --> 00:02:05,968
+Below, sell-side liquidity rests beneath the last swing low. Also external.
+
+19
+00:02:06,388 --> 00:02:13,372
+Inside the range, the fair value gap is internal liquidity, a place price may revisit along the way.
+
+20
+00:02:13,792 --> 00:02:20,728
+With bullish structure and price retracing, a reasonable draw is the buy-side liquidity above the old high.
+
+21
+00:02:21,148 --> 00:02:27,004
+But a Draw on Liquidity is an analytical expectation, not a guaranteed destination.
+
+22
+00:02:28,824 --> 00:02:35,304
+Which levels are candidates for the draw? The previous day high and low are the most common intraday objectives.
+
+23
+00:02:35,724 --> 00:02:40,620
+The previous week high and low are larger objectives that may take several days.
+
+24
+00:02:41,040 --> 00:02:45,432
+Equal highs and equal lows, but only where they are genuinely equal.
+
+25
+00:02:45,852 --> 00:02:51,036
+Old swing highs and lows at the edges of the dealing range are external liquidity.
+
+26
+00:02:51,456 --> 00:02:59,208
+And imbalances inside the range are internal liquidity, which price may rebalance before reaching the external target.
+
+27
+00:03:01,028 --> 00:03:08,852
+Step three is location, from Level Six. Define the dealing range from the latest significant swing low to swing high.
+
+28
+00:03:09,272 --> 00:03:15,008
+Equilibrium is the fifty percent level. Below it is discount; above it is premium.
+
+29
+00:03:15,428 --> 00:03:23,276
+The optimal trade entry zone sits between the sixty-two and seventy-nine percent retracement. Price is trading inside it now.
+
+30
+00:03:23,696 --> 00:03:28,424
+Just below price is a bullish fair value gap, a bullish PD array.
+
+31
+00:03:28,844 --> 00:03:35,996
+Bullish structure with price in discount, approaching a bullish PD array, supports the bullish hypothesis.
+
+32
+00:03:36,416 --> 00:03:47,912
+If the same structure were trading in premium, into a bearish array, the bullish case would be weaker. And if the daily and intraday locations conflict, confidence drops further.
+
+33
+00:03:49,732 --> 00:03:53,020
+On an hourly chart, mark yesterday’s levels.
+
+34
+00:03:53,440 --> 00:03:57,040
+The previous day high and low are liquidity references.
+
+35
+00:03:57,460 --> 00:04:03,364
+The previous day open and close add context: did yesterday close strong or weak?
+
+36
+00:04:03,784 --> 00:04:08,152
+The previous week high and low play the same role on the weekly scale.
+
+37
+00:04:08,572 --> 00:04:09,868
+Today begins.
+
+38
+00:04:10,288 --> 00:04:14,296
+Early in the day, price trades below the previous day low.
+
+39
+00:04:14,716 --> 00:04:20,164
+Then it reverses and runs toward the previous day high, consistent with the bullish draw.
+
+40
+00:04:20,584 --> 00:04:26,320
+But do not assume every previous high or low will be targeted. Many days take neither.
+
+41
+00:04:28,140 --> 00:04:34,020
+Let’s assemble a bullish Daily Bias model. One: higher-timeframe bullish structure.
+
+42
+00:04:34,440 --> 00:04:41,640
+Two and three: relevant external liquidity above, giving a potential draw toward buy-side liquidity.
+
+43
+00:04:42,060 --> 00:04:44,772
+Four: price trading into discount.
+
+44
+00:04:45,192 --> 00:04:49,176
+Five: a bullish PD array, the fair value gap.
+
+45
+00:04:49,596 --> 00:04:56,652
+Six: on the fifteen-minute chart, a possible liquidity interaction. Sell-side liquidity is swept.
+
+46
+00:04:57,072 --> 00:05:02,016
+Seven: lower-timeframe bullish displacement and a market structure shift.
+
+47
+00:05:02,436 --> 00:05:08,628
+Eight: together, these give a potential bullish intraday scenario. Potential, not certain.
+
+48
+00:05:10,448 --> 00:05:14,768
+Now the alternative. The sell-side sweep happens, just as before.
+
+49
+00:05:15,188 --> 00:05:21,140
+But there is no reclaim, no displacement, and no structure shift. Price keeps falling.
+
+50
+00:05:21,560 --> 00:05:29,768
+It breaks the invalidation level you wrote down before the session, for example the failure of the discount array or the higher-timeframe low.
+
+51
+00:05:30,188 --> 00:05:37,892
+The bullish bias is invalid. Update it to neutral, or re-assess for bearish conditions. Do not defend it.
+
+52
+00:05:39,712 --> 00:05:47,032
+The bearish model is the inverse. One: higher-timeframe bearish structure, lower highs and lower lows.
+
+53
+00:05:47,452 --> 00:05:53,572
+Two and three: external sell-side liquidity below, giving a potential draw lower.
+
+54
+00:05:53,992 --> 00:05:56,824
+Four: price retracing into premium.
+
+55
+00:05:57,244 --> 00:06:01,660
+Five: a bearish PD array, a bearish fair value gap.
+
+56
+00:06:02,080 --> 00:06:06,616
+Six: on the lower timeframe, buy-side liquidity is swept.
+
+57
+00:06:07,036 --> 00:06:11,020
+Seven: bearish displacement and a market structure shift.
+
+58
+00:06:11,440 --> 00:06:21,928
+Eight: a potential bearish intraday scenario. The alternative, where price reclaims and breaks the invalidation above, would end the bearish bias in the same way.
+
+59
+00:06:23,748 --> 00:06:32,052
+Sometimes the market offers no clear direction. Here, higher-timeframe structure is conflicting: a range after a sharp decline.
+
+60
+00:06:32,472 --> 00:06:39,720
+Price is trapped between buy-side liquidity above the equal highs and sell-side liquidity below the equal lows.
+
+61
+00:06:40,140 --> 00:06:41,988
+It sits near equilibrium.
+
+62
+00:06:42,408 --> 00:06:45,792
+And there is no clear displacement in either direction.
+
+63
+00:06:46,212 --> 00:06:53,508
+Add major event risk, or overlapping and conflicting PD arrays, and the picture is even less clear.
+
+64
+00:06:53,928 --> 00:07:01,584
+In these conditions, neutral is a valid analytical conclusion. Not having an opinion is sometimes the professional opinion.
+
+65
+00:07:03,404 --> 00:07:14,372
+Here is the CMI Daily Bias checklist. One: what is the higher-timeframe structure? Two: what is the latest meaningful break of structure or change of character?
+
+66
+00:07:14,792 --> 00:07:21,680
+Three and four: where is price in the dealing range, and is it in premium, discount, or near equilibrium?
+
+67
+00:07:22,100 --> 00:07:28,124
+Five and six: which liquidity pools are relevant, and what is the potential draw on liquidity?
+
+68
+00:07:28,544 --> 00:07:33,584
+Seven and eight: are there relevant PD arrays, and is there displacement?
+
+69
+00:07:34,004 --> 00:07:39,116
+Nine: what would invalidate the current bias? Write this down before the session.
+
+70
+00:07:39,536 --> 00:07:43,712
+And ten: is the bias bullish, bearish or neutral?
+
+71
+00:07:45,532 --> 00:07:50,500
+Common mistakes. Assuming bullish structure guarantees a bullish day.
+
+72
+00:07:50,920 --> 00:07:53,032
+Using only one timeframe.
+
+73
+00:07:53,452 --> 00:07:55,732
+Ignoring external liquidity.
+
+74
+00:07:56,152 --> 00:07:58,840
+Changing bias after every candle.
+
+75
+00:07:59,260 --> 00:08:02,212
+Treating Daily Bias as a fixed prediction.
+
+76
+00:08:02,632 --> 00:08:05,392
+Ignoring scheduled economic events.
+
+77
+00:08:05,812 --> 00:08:08,668
+Forcing a bullish or bearish conclusion.
+
+78
+00:08:09,088 --> 00:08:11,752
+And ignoring invalidation conditions.
+
+79
+00:08:13,572 --> 00:08:18,804
+To summarise. Daily Bias is a working hypothesis, not a forecast.
+
+80
+00:08:19,224 --> 00:08:27,768
+Build it from structure, liquidity, location and PD arrays. The draw on liquidity frames the day, but is never guaranteed.
+
+81
+00:08:28,188 --> 00:08:33,468
+Bias still needs lower-timeframe confirmation, and neutral is a valid answer.
+
+82
+00:08:33,888 --> 00:08:37,944
+Above all, write your invalidation before the session begins.
+
+83
+00:08:39,764 --> 00:08:45,500
+Time to check your understanding. Pause the video and answer these five questions in your own words.
+
+84
+00:08:47,420 --> 00:08:52,844
+Write down your reasoning, not just a one-word answer. The reasoning is what we assess.
+
+85
+00:08:56,664 --> 00:09:02,880
+Here are the short answers. Compare them with your reasoning; the workbook explains each one in full.
+
+86
+00:09:09,700 --> 00:09:15,796
+Next, two chart exercises. Use your own charting platform and mark the points described.
+
+87
+00:09:16,216 --> 00:09:21,400
+Then complete the practical task, and record what would make your interpretation invalid.
+
+88
+00:09:21,820 --> 00:09:26,188
+Answer guides for every exercise are in the Level Seven workbook.
+
+89
+00:09:28,008 --> 00:09:36,984
+This material is for education only. It is not financial advice and not a guarantee of profit. Futures trading involves the risk of loss.
+
+90
+00:09:37,404 --> 00:09:44,868
+All charts in this episode are illustrative scenarios, not actual historical trading data. See you in the next episode.
+

@@ -1,0 +1,304 @@
+1
+00:00:00,700 --> 00:00:07,084
+Selamat datang ke Episod 10, subtopik 7.6: SMT Divergence.
+
+2
+00:00:07,504 --> 00:00:12,112
+Setiap konsep setakat ini melihat satu carta. SMT membandingkan dua.
+
+3
+00:00:12,532 --> 00:00:17,643
+Kita akan mentakrifnya, menetapkan konvensyen yang jelas, belajar cara memilih pasangan yang sah,
+
+4
+00:00:17,643 --> 00:00:21,436
+dan melihat bagaimana ia sesuai dengan liquidity, struktur dan PD array.
+
+5
+00:00:23,256 --> 00:00:30,984
+SMT Divergence ialah perbandingan relatif swing high dan low antara instrumen yang berkaitan, dalam tempoh yang sama.
+
+6
+00:00:31,404 --> 00:00:36,588
+Dalam terminologi ICT, SMT bermaksud Smart Money Technique.
+
+7
+00:00:37,008 --> 00:00:43,560
+Pasaran yang berkaitan biasanya bergerak bersama. Apabila ia mencapai titik swing bersama, kita menjangkakan tingkah laku yang serupa.
+
+8
+00:00:43,980 --> 00:00:52,020
+Apabila satu membuat ekstrem baharu dan yang satu lagi tidak, percanggahan itu ialah maklumat tentang kekuatan dan kelemahan relatif.
+
+9
+00:00:52,440 --> 00:00:58,608
+Ini bukan divergence RSI atau MACD. Tiada indikator yang terlibat.
+
+10
+00:00:59,028 --> 00:01:06,756
+Dan ia perbandingan analisis. Ia tidak membuktikan aktiviti institusi, dan tidak meramalkan pembalikan dengan sendirinya.
+
+11
+00:01:08,576 --> 00:01:17,288
+SMT hanya sebaik pasangan yang dipilih. Pertama, adakah ia berkongsi pendedahan asas yang serupa, dan hubungan ekonomi yang sebenar?
+
+12
+00:01:17,708 --> 00:01:22,772
+Kedua, adakah ia mempunyai sejarah bergerak bersama? Semak; jangan andaikan.
+
+13
+00:01:23,192 --> 00:01:28,760
+Ketiga, adakah ia didagangkan pada masa yang sama? Waktu sesi yang berbeza mencipta divergence palsu.
+
+14
+00:01:29,180 --> 00:01:34,004
+Keempat, adakah data, spesifikasi kontrak dan mata wang boleh dibandingkan?
+
+15
+00:01:34,424 --> 00:01:38,120
+Kelima, apakah pemacu yang dikongsi, dan di mana ia berbeza?
+
+16
+00:01:38,540 --> 00:01:46,148
+Dan ingat, korelasi tidak tetap. Jangan sekali-kali membandingkan instrumen yang tidak berkaitan hanya kerana cartanya kelihatan serupa.
+
+17
+00:01:47,968 --> 00:01:53,478
+SMT bullish. Dua instrumen berkaitan, pada timeframe yang sama dan paksi masa yang sama.
+
+18
+00:01:53,478 --> 00:01:56,296
+Kedua-duanya telah membuat swing low pertama.
+
+19
+00:01:56,716 --> 00:02:00,696
+Instrumen A jatuh lagi dan didagangkan di bawah low pertamanya.
+
+20
+00:02:00,696 --> 00:02:04,612
+Ia membuat lower low, menyapu sell-side liquidity di bawahnya.
+
+21
+00:02:05,032 --> 00:02:09,652
+Pada masa yang sama, Instrumen B gagal membuat lower low yang sepadan.
+
+22
+00:02:09,652 --> 00:02:11,368
+Ia mengekalkan higher low.
+
+23
+00:02:11,788 --> 00:02:20,980
+Percanggahan itulah SMT Divergence bullish. B menunjukkan kekuatan relatif, satu amaran bahawa pergerakan bearish mungkin semakin lemah.
+
+24
+00:02:21,400 --> 00:02:29,080
+Pengesahan lanjut masih diperlukan. Di sini, Instrumen A kemudian mengalihkan struktur, ditutup di atas lower high terakhirnya.
+
+25
+00:02:29,500 --> 00:02:33,156
+Takrif berbeza tentang instrumen mana yang mendahului.
+
+26
+00:02:33,156 --> 00:02:41,212
+Konvensyen CMI: A ialah instrumen yang membuat ekstrem baharu, B gagal mengesahkan, dan kita mencari pengesahan pada A.
+
+27
+00:02:43,032 --> 00:02:48,360
+SMT bearish ialah sebaliknya. Kedua-dua instrumen membuat swing high pertama.
+
+28
+00:02:48,780 --> 00:02:52,822
+Instrumen A naik melepasi high pertamanya, iaitu higher high.
+
+29
+00:02:52,822 --> 00:02:56,268
+Instrumen B gagal mengikut, dan mencetak lower high.
+
+30
+00:02:56,688 --> 00:03:04,656
+Itulah SMT Divergence bearish: kelemahan relatif, satu amaran bahawa pergerakan bullish mungkin kehilangan kekuatan.
+
+31
+00:03:05,076 --> 00:03:10,284
+Sekali lagi, pengesahan diperlukan. Di sini Instrumen A kemudian mengalihkan struktur ke bawah.
+
+32
+00:03:10,704 --> 00:03:15,240
+Tanpa pengesahan itu, divergence hanyalah pemerhatian.
+
+33
+00:03:17,060 --> 00:03:25,124
+SMT berkait secara semula jadi dengan liquidity Level 3. Kedua-dua instrumen mempunyai sell-side liquidity di bawah low sebelumnya.
+
+34
+00:03:25,544 --> 00:03:27,248
+Instrumen A menyapunya.
+
+35
+00:03:27,668 --> 00:03:32,228
+Instrumen B tidak. Sell-side liquidity-nya kekal utuh.
+
+36
+00:03:32,648 --> 00:03:36,990
+Perkara yang sama terpakai bagi buy-side liquidity dalam SMT bearish.
+
+37
+00:03:36,990 --> 00:03:45,296
+Tetapi nilaikan dalam konteks pasaran yang lebih luas. Bukan setiap ketidakpadanan antara dua high atau low ialah SMT yang bermakna.
+
+38
+00:03:47,116 --> 00:03:55,060
+Kini kaitkan SMT dengan struktur Level 2. Pada Instrumen A, kaki bearish mencetak lower high dan lower low.
+
+39
+00:03:55,480 --> 00:04:01,384
+Divergence SMT muncul pada lower low tersebut, kerana Instrumen B mengekalkan low-nya.
+
+40
+00:04:01,804 --> 00:04:06,532
+Struktur kemudian mengesahkan dengan market structure shift di atas lower high.
+
+41
+00:04:06,952 --> 00:04:09,496
+Higher high baharu akan memanjangkan anjakan tersebut.
+
+42
+00:04:09,916 --> 00:04:15,916
+SMT menambah konteks di sekitar kemungkinan anjakan. Ia tidak menggantikan analisis struktur.
+
+43
+00:04:17,736 --> 00:04:25,920
+SMT sering dikaji di PD array. Di sini, Instrumen A didagangkan ke dalam bullish order block timeframe tinggi.
+
+44
+00:04:26,340 --> 00:04:28,380
+Order block itu berada dalam discount.
+
+45
+00:04:28,800 --> 00:04:35,184
+Pada masa yang sama, divergence SMT terbentuk: A membuat lower low, B tidak.
+
+46
+00:04:35,604 --> 00:04:39,036
+Displacement menyusul dan meninggalkan fair value gap.
+
+47
+00:04:39,456 --> 00:04:46,680
+SMT di PD array ialah confluence analisis yang menarik. Ia tidak menjamin reaksi.
+
+48
+00:04:48,500 --> 00:04:57,444
+Bagaimana SMT berbeza daripada divergence RSI atau MACD? SMT membandingkan harga satu instrumen dengan harga instrumen berkaitan.
+
+49
+00:04:57,444 --> 00:05:04,100
+Divergence oscillator membandingkan harga dengan indikator yang dikira daripada harga yang sama.
+
+50
+00:05:04,520 --> 00:05:13,712
+SMT menggunakan high dan low relatif merentas instrumen. Divergence oscillator menggunakan ekstrem harga berbanding ekstrem indikator.
+
+51
+00:05:14,132 --> 00:05:22,196
+SMT bergantung pada hubungan antara instrumen. Divergence oscillator bergantung pada formula dan tetapan indikator.
+
+52
+00:05:22,616 --> 00:05:28,640
+SMT menonjolkan kekuatan atau kelemahan relatif. Divergence oscillator menonjolkan momentum.
+
+53
+00:05:29,060 --> 00:05:32,540
+Kedua-duanya teknik yang berasingan, dengan cara kegagalan yang berasingan.
+
+54
+00:05:34,360 --> 00:05:38,152
+Kesilapan biasa. Membandingkan instrumen yang tidak berkaitan.
+
+55
+00:05:38,572 --> 00:05:41,668
+Menggunakan timeframe yang berbeza atau tidak sejajar.
+
+56
+00:05:42,088 --> 00:05:46,672
+Mengabaikan perbezaan sesi, dan membandingkan data yang tidak disegerakkan.
+
+57
+00:05:47,092 --> 00:05:49,468
+Menganggap korelasi adalah kekal.
+
+58
+00:05:49,888 --> 00:05:53,128
+Menganggap setiap ketidakpadanan sebagai SMT.
+
+59
+00:05:53,548 --> 00:05:57,388
+Menganggap SMT sebagai isyarat pembalikan automatik.
+
+60
+00:05:57,808 --> 00:06:03,304
+Mengelirukan SMT dengan divergence RSI atau MACD.
+
+61
+00:06:03,724 --> 00:06:06,196
+Dan mengabaikan struktur pasaran yang lebih luas.
+
+62
+00:06:08,016 --> 00:06:16,848
+Sebagai rumusan. SMT membandingkan swing instrumen yang berkaitan, pada timeframe yang sama, paksi masa yang sama, dan swing yang sama.
+
+63
+00:06:17,268 --> 00:06:21,060
+Bullish: A membuat lower low manakala B mengekalkan higher low.
+
+64
+00:06:21,060 --> 00:06:24,732
+Bearish: A membuat higher high manakala B membuat lower high.
+
+65
+00:06:25,152 --> 00:06:33,312
+Cari pengesahan pada A melalui struktur. Dan ingat: ia bukan divergence oscillator, dan ia tidak menjamin pembalikan.
+
+66
+00:06:35,132 --> 00:06:42,368
+Masa untuk semak kefahaman anda. Hentikan video seketika dan jawab lima soalan ini dengan ayat anda sendiri.
+
+67
+00:06:42,788 --> 00:06:46,364
+Tulis penaakulan anda, bukan sekadar jawapan satu perkataan.
+
+68
+00:06:46,364 --> 00:06:50,212
+Penaakulan itulah yang dinilai.
+
+69
+00:06:52,032 --> 00:07:03,248
+Ini jawapan ringkas. Bandingkan dengan penaakulan anda; buku kerja menerangkan setiap satu dengan lengkap.
+
+70
+00:07:05,068 --> 00:07:11,164
+Seterusnya, dua latihan carta. Gunakan platform carta anda sendiri dan tandakan titik yang dinyatakan.
+
+71
+00:07:11,584 --> 00:07:16,768
+Kemudian lengkapkan tugasan praktikal, dan catat apa yang akan membatalkan tafsiran anda.
+
+72
+00:07:17,188 --> 00:07:21,556
+Panduan jawapan bagi setiap latihan disediakan dalam buku kerja Level 7.
+
+73
+00:07:23,376 --> 00:07:29,188
+Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan atau jaminan keuntungan.
+
+74
+00:07:29,188 --> 00:07:32,352
+Trading futures melibatkan risiko kerugian.
+
+75
+00:07:32,772 --> 00:07:38,370
+Semua carta dalam episod ini ialah senario ilustrasi, bukan data dagangan sejarah sebenar.
+
+76
+00:07:38,370 --> 00:07:40,236
+Jumpa dalam episod seterusnya.
+
