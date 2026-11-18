@@ -1,0 +1,66 @@
+# EP04 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 4. We start the second subtopic: the Intraday SOP.
+S01.2 | Intraday trading needs more thorough daily planning than scalping.
+S01.3 | We will define intraday trading, build the timeframe framework, and a nine-step preparation list.
+S01.4 | Then we build the daily bias, the dealing range, Premium and Discount, and primary and alternative scenarios.
+S01.5 | Finally, we separate a potential setup from an actionable entry.
+S02.1 | What is intraday trading? Positions are opened and closed within the same trading day.
+S02.2 | Compared with scalping, intraday trading follows 1H and 30M structure, so structural stop-losses are usually wider and targets further away.
+S02.3 | Intraday trading depends on session behaviour: session highs and lows, PDH and PDL, and the daily range.
+S02.4 | Daily preparation is essential, because the plan is made before the session, not while price is moving.
+S02.5 | The trader must decide whether every position will be closed before the end of the day or before the end of the session.
+S02.6 | Remember, the holding period is set by the trading plan, not by the chart timeframe. An intraday position held overnight has become a swing trade, with different risks.
+S03.1 | The CMI intraday timeframe framework for FCPO.
+S03.2 | The Daily and 4H give directional context: the larger structure, major liquidity and the dealing range.
+S03.3 | The 1H and 30M charts are used for market structure and the setup.
+S03.4 | The 15M chart is used for location, meaning more precise liquidity and POIs, and the price reaction.
+S03.5 | The 5M chart is used for entry confirmation.
+S03.6 | Once again, this is a suggested framework, not a mandatory rule.
+S04.1 | Intraday preparation, in nine steps.
+S04.2 | One, review the Daily and 4H charts. Two, identify the broader market structure.
+S04.3 | Three, mark the major liquidity. Four, mark PDH and PDL.
+S04.4 | Five, mark the relevant POIs. Six, build bullish, bearish or neutral scenarios.
+S04.5 | Seven, identify today's important market events. Eight, define the maximum risk for the day.
+S04.6 | Nine, prepare one primary scenario and one alternative scenario.
+S05.1 | Here is an example of two scenarios written before the session.
+S05.2 | Scenario A, the primary scenario: the Daily is bullish. If price sweeps Sell-Side Liquidity below PDL and shows confirmation, we look for buying opportunities towards PDH.
+S05.3 | Scenario B, the alternative: if the 1H closes below the major higher low, the bullish bias is cancelled. No buying opportunities; we wait or reassess.
+S05.4 | With two scenarios, decisions during the session become a choice between plans already written, not spontaneous reactions.
+S06.1 | Next, the intraday directional bias.
+S06.2 | A bullish bias: Daily and 4H structure is rising, and price is in discount or near a bullish POI.
+S06.3 | A bearish bias is the opposite. A neutral bias means the context is unclear, so trade size or frequency is reduced, or there are no trades at all.
+S06.4 | Alignment between the higher timeframe and intraday adds clarity, but it does not guarantee the outcome.
+S06.5 | Draw on Liquidity is the liquidity objective expected to attract price, for example PDH. It is a hypothesis, not a certainty.
+S06.6 | Every bias must have an invalidation condition, for example a 1H close below the major higher low.
+S07.1 | The daily dealing range is drawn from a selected swing low to a selected swing high.
+S07.2 | The fifty percent line is equilibrium. The area above it is premium, and the area below it is discount.
+S07.3 | With a bullish bias, we are more interested in buying in discount, near a POI and Sell-Side Liquidity.
+S07.4 | The Draw on Liquidity in this example is the Buy-Side Liquidity above the range high, a potential opposing target.
+S08.1 | When should an intraday bias change?
+S08.2 | On the left, several 5M candles move against the bias, but the 1H structure holds. This is noise, and the bias does not need to change.
+S08.3 | On the right, the 1H closes below the major higher low, the invalidation condition that was written down. This is meaningful new information.
+S08.4 | The bias can change when meaningful price information appears, but not because of every small move on the lower timeframe.
+S09.1 | An intraday setup combines several components.
+S09.2 | Higher-timeframe context, then market structure on the 1H or 30M.
+S09.3 | Liquidity, and the selected POI.
+S09.4 | Premium or Discount, displacement and the FVG.
+S09.5 | Together these form a hypothesis. It is not yet an entry.
+S10.1 | What is the difference between a potential setup and an actionable entry?
+S10.2 | Both need the right context and the right location.
+S10.3 | But an actionable entry also needs a liquidity interaction, an MSS and displacement on the chosen timeframe.
+S10.4 | It also needs a clear execution zone, a clear invalidation, and a calculated risk-to-reward.
+S10.5 | If any condition is not yet met, the setup remains an observation, not a trade.
+S11.2 | Question one: why should each trading style have its own SOP?
+S11.3 | Answer: invalidation, targets, relative costs, monitoring and position size are different for each style.
+S11.4 | Question two: what determines the intraday holding period?
+S11.5 | Answer: the trading plan, meaning the close-out rule, not the chart timeframe.
+S11.6 | Question three: when should an intraday bias change?
+S11.7 | Answer: when the written invalidation condition is met, or meaningful new information appears, not on every 5M move.
+S12.2 | Intraday means same-day exposure, with a close-out rule written into the plan.
+S12.3 | Daily and 4H context, 1H and 30M setup, 15M location, and 5M entry.
+S12.4 | Bias, dealing range, Draw on Liquidity and invalidation, together with primary and alternative scenarios.
+S12.5 | A potential setup is not yet an actionable entry.
+S13.2 | Analyse the Daily and 4H charts: mark structure, major liquidity, PDH and PDL, the dealing range and the 50 percent line, and two POIs.
+S13.3 | Write a primary and an alternative scenario, each with a trigger, a target, an invalidation condition and a close-out time.
+S14.1 | In Video 5, we execute the Intraday SOP: fifteen steps, bullish and bearish case studies, position management, and no-trade conditions.
+S16.1 | Trading futures involves the risk of loss. See you in Video 5.

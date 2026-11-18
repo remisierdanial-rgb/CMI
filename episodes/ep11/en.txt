@@ -1,0 +1,98 @@
+# EP11 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 11, the sixth subtopic: Risk-to-Reward.
+S01.2 | RR is often misunderstood as a guarantee of profit. This video shows why it is only one part of the picture.
+S01.3 | We will calculate RR, the break-even win rate and expectancy, and look at the effect of trading costs.
+S01.4 | Then we calculate FCPO position size, and explain firmly why margin is not risk.
+S02.1 | What is risk-to-reward? It compares the potential reward with the potential risk of a single trade.
+S02.2 | At 1 to 1, the potential reward equals the risk.
+S02.3 | At 1 to 2, the reward is twice the risk. At 1 to 3, three times. At 1 to 4, four times.
+S02.4 | Risk is measured from the entry to the stop-loss. Reward is measured from the entry to the target.
+S02.5 | RR must be assessed before entry, because after entry, emotions start to influence decisions.
+S03.1 | The risk-to-reward formula: potential reward divided by potential risk.
+S03.2 | Example: entry at 4,500, stop-loss at 4,490, take-profit at 4,520.
+S03.3 | Risk is 10 points. Potential reward is 20 points. RR equals 20 divided by 10, which is 2.
+S03.4 | So the gross reward-to-risk is 2 to 1.
+S03.5 | A 2 to 1 setup means the potential gross reward is twice the planned gross risk. It does not mean the trader will earn twice as much on every trade.
+S04.1 | The relationship between win rate and RR. The break-even win rate is the minimum win rate for an average result of zero.
+S04.2 | The simplified formula, before costs: risk divided by risk plus reward.
+S04.3 | For 1 to 1, fifty percent. For 1 to 2, 33.33 percent.
+S04.4 | For 1 to 3, twenty-five percent. For 1 to 4, twenty percent.
+S04.5 | These are simplified theoretical figures, before costs, slippage and other execution effects.
+S05.1 | Win rate and RR must be read together.
+S05.2 | The actual average win and average loss determine the result, not the planned RR alone.
+S05.3 | In general, targets that are further away are reached less often. Raising the RR can lower the win rate.
+S05.4 | A high win rate with a small RR can also lose money, if the average loss is larger than the average win.
+S05.5 | Only your own trading data, with a sufficient sample, can show the real combination.
+S06.1 | Expectancy is the average result per trade.
+S06.2 | The formula: win rate times average win, minus loss rate times average loss.
+S06.3 | Assume a win rate of forty percent, an average win of two R, a loss rate of sixty percent, and an average loss of one R.
+S06.4 | 0.40 times 2 R is 0.80 R. 0.60 times 1 R is 0.60 R. The expectancy is plus 0.20 R per trade, before costs.
+S06.5 | Positive expectancy in historical data does not guarantee future profitability.
+S07.1 | Expectancy is a long-run average, but every sequence of trades is different.
+S07.2 | In this hypothetical sequence of ten trades, there are four wins of two R, and six losses of one R.
+S07.3 | Notice the three consecutive losses at the start. A trader who stopped here would conclude the strategy had failed.
+S07.4 | After ten trades, the total is plus two R, an average of 0.2 R per trade, before costs.
+S07.5 | Ten trades is still a very small sample. Evaluation needs a much larger sample.
+S08.1 | Real performance pays costs that do not appear in the gross RR.
+S08.2 | Brokerage, exchange fees, and clearing fees.
+S08.3 | Applicable taxes or charges.
+S08.4 | Slippage, the bid-ask spread, and execution quality.
+S08.5 | Fee figures change and differ between brokers. This video does not use any fee figures. Use your own current, actual costs.
+S09.1 | See the effect of costs on a 2 to 1 setup. Assume, hypothetically, total costs and slippage equivalent to two points per contract.
+S09.2 | The net risk becomes 12 points, which is 300 ringgit. The net reward becomes 18 points, which is 450 ringgit.
+S09.3 | The net RR falls from 2 to 1.5. The break-even win rate rises from 33 percent to 40 percent.
+S09.4 | An RR that looks attractive in theory can become less attractive after costs, especially for small targets.
+S10.1 | Position sizing connects account equity, maximum risk, stop distance, value per point, and costs.
+S10.2 | The formula: maximum risk in ringgit, divided by the ringgit risk per contract. The result is rounded down to a whole number of contracts.
+S10.3 | A budget of 500 ringgit. A 10-point stop times 25 ringgit is 250 ringgit per contract. 500 divided by 250 is two contracts.
+S10.4 | But if the maximum risk includes costs and slippage, for example 300 ringgit per contract, 500 divided by 300 is 1.67, rounded down to one contract.
+S10.5 | Never round up. Rounding up means the risk exceeds the limit you set.
+S11.1 | A very important section: margin versus risk. First, seven terms.
+S11.2 | Initial margin is the deposit to open a position. Maintenance margin is the minimum equity level to keep it open.
+S11.3 | An intraday margin facility is reduced margin offered by a broker for positions closed within the same day.
+S11.4 | Available equity is the balance you can use. Notional value is the price times the contract size.
+S11.5 | The stop-loss risk, and the maximum loss under the planned stop, is the stop distance times the value per point times the number of contracts.
+S12.1 | Remember this sentence: margin is not the same as maximum trading risk.
+S12.2 | Whether you use full, half or quarter margin, one contract is still one contract. Its notional value is still 112,500 ringgit at a price of 4,500.
+S12.3 | A 10-point adverse move is still worth 250 ringgit per contract, regardless of the margin.
+S12.4 | A lower margin facility does not reduce market exposure. It only reduces the capital locked up, and it can encourage oversized positions.
+S12.5 | A trader using quarter or half margin must calculate risk based on the full contract's price movement. Lower margin does not make a trade safer.
+S13.1 | RR by trading style.
+S13.2 | Scalping, intraday and swing trading may produce different RR profiles, because their stop and target distances differ.
+S13.3 | CMI does not set a universal minimum RR. Forcing every setup to reach 1 to 3 can produce unrealistic targets.
+S13.4 | RR is influenced by volatility, stop distance, target distance, market structure, liquidity, trading costs, win rate and strategy performance.
+S14.1 | To evaluate a strategy, RR alone is not enough.
+S14.2 | Win rate, average win, average loss, and expectancy.
+S14.3 | Profit factor, which is total gross profit divided by total gross loss. Maximum drawdown, the largest fall from a peak.
+S14.4 | The number of trades, consecutive losses, slippage and trading costs.
+S14.5 | And consistency across different market conditions.
+S15.1 | Example: a strategy with an RR of 1 to 4. Its break-even win rate is twenty percent.
+S15.2 | Assume that in testing, the actual win rate is only eighteen percent.
+S15.3 | Expectancy: 0.18 times 4 R, minus 0.82 times 1 R. The result is minus 0.10 R per trade.
+S15.4 | A high RR does not guarantee profit if the win rate is too low or execution costs are too high.
+S16.1 | Eight common RR mistakes.
+S16.2 | Forcing every setup to reach 1 to 3. Ignoring nearby opposing liquidity.
+S16.3 | Using unrealistic targets. Ignoring the stop-loss distance.
+S16.4 | Calculating RR without costs. Confusing planned RR with realised RR.
+S16.5 | Increasing position size because the target is far away. And assuming a high RR guarantees profit.
+S17.2 | Question one: how is RR calculated?
+S17.3 | Answer: reward divided by risk. For 4,500, 4,490 and 4,520, that is 20 divided by 10, or 2 to 1.
+S17.4 | Question two: what is the relationship between RR and win rate?
+S17.5 | Answer: a higher RR lowers the break-even win rate, but targets further away are generally reached less often.
+S17.6 | Question three: what is expectancy?
+S17.7 | Answer: win rate times average win, minus loss rate times average loss. For example, plus 0.20 R before costs.
+S18.1 | Three more questions.
+S18.2 | Question four: if the stop distance increases, what happens to position size?
+S18.3 | Answer: size falls in inverse proportion. Round down, and zero means no trade.
+S18.4 | Question five: why is margin not maximum risk?
+S18.5 | Answer: margin is a deposit. Even with quarter margin, each point is still 25 ringgit per contract.
+S18.6 | Question six: why must trading costs be included when evaluating a strategy?
+S18.7 | Answer: costs reduce the reward and add to the risk on every trade. An RR of 2.0 becomes 1.5, and the break-even win rate rises from 33 to 40 percent.
+S19.2 | RR is reward divided by risk, assessed before entry. Planned RR is not the same as realised RR.
+S19.3 | The break-even win rate and expectancy must be assessed after costs.
+S19.4 | Position size is calculated from the ringgit risk per contract, and rounded down.
+S19.5 | Margin is not risk, and a high RR guarantees nothing.
+S20.2 | Exercise seven: a short at 4,620, stop at 4,632, target at 4,584. Calculate the risk, reward, RR and break-even win rate.
+S20.3 | Exercise eight: an account of 40,000 ringgit, one percent risk, a 14-point stop plus costs equivalent to 2 points. How many contracts? And what if the stop is 20 points?
+S21.1 | In Video 12A, we apply everything we have learned in four FCPO case studies: scalping and intraday, bullish and bearish.
+S23.1 | Trading futures involves the risk of loss. See you in Video 12A.

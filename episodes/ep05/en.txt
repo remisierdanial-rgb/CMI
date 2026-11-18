@@ -1,0 +1,46 @@
+# EP05 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 5. We complete the Intraday SOP.
+S01.2 | In Video 4, we built the daily plan: the bias, the dealing range, and two scenarios.
+S01.3 | Today we execute that plan through a fifteen-step procedure and two FCPO case studies.
+S01.4 | We will also look at intraday position management, including partials, the session-end rule, and the daily loss limit.
+S02.1 | The intraday execution procedure, in fifteen steps.
+S02.2 | One, complete the Daily and 4H analysis. Two, set the intraday directional hypothesis. Three, mark the liquidity targets.
+S02.3 | Four, identify the 1H or 30M structure. Five, select the relevant POIs. Six, wait for price to approach that area.
+S02.4 | Seven, observe the liquidity interaction on the 15M. Eight, wait for meaningful confirmation. Nine, use the 5M to evaluate the entry.
+S02.5 | Ten, define the stop-loss and target. Eleven, calculate the risk-to-reward. Twelve, execute according to the trading plan.
+S02.6 | Thirteen, monitor the position. Fourteen, close or manage the position according to the predefined session rules. Fifteen, record the result.
+S03.1 | A bullish intraday case study. The Daily and 4H are bullish, and price is in the discount half of the dealing range. We plan two contracts.
+S05.4 | TP1 at 4,530, at 1R, for a partial exit. The final target is 4,560, the Previous Day High, potential external liquidity.
+S07.1 | Intraday trade management includes several rules that must be set before entry.
+S07.2 | The initial risk is fixed in ringgit. Partial exits and stop-loss adjustments follow the rules, as in the case study we just saw.
+S07.3 | A trailing stop can follow 15M structure. The target can be extended only if the rules allow it, not out of hope.
+S07.4 | The session-end rule: the position is closed at the set time even if the target has not been reached.
+S07.5 | Unexpected volatility, for example around scheduled events, can be a reason to exit early.
+S07.6 | A maximum daily loss, and a maximum number of attempts, stop trading after several consecutive losses.
+S08.1 | A bearish intraday case study. The Daily and 4H are bearish, and price is pulling back into premium. We look for a selling opportunity.
+S11.5 | If the target has not been reached by the set close-out time, the position is closed under the session rule, even if neither the stop-loss nor the target has been touched.
+S12.1 | When should you not take an intraday trade?
+S12.2 | The directional context is unclear. Price is between important levels with no setup.
+S12.3 | There is no valid POI. There is no entry confirmation.
+S12.4 | The reward potential is insufficient. Execution conditions are poor.
+S12.5 | The risk limit has been reached. Or it is too close to the end of the session, without a suitable plan.
+S13.1 | Eight common intraday mistakes.
+S13.2 | Treating intraday setups as scalping signals. Ignoring the Daily context.
+S13.3 | Holding a position beyond the planned period. Entering too late.
+S13.4 | Overcomplicating the analysis. Changing the trading plan while the trade is running.
+S13.5 | Ignoring scheduled events and volatility. And failing to close positions according to the holding-period rules.
+S14.2 | Question one: one contract exits at TP1 for plus 18 points, the other at TP2 for plus 48 points, and the initial risk is 900 ringgit. What is the realised R?
+S14.3 | Answer: 66 points times 25 ringgit is 1,650 ringgit, divided by 900. The result is 1.83 R, compared with 2.67 R if both contracts had been held.
+S14.4 | Question two: the target has not been reached at the set close-out time. What do you do?
+S14.5 | Answer: close the position under the session rule. The plan makes the decision, not hope.
+S14.6 | Question three: why should losing trades be recorded?
+S14.7 | Answer: without them, win rate, expectancy and drawdown become biased, and execution errors cannot be detected.
+S15.2 | Fifteen steps: Daily and 4H, then 1H or 30M, the 15M reaction, the 5M entry, and the session rules.
+S15.3 | Partials and breakeven change the realised R. Decide them before entry.
+S15.4 | The session-end exit, the daily loss limit and the maximum number of attempts protect the account.
+S15.5 | Intraday is not scalping. Respect the Daily context and the holding period.
+S16.2 | Write the fifteen steps as yes-or-no rules, using your Part A plan.
+S16.3 | Add rules for partials, stop adjustment, the close-out time, the daily loss limit and the maximum number of attempts.
+S16.4 | Forward-test for ten sessions on a demo account, and record every trade and every skipped setup.
+S17.1 | In Video 6, we start the Swing Trading SOP: higher-timeframe planning, overnight risk, major liquidity and higher-timeframe POI selection.
+S19.1 | Trading futures involves the risk of loss. See you in Video 6.

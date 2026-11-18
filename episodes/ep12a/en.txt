@@ -1,0 +1,32 @@
+# EP12A English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 12A. We apply all six subtopics in FCPO case studies.
+S01.2 | Part A contains four cases: scalping bullish, scalping bearish, intraday bullish and intraday bearish.
+S01.3 | Each case follows the full SOP: context, liquidity, confirmation, plan, outcome and journal record.
+S01.4 | All cases are hypothetical. Pause the video at each decision point and make your own plan first.
+S02.1 | How to use these case studies.
+S02.2 | On every chart, the right side is hidden. Pause the video and write your plan: entry, stop-loss, target and RR.
+S02.3 | Then continue, and compare it with the CMI plan.
+S02.4 | Once the outcome is revealed, judge the process, not the result. A losing trade that followed the plan is a well-executed trade.
+S03.1 | Case one: scalping bullish. The 1H and 30M context is potentially bullish. We plan two contracts.
+S07.1 | The journal record for case one.
+S07.2 | Style: scalping. Bias: bullish on the 1H and 30M. Entry 4,446, stop-loss 4,437, target 4,464, two contracts, planned RR 2 to 1.
+S07.3 | The gross result is plus 2 R. The rules were followed. Actual costs are recorded separately.
+S08.1 | Case two: scalping bearish. The 1H and 30M context is potentially bearish, and Buy-Side Liquidity sits near the bearish POI.
+S12.1 | The journal record for case two.
+S12.2 | Style: scalping. Bias: bearish on the 1H and 30M. Entry 4,528, stop-loss 4,536, target 4,512, two contracts, planned RR 2 to 1.
+S12.3 | The gross result is minus one R, a planned loss. The rules were followed. Actual costs are recorded separately.
+S13.1 | Case three: intraday bullish. The Daily and 4H are bullish. We plan two contracts, with a partial at TP1 and a rule to close before the end of the session.
+S15.4 | TP1 at 4,654, at 1R, for a partial exit. The final target is 4,682, the next opposing liquidity, at 3R.
+S17.1 | The journal record for case three.
+S17.2 | Style: intraday. Bias: bullish on the Daily and 4H. Entry 4,640, stop-loss 4,626, target 4,682, two contracts, planned RR 3 to 1.
+S17.3 | The gross result is plus 2 R. The rules were followed. Actual costs are recorded separately.
+S18.1 | Case four: intraday bearish. The Daily and 4H are bearish, and price is pulling back into premium.
+S22.1 | The journal record for case four.
+S22.2 | Style: intraday. Bias: bearish on the Daily and 4H. Entry 4,812, stop-loss 4,827, target 4,782, one contract, planned RR 2 to 1.
+S22.3 | The gross result is plus 2 R. The rules were followed. Actual costs are recorded separately.
+S23.1 | A summary of the four cases in R.
+S23.2 | Case one, plus 2 R. Case two, minus 1 R.
+S23.3 | Case three, plus 2 R with partials. Case four, plus 2 R.
+S23.4 | Four cases is far too small a sample to evaluate a strategy. They only show a consistent process, with planned wins and losses.
+S24.1 | In Video 12B, we continue with bullish and bearish swing cases, a failed setup, and a no-trade scenario.
+S26.1 | Trading futures involves the risk of loss. See you in Video 12B.

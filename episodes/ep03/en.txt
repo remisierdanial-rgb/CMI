@@ -1,0 +1,55 @@
+# EP03 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 3. We complete the Scalping SOP.
+S01.2 | In Video 2, we prepared the chart: context, liquidity and POIs.
+S01.3 | Today we build the fifteen-step entry procedure, and apply it to bullish and bearish FCPO examples.
+S01.4 | Then we discuss trade management, no-trade conditions, and the common mistakes scalpers make.
+S02.1 | This is the CMI scalping entry procedure, in fifteen steps.
+S02.2 | The context phase: one, establish the higher-timeframe context. Two, identify the intraday liquidity. Three, select a suitable POI.
+S02.3 | The wait-and-observe phase: four, wait for price to reach the location. Five, observe the liquidity interaction. Six, look for a meaningful MSS or change of character.
+S02.4 | Seven, evaluate the displacement. Eight, identify a valid execution zone, such as an FVG.
+S02.5 | The planning phase: nine, define the entry price or condition. Ten, define the stop-loss and invalidation. Eleven, identify the target. Twelve, calculate the risk-to-reward.
+S02.6 | Step thirteen is the most important: execute only if every predefined condition is met.
+S02.7 | Fourteen, monitor the trade according to the management rules. Fifteen, record the trade in the journal, whether it won, lost or was skipped.
+S03.1 | A bullish scalping example. The 1H and 30M context is potentially bullish, so we only look for buying opportunities at a discount location.
+S07.1 | Now a bearish scalping example. The 1H and 30M context is potentially bearish, so we look for selling opportunities at a premium location.
+S11.1 | After entry, the trade is managed according to rules set before the entry.
+S11.2 | Fixed risk: the risk per trade is set in ringgit or in R, and it does not change.
+S11.3 | Fixed target: exit the whole position at the target. Partial: close part of the position at an earlier target.
+S11.4 | Breakeven: move the stop-loss to the entry price after price has moved a set distance. Trailing stop: move the stop along with structure.
+S11.5 | Exit on invalidation: exit if the structure supporting the thesis breaks. Time-based exit: exit if price has not moved within a set time.
+S11.6 | No method is always best. Each method changes the distribution of results and needs to be tested.
+S12.1 | See how the management method changes the actual result. Assume entry at 4,500, stop-loss at 4,490 and a target of 4,520, with two contracts.
+S12.2 | Holding both contracts to the target: 20 points times 2 contracts times 25 ringgit, which is 1,000 ringgit. The initial risk is 500 ringgit, so the result is 2R.
+S12.3 | Partial: one contract is closed at 4,510, and the other at 4,520. The result is 750 ringgit, which is 1.5R.
+S12.4 | Breakeven: if the stop moves to 4,500 after price reaches 4,510, and price then returns to 4,500 before rising to the target, the result is zero.
+S12.5 | Breakeven can reduce losses, but it can also take you out of trades that would have won. Partials lock in profit earlier, but reduce the realised RR.
+S13.1 | When should you not scalp? This list is just as important as the entry conditions.
+S13.2 | No clear market structure. No suitable POI. Price in the middle of an unclear range.
+S13.3 | No meaningful liquidity interaction. No confirmation.
+S13.4 | Excessive spread or slippage. Unusual volatility, for example around scheduled events.
+S13.5 | A target that is too close, or a poor risk-to-reward.
+S13.6 | The daily risk limit has been reached. Or you yourself are not emotionally or mentally ready.
+S14.1 | An example of a no-trade situation.
+S14.2 | Price is moving up and down in the middle of the range. There is no clear sweep, no POI, and the targets in both directions are too close.
+S14.3 | The right decision here is not to trade, and to wait for price to reach the planned location.
+S15.1 | Ten common scalping mistakes.
+S15.2 | Overtrading. Entering before confirmation. Chasing price.
+S15.3 | Changing bias too often. Trading every FVG.
+S15.4 | Ignoring transaction costs. Using stop-losses so tight that they sit inside the noise.
+S15.5 | Moving the stop-loss emotionally. Increasing position size after a loss.
+S15.6 | And taking low-quality setups out of boredom.
+S16.2 | Question one: what is the difference between a POI and entry confirmation?
+S16.3 | Answer: a POI is a location. Confirmation is the sequence of liquidity, MSS, displacement and execution zone that happens at that location.
+S16.4 | Question two: why is a liquidity sweep alone not enough for an entry?
+S16.5 | Answer: a sweep can be followed by continuation. Without an MSS and displacement, there is no reaction under the model.
+S16.6 | Question three: what is the role of the MSS in the entry process?
+S16.7 | Answer: it shows a potential change of direction on the entry timeframe, after the liquidity interaction.
+S17.2 | Fifteen steps: context, wait, confirmation, planning, and execute only if every condition is met.
+S17.3 | Bullish and bearish setups follow the same logic, in mirror image.
+S17.4 | A planned loss is part of the SOP. Record it.
+S17.5 | Management choices change the realised RR, and not trading is also a decision.
+S18.2 | Write your Scalping SOP using the fifteen steps. For each step, write a rule that can be answered yes or no.
+S18.3 | Add the maximum risk per trade, the daily loss limit, the maximum number of trades, the management method and the no-trade list.
+S18.4 | Test it on twenty historical setups with the future candles hidden, and record every result.
+S19.1 | In Video 4, we move to the Intraday SOP: daily planning, the Daily and 4H bias, the dealing range, and primary and alternative scenarios.
+S21.1 | Trading futures involves the risk of loss. See you in Video 4.

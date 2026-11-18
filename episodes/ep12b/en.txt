@@ -1,0 +1,37 @@
+# EP12B English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 12B, the second part of the FCPO case studies.
+S01.2 | Cases five and six are swing trades, with wide stops and small position sizes.
+S01.3 | Case seven is a failed setup, and case eight is a scenario where the best decision is not to trade.
+S01.4 | The last two cases are just as important as the winning ones.
+S02.1 | Case five: swing bullish. In swing trading, position size is calculated before assessing the setup.
+S02.2 | A hypothetical account of 100,000 ringgit, with two percent risk, which is 2,000 ringgit.
+S02.3 | A structural stop of 70 points times 25 ringgit is 1,750 ringgit per contract. 2,000 divided by 1,750 is 1.14, rounded down to one contract.
+S03.1 | The Weekly is bullish, and the Daily is pulling back into discount. Sell-Side Liquidity sits below a significant low.
+S05.4 | The target is 4,270, the major opposing liquidity, at 3R.
+S07.1 | Case six: swing bearish. The Weekly is bearish, and the Daily is pulling back into premium. Buy-Side Liquidity sits above a significant high.
+S09.7 | The risk of 75 points, 1,875 ringgit for one contract, is within the 2,000 ringgit budget. Holding overnight has been assessed for event risk.
+S11.1 | Case seven: a failed setup. Everything looks valid: a good POI, a bullish context, and liquidity below.
+S14.5 | Was the strategy executed wrongly? No. Every condition was met, the size was correct, and the stop was not moved. This is a normal outcome of a strategy, not an execution error.
+S15.1 | Distinguish a failed setup from poor execution.
+S15.2 | A failed setup: every rule was followed, but the market did not move as expected. This is a normal part of any strategy.
+S15.3 | Poor execution: a rule was broken. An early entry, a moved stop, the wrong size, or a trade without confirmation.
+S15.4 | The journal lets you tell the two apart. Without a journal, every loss looks the same.
+S16.1 | Case eight: a no-trade scenario.
+S16.2 | The context conflicts: the 1H is bullish, but the Daily is bearish and price is in premium.
+S16.3 | Price has not interacted with any meaningful liquidity, and the entry location is in the middle of the range.
+S16.4 | There is no structure shift with displacement. And the nearest target is only a few points away, so the RR is insufficient.
+S16.5 | The decision: no trade. Not entering is also a valid trading decision, and it is recorded in the journal.
+S17.2 | Question one: why must losing trades be recorded?
+S17.3 | Answer: so the metrics are not biased, and execution errors become visible.
+S17.4 | Question two: what is the difference between a failed setup and poor execution?
+S17.5 | Answer: a failed setup means the rules were followed but the market disagreed. Poor execution means a rule was broken.
+S17.6 | Question three: is not trading a trading decision?
+S17.7 | Answer: yes, and it is recorded in the journal like any other decision.
+S18.2 | Swing trading: calculate size first, from the wide structural stop.
+S18.3 | A failed setup is a normal, planned outcome.
+S18.4 | Poor execution means a rule was broken. Fix the process.
+S18.5 | Not trading is a valid decision. Record it too.
+S19.2 | Take case seven. Grade the strategy quality, execution, risk management and discipline separately.
+S19.3 | Then pick a losing trade from your own journal. Was it a failed setup, or poor execution? Why?
+S20.1 | In Video 13, the final video of Level 9, we bring everything together: the CMI workflow, checklists, the journal, performance review and the final assessment.
+S22.1 | Trading futures involves the risk of loss. See you in Video 13.

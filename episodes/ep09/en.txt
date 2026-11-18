@@ -1,0 +1,86 @@
+# EP09 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 9, the fourth subtopic: Entry Confirmation.
+S01.2 | This subtopic connects location with action: when a POI becomes an entry with a reason behind it.
+S01.3 | We will learn the five-stage CMI confirmation sequence, one stage at a time.
+S01.4 | Then two full demonstrations, four entry models, false-confirmation scenarios, and the CMI checklist.
+S02.1 | What is entry confirmation? It is a set of conditions that must occur at the selected location before an entry is allowed, under a predefined methodology.
+S02.2 | A POI is a location. An entry trigger is an event that happens at that location.
+S02.3 | Price touching an Order Block is not confirmation. Price may simply break straight through it.
+S02.4 | Location, liquidity, structure and displacement must be evaluated together, not in isolation.
+S02.5 | An aggressive entry enters at the POI without waiting. A confirmation entry waits for the conditions to be met, usually at a less favourable price but with more evidence.
+S02.6 | Confirmation reduces some forms of uncertainty, but it does not eliminate trading risk.
+S03.1 | This is the core CMI confirmation sequence.
+S03.2 | Stage one: liquidity interaction. Stage two: a Market Structure Shift or change of character.
+S03.3 | Stage three: displacement. Stage four: the FVG or execution zone.
+S03.4 | Stage five: entry planning, meaning the entry, stop-loss, target, risk-to-reward and position size.
+S03.5 | The order matters. If one stage does not happen, the confirmation is incomplete.
+S04.1 | Stage one: liquidity interaction.
+S04.2 | Common liquidity references: Buy-Side and Sell-Side Liquidity, Equal Highs and Equal Lows.
+S04.3 | The session high and low, and PDH and PDL.
+S04.4 | The interaction we look for is a liquidity sweep: price trades through the level and closes back inside the range.
+S04.5 | Distinguish it from a breakout, where price closes and is accepted outside the level. A breakout supports continuation, not reversal.
+S05.1 | Stage two: the structure shift.
+S05.2 | A bullish MSS: after a sweep of Sell-Side Liquidity, price closes above the last lower high. Internal structure changes from bearish to bullish.
+S05.3 | A bearish MSS is the opposite: after a sweep of Buy-Side Liquidity, price closes below the last higher low.
+S05.4 | A structure break must be judged in context. A 5M MSS against a strong 1H trend is weaker evidence. A BOS, on the other hand, confirms continuation, not change.
+S06.1 | Stage three: displacement.
+S06.2 | Displacement is directional price expansion: strong candle bodies, an expanding range, and a break of relevant structure.
+S06.3 | Ordinary volatility can also produce large candles, but it does not break structure, and it often reverses quickly.
+S06.4 | Importantly, displacement does not prove the identity of market participants. It is only a feature of price movement that we use in the model.
+S07.1 | Stage four: the Fair Value Gap. An FVG is a three-candle pattern.
+S07.2 | A bullish FVG: the third candle's low, 4,508, is above the first candle's high, 4,503. The space between them, 4,503 to 4,508, does not overlap any candle wick.
+S07.3 | A bearish FVG is the opposite: the third candle's high, 4,502, is below the first candle's low, 4,507.
+S07.4 | The middle candle is the displacement candle. An FVG can become a potential retracement area for an entry.
+S07.5 | It is different from an ordinary price gap between sessions. An FVG exists inside continuous trading.
+S08.1 | Four FVG rules.
+S08.2 | One: an FVG is a potential retracement area, not a buy or sell signal on its own.
+S08.3 | Two: not every FVG is tradable. It must sit in the right sequence and at the right location.
+S08.4 | Three: an FVG does not need to be filled. Price can keep moving without coming back, and in that case a limit entry is not filled.
+S08.5 | Four: an FVG is different from an ordinary price gap between sessions.
+S09.1 | Stage five: entry planning. Eight things must be clear before an order is sent.
+S09.2 | The entry price, and the entry condition, for example a limit order inside the FVG.
+S09.3 | The stop-loss and the invalidation, meaning what cancels the thesis.
+S09.4 | The target, the risk-to-reward, and the position size.
+S09.5 | And order execution. A limit order may not be filled. Market and stop orders can be filled at a different price because of slippage.
+S10.1 | A complete bullish confirmation demonstration. The higher-timeframe context is potentially bullish, and price is approaching the selected bullish POI.
+S14.1 | A bearish confirmation demonstration. The higher-timeframe context is potentially bearish, and price is approaching the selected bearish POI.
+S18.1 | Four entry models. No single model is always best.
+S18.2 | Model one: an aggressive entry at the POI. The order is placed in the zone without waiting for confirmation. The price is better, but the risk of the zone breaking is higher.
+S18.3 | Model two: a confirmation entry after the MSS. Enter after the structure shift. There is more evidence, but the entry price is further away and the RR is smaller.
+S18.4 | Model three: displacement and a retracement into the FVG. This is the model used in our examples. Location and invalidation are clear, but price may not come back.
+S18.5 | Model four: break and retest, only if it is part of the established CMI methodology. It waits for a retest of the broken level, but retests often fail or never happen.
+S19.1 | For each model: the invalidation, suitable conditions, and common mistakes.
+S19.2 | The aggressive model suits very clear context, with invalidation beyond the zone. The common mistake: using it against the trend.
+S19.3 | The confirmation model suits fast-moving markets. The common mistake: chasing price after the break.
+S19.4 | The FVG model suits clean displacement. The common mistake: trading every FVG, including those in the wrong location.
+S19.5 | The break-and-retest model suits trending markets. The common mistake: confusing a sweep with a breakout.
+S20.1 | False confirmation. Seven scenarios where a setup looks good but is incomplete.
+S20.2 | Liquidity is swept, but there is no meaningful MSS. An MSS occurs, but without displacement.
+S20.3 | Displacement occurs, but price does not give the expected retracement. The FVG forms in an unsuitable location.
+S20.4 | Lower-timeframe confirmation conflicts with the higher-timeframe context. Price breaks structure, then immediately reverses.
+S20.5 | And the entry signal appears too close to opposing liquidity, so there is not enough room for reward.
+S20.6 | Good traders are willing to skip a setup. Skipping is a valid decision within the SOP.
+S21.1 | The CMI confirmation checklist, nine questions.
+S21.2 | Is the directional context clear? Is price at the selected POI? Is there a meaningful liquidity interaction?
+S21.3 | Is the structure shift relevant? Is displacement present? Is the execution zone clear?
+S21.4 | Is the invalidation clear? Is the target distance sufficient? Is the risk within the predefined limit?
+S21.5 | A checklist is a decision aid, not a guarantee of profitability.
+S22.2 | Question one: what is the difference between a POI and entry confirmation?
+S22.3 | Answer: a POI is a location. Confirmation is the sequence of events that happens at that location.
+S22.4 | Question two: why is a sweep alone not enough?
+S22.5 | Answer: a sweep can be followed by continuation. There is not yet any structural evidence of a reaction.
+S22.6 | Question three: what is the role of the MSS?
+S22.7 | Answer: it shows a potential change of direction on the entry timeframe, after the liquidity interaction.
+S23.1 | Two more questions.
+S23.2 | Question four: why is displacement important in the CMI model?
+S23.3 | Answer: it separates a meaningful shift from noise, and often creates the execution zone, the FVG.
+S23.4 | Question five: how does an FVG support entry planning?
+S23.5 | Answer: it gives a clear retracement zone for a limit entry, with a nearby invalidation. But it will not necessarily be filled.
+S24.2 | Liquidity, MSS or change of character, displacement, FVG, then entry planning.
+S24.3 | A POI is a location, and a sweep alone is not a trigger.
+S24.4 | Four models, each with strengths and weaknesses. No model is always best.
+S24.5 | No fill, false confirmation, or conflicting context: skip.
+S25.2 | Find ten setups on historical FCPO 5M charts, hide the right side of the chart, and mark the five confirmation stages.
+S25.3 | Score each one with the nine-question checklist: trade or skip. Then reveal and record the result.
+S26.1 | In Video 10, we learn Stop Loss and Take Profit: structural stops, buffers, invalidation, liquidity-based targets, and six take-profit methods.
+S28.1 | Trading futures involves the risk of loss. See you in Video 10.

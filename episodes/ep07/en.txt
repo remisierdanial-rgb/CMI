@@ -1,0 +1,55 @@
+# EP07 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 7. We complete the Swing Trading SOP.
+S01.2 | Today we build the twelve-step swing entry procedure.
+S01.3 | We calculate position size when the stop-loss is wide, and see why the answer is sometimes zero contracts.
+S01.4 | Then we work through bullish and bearish case studies, and discuss managing positions across several sessions.
+S02.1 | The swing entry procedure, in twelve steps.
+S02.2 | One, establish the Weekly and Daily context. Two, identify the major liquidity objectives. Three, select a relevant Daily or 4H POI.
+S02.3 | Four, wait for price to approach the location. Five, observe the price reaction. Six, evaluate lower-timeframe structure.
+S02.4 | Seven, look for meaningful displacement. Eight, identify the selected execution area.
+S02.5 | Nine, define the entry and the structural invalidation. Ten, calculate the position size and the risk in ringgit.
+S02.6 | Eleven, define the initial target. Twelve, plan how the position will be managed across several sessions.
+S03.1 | Before the case studies, let's calculate a swing position size.
+S03.2 | Entry at 4,200, structural stop-loss at 4,120. That is 80 points, times 25 ringgit, which is 2,000 ringgit per contract.
+S03.3 | If the risk budget is 1,000 ringgit, 1,000 divided by 2,000 is one half. Rounded down, the answer is zero contracts. No trade.
+S03.4 | If the risk budget is 4,000 ringgit, the position size is two contracts.
+S03.5 | Never increase size because the stop is wide, and never tighten the stop just to trade bigger. The stop is set by structure.
+S04.1 | A bullish swing case study. The Weekly is bullish, and the Daily is pulling back into discount. Sell-Side Liquidity sits below a significant low.
+S06.4 | The target is 4,440, the major opposing liquidity, at 3R.
+S06.7 | The size of two contracts comes from a 4,000 ringgit risk budget. This position may be held for several days, so overnight and event risk have been assessed.
+S08.1 | Swing position management.
+S08.2 | A wide stop-loss needs a smaller position size. A partial profit can be taken at the first liquidity target.
+S08.3 | A trailing stop can follow 4H or Daily swings. Decisions are usually based on the Daily close, not an intraday wick.
+S08.4 | Retracements during the hold are normal, as long as the structure supporting the thesis remains intact.
+S08.5 | Holding across sessions means exposure to overnight and event risk. And if the original thesis is no longer valid, the position is closed.
+S09.1 | One important decision in swing management: the wick or the close?
+S09.2 | On the left, price trades through the invalidation level intraday, but closes back above it. For a trader using a Daily-close rule, the thesis is still valid.
+S09.3 | On the right, the Daily closes and is accepted below that level. The thesis is no longer valid, and the position is closed.
+S09.4 | Which rule you use must be written before entry, and a real stop-loss in the market is still needed as maximum protection.
+S10.1 | A bearish swing case study. The Weekly is bearish, and the Daily is pulling back into premium. Buy-Side Liquidity sits above a significant high.
+S12.4 | The target is 4,770, the opposing liquidity below, at 3R.
+S13.5 | In swing trading, a one-R loss in ringgit is larger because the stop is wider. That is why position size is calculated first, not after entry.
+S14.1 | When should you not take a swing trade?
+S14.2 | The higher-timeframe structure is unclear. Price is not near a relevant POI. There is no attractive liquidity target.
+S14.3 | The risk-to-reward is poor. The stop distance makes the position size unsuitable.
+S14.4 | Event risk has not been properly assessed. Or capital and margin are insufficient for the planned exposure.
+S15.1 | Seven common swing trading mistakes.
+S15.2 | Using scalping stop-loss distances for swing positions. Entering without higher-timeframe analysis.
+S15.3 | Confusing a Daily retracement with a confirmed reversal. Holding positions whose thesis is no longer valid.
+S15.4 | Increasing position size because the stop is wide. Ignoring overnight risk.
+S15.5 | And treating every higher-timeframe Order Block as a guaranteed turning point.
+S16.2 | Question one: how does position size change when the stop-loss distance increases?
+S16.3 | Answer: it falls in inverse proportion. Round down. Zero contracts means no trade.
+S16.4 | Question two: why is margin not the same as maximum risk?
+S16.5 | Answer: margin is a collateral deposit. Risk is the stop distance times 25 ringgit times the number of contracts, plus gap and slippage risk.
+S16.6 | Question three: a Daily wick trades through the invalidation level, but closes above it. Should you exit?
+S16.7 | Answer: it depends on the written rule. With a Daily-close rule, the thesis is still valid.
+S17.2 | A twelve-step swing SOP. Position size is calculated before entry.
+S17.3 | A wide stop means fewer contracts. Zero contracts means no trade.
+S17.4 | Manage on Daily closes, and respect overnight and event risk.
+S17.5 | Exit when the thesis is no longer valid. Don't hope.
+S18.2 | Write the twelve steps using your Part A map, each as a yes-or-no rule.
+S18.3 | Calculate the position size for a sample trade using your own account and risk percentage. Round down. Is the answer zero?
+S18.4 | Write rules for partials, trailing, the Daily close, overnight and event risk, and exiting when the thesis is invalid.
+S19.1 | In Video 8, we compare all three trading styles side by side, and discuss how to choose a style that fits your time and capital.
+S21.1 | Trading futures involves the risk of loss. See you in Video 8.

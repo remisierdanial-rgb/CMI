@@ -1,0 +1,64 @@
+# EP06 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 6. We start the third subtopic: the Swing Trading SOP.
+S01.2 | Swing trading holds positions across several sessions or days, so its approach to risk and management is different from intraday trading.
+S01.3 | We will define swing trading, including overnight and event risk, and margin considerations.
+S01.4 | Then we build the timeframe framework, a ten-step preparation, and higher-timeframe market structure.
+S01.5 | Finally, we select swing POIs, and distinguish fresh zones from zones that have already been tested.
+S02.1 | What is swing trading? Swing trading tries to capture larger price moves by holding positions across several sessions or days.
+S02.2 | Higher-timeframe market structure is the foundation: the Weekly and Daily decide direction and location.
+S02.3 | Structural invalidation is wider, so the stop-loss in points is larger, and position size must be smaller.
+S02.4 | Positions held overnight are exposed to overnight and event risk: price can open with a gap beyond the stop-loss.
+S02.5 | Traders must also consider margin requirements throughout the holding period, and financing costs where relevant.
+S02.6 | That is why swing trading needs a different approach to risk and position management than intraday trading.
+S03.1 | Let's look at overnight risk visually.
+S03.2 | A long position is held at the end of the day with a stop-loss below. Overnight, news or an event occurs.
+S03.3 | The next day, price opens with a gap far below the stop-loss. The stop order is executed at the first available market price, not at the stop price.
+S03.4 | The actual loss is larger than planned. That is why event risk must be assessed before holding a position overnight.
+S04.1 | The CMI swing trading timeframe framework.
+S04.2 | The Monthly and Weekly give the major market context: the big trend and the key levels.
+S04.3 | The Daily sets the directional bias.
+S04.4 | The 4H and 1H charts are used for the setup and the POI.
+S04.5 | The 1H, 30M or 15M charts are used for entry confirmation.
+S04.6 | The choice of timeframes depends on your holding period, volatility and methodology.
+S05.1 | Swing trading preparation, in ten steps.
+S05.2 | One, review the Monthly and Weekly context. Two, identify the major swing highs and lows.
+S05.3 | Three, set the Daily directional hypothesis. Four, map the major Buy-Side and Sell-Side Liquidity.
+S05.4 | Five, mark the previous week high and low, and the previous month high and low where relevant. Six, identify the higher-timeframe POIs.
+S05.5 | Seven, evaluate Premium and Discount. Eight, identify the major opposing liquidity as the target.
+S05.6 | Nine, plan the likely holding period. Ten, define the risk exposure before entry.
+S06.1 | Higher-timeframe market structure.
+S06.2 | Major higher highs and higher lows, or major lower highs and lower lows, define the swing trend.
+S06.3 | A BOS on the Weekly and Daily confirms continuation. A CHoCH and an MSS show a potential change.
+S06.4 | External structure is the major swings. Internal structure is the pullbacks inside them.
+S06.5 | The major dealing range is drawn from the major swings, and gives Premium and Discount for swing trading.
+S07.1 | An important concept in swing trading: a lower-timeframe pullback can happen inside a higher-timeframe trend.
+S07.2 | On the left, the Weekly chart shows bullish structure, with higher highs and higher lows.
+S07.3 | On the right, we zoom into the Daily. The Daily looks bearish, but it is only a pullback into discount within the Weekly trend.
+S07.4 | This pullback can bring price to a Daily POI, a potential location for a swing buying opportunity.
+S08.1 | How do we tell trend continuation from a potential reversal?
+S08.2 | Continuation: the pullback stops above the major higher low, and the Daily makes a BOS in the direction of the Weekly trend.
+S08.3 | Potential reversal: price sweeps the major high, then breaks the major higher low with displacement, which is an MSS on the Daily.
+S08.4 | A higher-timeframe reversal needs stronger evidence. Don't treat every Daily retracement as a confirmed reversal.
+S09.1 | POI selection for swing trading.
+S09.2 | Weekly and Daily Order Blocks, Daily and 4H FVGs, Breaker Blocks and Mitigation Blocks.
+S09.3 | Rejection Blocks, Supply and Demand zones, and the Premium or Discount position.
+S09.4 | Each POI is assessed together with the liquidity objective and the quality of the displacement that created it.
+S09.5 | One more factor: is the zone fresh, or has it been tested several times?
+S10.1 | A fresh zone has not been retested since it formed. A tested zone has been touched several times.
+S10.2 | Some traders believe each test reduces a zone's significance. This is a methodological interpretation, not a fixed rule.
+S10.3 | Another misconception: higher-timeframe POIs are not automatically more reliable.
+S10.4 | Their relevance depends on the context, the surrounding liquidity, and how price behaves once it reaches the zone.
+S11.2 | Question one: why is higher-timeframe context essential in swing trading?
+S11.3 | Answer: swing positions follow Weekly and Daily structure. Lower-timeframe moves are often just pullbacks within it.
+S11.4 | Question two: does a stop-loss guarantee the exit price when a position is held overnight?
+S11.5 | Answer: no. A gap can cause the stop to be executed at a worse price.
+S11.6 | Question three: is a Weekly Order Block automatically stronger than a 4H Order Block?
+S11.7 | Answer: no. Its relevance depends on the context, liquidity and price behaviour at the zone.
+S12.2 | Swing trading means holding across sessions, with wider invalidation, and overnight and event risk.
+S12.3 | Monthly and Weekly context, Daily bias, 4H and 1H POIs, and entries on the 1H, 30M or 15M.
+S12.4 | A Daily pullback can sit inside a Weekly trend. Not every retracement is a reversal.
+S12.5 | Grade POIs by context, liquidity, displacement and whether they are fresh.
+S13.2 | Map the Weekly and Daily: major swings, BOS or CHoCH, previous week and month highs and lows, major liquidity, and the dealing range.
+S13.3 | Grade two POIs: timeframe, type, Premium or Discount, liquidity objective, displacement, and whether fresh or tested.
+S14.1 | In Video 7, we execute the Swing SOP: twelve steps, position sizing with wide stops, bullish and bearish case studies, and position management.
+S16.1 | Trading futures involves the risk of loss. See you in Video 7.

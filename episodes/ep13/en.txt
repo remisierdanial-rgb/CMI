@@ -1,0 +1,65 @@
+# EP13 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 13, the final video of Level 9.
+S01.2 | We bring all six subtopics together into one complete CMI trading workflow.
+S01.3 | We build pre-market and execution checklists, a trading journal, and a performance review process.
+S01.4 | Finally, the Level 9 final assessment.
+S02.1 | This is the complete CMI trading workflow.
+S02.2 | Market context and the higher-timeframe bias set the direction. The choice of trading style sets the timeframe framework and the holding period.
+S02.3 | Structure and liquidity give the map. The POI gives the location.
+S02.4 | Entry confirmation gives the trigger: liquidity, MSS, displacement and FVG.
+S02.5 | Trade planning sets the entry, the structural stop-loss, the liquidity-based take-profit, the RR and the position size.
+S02.6 | Execution and management follow the rules. The journal and evaluation close the loop, and feed back into the SOP.
+S03.1 | The pre-market checklist.
+S03.2 | The calendar and session are checked. The higher-timeframe context and bias are written down, together with the invalidation condition.
+S03.3 | Major liquidity, PDH and PDL are marked. POIs are selected, two or three at most.
+S03.4 | Scheduled events are checked. The primary and alternative scenarios are written.
+S03.5 | The daily risk limit, and the maximum number of trades, are set before the session.
+S04.1 | The execution checklist, before every order.
+S04.2 | All nine CMI confirmation questions are answered yes. The trade plan is written: entry, stop-loss and target.
+S04.3 | RR is calculated after costs. Position size is calculated and rounded down.
+S04.4 | The order type is chosen, and the stop-loss is sent together with the order.
+S04.5 | A screenshot before entry is saved. And you are still within the daily risk limit.
+S05.1 | Risk management rules that are not negotiable.
+S05.2 | A fixed risk per trade, in ringgit. A daily loss limit. A maximum number of trades.
+S05.3 | Never widen a stop-loss. Never add to a losing position.
+S05.4 | Never increase size after a loss. Size is calculated from the stop, not from the margin.
+S06.1 | The CMI trading journal has twenty-two fields.
+S06.2 | Date, market and contract, trading style, session, HTF bias, the selected POI, and the liquidity reference.
+S06.3 | Entry confirmation, entry price, stop-loss, take-profit, position size, and the planned RR.
+S06.4 | Realised P and L, trading costs, and MFE and MAE where available, which are the most favourable and most adverse moves while the trade was open.
+S06.5 | Screenshots before entry and after exit, execution quality, rule adherence, and lessons learned.
+S07.1 | Performance evaluation uses twelve metrics.
+S07.2 | Win rate, average win, average loss and expectancy.
+S07.3 | Profit factor, maximum drawdown, average RR, and the number of trades.
+S07.4 | Consecutive losses, and trading costs.
+S07.5 | Performance by trading style, and by market condition. This shows where the SOP works and where it is weak.
+S08.1 | When evaluating, separate four qualities.
+S08.2 | Strategy quality: do the rules themselves have positive expectancy after costs?
+S08.3 | Execution quality: were the rules followed exactly?
+S08.4 | Risk management quality: were the size, the stops and the daily limits respected?
+S08.5 | Psychological discipline: were decisions made according to the plan, or by emotion?
+S08.6 | A single winning or losing trade is not enough to decide whether a strategy works.
+S09.1 | The process and outcome matrix.
+S09.2 | Good process, good outcome: a deserved result. Good process, bad outcome: a normal loss. Keep going.
+S09.3 | Bad process, good outcome: luck. This is the most dangerous, because it reinforces the wrong habits.
+S09.4 | Bad process, bad outcome: a deserved loss. Fix the process.
+S10.1 | Before making any claim about a strategy's performance, test it using predefined rules.
+S10.2 | Start with a backtest: historical setups with the future candles hidden, using the same rules.
+S10.3 | Then a forward test on a demo account or with small size, in real time.
+S10.4 | Review the metrics and the journal. Refine the rules, one change at a time, and repeat the testing process.
+S10.5 | Collect a meaningful sample. Don't conclude anything from a handful of trades.
+S11.1 | The Level 9 final assessment has three parts.
+S11.2 | Part one: answer the eighteen Level 9 questions in the workbook.
+S11.3 | Part two: submit one complete SOP for your chosen style, including checklists and risk rules.
+S11.4 | Part three: forward-test that SOP and submit twenty journal entries, including losing trades and skipped setups, together with a four-quality review.
+S12.2 | Scalping, intraday and swing trading need different SOPs.
+S12.3 | A POI is not an entry, and confirmation does not guarantee success.
+S12.4 | Stop-losses come from predefined invalidation, and targets have a market reference.
+S12.5 | RR is calculated before entry, size is calculated from ringgit risk, and margin is not risk.
+S12.6 | Evaluate performance over a meaningful sample, using a journal.
+S13.2 | Fill in all twenty-two journal fields for the FCPO example in Video 1: entry 4,500, stop 4,490, target 4,520.
+S13.3 | Check your answers: MFE plus 21 points, MAE minus one point, planned RR of 2, and a gross result of plus 500 ringgit.
+S14.1 | The goal of Level 9 is not just identifying SMC setups.
+S14.2 | The goal is to build trading SOPs that can be tested, recorded and evaluated.
+S14.3 | Thank you for following Level 9: SMC Trading Strategy, from Capital Market Institute.
+S16.1 | Trading futures involves the risk of loss. For educational purposes only.

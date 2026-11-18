@@ -1,0 +1,76 @@
+# EP10 English narration (spoken). Malay cue text in spec.js stays as the on-screen subtitles.
+S01.1 | Welcome to Video 10, the fifth subtopic: Stop Loss and Take Profit.
+S01.2 | The stop-loss defines when our thesis is wrong. The take-profit defines where we expect price might go.
+S01.3 | We will learn structural stop-losses, buffers and invalidation.
+S01.4 | Then liquidity-based targets, six take-profit methods, and two trade-management animations: one winner and one loser.
+S02.1 | What is a stop-loss? A stop-loss is an order to close the position when price reaches the level that invalidates the trade thesis.
+S02.2 | It is necessary because, without a stop, a single loss can become too large for the account.
+S02.3 | A stop-loss is not margin. Margin is a collateral deposit. The stop-loss defines the planned loss.
+S02.4 | The stop distance in points is not the same as the risk in ringgit. Risk is the distance times 25 ringgit times the number of contracts.
+S02.5 | A stop-loss must reflect invalidation, not an arbitrary number like ten points for every setup.
+S02.6 | And no stop placement can guarantee protection against gaps or slippage.
+S03.1 | See the difference between the planned stop and the actual fill price.
+S03.2 | The plan: a stop at 4,490, a loss of 10 points, or 250 ringgit.
+S03.3 | In a fast market, the stop order might fill at 4,486. Four points of slippage make the loss 350 ringgit.
+S03.4 | If price opens with a gap at 4,478, the loss becomes 22 points, which is 550 ringgit.
+S03.5 | So position size must leave room for realistic execution conditions.
+S04.1 | Structural stop-losses. Five approaches.
+S04.2 | For a bullish setup, below a relevant swing low. For a bearish setup, above a relevant swing high.
+S04.3 | Beyond the invalidation boundary of the selected POI.
+S04.4 | Beyond the extreme of a meaningful liquidity sweep, as in all our examples.
+S04.5 | Or beyond the structural level that your trading model requires.
+S04.6 | Stop placement depends on the setup. Don't use the same stop location for every setup.
+S05.1 | A buffer is extra distance beyond the structural level.
+S05.2 | Traders use a buffer because of volatility, tick size, spread, slippage and execution conditions.
+S05.3 | With a one-point buffer below the 4,491 sweep low, the stop is at 4,490. The risk is 10 points, 250 ringgit, so two contracts.
+S05.4 | With an arbitrary ten-point buffer, the stop is at 4,481. The risk is 19 points, 475 ringgit, so only one contract.
+S05.5 | A large buffer is not automatically safer. It reduces position size and RR. Whatever its size, the buffer must be included in the position-size calculation.
+S06.1 | Invalidation: what cancels the original thesis?
+S06.2 | On the left, a temporary wick trades through the level, but price closes back and is accepted above it. For some models, this does not yet invalidate the thesis.
+S06.3 | On the right, price closes and is accepted below the zone. The structure supporting the thesis has been broken.
+S06.4 | Higher-timeframe and lower-timeframe invalidation are also different. The invalidation criteria must be set before entry.
+S07.1 | One rule that must never be broken: do not move the stop-loss further away just to avoid taking a loss.
+S07.2 | Moving the stop from 4,490 to 4,470 changes the risk from 10 points to 30 points, three times as much, from 250 ringgit to 750 ringgit per contract.
+S07.3 | A widened stop is not risk management. It is a new plan made by emotion.
+S08.1 | Now the take-profit. The take-profit is the level where the position is closed at a profit.
+S08.2 | The target must be set before entry, so that the risk-to-reward can be calculated and the decision is not made by emotion.
+S08.3 | A fixed target uses a set distance, for example 2R. A structure- or liquidity-based target uses a logical market level.
+S08.4 | In the CMI SOP, every target must have a market reference that can be explained.
+S09.1 | Liquidity-based target references.
+S09.2 | Buy-Side and Sell-Side Liquidity. Equal Highs and Equal Lows.
+S09.3 | The Previous Day High and Low. The Previous Week High and Low.
+S09.4 | Major swing highs and swing lows.
+S09.5 | Opposing liquidity, and relevant higher-timeframe structural levels.
+S09.6 | Remember, liquidity levels are potential objectives, not guaranteed price destinations.
+S10.1 | Target selection for bullish and bearish setups.
+S10.2 | For a long, the first target is the nearest opposing liquidity, for example Equal Highs. The second target might be PDH.
+S10.3 | For a short, the target is Sell-Side Liquidity below, for example Equal Lows, then PDL.
+S10.4 | Also check for obstacles: if there is opposing liquidity very close to the entry, there may not be enough room for reward.
+S11.1 | Six take-profit methods.
+S11.2 | One, a fixed target: easy to test, but it ignores structure. Two, a liquidity target: it has a market reference, but price may reverse just before reaching it.
+S11.3 | Three, partials: they lock in part of the profit, but reduce the realised RR.
+S11.4 | Four, a trailing stop: it lets big moves run, but can exit too early during a retracement.
+S11.5 | Five, a structure-based exit: exit when opposing structure appears. Six, a time-based exit: exit after a set period or at the end of the session.
+S11.6 | Every method changes the realised RR, and suits different conditions.
+S12.1 | A full trade-management animation. We use two contracts so the partial can be shown: entry, initial stop, TP1, partial exit, stop adjustment, TP2 and final exit.
+S14.4 | TP1 at 4,510, at 1R, for a partial exit. The final target is 4,530, the next opposing liquidity, at 3R.
+S16.1 | Now an example where price hits the stop-loss before the target. This bearish setup looks just as good as the previous one.
+S19.5 | Losses are a normal part of trading. The purpose of risk management is to control exposure, not to eliminate every loss.
+S20.1 | A hypothetical FCPO example. Long entry at 4,500, structural stop-loss at 4,490, and an initial target of 4,520.
+S20.2 | The stop distance is 10 points. The target distance is 20 points. Gross reward-to-risk is 2 to 1.
+S20.3 | For a standard FCPO contract of 25 metric tonnes, one point is worth 25 ringgit per contract. A 10-point adverse move is worth 250 ringgit, and a 20-point favourable move is worth 500 ringgit.
+S20.4 | These are gross price-movement calculations, before brokerage, exchange fees, taxes where applicable, slippage and other costs. The actual result may differ because of execution.
+S21.2 | Question one: why should the stop-loss be based on predefined invalidation?
+S21.3 | Answer: so the stop marks where the thesis is wrong, and the position size can be calculated before entry.
+S21.4 | Question two: how is liquidity used for targets?
+S21.5 | Answer: use opposing liquidity, such as Equal Highs, Equal Lows, PDH or PDL, as potential objectives, not guaranteed ones.
+S21.6 | Question three: is a larger buffer automatically safer?
+S21.7 | Answer: no. It increases the ringgit risk per contract, and reduces size and RR. Include the buffer in the size calculation.
+S22.2 | The stop-loss is structural invalidation set in advance. Never widen it.
+S22.3 | Buffers and slippage are part of the ringgit risk.
+S22.4 | Targets need a market reference. Liquidity is a potential objective, not a guaranteed one.
+S22.5 | Six take-profit methods, each changing the realised RR. Losses are normal.
+S23.2 | Exercise five: long from the FVG at 4,498 to 4,502, with a sweep low at 4,491. Where is the invalidation, where is the stop with a one-point buffer, and what is the risk in ringgit?
+S23.3 | Exercise six: long from 4,500, with Equal Highs at 4,520 and PDH at 4,560. Choose TP1 and TP2, and justify each one.
+S24.1 | In Video 11, the sixth subtopic: Risk-to-Reward, win rate, expectancy, costs, position sizing, and the difference between margin and risk.
+S26.1 | Trading futures involves the risk of loss. See you in Video 11.
