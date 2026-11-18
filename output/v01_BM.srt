@@ -1,291 +1,235 @@
 1
-00:00:03,900 --> 00:00:08,491
-Bagaimana seseorang boleh berdagang harga minyak sawit tanpa perlu memiliki minyak sawit itu
+00:00:03,900 --> 00:00:08,924
+Bagaimana seseorang boleh berdagang harga minyak sawit tanpa perlu memiliki minyak sawit itu sendiri?
 
 2
-00:00:08,491 --> 00:00:09,140
-sendiri?
+00:00:09,414 --> 00:00:14,822
+Jawapannya terletak pada salah satu instrumen teras dunia komoditi: kontrak niaga hadapan, atau futures contract.
 
 3
-00:00:09,710 --> 00:00:14,028
-Jawapannya terletak pada salah satu instrumen teras dunia komoditi: kontrak niaga hadapan,
+00:00:16,472 --> 00:00:22,240
+Dalam video ini, kita lihat apa itu kontrak niaga hadapan, mengapa ia wujud, dan siapa yang menggunakannya.
 
 4
-00:00:14,028 --> 00:00:15,334
-atau futures contract.
-
-5
-00:00:17,034 --> 00:00:21,145
-Dalam video ini, kita lihat apa itu kontrak niaga hadapan, mengapa ia wujud,
-
-6
-00:00:21,145 --> 00:00:23,018
-dan siapa yang menggunakannya.
-
-7
-00:00:25,518 --> 00:00:27,897
+00:00:24,690 --> 00:00:26,977
 Mari mulakan dengan satu masalah sebenar.
 
-8
-00:00:27,897 --> 00:00:32,558
+5
+00:00:26,977 --> 00:00:31,466
 Bayangkan pengeluar minyak sawit yang akan menjual hasilnya tiga bulan lagi.
 
-9
-00:00:32,728 --> 00:00:37,680
+6
+00:00:31,556 --> 00:00:36,316
 Pengeluar ini risau: bagaimana jika harga minyak sawit mentah jatuh sebelum itu?
 
-10
-00:00:37,850 --> 00:00:39,063
-Pada masa yang sama,
+7
+00:00:36,406 --> 00:00:43,182
+Pada masa yang sama, kilang penapisan yang perlu membeli minyak sawit risau sebaliknya: bagaimana jika harga naik?
 
-11
-00:00:39,063 --> 00:00:44,337
-kilang penapisan yang perlu membeli minyak sawit risau sebaliknya: bagaimana jika harga
+8
+00:00:43,272 --> 00:00:49,040
+Kedua-duanya berdepan perkara yang sama: risiko harga. Tiada siapa tahu harganya tiga bulan lagi.
 
-12
-00:00:44,337 --> 00:00:44,890
-naik?
-
-13
-00:00:45,060 --> 00:00:48,285
-Kedua-duanya berdepan perkara yang sama: risiko harga.
-
-14
-00:00:48,285 --> 00:00:51,044
-Tiada siapa tahu harganya tiga bulan lagi.
-
-15
-00:00:52,744 --> 00:00:56,107
+9
+00:00:50,690 --> 00:00:53,922
 Kontrak niaga hadapan ialah perjanjian seragam yang mengikat,
 
-16
-00:00:56,107 --> 00:01:00,408
+10
+00:00:53,922 --> 00:00:58,054
 untuk membeli atau menjual sesuatu aset pada harga yang dipersetujui hari ini,
 
-17
-00:01:00,408 --> 00:01:02,808
+11
+00:00:58,054 --> 00:01:00,370
 bagi tarikh tertentu pada masa hadapan.
 
-18
-00:01:02,978 --> 00:01:06,526
+12
+00:01:00,460 --> 00:01:03,859
 Ia didagangkan di bursa yang dikawal selia, jadi kuantiti,
 
-19
-00:01:06,526 --> 00:01:10,690
+13
+00:01:03,859 --> 00:01:07,860
 kualiti dan terma penghantaran adalah sama untuk setiap peserta.
 
-20
-00:01:10,860 --> 00:01:14,985
-Aset yang menjadi asas kontrak dipanggil underlying asset.
+14
+00:01:07,950 --> 00:01:15,854
+Aset yang menjadi asas kontrak dipanggil underlying asset. Bagi FCPO, underlying asset ialah minyak sawit mentah.
 
-21
-00:01:14,985 --> 00:01:19,076
-Bagi FCPO, underlying asset ialah minyak sawit mentah.
-
-22
-00:01:20,776 --> 00:01:23,565
+15
+00:01:17,504 --> 00:01:20,180
 Pasaran futures berkembang daripada keperluan ini.
 
-23
-00:01:23,565 --> 00:01:27,552
+16
+00:01:20,180 --> 00:01:24,016
 Pengeluar dan pembeli mahukan cara untuk mengunci harga lebih awal.
 
-24
-00:01:27,722 --> 00:01:32,598
-Jadi perjalanannya begini: minyak sawit fizikal, kontrak futures berasaskannya,
+17
+00:01:24,106 --> 00:01:30,436
+Jadi perjalanannya begini: minyak sawit fizikal, kontrak futures berasaskannya, pendedahan kepada harganya,
 
-25
-00:01:32,598 --> 00:01:37,786
-pendedahan kepada harganya, dan akhirnya, lindung nilai terhadap pendedahan itu.
+18
+00:01:30,436 --> 00:01:33,762
+dan akhirnya, lindung nilai terhadap pendedahan itu.
 
-26
-00:01:37,956 --> 00:01:41,380
+19
+00:01:33,852 --> 00:01:37,141
 Kontrak ini membolehkan peserta menguruskan risiko harga hari ini,
 
-27
-00:01:41,380 --> 00:01:44,276
+20
+00:01:37,141 --> 00:01:39,932
 tanpa perlu menukar barangan fizikal pada hari ini.
 
-28
-00:01:45,976 --> 00:01:50,928
+21
+00:01:41,582 --> 00:01:46,342
 Penting untuk membezakan komoditi fizikal dengan kontrak futures.
 
-29
-00:01:51,098 --> 00:01:56,095
+22
+00:01:46,432 --> 00:01:51,231
 Membeli minyak sawit fizikal bermaksud membayar nilai penuh, kemudian menyimpan,
 
-30
-00:01:56,095 --> 00:01:58,594
+23
+00:01:51,231 --> 00:01:53,640
 mengangkut dan menjaga barangan itu.
 
-31
-00:01:58,764 --> 00:02:02,879
+24
+00:01:53,730 --> 00:01:57,669
 Posisi futures pula ialah obligasi kontrak yang dikaitkan dengan harga aset.
 
-32
-00:02:02,879 --> 00:02:07,460
+25
+00:01:57,669 --> 00:02:02,066
 Memegang posisi tidak bermaksud anda memiliki minyak sawit itu secara automatik.
 
-33
-00:02:07,630 --> 00:02:14,187
+26
+00:02:02,156 --> 00:02:08,449
 FCPO ialah kontrak penghantaran fizikal, namun ramai peserta, terutamanya trader runcit,
 
-34
-00:02:14,187 --> 00:02:16,870
+27
+00:02:08,449 --> 00:02:11,024
 menutup posisi sebelum penghantaran.
 
-35
-00:02:16,870 --> 00:02:19,206
+28
+00:02:11,024 --> 00:02:13,276
 Kita bincang dalam Video 05.
 
-36
-00:02:20,906 --> 00:02:26,218
+29
+00:02:14,926 --> 00:02:20,046
 Siapa yang menggunakan futures? Secara umumnya, dua kumpulan: hedger dan spekulator.
 
-37
-00:02:26,388 --> 00:02:28,819
+30
+00:02:20,136 --> 00:02:22,467
 Hedger, seperti pengeluar dan kilang penapisan,
 
-38
-00:02:28,819 --> 00:02:33,620
+31
+00:02:22,467 --> 00:02:27,080
 menggunakan futures untuk mengurangkan kesan perubahan harga terhadap perniagaan mereka.
 
-39
-00:02:33,790 --> 00:02:37,062
+32
+00:02:27,170 --> 00:02:30,289
 Contohnya, pengeluar boleh menjual futures hari ini.
 
-40
-00:02:37,062 --> 00:02:38,132
-Jika harga jatuh,
+33
+00:02:30,289 --> 00:02:37,018
+Jika harga jatuh, keuntungan pada posisi futures boleh membantu mengimbangi harga fizikal yang lebih rendah.
 
-41
-00:02:38,132 --> 00:02:44,046
-keuntungan pada posisi futures boleh membantu mengimbangi harga fizikal yang lebih rendah.
-
-42
-00:02:44,616 --> 00:02:47,760
+34
+00:02:37,508 --> 00:02:40,513
 Spekulator pula tiada perniagaan fizikal untuk dilindungi.
 
-43
-00:02:47,760 --> 00:02:51,826
-Mereka mengambil posisi untuk mencari keuntungan daripada pergerakan harga,
+35
+00:02:40,513 --> 00:02:46,204
+Mereka mengambil posisi untuk mencari keuntungan daripada pergerakan harga, dan menerima risiko kerugian.
 
-44
-00:02:51,826 --> 00:02:53,648
-dan menerima risiko kerugian.
-
-45
-00:02:53,818 --> 00:02:59,394
+36
+00:02:46,294 --> 00:02:51,630
 Aktiviti mereka menambah kecairan, memudahkan hedger mendapatkan pihak lawan.
 
-46
-00:03:00,994 --> 00:03:04,290
+37
+00:02:53,180 --> 00:02:56,332
 Futures wujud bagi pelbagai jenis aset.
 
-47
-00:03:04,460 --> 00:03:08,934
-Komoditi pertanian seperti minyak sawit mentah, soya dan gandum.
+38
+00:02:56,422 --> 00:03:04,024
+Komoditi pertanian seperti minyak sawit mentah, soya dan gandum. Tenaga seperti minyak mentah. Logam seperti emas.
 
-48
-00:03:08,934 --> 00:03:12,360
-Tenaga seperti minyak mentah. Logam seperti emas.
-
-49
-00:03:12,360 --> 00:03:16,036
+39
+00:03:04,024 --> 00:03:07,542
 Dan futures kewangan seperti stock index futures.
 
-50
-00:03:16,206 --> 00:03:20,640
-Setiap kontrak mempunyai spesifikasi tersendiri: saiz, tick value,
+40
+00:03:07,632 --> 00:03:14,414
+Setiap kontrak mempunyai spesifikasi tersendiri: saiz, tick value, waktu dagangan dan kaedah penyelesaian.
 
-51
-00:03:20,640 --> 00:03:23,260
-waktu dagangan dan kaedah penyelesaian.
-
-52
-00:03:23,260 --> 00:03:24,854
+41
+00:03:14,414 --> 00:03:15,944
 Semuanya tidak sama.
 
-53
-00:03:26,554 --> 00:03:29,562
+42
+00:03:17,594 --> 00:03:20,482
 Jadi, apa bezanya dengan pelaburan saham?
 
-54
-00:03:29,732 --> 00:03:32,539
-Saham mewakili pemilikan dalam sebuah syarikat,
+43
+00:03:20,572 --> 00:03:26,220
+Saham mewakili pemilikan dalam sebuah syarikat, dan biasanya boleh dipegang tanpa tarikh tamat.
 
-55
-00:03:32,539 --> 00:03:35,596
-dan biasanya boleh dipegang tanpa tarikh tamat.
-
-56
-00:03:35,766 --> 00:03:39,634
+44
+00:03:26,310 --> 00:03:30,015
 Kontrak futures ialah perjanjian yang mempunyai bulan tamat tempoh.
 
-57
-00:03:39,634 --> 00:03:43,406
+45
+00:03:30,015 --> 00:03:33,638
 Ia memberi pendedahan kepada harga, bukan pemilikan syarikat.
 
-58
-00:03:43,576 --> 00:03:47,955
+46
+00:03:33,728 --> 00:03:37,933
 Futures boleh dibeli atau dijual dahulu, dan didagangkan menggunakan margin.
 
-59
-00:03:47,955 --> 00:03:52,296
+47
+00:03:37,933 --> 00:03:42,112
 Ini mewujudkan leverage, yang membesarkan keuntungan dan juga kerugian.
 
-60
-00:03:54,196 --> 00:04:00,278
-Kontrak futures ialah perjanjian seragam untuk membeli atau menjual aset pada harga hari ini,
+48
+00:03:43,962 --> 00:03:51,314
+Kontrak futures ialah perjanjian seragam untuk membeli atau menjual aset pada harga hari ini, bagi tarikh hadapan.
 
-61
-00:04:00,278 --> 00:04:01,836
-bagi tarikh hadapan.
-
-62
-00:04:02,006 --> 00:04:05,686
+49
+00:03:51,404 --> 00:03:54,940
 Underlying asset ialah aset yang menjadi asas kontrak.
 
-63
-00:04:05,856 --> 00:04:11,528
+50
+00:03:55,030 --> 00:04:00,486
 Hedger menguruskan risiko harga, manakala spekulator mencari peluang dan menerima risiko.
 
-64
-00:04:11,698 --> 00:04:16,434
+51
+00:04:00,576 --> 00:04:05,120
 Memegang posisi futures tidak bermaksud anda memiliki komoditi secara automatik.
 
-65
-00:04:16,604 --> 00:04:20,186
-Futures mempunyai bulan tamat tempoh dan didagangkan dengan margin,
+52
+00:04:05,210 --> 00:04:10,162
+Futures mempunyai bulan tamat tempoh dan didagangkan dengan margin, yang mewujudkan leverage.
 
-66
-00:04:20,186 --> 00:04:21,772
-yang mewujudkan leverage.
-
-67
-00:04:21,942 --> 00:04:25,718
+53
+00:04:10,252 --> 00:04:13,884
 Dan setiap produk futures mempunyai spesifikasi tersendiri.
 
-68
-00:04:38,206 --> 00:04:42,366
+54
+00:04:25,912 --> 00:04:29,928
 Ini baru asas untuk memahami pasaran niaga hadapan.
 
-69
-00:04:42,536 --> 00:04:45,928
+55
+00:04:30,018 --> 00:04:33,266
 Kenali produk yang anda dagangkan sebelum mengambil sebarang risiko.
 
-70
-00:04:46,098 --> 00:04:49,538
+56
+00:04:33,356 --> 00:04:36,676
 Teruskan pembelajaran anda bersama Capital Market Institute.
 
-71
-00:04:51,238 --> 00:04:57,390
+57
+00:04:38,326 --> 00:04:44,238
 Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.
 
-72
-00:05:00,090 --> 00:05:05,621
+58
+00:04:46,888 --> 00:04:52,189
 Untuk tujuan pendidikan sahaja. Ini bukan nasihat kewangan atau jaminan keuntungan.
 
-73
-00:05:05,621 --> 00:05:09,602
+59
+00:04:52,189 --> 00:04:56,016
 Dagangan futures melibatkan risiko kerugian yang tinggi.

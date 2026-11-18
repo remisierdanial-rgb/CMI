@@ -19,15 +19,39 @@ def clip_path(text, lang):
     d = os.path.join(ROOT, 'build', 'cache'); os.makedirs(d, exist_ok=True)
     return os.path.join(d, f'{lang}_{h}.mp3')
 
-async def synth_one(text, lang, path):
+async def _try(text, lang, path, tries):
     v, r = VOICE[lang]
-    for attempt in range(20):
+    for attempt in range(tries):
         try:
             await edge_tts.Communicate(text, v, rate=r).save(path + '.tmp')
-            os.replace(path + '.tmp', path); return
-        except Exception as e:
-            await asyncio.sleep(1 + attempt * .5)
-    raise RuntimeError('TTS failed: ' + text[:60])
+            if os.path.getsize(path + '.tmp') > 1000:
+                os.replace(path + '.tmp', path); return True
+        except Exception:
+            pass
+        await asyncio.sleep(1 + attempt * .5)
+    return False
+
+async def synth_one(text, lang, path):
+    if await _try(text, lang, path, 8): return
+    # Fallback: the service intermittently refuses long inputs; synthesise
+    # sentence/clause parts separately and join them with a short pause.
+    import re
+    parts = [p.strip() for p in re.split(r'(?<=[.?!,:;])\s+', text) if p.strip()]
+    if len(parts) < 2: raise RuntimeError('TTS failed: ' + text[:60])
+    files = []
+    for i, p in enumerate(parts):
+        f = f'{path}.part{i}.mp3'
+        if not await _try(p, lang, f, 12): raise RuntimeError('TTS failed: ' + p[:60])
+        files.append(f)
+    lst = path + '.txt'
+    sil = path + '.sil.mp3'
+    subprocess.check_call(['ffmpeg', '-v', 'error', '-y', '-f', 'lavfi', '-i', 'anullsrc=r=24000:cl=mono', '-t', '0.18', '-c:a', 'libmp3lame', sil])
+    with open(lst, 'w') as fh:
+        for i, f in enumerate(files):
+            fh.write(f"file '{f}'\n")
+            if i < len(files) - 1: fh.write(f"file '{sil}'\n")
+    subprocess.check_call(['ffmpeg', '-v', 'error', '-y', '-f', 'concat', '-safe', '0', '-i', lst, '-ar', '24000', '-ac', '1', '-c:a', 'libmp3lame', '-b:a', '64k', path])
+    for f in files + [lst, sil]: os.remove(f)
 
 def duration(p):
     out = subprocess.check_output(['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', p])

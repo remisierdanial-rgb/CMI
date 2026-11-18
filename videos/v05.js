@@ -20,13 +20,13 @@ VIDEO({
       ['Why can a price move of just RM1 make a RM25 difference to one FCPO contract?','Kenapa pergerakan harga RM1 sahaja boleh memberikan kesan RM25 kepada satu kontrak FCPO?',.4],
       ['It all comes down to the contract specifications.','Semuanya bergantung pada spesifikasi kontrak.',.6],
     ],
-    dir:'A price ticker steps 4,000 → 4,001 (blue flash). Beside it, a P&L counter jumps RM0 → RM25. Repeats once quickly to 4,002 / RM50. Line 2: a spec-sheet card slides in from the right with its title "FCPO · Contract Specifications".',
+    dir:'A price ticker steps 4,000 → 4,001 → 4,002 (blue flash). Beside it, a P&L counter jumps RM0 → +RM25 → +RM50. Line 2: a spec-sheet card slides up, titled "FCPO · Contract Specifications".',
     build(S){
       const px=S.add(`<div class="fbox" style="font-size:92px;padding:30px 50px">4,000</div>`,{x:300,y:330,at:.3,anim:'pop'});
       S.add(`<div class="small">Harga FCPO · RM/MT</div>`,{x:305,y:280,at:.4});
       const pl=S.add(`<div class="fbox" style="font-size:92px;padding:30px 50px;border-color:var(--up)">RM0</div>`,{x:1060,y:330,at:.8,anim:'pop'});
       S.add(`<div class="small">Kesan · 1 kontrak</div>`,{x:1065,y:280,at:.9});
-      S.step(1.8,on=>{px.textContent=on?(S._t>=3.2?'4,002':'4,001'):'4,000';pl.innerHTML=on?`<span class="up">+RM${S._t>=3.2?50:25}</span>`:'RM0';});
+      S.step(1.8,on=>{const two=S._t>=3.2;px.textContent=on?(two?'4,002':'4,001'):'4,000';pl.innerHTML=on?`<span class="up">+RM${two?50:25}</span>`:'RM0';});
       S.add(`<div class="chip blue" style="font-size:28px">+RM1 / MT</div>`,{x:390,y:560,at:1.8,anim:'pop'});
       S.add(`<div class="card hl" style="padding:24px 30px;font:700 30px var(--sans)">FCPO · Contract Specifications</div>`,{x:620,y:700,w:680,at:S.c(1,.2),anim:'up'});
     }
@@ -34,10 +34,10 @@ VIDEO({
   scenes:[
   {id:'what',label:'APA ITU FCPO',lines:[
     ['FCPO, or Crude Palm Oil Futures, is a futures contract on crude palm oil, traded on Bursa Malaysia Derivatives.','FCPO, atau Crude Palm Oil Futures, ialah kontrak niaga hadapan bagi minyak sawit mentah, yang didagangkan di Bursa Malaysia Derivatives.'],
-    ['Malaysia is one of the world\'s largest palm oil producers, so the industry needs a local, transparent market to price and hedge crude palm oil.','Malaysia ialah antara pengeluar minyak sawit terbesar dunia, jadi industri memerlukan pasaran tempatan yang telus untuk menentukan harga dan melindung nilai minyak sawit mentah.'],
+    ['Malaysia is one of the world\'s largest palm oil producers, so the industry needs a transparent local market to price and hedge crude palm oil.','Malaysia ialah antara pengeluar minyak sawit terbesar dunia, jadi industri memerlukan pasaran tempatan yang telus untuk menentukan harga dan melindung nilai minyak sawit mentah.'],
     ['Follow the journey: from the plantation, to the mill, to crude palm oil, to a standardised futures contract, and finally to the trading screen.','Ikuti perjalanannya: dari ladang, ke kilang, ke minyak sawit mentah, ke kontrak futures yang seragam, dan akhirnya ke skrin dagangan.',.6],
   ],
-  dir:'Animated journey, five stations left→right: Ladang sawit (palm) → Kilang (factory) → CPO (drum) → Kontrak FCPO (doc) → Skrin dagangan (screen). A glowing token travels the path; each station lights as named.',
+  dir:'Animated journey, five stations left→right: Ladang sawit → Kilang → CPO → Kontrak FCPO → Skrin dagangan. Each station lights as named; arrows draw between them.',
   build(S){
     C.title(S,{kicker:'Crude Palm Oil Futures',title:'Dari ladang ke skrin dagangan',at:.1});
     const sv=C.svg(S);
@@ -47,7 +47,7 @@ VIDEO({
       const x=110+i*360;
       const n=C.node(S,{x,y:400,w:300,h:220,title:s[1],sub:s[2],icon:s[0](64),at:i<1?S.c(0,.4):L+i*seg});
       S.step(L+i*seg,on=>n.classList.toggle('hl',on));
-      if(i<4){C.arrow(S,sv,{x1:x+305,y1:510,x2:x+355,y2:510,at:L+i*seg+.3,d:.4,w:3});}
+      if(i<4)C.arrow(S,sv,{x1:x+305,y1:510,x2:x+355,y2:510,at:L+i*seg+.3,d:.4,w:3});
     });
     S.add(`<div class="tag blue" style="font-size:22px">Bursa Malaysia Derivatives · FCPO</div>`,{x:110,y:300,at:S.c(0,1),anim:'pop'});
     S.add(`<div class="tag" style="font-size:20px">Harga telus · lindung nilai · penanda aras</div>`,{x:110,y:690,at:S.c(1,2),anim:'pop'});
@@ -58,7 +58,7 @@ VIDEO({
     ['Prices are quoted in Ringgit per metric tonne. The minimum price fluctuation is RM1 per tonne, so the tick value is RM25 per contract.','Harga disebut dalam Ringgit setiap tan metrik. Turun naik harga minimum ialah RM1 setan, jadi tick value ialah RM25 setiap kontrak.'],
     ['And the settlement method is physical delivery.','Dan kaedah penyelesaian ialah penghantaran fizikal, atau physical delivery.',.8],
   ],
-  dir:'Spec sheet card (two-column table) builds row by row with the narration: Contract code · Underlying asset · Contract size · Pricing unit · Minimum price fluctuation · Tick value · Settlement method. Active row glows blue. Footer: "Sumber: Bursa Malaysia — sentiasa rujuk spesifikasi terkini".',
+  dir:'Spec sheet card builds row by row with the narration: Contract code · Underlying asset · Contract size · Pricing unit · Minimum price fluctuation · Tick value · Settlement method. Active row glows blue. Footer: source note.',
   build(S){
     C.title(S,{kicker:'FCPO · Contract specifications',title:'Spesifikasi teras',at:.1});
     const card=C.card(S,{x:110,y:270,w:1700,h:590,at:S.c(0,.3),cls:'hl'});
@@ -72,9 +72,9 @@ VIDEO({
   }},
   {id:'size',label:'SAIZ KONTRAK',lines:[
     ['Twenty-five metric tonnes is twenty-five thousand kilograms of crude palm oil, in a single contract.','Dua puluh lima tan metrik bersamaan dua puluh lima ribu kilogram minyak sawit mentah, dalam satu kontrak.'],
-    ['Every price you see on the screen is per tonne, but your exposure is always for the full 25 tonnes, multiplied by the number of contracts.','Setiap harga di skrin adalah setan, tetapi pendedahan anda sentiasa bagi 25 tan penuh, didarab dengan bilangan kontrak.',.8],
+    ['Every price on the screen is per tonne, but your exposure is always for the full 25 tonnes, multiplied by the number of contracts.','Setiap harga di skrin adalah setan, tetapi pendedahan anda sentiasa bagi 25 tan penuh, didarab dengan bilangan kontrak.',.8],
   ],
-  dir:'25 storage-tank icons arranged 5×5 fill in, counter "0 → 25 MT · 25,000 kg". Line 2: the price label "RM/MT" on the left is multiplied into the whole grid: "× 25 MT × bil. kontrak".',
+  dir:'25 storage-tank icons (5×5) fill in with a counter 0 → 25 MT · 25,000 kg. Line 2: formula box "Harga (RM/MT) × 25 MT × bil. kontrak".',
   build(S){
     C.title(S,{kicker:'Contract size',title:'1 kontrak = 25 tan metrik',at:.1});
     for(let i=0;i<25;i++)S.add(`<div style="display:flex;flex-direction:column;align-items:center">${C.icon.drum(58)}<div style="font:600 14px var(--mono);color:var(--slate2);margin-top:2px">1 MT</div></div>`,{x:150+(i%5)*120,y:280+Math.floor(i/5)*112,w:100,at:S.c(0,.4)+i*.1,anim:'pop',d:.4});
@@ -88,15 +88,15 @@ VIDEO({
     ['Because one contract is 25 tonnes, one tick is worth RM25 per contract.','Oleh kerana satu kontrak ialah 25 tan, satu tick bernilai RM25 bagi setiap kontrak.'],
     ['So a RM10 move is RM250. A RM20 move is RM500. And a RM50 move is RM1,250, for every contract, up or down.','Jadi pergerakan RM10 ialah RM250. Pergerakan RM20 ialah RM500. Dan pergerakan RM50 ialah RM1,250, bagi setiap kontrak, naik atau turun.',.8],
   ],
-  dir:'Left: vertical price ladder (4,000 … 4,050) with a cursor that steps up tick by tick; each step pops a "+RM25" chip. Right: table builds row by row — RM1 → RM25, RM10 → RM250, RM20 → RM500, RM50 → RM1,250. "Naik atau turun" tag at the end.',
+  dir:'Left: price ladder (4,000 … 4,050) with a glowing cursor stepping up tick by tick; a chip counts "+n tick · +RMx". Right: table builds — RM1 → RM25, RM10 → RM250, RM20 → RM500, RM50 → RM1,250. Amber tag: naik atau turun.',
   build(S){
     C.title(S,{kicker:'Tick size & tick value',title:'RM1 setan = RM25 sekontrak',at:.1});
     const lad=C.card(S,{x:110,y:270,w:560,h:590,at:S.c(0,.2)});
     for(let i=0;i<6;i++){S.add(`<div style="font:600 30px var(--mono);color:var(--slate2)">${C.fmt(4050-i*10)}</div>`,{parent:lad,x:60,y:40+i*96,at:S.c(0,.4)+i*.06});
       S.add(`<div style="height:1px;background:var(--line);width:300px"></div>`,{parent:lad,x:200,y:58+i*96,at:S.c(0,.4)});}
     const cur=S.add(`<div style="height:6px;width:320px;background:var(--blue2);border-radius:3px;box-shadow:0 0 18px rgba(59,130,246,.8)"></div>`,{parent:lad,x:190,y:535,at:S.c(0,1.2),anim:'fade'});
-    const tag=S.add(`<div class="chip up" style="font-size:24px">+RM0</div>`,{parent:lad,x:300,y:460,at:S.c(1,.2),anim:'pop'});
-    S.tween(S.c(1,.2),S.e(2)-S.c(1,.2)-.5,p=>{const mv=Math.round(50*p);cur.style.top=(535-mv*9.6)+'px';tag.style.top=(470-mv*9.6)+'px';tag.textContent=`+${mv} tick · +RM${C.fmt(mv*25)}`;},'inout');
+    const tag=S.add(`<div class="chip up" style="font-size:24px">+RM0</div>`,{parent:lad,x:200,y:470,at:S.c(1,.2),anim:'pop'});
+    S.tween(S.c(1,.2),S.e(2)-S.c(1,.2)-.5,p=>{const mv=Math.round(50*p);cur.style.top=(535-mv*9.6)+'px';tag.style.top=(480-mv*9.6)+'px';tag.textContent=`+${mv} tick · +RM${C.fmt(mv*25)}`;},'inout');
     const T=[['RM1','RM25',S.c(1,.4)],['RM10','RM250',S.c(2,.2)],['RM20','RM500',S.c(2,2)],['RM50','RM1,250',S.c(2,3.8)]];
     S.add(`<div style="display:grid;grid-template-columns:420px 420px;font:600 22px var(--mono);color:var(--slate2);letter-spacing:.1em"><div>PERGERAKAN / MT</div><div>NILAI / KONTRAK</div></div>`,{x:780,y:290,at:S.c(1,.2)});
     T.forEach((t,i)=>S.add(`<div style="display:grid;grid-template-columns:420px 420px;align-items:center;height:110px;border-top:1px solid var(--line)"><div style="font:700 52px var(--mono)">${t[0]}</div><div style="font:800 52px var(--mono)" class="blue">${t[1]}</div></div>`,{x:780,y:340+i*112,at:t[2],anim:'left'}));
@@ -106,7 +106,7 @@ VIDEO({
     ['Now contract value. At RM4,000 per tonne, one contract is worth RM4,000 times 25, or RM100,000.','Sekarang nilai kontrak. Pada RM4,000 setan, satu kontrak bernilai RM4,000 darab 25, iaitu RM100,000.'],
     ['Contract value is not the same as the margin needed to open a position. Margin is only a portion of it, set by clearing house requirements and your broker, and it can change.','Nilai kontrak tidak sama dengan margin yang diperlukan untuk membuka posisi. Margin hanyalah sebahagian daripadanya, ditetapkan oleh keperluan clearing house dan broker anda, dan ia boleh berubah.',.8],
   ],
-  dir:'Formula card: RM4,000 × 25 MT = RM100,000 (count-up). Below, a full-width CONTRACT VALUE bar with a small MARGIN segment highlighted and a "≠" between labels. Amber chip: "Margin ditetapkan oleh clearing house & broker · boleh berubah" (→ Video 06).',
+  dir:'Formula box: RM4,000 × 25 MT = RM100,000 (count-up). Below: full-width CONTRACT VALUE bar with a small solid MARGIN segment. Amber chip: margin set by clearing house & broker, can change (→ Video 06).',
   build(S){
     C.title(S,{kicker:'Contract value',title:'Nilai kontrak bukan margin',at:.1});
     const f=S.add(`<div class="fbox" style="font-size:56px">RM4,000 × 25 MT = <b>RM0</b></div>`,{x:110,y:300,at:S.c(0,.6),anim:'pop'});
@@ -122,7 +122,7 @@ VIDEO({
     ['If a position is carried into the delivery process, the exchange\'s delivery obligations and procedures apply. Sellers must deliver crude palm oil that meets the contract standards, and buyers must take delivery and pay for it.','Jika posisi dibawa ke proses penghantaran, obligasi dan prosedur penghantaran bursa terpakai. Penjual mesti menghantar minyak sawit mentah yang memenuhi standard kontrak, dan pembeli mesti menerima serta membayarnya.'],
     ['That is why retail traders generally close their positions before delivery-related obligations become relevant, subject to their broker\'s policies.','Sebab itulah trader runcit lazimnya menutup posisi sebelum obligasi berkaitan penghantaran menjadi relevan, tertakluk kepada polisi broker masing-masing.',.8],
   ],
-  dir:'Contract-life timeline: Dagangan aktif → Last trading day → Proses penghantaran (tank/ship icons). A "Physical delivery · bukan cash settlement" tag. Line 2: seller and buyer obligation chips at the delivery end. Line 3: a blue marker "Trader runcit: tutup posisi lebih awal" placed before the last trading day, with footnote "tertakluk polisi broker" and pointer to Video 07.',
+  dir:'Contract-life timeline: Dagangan aktif → Last trading day → Proses penghantaran (amber zone with tank/ship icons). Tags: Physical delivery · ≠ Cash settlement. Seller/buyer obligation cards. Blue marker before last trading day: "Trader runcit: lazimnya tutup lebih awal · tertakluk polisi broker".',
   build(S){
     C.title(S,{kicker:'Settlement method',title:'Physical delivery — fahami tanggungjawabnya',at:.1,w:1700});
     S.add(`<div class="tag blue" style="font-size:22px">Physical delivery</div>`,{x:110,y:280,at:S.c(0,.4),anim:'pop'});
@@ -134,9 +134,9 @@ VIDEO({
     S.add(`<div style="width:4px;height:120px;background:var(--white)"></div>`,{x:1210,y:480,at:S.c(1,.9),anim:'wipev'});
     S.add(`<div class="small" style="width:240px">Last trading day</div>`,{x:1020,y:440,at:S.c(1,.9)});
     S.add(`<div style="display:flex;gap:20px">${C.icon.drum(60,'#F5A524')}${C.icon.ship(60,'#F5A524')}</div>`,{x:1430,y:300,at:S.c(1,1.2),anim:'pop'});
-    S.add(`<div class="h3 warn" style="color:var(--warn)">Proses penghantaran</div>`,{x:1250,y:400,at:S.c(1,1.2)});
-    S.add(`<div class="card" style="padding:18px 22px"><div class="small down" style="color:var(--down)">Penjual</div><div class="body" style="font-size:22px;margin-top:4px">Hantar CPO ikut standard kontrak</div></div>`,{x:1240,y:650,w:500,at:S.c(1,4.6),anim:'up'});
-    S.add(`<div class="card" style="padding:18px 22px"><div class="small up" style="color:var(--up)">Pembeli</div><div class="body" style="font-size:22px;margin-top:4px">Terima penghantaran & bayar</div></div>`,{x:1240,y:770,w:500,at:S.c(1,7),anim:'up'});
+    S.add(`<div class="h3" style="color:var(--warn)">Proses penghantaran</div>`,{x:1250,y:400,at:S.c(1,1.2)});
+    S.add(`<div class="card" style="padding:18px 22px"><div class="small" style="color:var(--down)">Penjual</div><div class="body" style="font-size:22px;margin-top:4px">Hantar CPO ikut standard kontrak</div></div>`,{x:1240,y:650,w:500,at:S.c(1,4.6),anim:'up'});
+    S.add(`<div class="card" style="padding:18px 22px"><div class="small" style="color:var(--up)">Pembeli</div><div class="body" style="font-size:22px;margin-top:4px">Terima penghantaran & bayar</div></div>`,{x:1240,y:770,w:500,at:S.c(1,7),anim:'up'});
     S.add(`<div style="width:4px;height:120px;background:var(--blue2);box-shadow:0 0 16px rgba(59,130,246,.8)"></div>`,{x:900,y:480,at:S.c(2,.6),anim:'wipev'});
     S.add(`<div class="chip blue" style="font-size:22px">Trader runcit: lazimnya tutup lebih awal</div>`,{x:520,y:660,at:S.c(2,1),anim:'pop'});
     S.add(`<div class="small">Tertakluk polisi broker · bulan kontrak → Video 07</div>`,{x:520,y:740,at:S.c(2,3)});
@@ -145,10 +145,10 @@ VIDEO({
     ['Why does all of this matter? Because the specifications tell you exactly what you are trading.','Mengapa semua ini penting? Kerana spesifikasi memberitahu dengan tepat apa yang anda dagangkan.'],
     ['How much each tick is worth, how large your exposure is, and what obligations come with the contract.','Berapa nilai setiap tick, berapa besar pendedahan anda, dan apakah obligasi yang datang bersama kontrak.',.8],
   ],
-  dir:'Three large stat tiles: RM25 / tick · RM100,000 exposure (example) · Physical delivery obligation. Each tile pops in with its label.',
+  dir:'Three stat tiles pop in with narration: RM25 / tick · RM100,000 exposure (example) · Delivery obligation.',
   build(S){
     C.title(S,{kicker:'Mengapa spesifikasi penting',title:'Tahu apa yang anda dagangkan',at:.1});
-    [['RM25','setiap tick, setiap kontrak'],['RM100,000','pendedahan · contoh @ RM4,000'],['Delivery','obligasi penghantaran fizikal']].forEach((t,i)=>S.add(`<div class="card ${i===0?'hl':''}"><div style="position:absolute;left:36px;top:60px;font:800 64px var(--mono)" class="${i===2?'warn':'blue'}">${t[0]}</div><div class="small" style="position:absolute;left:36px;top:170px;width:470px">${t[1]}</div></div>`,{x:110+i*580,y:330,w:540,h:280,at:S.c(1,.2+i*1.6),anim:'up'}));
+    [['RM25','setiap tick, setiap kontrak'],['RM100,000','pendedahan · contoh @ RM4,000'],['Delivery','obligasi penghantaran fizikal']].forEach((t,i)=>S.add(`<div class="card ${i===0?'hl':''}"><div style="position:absolute;left:36px;top:60px;font:800 64px var(--mono);color:${i===2?'var(--warn)':'var(--blue3)'}">${t[0]}</div><div class="small" style="position:absolute;left:36px;top:170px;width:470px">${t[1]}</div></div>`,{x:110+i*580,y:330,w:540,h:280,at:S.c(1,.2+i*1.6),anim:'up'}));
   }},
   ],
   takeaways:[
