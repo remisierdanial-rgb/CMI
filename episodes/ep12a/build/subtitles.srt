@@ -1,0 +1,463 @@
+1
+00:00:00,750 --> 00:00:07,086
+Selamat datang ke Video 12A. Kita aplikasikan semua enam subtopik dalam kajian kes FCPO.
+
+2
+00:00:07,166 --> 00:00:13,850
+Bahagian A mengandungi empat kes: scalping bullish, scalping bearish, intraday bullish dan intraday bearish.
+
+3
+00:00:13,930 --> 00:00:21,072
+Setiap kes mengikut SOP penuh: konteks, liquidity, pengesahan, pelan, hasil dan rekod jurnal.
+
+4
+00:00:21,152 --> 00:00:27,627
+Semua kes adalah hipotetikal. Hentikan video pada setiap titik keputusan dan buat pelan anda sendiri dahulu.
+
+5
+00:00:29,907 --> 00:00:31,878
+Cara menggunakan kajian kes ini.
+
+6
+00:00:31,958 --> 00:00:40,561
+Pada setiap carta, bahagian kanan disembunyikan. Hentikan video dan tulis pelan anda: entry, stop-loss, sasaran dan RR.
+
+7
+00:00:40,641 --> 00:00:43,866
+Kemudian teruskan, dan bandingkan dengan pelan CMI.
+
+8
+00:00:43,946 --> 00:00:52,274
+Selepas hasil didedahkan, nilai proses, bukan hasil. Dagangan yang kalah tetapi mengikut pelan ialah dagangan yang dilaksanakan dengan baik.
+
+9
+00:00:54,054 --> 00:01:03,082
+Kes satu: scalping bullish. Konteks 1H dan 30M berpotensi bullish. Kita merancang dua kontrak.
+
+10
+00:01:03,162 --> 00:01:10,155
+Carta 15M menunjukkan POI bullish di sekitar 4,435 hingga 4,442.
+
+11
+00:01:10,235 --> 00:01:16,957
+Di atas, dua high pada 4,464 membentuk Equal Highs, iaitu potensi Buy-Side Liquidity.
+
+12
+00:01:17,037 --> 00:01:25,133
+Di bawah, dua low pada 4,441 membentuk Equal Lows, potensi Sell-Side Liquidity, yang terletak di dalam POI.
+
+13
+00:01:25,213 --> 00:01:32,949
+Struktur dalaman pada carta 5M masih bearish. Lower high terakhir berada pada 4,449.
+
+14
+00:01:33,029 --> 00:01:40,366
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+15
+00:01:42,546 --> 00:01:51,335
+Candle seterusnya turun ke 4,438, melepasi Equal Lows, kemudian ditutup semula di atas 4,441.
+
+16
+00:01:51,415 --> 00:01:56,970
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+17
+00:01:57,050 --> 00:02:09,156
+Kemudian candle bullish yang besar ditutup pada 4,453, menembusi lower high 4,449. Ini potensi bullish MSS, disertai displacement.
+
+18
+00:02:09,236 --> 00:02:16,287
+Displacement ini meninggalkan Fair Value Gap antara 4,444 dan 4,448.
+
+19
+00:02:16,367 --> 00:02:23,109
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+20
+00:02:25,489 --> 00:02:28,481
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+21
+00:02:28,561 --> 00:02:36,223
+Entry beli bersyarat pada 4,446, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+22
+00:02:36,303 --> 00:02:45,778
+Stop-loss pada 4,437, di bawah ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bullish dianggap tidak sah.
+
+23
+00:02:45,858 --> 00:02:53,014
+Sasaran pada 4,464, Equal Highs, iaitu potensi Buy-Side Liquidity di arah bertentangan.
+
+24
+00:02:53,094 --> 00:03:00,037
+Risiko 9 mata, potensi ganjaran 18 mata. Gross risk-to-reward ialah 2 berbanding 1.
+
+25
+00:03:00,117 --> 00:03:08,247
+Dengan 2 kontrak, risiko kasar RM450 dan potensi ganjaran kasar RM900, sebelum kos dan slippage.
+
+26
+00:03:08,327 --> 00:03:14,275
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+27
+00:03:16,655 --> 00:03:18,437
+Sekarang kita dedahkan apa yang berlaku.
+
+28
+00:03:18,517 --> 00:03:24,594
+Harga kembali ke FVG. Order 4,446 terisi.
+
+29
+00:03:24,674 --> 00:03:32,160
+Harga kemudian bergerak ke 4,464. Sasaran tercapai: tambah 18 mata setiap kontrak.
+
+30
+00:03:32,240 --> 00:03:38,218
+Ini hanya satu hasil. Setup yang sama boleh sahaja berakhir di stop-loss.
+
+31
+00:03:40,598 --> 00:03:42,538
+Rekod jurnal untuk kes 1.
+
+32
+00:03:42,618 --> 00:04:00,122
+Gaya Scalping, bias bullish (1H / 30M), entry 4,446, stop-loss 4,437, sasaran 4,464, 2 kontrak, RR dirancang 2 berbanding 1.
+
+33
+00:04:00,202 --> 00:04:07,710
+Hasil kasar tambah 2R. Peraturan dipatuhi. Kos sebenar dicatat secara berasingan.
+
+34
+00:04:09,490 --> 00:04:18,794
+Kes dua: scalping bearish. Konteks 1H dan 30M berpotensi bearish, dan Buy-Side Liquidity berada berhampiran POI bearish.
+
+35
+00:04:18,874 --> 00:04:25,858
+Carta 15M menunjukkan POI bearish di sekitar 4,531 hingga 4,538.
+
+36
+00:04:25,938 --> 00:04:32,224
+Di bawah, dua low pada 4,512 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity.
+
+37
+00:04:32,304 --> 00:04:40,591
+Di atas, dua high pada 4,533 membentuk Equal Highs, potensi Buy-Side Liquidity, yang terletak di dalam POI.
+
+38
+00:04:40,671 --> 00:04:48,530
+Struktur dalaman pada carta 5M masih bullish. Higher low terakhir berada pada 4,526.
+
+39
+00:04:48,610 --> 00:04:55,947
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+40
+00:04:58,127 --> 00:05:07,295
+Candle seterusnya naik ke 4,535, melepasi Equal Highs, kemudian ditutup semula di bawah 4,533.
+
+41
+00:05:07,375 --> 00:05:12,930
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+42
+00:05:13,010 --> 00:05:25,049
+Kemudian candle bearish yang besar ditutup pada 4,522, menembusi higher low 4,526. Ini potensi bearish MSS, disertai displacement.
+
+43
+00:05:25,129 --> 00:05:31,766
+Displacement ini meninggalkan Fair Value Gap antara 4,526 dan 4,530.
+
+44
+00:05:31,846 --> 00:05:38,588
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+45
+00:05:40,968 --> 00:05:43,960
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+46
+00:05:44,040 --> 00:05:51,584
+Entry jual bersyarat pada 4,528, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+47
+00:05:51,664 --> 00:06:01,250
+Stop-loss pada 4,536, di atas ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bearish dianggap tidak sah.
+
+48
+00:06:01,330 --> 00:06:08,273
+Sasaran pada 4,512, Equal Lows, iaitu potensi Sell-Side Liquidity di arah bertentangan.
+
+49
+00:06:08,353 --> 00:06:15,234
+Risiko 8 mata, potensi ganjaran 16 mata. Gross risk-to-reward ialah 2 berbanding 1.
+
+50
+00:06:15,314 --> 00:06:23,045
+Dengan 2 kontrak, risiko kasar RM400 dan potensi ganjaran kasar RM800, sebelum kos dan slippage.
+
+51
+00:06:23,125 --> 00:06:29,073
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+52
+00:06:31,453 --> 00:06:33,235
+Sekarang kita dedahkan apa yang berlaku.
+
+53
+00:06:33,315 --> 00:06:39,331
+Harga kembali ke FVG. Order 4,528 terisi.
+
+54
+00:06:39,411 --> 00:06:50,308
+Namun harga terus naik dan mencapai stop-loss 4,536. Kerugian 8 mata setiap kontrak, iaitu satu R, RM400 kasar.
+
+55
+00:06:50,388 --> 00:06:57,284
+Pelan diikuti dan kerugian dikawal. Ia direkod dalam jurnal, bukan dibalas dengan dagangan dendam.
+
+56
+00:06:59,664 --> 00:07:01,623
+Rekod jurnal untuk kes 2.
+
+57
+00:07:01,703 --> 00:07:18,851
+Gaya Scalping, bias bearish (1H / 30M), entry 4,528, stop-loss 4,536, sasaran 4,512, 2 kontrak, RR dirancang 2 berbanding 1.
+
+58
+00:07:18,931 --> 00:07:27,575
+Hasil kasar tolak satu R, iaitu kerugian yang dirancang. Peraturan dipatuhi. Kos sebenar dicatat secara berasingan.
+
+59
+00:07:29,355 --> 00:07:40,895
+Kes tiga: intraday bullish. Daily dan 4H bullish. Kita merancang dua kontrak, dengan partial di TP1 dan peraturan tutup sebelum akhir sesi.
+
+60
+00:07:40,975 --> 00:07:48,841
+Carta 1H / 30M menunjukkan POI bullish di sekitar 4,623 hingga 4,634.
+
+61
+00:07:48,921 --> 00:07:55,654
+Di atas, dua high pada 4,668 membentuk Equal Highs, iaitu potensi Buy-Side Liquidity.
+
+62
+00:07:55,734 --> 00:08:03,880
+Di bawah, dua low pada 4,632 membentuk Equal Lows, potensi Sell-Side Liquidity, yang terletak di dalam POI.
+
+63
+00:08:03,960 --> 00:08:11,725
+Struktur dalaman pada carta 5M masih bearish. Lower high terakhir berada pada 4,644.
+
+64
+00:08:11,805 --> 00:08:19,141
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+65
+00:08:21,321 --> 00:08:30,292
+Candle seterusnya turun ke 4,627, melepasi Equal Lows, kemudian ditutup semula di atas 4,632.
+
+66
+00:08:30,372 --> 00:08:35,927
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+67
+00:08:36,007 --> 00:08:48,126
+Kemudian candle bullish yang besar ditutup pada 4,651, menembusi lower high 4,644. Ini potensi bullish MSS, disertai displacement.
+
+68
+00:08:48,206 --> 00:08:55,382
+Displacement ini meninggalkan Fair Value Gap antara 4,637 dan 4,643.
+
+69
+00:08:55,462 --> 00:09:02,204
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+70
+00:09:04,584 --> 00:09:07,576
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+71
+00:09:07,656 --> 00:09:14,941
+Entry beli bersyarat pada 4,640, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+72
+00:09:15,021 --> 00:09:24,619
+Stop-loss pada 4,626, di bawah ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bullish dianggap tidak sah.
+
+73
+00:09:24,699 --> 00:09:37,028
+TP1 pada 4,654, iaitu 1R, untuk partial. Sasaran akhir pada 4,682, iaitu liquidity bertentangan seterusnya, 3R.
+
+74
+00:09:37,108 --> 00:09:44,377
+Risiko 14 mata, potensi ganjaran 42 mata. Gross risk-to-reward ialah 3 berbanding 1.
+
+75
+00:09:44,457 --> 00:09:52,748
+Dengan 2 kontrak, risiko kasar RM700 dan potensi ganjaran kasar RM2,100, sebelum kos dan slippage.
+
+76
+00:09:52,828 --> 00:09:58,776
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+77
+00:10:01,156 --> 00:10:02,938
+Sekarang kita dedahkan apa yang berlaku.
+
+78
+00:10:03,018 --> 00:10:08,826
+Harga kembali ke FVG. Order 4,640 terisi.
+
+79
+00:10:08,906 --> 00:10:18,149
+TP1 4,654 tercapai. Separuh posisi ditutup, dan stop-loss baki posisi dialihkan ke harga entry.
+
+80
+00:10:18,229 --> 00:10:25,122
+Harga meneruskan pergerakan ke 4,682. Baki posisi ditutup di sasaran akhir.
+
+81
+00:10:25,202 --> 00:10:36,363
+Hasil kasar RM1,400 berbanding risiko awal RM700, iaitu 2R. Partial mengurangkan hasil berbanding memegang semua posisi, tetapi mengunci sebahagian keuntungan lebih awal.
+
+82
+00:10:38,743 --> 00:10:40,714
+Rekod jurnal untuk kes 3.
+
+83
+00:10:40,794 --> 00:10:57,684
+Gaya Intraday, bias bullish (Daily / 4H), entry 4,640, stop-loss 4,626, sasaran 4,682, 2 kontrak, RR dirancang 3 berbanding 1.
+
+84
+00:10:57,764 --> 00:11:05,271
+Hasil kasar tambah 2R. Peraturan dipatuhi. Kos sebenar dicatat secara berasingan.
+
+85
+00:11:07,051 --> 00:11:14,362
+Kes empat: intraday bearish. Daily dan 4H bearish, dan harga menarik balik ke kawasan premium.
+
+86
+00:11:14,442 --> 00:11:21,663
+Carta 1H / 30M menunjukkan POI bearish di sekitar 4,818 hingga 4,830.
+
+87
+00:11:21,743 --> 00:11:28,303
+Di bawah, dua low pada 4,782 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity.
+
+88
+00:11:28,383 --> 00:11:36,495
+Di atas, dua high pada 4,821 membentuk Equal Highs, potensi Buy-Side Liquidity, yang terletak di dalam POI.
+
+89
+00:11:36,575 --> 00:11:43,882
+Struktur dalaman pada carta 5M masih bullish. Higher low terakhir berada pada 4,808.
+
+90
+00:11:43,962 --> 00:11:51,299
+Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus.
+
+91
+00:11:53,479 --> 00:12:02,375
+Candle seterusnya naik ke 4,826, melepasi Equal Highs, kemudian ditutup semula di bawah 4,821.
+
+92
+00:12:02,455 --> 00:12:08,010
+Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry.
+
+93
+00:12:08,090 --> 00:12:18,833
+Kemudian candle bearish yang besar ditutup pada 4,800, menembusi higher low 4,808. Ini potensi bearish MSS, disertai displacement.
+
+94
+00:12:18,913 --> 00:12:25,442
+Displacement ini meninggalkan Fair Value Gap antara 4,809 dan 4,815.
+
+95
+00:12:25,522 --> 00:12:32,264
+Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG.
+
+96
+00:12:34,644 --> 00:12:37,636
+Sebelum harga bergerak, kita tulis pelan dagangan.
+
+97
+00:12:37,716 --> 00:12:45,014
+Entry jual bersyarat pada 4,812, di dalam FVG, hanya jika harga kembali ke zon ini.
+
+98
+00:12:45,094 --> 00:12:54,492
+Stop-loss pada 4,827, di atas ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bearish dianggap tidak sah.
+
+99
+00:12:54,572 --> 00:13:01,677
+Sasaran pada 4,782, Equal Lows, iaitu potensi Sell-Side Liquidity di arah bertentangan.
+
+100
+00:13:01,757 --> 00:13:08,714
+Risiko 15 mata, potensi ganjaran 30 mata. Gross risk-to-reward ialah 2 berbanding 1.
+
+101
+00:13:08,794 --> 00:13:17,609
+Dengan 1 kontrak, risiko kasar RM375 dan potensi ganjaran kasar RM750, sebelum kos dan slippage.
+
+102
+00:13:17,689 --> 00:13:23,637
+Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia.
+
+103
+00:13:26,017 --> 00:13:27,799
+Sekarang kita dedahkan apa yang berlaku.
+
+104
+00:13:27,879 --> 00:13:33,600
+Harga kembali ke FVG. Order 4,812 terisi.
+
+105
+00:13:33,680 --> 00:13:40,889
+Harga kemudian bergerak ke 4,782. Sasaran tercapai: tambah 30 mata setiap kontrak.
+
+106
+00:13:40,969 --> 00:13:46,946
+Ini hanya satu hasil. Setup yang sama boleh sahaja berakhir di stop-loss.
+
+107
+00:13:49,326 --> 00:13:51,297
+Rekod jurnal untuk kes 4.
+
+108
+00:13:51,377 --> 00:14:08,037
+Gaya Intraday, bias bearish (Daily / 4H), entry 4,812, stop-loss 4,827, sasaran 4,782, 1 kontrak, RR dirancang 2 berbanding 1.
+
+109
+00:14:08,117 --> 00:14:15,624
+Hasil kasar tambah 2R. Peraturan dipatuhi. Kos sebenar dicatat secara berasingan.
+
+110
+00:14:17,404 --> 00:14:19,683
+Ringkasan empat kes dalam unit R.
+
+111
+00:14:19,763 --> 00:14:23,680
+Kes satu, tambah 2R. Kes dua, tolak 1R.
+
+112
+00:14:23,760 --> 00:14:29,351
+Kes tiga, tambah 2R dengan partial. Kes empat, tambah 2R.
+
+113
+00:14:29,431 --> 00:14:38,169
+Empat kes ialah sampel yang terlalu kecil untuk menilai strategi. Ia hanya menunjukkan proses yang konsisten, dengan menang dan kalah yang dirancang.
+
+114
+00:14:39,949 --> 00:14:47,072
+Dalam Video 12B, kita teruskan dengan kes swing bullish dan bearish, satu setup yang gagal, dan satu senario tidak trade.
+
+115
+00:14:49,652 --> 00:14:52,556
+Rujukan untuk video ini dipaparkan di skrin.
+
+116
+00:14:56,336 --> 00:15:01,554
+Trading futures melibatkan risiko kerugian. Jumpa dalam Video 12B.
