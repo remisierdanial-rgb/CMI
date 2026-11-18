@@ -1,0 +1,574 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [
+    {
+     "start": 0.75,
+     "end": 4.768,
+     "text": "Selamat datang ke Video 5. Kita lengkapkan Intraday SOP."
+    },
+    {
+     "start": 5.148,
+     "end": 11.304,
+     "text": "Dalam Video 4, kita membina pelan harian: bias, dealing range, dan dua senario."
+    },
+    {
+     "start": 11.684,
+     "end": 16.958,
+     "text": "Hari ini kita laksanakan pelan itu melalui prosedur lima belas langkah, dan dua kajian kes FCPO."
+    },
+    {
+     "start": 17.338,
+     "end": 23.922,
+     "text": "Kita juga akan melihat pengurusan posisi intraday, termasuk partial, peraturan akhir sesi, dan had kerugian harian."
+    }
+   ],
+   "end": 25.752
+  },
+  {
+   "start": 25.752,
+   "cues": [
+    {
+     "start": 26.502,
+     "end": 29.787,
+     "text": "Prosedur pelaksanaan intraday, lima belas langkah."
+    },
+    {
+     "start": 30.167,
+     "end": 40.058,
+     "text": "Satu, lengkapkan analisis Daily dan 4H. Dua, tetapkan hipotesis arah intraday. Tiga, tandakan sasaran liquidity."
+    },
+    {
+     "start": 40.438,
+     "end": 50.425,
+     "text": "Empat, kenal pasti struktur 1H atau 30M. Lima, pilih POI yang relevan. Enam, tunggu harga menghampiri kawasan itu."
+    },
+    {
+     "start": 50.805,
+     "end": 61.191,
+     "text": "Tujuh, perhatikan interaksi liquidity pada 15M. Lapan, tunggu pengesahan yang bermakna. Sembilan, gunakan 5M untuk menilai entry."
+    },
+    {
+     "start": 61.571,
+     "end": 70.575,
+     "text": "Sepuluh, tetapkan stop-loss dan sasaran. Sebelas, kira risk-to-reward. Dua belas, laksanakan mengikut trading plan."
+    },
+    {
+     "start": 70.955,
+     "end": 81.131,
+     "text": "Tiga belas, pantau posisi. Empat belas, tutup atau urus posisi mengikut peraturan sesi yang telah ditetapkan. Lima belas, rekod hasilnya."
+    }
+   ],
+   "end": 82.461
+  },
+  {
+   "start": 82.461,
+   "cues": [
+    {
+     "start": 83.211,
+     "end": 93.288,
+     "text": "Kajian kes intraday bullish. Daily dan 4H bullish, dan harga berada di bahagian discount dealing range. Kita merancang dua kontrak."
+    },
+    {
+     "start": 93.668,
+     "end": 100.813,
+     "text": "Carta 1H / 30M menunjukkan POI bullish di sekitar 4,490 hingga 4,505."
+    },
+    {
+     "start": 101.193,
+     "end": 107.495,
+     "text": "Di atas, dua high pada 4,548 membentuk Equal Highs, iaitu potensi Buy-Side Liquidity."
+    },
+    {
+     "start": 107.875,
+     "end": 115.361,
+     "text": "Di bawah, dua low pada 4,501 membentuk Equal Lows, potensi Sell-Side Liquidity, yang terletak di dalam POI."
+    },
+    {
+     "start": 115.741,
+     "end": 123.219,
+     "text": "Struktur dalaman pada carta 5M masih bearish. Lower high terakhir berada pada 4,517."
+    },
+    {
+     "start": 123.599,
+     "end": 130.635,
+     "text": "Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus."
+    }
+   ],
+   "end": 132.365
+  },
+  {
+   "start": 132.365,
+   "cues": [
+    {
+     "start": 133.115,
+     "end": 141.465,
+     "text": "Candle seterusnya turun ke 4,496, melepasi Equal Lows, kemudian ditutup semula di atas 4,501."
+    },
+    {
+     "start": 141.845,
+     "end": 147.1,
+     "text": "Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry."
+    },
+    {
+     "start": 147.48,
+     "end": 159.368,
+     "text": "Kemudian candle bullish yang besar ditutup pada 4,526, menembusi lower high 4,517. Ini potensi bullish MSS, disertai displacement."
+    },
+    {
+     "start": 159.748,
+     "end": 166.15,
+     "text": "Displacement ini meninggalkan Fair Value Gap antara 4,508 dan 4,516."
+    },
+    {
+     "start": 166.53,
+     "end": 172.972,
+     "text": "Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG."
+    }
+   ],
+   "end": 174.902
+  },
+  {
+   "start": 174.902,
+   "cues": [
+    {
+     "start": 175.652,
+     "end": 178.344,
+     "text": "Sebelum harga bergerak, kita tulis pelan dagangan."
+    },
+    {
+     "start": 178.724,
+     "end": 185.746,
+     "text": "Entry beli bersyarat pada 4,512, di dalam FVG, hanya jika harga kembali ke zon ini."
+    },
+    {
+     "start": 186.126,
+     "end": 195.311,
+     "text": "Stop-loss pada 4,494, di bawah ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bullish dianggap tidak sah."
+    },
+    {
+     "start": 195.691,
+     "end": 207.696,
+     "text": "TP1 pada 4,530, iaitu 1R, untuk partial. Sasaran akhir pada 4,560, iaitu Previous Day High, potensi liquidity external."
+    },
+    {
+     "start": 208.076,
+     "end": 215.931,
+     "text": "Risiko 18 mata, potensi ganjaran 48 mata. Gross risk-to-reward ialah 2.67 berbanding 1."
+    },
+    {
+     "start": 216.311,
+     "end": 224.361,
+     "text": "Dengan 2 kontrak, risiko kasar RM900 dan potensi ganjaran kasar RM2,400, sebelum kos dan slippage."
+    },
+    {
+     "start": 224.741,
+     "end": 230.389,
+     "text": "Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia."
+    }
+   ],
+   "end": 232.319
+  },
+  {
+   "start": 232.319,
+   "cues": [
+    {
+     "start": 233.069,
+     "end": 234.55,
+     "text": "Sekarang kita dedahkan apa yang berlaku."
+    },
+    {
+     "start": 234.93,
+     "end": 240.463,
+     "text": "Harga kembali ke FVG. Order 4,512 terisi."
+    },
+    {
+     "start": 240.843,
+     "end": 249.413,
+     "text": "TP1 4,530 tercapai. Separuh posisi ditutup, dan stop-loss baki posisi dialihkan ke harga entry."
+    },
+    {
+     "start": 249.793,
+     "end": 256.248,
+     "text": "Harga meneruskan pergerakan ke 4,560. Baki posisi ditutup di sasaran akhir."
+    },
+    {
+     "start": 256.628,
+     "end": 268.744,
+     "text": "Hasil kasar RM1,650 berbanding risiko awal RM900, iaitu 1.83R. Partial mengurangkan hasil berbanding memegang semua posisi, tetapi mengunci sebahagian keuntungan lebih awal."
+    }
+   ],
+   "end": 270.674
+  },
+  {
+   "start": 270.674,
+   "cues": [
+    {
+     "start": 271.424,
+     "end": 275.422,
+     "text": "Pengurusan dagangan intraday mengandungi beberapa peraturan yang mesti ditetapkan sebelum entry."
+    },
+    {
+     "start": 275.802,
+     "end": 283.778,
+     "text": "Risiko awal ditetapkan dalam ringgit. Partial exit dan pelarasan stop-loss mengikut peraturan, seperti dalam kajian kes tadi."
+    },
+    {
+     "start": 284.158,
+     "end": 291.759,
+     "text": "Trailing stop boleh mengikut struktur 15M. Sasaran boleh dilanjutkan hanya jika peraturan membenarkannya, bukan kerana harapan."
+    },
+    {
+     "start": 292.139,
+     "end": 297.252,
+     "text": "Peraturan akhir sesi: posisi ditutup pada masa yang ditetapkan walaupun sasaran belum dicapai."
+    },
+    {
+     "start": 297.632,
+     "end": 303.008,
+     "text": "Volatiliti luar jangka, contohnya ketika peristiwa berjadual, boleh menjadi alasan untuk keluar lebih awal."
+    },
+    {
+     "start": 303.388,
+     "end": 309.579,
+     "text": "Had kerugian harian maksimum, dan bilangan cubaan maksimum, menghentikan dagangan selepas beberapa kerugian berturut-turut."
+    }
+   ],
+   "end": 310.909
+  },
+  {
+   "start": 310.909,
+   "cues": [
+    {
+     "start": 311.659,
+     "end": 321.132,
+     "text": "Kajian kes intraday bearish. Daily dan 4H bearish, dan harga menarik balik ke bahagian premium. Kita mencari peluang jual."
+    },
+    {
+     "start": 321.512,
+     "end": 328.938,
+     "text": "Carta 1H / 30M menunjukkan POI bearish di sekitar 4,694 hingga 4,707."
+    },
+    {
+     "start": 329.318,
+     "end": 335.667,
+     "text": "Di bawah, dua low pada 4,656 membentuk Equal Lows, iaitu potensi Sell-Side Liquidity."
+    },
+    {
+     "start": 336.047,
+     "end": 344.053,
+     "text": "Di atas, dua high pada 4,698 membentuk Equal Highs, potensi Buy-Side Liquidity, yang terletak di dalam POI."
+    },
+    {
+     "start": 344.433,
+     "end": 351.87,
+     "text": "Struktur dalaman pada carta 5M masih bullish. Higher low terakhir berada pada 4,683."
+    },
+    {
+     "start": 352.25,
+     "end": 359.287,
+     "text": "Belum ada entry. Harga hanya menghampiri lokasi. POI ialah lokasi, bukan pencetus."
+    }
+   ],
+   "end": 361.017
+  },
+  {
+   "start": 361.017,
+   "cues": [
+    {
+     "start": 361.767,
+     "end": 370.391,
+     "text": "Candle seterusnya naik ke 4,702, melepasi Equal Highs, kemudian ditutup semula di bawah 4,698."
+    },
+    {
+     "start": 370.771,
+     "end": 376.026,
+     "text": "Ini kemungkinan liquidity sweep. Tetapi sweep sahaja belum mencukupi untuk entry."
+    },
+    {
+     "start": 376.406,
+     "end": 388.296,
+     "text": "Kemudian candle bearish yang besar ditutup pada 4,675, menembusi higher low 4,683. Ini potensi bearish MSS, disertai displacement."
+    },
+    {
+     "start": 388.676,
+     "end": 395.392,
+     "text": "Displacement ini meninggalkan Fair Value Gap antara 4,685 dan 4,691."
+    },
+    {
+     "start": 395.772,
+     "end": 402.214,
+     "text": "Urutan pengesahan CMI kini lengkap: liquidity, MSS, displacement dan FVG."
+    }
+   ],
+   "end": 404.144
+  },
+  {
+   "start": 404.144,
+   "cues": [
+    {
+     "start": 404.894,
+     "end": 407.586,
+     "text": "Sebelum harga bergerak, kita tulis pelan dagangan."
+    },
+    {
+     "start": 407.966,
+     "end": 415.176,
+     "text": "Entry jual bersyarat pada 4,688, di dalam FVG, hanya jika harga kembali ke zon ini."
+    },
+    {
+     "start": 415.556,
+     "end": 424.554,
+     "text": "Stop-loss pada 4,704, di atas ekstrem sweep. Jika harga sampai ke paras ini, hipotesis bearish dianggap tidak sah."
+    },
+    {
+     "start": 424.934,
+     "end": 431.88,
+     "text": "Sasaran pada 4,656, Equal Lows, iaitu potensi Sell-Side Liquidity di arah bertentangan."
+    },
+    {
+     "start": 432.26,
+     "end": 439.142,
+     "text": "Risiko 16 mata, potensi ganjaran 32 mata. Gross risk-to-reward ialah 2 berbanding 1."
+    },
+    {
+     "start": 439.522,
+     "end": 446.901,
+     "text": "Dengan 1 kontrak, risiko kasar RM400 dan potensi ganjaran kasar RM800, sebelum kos dan slippage."
+    },
+    {
+     "start": 447.281,
+     "end": 452.929,
+     "text": "Bahagian kanan carta masih tersembunyi. Keputusan dibuat hanya dengan maklumat yang tersedia."
+    }
+   ],
+   "end": 454.859
+  },
+  {
+   "start": 454.859,
+   "cues": [
+    {
+     "start": 455.609,
+     "end": 457.091,
+     "text": "Sekarang kita dedahkan apa yang berlaku."
+    },
+    {
+     "start": 457.471,
+     "end": 463.141,
+     "text": "Harga kembali ke FVG. Order 4,688 terisi."
+    },
+    {
+     "start": 463.521,
+     "end": 470.859,
+     "text": "Harga kemudian bergerak ke 4,656. Sasaran tercapai: tambah 32 mata setiap kontrak."
+    },
+    {
+     "start": 471.239,
+     "end": 476.916,
+     "text": "Ini hanya satu hasil. Setup yang sama boleh sahaja berakhir di stop-loss."
+    },
+    {
+     "start": 477.296,
+     "end": 485.843,
+     "text": "Jika sasaran belum dicapai pada masa tutup yang ditetapkan, posisi ditutup mengikut peraturan sesi, walaupun stop-loss atau sasaran belum disentuh."
+    }
+   ],
+   "end": 487.773
+  },
+  {
+   "start": 487.773,
+   "cues": [
+    {
+     "start": 488.523,
+     "end": 490.32,
+     "text": "Bila tidak perlu membuat dagangan intraday?"
+    },
+    {
+     "start": 490.7,
+     "end": 496.252,
+     "text": "Konteks arah tidak jelas. Harga berada di antara aras penting tanpa setup."
+    },
+    {
+     "start": 496.632,
+     "end": 500.528,
+     "text": "Tiada POI yang sah. Tiada pengesahan entry."
+    },
+    {
+     "start": 500.908,
+     "end": 505.602,
+     "text": "Potensi ganjaran tidak mencukupi. Keadaan pelaksanaan lemah."
+    },
+    {
+     "start": 505.982,
+     "end": 512.081,
+     "text": "Had risiko telah dicapai. Atau masa terlalu hampir dengan akhir sesi, tanpa pelan yang sesuai."
+    }
+   ],
+   "end": 513.411
+  },
+  {
+   "start": 513.411,
+   "cues": [
+    {
+     "start": 514.161,
+     "end": 515.867,
+     "text": "Lapan kesilapan intraday yang biasa."
+    },
+    {
+     "start": 516.247,
+     "end": 521.398,
+     "text": "Menganggap setup intraday sebagai isyarat scalping. Mengabaikan konteks Daily."
+    },
+    {
+     "start": 521.778,
+     "end": 526.159,
+     "text": "Memegang posisi melebihi tempoh yang dirancang. Masuk terlalu lewat."
+    },
+    {
+     "start": 526.539,
+     "end": 531.76,
+     "text": "Analisis yang terlalu rumit. Mengubah trading plan semasa dagangan berjalan."
+    },
+    {
+     "start": 532.14,
+     "end": 538.884,
+     "text": "Mengabaikan peristiwa berjadual dan volatiliti. Dan gagal menutup posisi mengikut peraturan tempoh pegangan."
+    }
+   ],
+   "end": 540.214
+  },
+  {
+   "start": 540.214,
+   "cues": [
+    {
+     "start": 540.964,
+     "end": 544.959,
+     "text": "Semakan pengetahuan. Cuba jawab sebelum jawapan dipaparkan."
+    },
+    {
+     "start": 545.339,
+     "end": 557.407,
+     "text": "Soalan satu: satu kontrak keluar di TP1 dengan tambah 18 mata, satu lagi di TP2 dengan tambah 48 mata, dan risiko awal 900 ringgit. Berapakah R yang direalisasikan?"
+    },
+    {
+     "start": 557.787,
+     "end": 571.717,
+     "text": "Jawapan: 66 mata darab 25 ringgit, iaitu 1,650 ringgit, bahagi 900. Hasilnya 1.83R, berbanding 2.67R jika kedua-dua kontrak dipegang."
+    },
+    {
+     "start": 572.097,
+     "end": 577.662,
+     "text": "Soalan dua: sasaran belum dicapai pada masa tutup yang ditetapkan. Apa tindakannya?"
+    },
+    {
+     "start": 578.042,
+     "end": 583.951,
+     "text": "Jawapan: tutup posisi mengikut peraturan sesi. Pelan yang membuat keputusan, bukan harapan."
+    },
+    {
+     "start": 584.331,
+     "end": 587.331,
+     "text": "Soalan tiga: kenapa dagangan yang rugi perlu direkod?"
+    },
+    {
+     "start": 587.711,
+     "end": 594.805,
+     "text": "Jawapan: tanpanya, win rate, expectancy dan drawdown menjadi berat sebelah, dan kesilapan pelaksanaan tidak dapat dikesan."
+    }
+   ],
+   "end": 596.535
+  },
+  {
+   "start": 596.535,
+   "cues": [
+    {
+     "start": 597.285,
+     "end": 598.195,
+     "text": "Ringkasnya."
+    },
+    {
+     "start": 598.575,
+     "end": 607.602,
+     "text": "Lima belas langkah: Daily dan 4H, kemudian 1H atau 30M, reaksi 15M, entry 5M, dan peraturan sesi."
+    },
+    {
+     "start": 607.982,
+     "end": 611.903,
+     "text": "Partial dan breakeven mengubah R yang direalisasikan. Tetapkan sebelum entry."
+    },
+    {
+     "start": 612.283,
+     "end": 617.226,
+     "text": "Exit akhir sesi, had kerugian harian dan bilangan cubaan maksimum melindungi akaun."
+    },
+    {
+     "start": 617.606,
+     "end": 622.564,
+     "text": "Intraday bukan scalping. Hormati konteks Daily dan tempoh pegangan."
+    }
+   ],
+   "end": 623.894
+  },
+  {
+   "start": 623.894,
+   "cues": [
+    {
+     "start": 624.644,
+     "end": 626.546,
+     "text": "Latihan untuk video ini."
+    },
+    {
+     "start": 626.926,
+     "end": 631.009,
+     "text": "Tulis lima belas langkah sebagai peraturan ya atau tidak, menggunakan pelan Bahagian A anda."
+    },
+    {
+     "start": 631.389,
+     "end": 638.35,
+     "text": "Tambah peraturan partial, pelarasan stop, masa tutup posisi, had kerugian harian dan bilangan cubaan maksimum."
+    },
+    {
+     "start": 638.73,
+     "end": 643.881,
+     "text": "Uji ke hadapan selama sepuluh sesi secara demo, dan rekod setiap dagangan serta setiap setup yang dilangkau."
+    }
+   ],
+   "end": 645.211
+  },
+  {
+   "start": 645.211,
+   "cues": [
+    {
+     "start": 645.961,
+     "end": 654.704,
+     "text": "Dalam Video 6, kita mula Swing Trading SOP: perancangan timeframe tinggi, risiko overnight, liquidity utama dan pemilihan POI timeframe tinggi."
+    }
+   ],
+   "end": 656.834
+  },
+  {
+   "start": 656.834,
+   "cues": [
+    {
+     "start": 657.584,
+     "end": 660.188,
+     "text": "Rujukan untuk video ini dipaparkan di skrin."
+    }
+   ],
+   "end": 663.518
+  },
+  {
+   "start": 663.518,
+   "cues": [
+    {
+     "start": 664.268,
+     "end": 669.086,
+     "text": "Trading futures melibatkan risiko kerugian. Jumpa dalam Video 6."
+    }
+   ],
+   "end": 672.616
+  }
+ ],
+ "total": 672.616
+}
