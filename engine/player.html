@@ -14,11 +14,13 @@
   const q = new URLSearchParams(location.search), ep = q.get('ep') || 'ep01';
   const load = src => new Promise(r => { const s = document.createElement('script'); s.src = src; s.onload = () => r(true); s.onerror = () => r(false); document.head.appendChild(s); });
   await load('../episodes/_lib.js');
+  await load('../episodes/_eqlib.js');   // Equity series helpers (optional)
   await load(`../episodes/${ep}/spec.js`);
   await load(`../episodes/${ep}/build/timeline.js`);
   await document.fonts.ready;
   for (const f of ['400 20px Inter','500 20px Inter','600 20px Inter','700 20px Inter','800 20px Inter','400 20px JBM','500 20px JBM','700 20px JBM']) await document.fonts.load(f);
   CMI.P.init(window.EPISODE, window.TIMELINE);
+  if (window.EPISODE.intro) await document.getElementById('intro').firstChild.decode().catch(() => {});
   window.__total = CMI.P.tl.total;
   window.__render = t => CMI.P.render(t);
   window.__ready = true;

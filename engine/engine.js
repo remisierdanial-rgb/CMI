@@ -286,7 +286,10 @@
       document.getElementById('badge').textContent = ep.badge || 'L9';
       document.getElementById('hl1').textContent = ep.hl1 || 'LEVEL 9 · CMI SMC';
       document.getElementById('hl2').textContent = ep.hl2 || 'SMC TRADING STRATEGY';
-      document.getElementById('hr1').textContent = `${ep.video} — ${ep.title.toUpperCase()}`;
+      document.getElementById('hr1').textContent = `${ep.video} — ${(ep.short || ep.title).toUpperCase()}`;
+      if (ep.stageClass) document.getElementById('stage').classList.add(...ep.stageClass.split(' '));
+      // optional full-screen logo intro (covers header) for the first ep.intro.dur seconds
+      if (ep.intro) { const d = document.createElement('div'); d.id = 'intro'; d.innerHTML = `<img src="${ep.intro.img}">`; document.getElementById('stage').appendChild(d); this.introEl = d; }
     },
     render(t) {
       const tl = this.tl; let k = tl.scenes.findIndex(s => t >= s.start && t < s.end); if (k < 0) k = t < 0 ? 0 : tl.scenes.length - 1;
@@ -295,7 +298,7 @@
         const root = document.createElement('div'); root.className = 'scene'; content.appendChild(root);
         const S = new Scene(root, tl.scenes[k], k); const sc = this.ep.scenes[k];
         sc.build(S, C, { fmt, ease }); this.S = S; this.cur = k;
-        document.getElementById('hr2').textContent = `SCENE ${k + 1} · ${sc.label}`;
+        document.getElementById('hr2').textContent = `SCENE ${k + (this.ep.intro ? 0 : 1)} · ${sc.label}`;
       }
       const S = this.S, sc = tl.scenes[k];
       S.root.style.opacity = Math.min(ease((t - sc.start) / .35), k === tl.scenes.length - 1 ? 1 : ease((sc.end - t) / .35));
@@ -303,6 +306,7 @@
       const cue = sc.cues.find(c => t >= c.start - .05 && t < c.end + .3);
       const subs = document.querySelector('#subs span'); const txt = cue ? cue.text : '';
       if (subs.textContent !== txt) subs.textContent = txt;
+      if (this.introEl) { const it = this.ep.intro; this.introEl.style.opacity = 1 - ease((t - it.dur) / (it.fade || .45)); const z = 1 + .03 * clamp(t / it.dur); this.introEl.firstChild.style.transform = `scale(${z})`; }
       document.getElementById('prog').style.width = (clamp(t / tl.total) * 100) + '%';
     }
   };

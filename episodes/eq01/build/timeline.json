@@ -1,0 +1,410 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [],
+   "end": 3.6
+  },
+  {
+   "start": 3.6,
+   "cues": [
+    {
+     "start": 4.35,
+     "end": 8.535,
+     "text": "Apabila anda membeli saham sebuah syarikat, adakah anda tahu bahawa anda sebenarnya memiliki sebahagian daripada perniagaan tersebut?"
+    },
+    {
+     "start": 8.915,
+     "end": 14.41,
+     "text": "Bukan produk. Bukan resit. Tetapi kepentingan sebenar dalam perniagaan itu sendiri."
+    }
+   ],
+   "end": 16.34
+  },
+  {
+   "start": 16.34,
+   "cues": [
+    {
+     "start": 17.09,
+     "end": 24.061,
+     "text": "Dalam video ini, kita lihat apa itu saham, kenapa syarikat disenaraikan di bursa saham, dan apa maknanya kepada anda sebagai pelabur."
+    },
+    {
+     "start": 24.441,
+     "end": 27.999,
+     "text": "Pertama, maksud saham, equity dan shareholder."
+    },
+    {
+     "start": 28.379,
+     "end": 33.365,
+     "text": "Kedua, bagaimana syarikat memperoleh modal melalui IPO, dan kenapa ia memilih untuk disenaraikan."
+    },
+    {
+     "start": 33.745,
+     "end": 38.011,
+     "text": "Dan ketiga, bagaimana pelabur boleh memperoleh pulangan — serta risiko yang datang bersamanya."
+    }
+   ],
+   "end": 39.341
+  },
+  {
+   "start": 39.341,
+   "cues": [
+    {
+     "start": 40.091,
+     "end": 46.096,
+     "text": "Bayangkan sebuah syarikat makanan yang sedang berkembang. Ia bermula dengan satu cawangan, dan permintaan terus meningkat."
+    },
+    {
+     "start": 46.476,
+     "end": 52.212,
+     "text": "Untuk membuka lebih banyak cawangan dan membina dapur pusat baharu, ia memerlukan modal — lebih daripada apa yang pemiliknya ada."
+    },
+    {
+     "start": 52.592,
+     "end": 57.825,
+     "text": "Satu pilihan ialah meminjam. Pinjaman perlu dibayar balik, biasanya bersama faedah."
+    },
+    {
+     "start": 58.205,
+     "end": 64.377,
+     "text": "Satu lagi pilihan ialah menjual sebahagian pemilikan syarikat kepada pelabur. Di sinilah saham memainkan peranan."
+    }
+   ],
+   "end": 65.707
+  },
+  {
+   "start": 65.707,
+   "cues": [
+    {
+     "start": 66.457,
+     "end": 68.747,
+     "text": "Saham ialah satu unit pemilikan dalam sesebuah syarikat."
+    },
+    {
+     "start": 69.127,
+     "end": 74.553,
+     "text": "Pemilikan syarikat dibahagikan kepada banyak unit yang sama. Setiap unit ialah satu saham."
+    },
+    {
+     "start": 74.933,
+     "end": 81.133,
+     "text": "Contohnya, jika syarikat mempunyai satu juta saham dan anda memiliki sepuluh ribu daripadanya, anda memiliki satu peratus syarikat itu."
+    },
+    {
+     "start": 81.513,
+     "end": 84.694,
+     "text": "Semakin banyak saham yang anda pegang, semakin besar bahagian pemilikan anda."
+    }
+   ],
+   "end": 86.424
+  },
+  {
+   "start": 86.424,
+   "cues": [
+    {
+     "start": 87.174,
+     "end": 90.119,
+     "text": "Dua istilah yang akan sering anda dengar: equity dan shareholder."
+    },
+    {
+     "start": 90.499,
+     "end": 94.725,
+     "text": "Shareholder, atau pemegang saham, ialah individu atau institusi yang memiliki saham dalam sesebuah syarikat."
+    },
+    {
+     "start": 95.105,
+     "end": 103.289,
+     "text": "Equity bermaksud kepentingan pemilikan. Dari sudut perakaunan, ia ialah baki untuk pemilik selepas liabiliti ditolak daripada aset."
+    },
+    {
+     "start": 103.669,
+     "end": 109.602,
+     "text": "Jadi, equity tidak sama dengan jumlah tunai yang dimiliki syarikat. Tunai hanyalah satu jenis aset."
+    },
+    {
+     "start": 109.982,
+     "end": 114.182,
+     "text": "Dan dalam bahasa pasaran harian, perkataan 'equities' bermaksud saham."
+    }
+   ],
+   "end": 115.512
+  },
+  {
+   "start": 115.512,
+   "cues": [
+    {
+     "start": 116.262,
+     "end": 118.786,
+     "text": "Memiliki saham sangat berbeza daripada menjadi pelanggan."
+    },
+    {
+     "start": 119.166,
+     "end": 123.728,
+     "text": "Pelanggan membayar untuk produk atau perkhidmatan, dan hubungan itu selesai dengan pembelian."
+    },
+    {
+     "start": 124.108,
+     "end": 129.597,
+     "text": "Pemegang saham memiliki sebahagian perniagaan, dan berkongsi kemajuannya — dan juga kemerosotannya."
+    },
+    {
+     "start": 129.977,
+     "end": 135.134,
+     "text": "Anda boleh menjadi kedua-duanya: pelanggan syarikat, dan pada masa yang sama, salah seorang pemegang sahamnya."
+    }
+   ],
+   "end": 136.464
+  },
+  {
+   "start": 136.464,
+   "cues": [
+    {
+     "start": 137.214,
+     "end": 141.032,
+     "text": "Sebagai pemegang saham biasa, anda secara amnya mempunyai beberapa hak asas."
+    },
+    {
+     "start": 141.412,
+     "end": 145.626,
+     "text": "Hak untuk hadir dan mengundi dalam mesyuarat agung, seperti Mesyuarat Agung Tahunan atau AGM."
+    },
+    {
+     "start": 146.006,
+     "end": 149.621,
+     "text": "Hak untuk menerima dividen — tetapi hanya apabila syarikat mengisytiharkannya."
+    },
+    {
+     "start": 150.001,
+     "end": 154.316,
+     "text": "Hak untuk menerima maklumat, seperti laporan tahunan dan pengumuman syarikat."
+    },
+    {
+     "start": 154.696,
+     "end": 161.618,
+     "text": "Dan jika syarikat dibubarkan, tuntutan ke atas baki aset — hanya selepas pemiutang dan obligasi lain dibayar terlebih dahulu."
+    },
+    {
+     "start": 161.998,
+     "end": 166.897,
+     "text": "Hak boleh berbeza mengikut kelas saham, jadi sentiasa semak dokumen syarikat itu sendiri."
+    }
+   ],
+   "end": 168.627
+  },
+  {
+   "start": 168.627,
+   "cues": [
+    {
+     "start": 169.377,
+     "end": 174.963,
+     "text": "Jadi, bagaimana saham sampai kepada orang awam? Melalui IPO — Initial Public Offering."
+    },
+    {
+     "start": 175.343,
+     "end": 179.231,
+     "text": "IPO ialah apabila syarikat menawarkan sahamnya kepada orang awam buat kali pertama."
+    },
+    {
+     "start": 179.611,
+     "end": 188.184,
+     "text": "Sebelum itu, syarikat perlu memenuhi syarat penyenaraian, mendapatkan kelulusan yang diperlukan, dan menerbitkan prospektus yang menerangkan perniagaan serta risikonya."
+    },
+    {
+     "start": 188.564,
+     "end": 195.132,
+     "text": "Pelabur melanggan saham tersebut. Wang yang dikumpul daripada saham baharu disalurkan kepada syarikat untuk membiayai rancangannya."
+    },
+    {
+     "start": 195.512,
+     "end": 202.416,
+     "text": "Selepas disenaraikan, saham diniagakan di Bursa Malaysia, antara pelabur. Inilah pasaran sekunder."
+    },
+    {
+     "start": 202.796,
+     "end": 208.841,
+     "text": "Dalam pasaran sekunder, apabila anda membeli saham daripada pelabur lain, wang anda pergi kepada penjual itu — bukan kepada syarikat."
+    }
+   ],
+   "end": 210.671
+  },
+  {
+   "start": 210.671,
+   "cues": [
+    {
+     "start": 211.421,
+     "end": 213.983,
+     "text": "Kenapa syarikat memilih untuk disenaraikan di Bursa Malaysia?"
+    },
+    {
+     "start": 214.363,
+     "end": 218.467,
+     "text": "Sebab utama ialah untuk mengumpul modal bagi pertumbuhan, tanpa menambah hutang."
+    },
+    {
+     "start": 218.847,
+     "end": 224.394,
+     "text": "Penyenaraian juga boleh meningkatkan profil dan kredibiliti syarikat di mata pelanggan, rakan niaga dan pemberi pinjaman."
+    },
+    {
+     "start": 224.774,
+     "end": 230.903,
+     "text": "Ia boleh memudahkan pengumpulan dana pada masa hadapan, dan memberi pemegang saham sedia ada pasaran untuk membeli dan menjual saham mereka."
+    },
+    {
+     "start": 231.283,
+     "end": 238.137,
+     "text": "Sebagai balasan, syarikat tersenarai perlu mematuhi peraturan penyenaraian, mendedahkan maklumat secara berkala dan mengamalkan tadbir urus korporat yang baik."
+    }
+   ],
+   "end": 239.467
+  },
+  {
+   "start": 239.467,
+   "cues": [
+    {
+     "start": 240.217,
+     "end": 243.597,
+     "text": "Sebagai pemegang saham, terdapat dua cara utama anda mungkin memperoleh pulangan."
+    },
+    {
+     "start": 243.977,
+     "end": 251.681,
+     "text": "Pertama, capital appreciation. Jika harga saham naik melebihi harga belian anda, nilai pegangan anda meningkat."
+    },
+    {
+     "start": 252.061,
+     "end": 256.964,
+     "text": "Tetapi harga juga boleh jatuh di bawah harga belian anda. Keuntungan tidak pernah pasti."
+    },
+    {
+     "start": 257.344,
+     "end": 262.437,
+     "text": "Kedua, dividen: sebahagian keuntungan yang mungkin diagihkan oleh syarikat kepada pemegang sahamnya."
+    },
+    {
+     "start": 262.817,
+     "end": 268.231,
+     "text": "Contohnya, dividen lima sen sesaham bagi seribu unit saham bersamaan lima puluh ringgit."
+    },
+    {
+     "start": 268.611,
+     "end": 275.984,
+     "text": "Dividen diputuskan oleh lembaga pengarah syarikat. Ia tidak dijamin, dan boleh dikurangkan atau tidak dibayar langsung."
+    }
+   ],
+   "end": 277.714
+  },
+  {
+   "start": 277.714,
+   "cues": [
+    {
+     "start": 278.464,
+     "end": 281.841,
+     "text": "Setiap pelaburan mempunyai risiko, dan saham tidak terkecuali."
+    },
+    {
+     "start": 282.221,
+     "end": 288.523,
+     "text": "Harga saham bergerak setiap hari, dan boleh jatuh disebabkan prestasi syarikat, ekonomi atau sentimen pasaran."
+    },
+    {
+     "start": 288.903,
+     "end": 290.893,
+     "text": "Dividen boleh dikurangkan atau dihentikan."
+    },
+    {
+     "start": 291.273,
+     "end": 298.016,
+     "text": "Jika syarikat gagal, pemegang saham biasa antara yang terakhir dibayar, dan boleh kehilangan sebahagian besar atau keseluruhan pelaburan."
+    },
+    {
+     "start": 298.396,
+     "end": 303.276,
+     "text": "Dan saham bukan deposit simpanan. Modal anda tidak dijamin."
+    }
+   ],
+   "end": 305.006
+  },
+  {
+   "start": 305.006,
+   "cues": [
+    {
+     "start": 305.756,
+     "end": 306.551,
+     "text": "Mari kita rumuskan."
+    },
+    {
+     "start": 306.931,
+     "end": 311.717,
+     "text": "Saham ialah unit pemilikan. Pemegang saham memiliki sebahagian perniagaan."
+    },
+    {
+     "start": 312.097,
+     "end": 315.743,
+     "text": "Equity bermaksud kepentingan pemilikan — ia tidak sama dengan tunai."
+    },
+    {
+     "start": 316.123,
+     "end": 320.979,
+     "text": "Syarikat disenaraikan melalui IPO untuk mengumpul modal, dan saham kemudian diniagakan di Bursa Malaysia."
+    },
+    {
+     "start": 321.359,
+     "end": 326.783,
+     "text": "Pulangan mungkin datang daripada capital appreciation dan dividen. Kedua-duanya tidak dijamin."
+    },
+    {
+     "start": 327.163,
+     "end": 333.044,
+     "text": "Ringkasnya: membeli saham bermaksud memiliki sebahagian perniagaan sebenar — bersama potensi dan risikonya."
+    }
+   ],
+   "end": 334.974
+  },
+  {
+   "start": 334.974,
+   "cues": [
+    {
+     "start": 335.724,
+     "end": 338.161,
+     "text": "Ini video pertama daripada lapan video dalam siri ini."
+    },
+    {
+     "start": 338.541,
+     "end": 345.008,
+     "text": "Seterusnya, kita lihat di mana saham ini disenaraikan: Bursa Malaysia, serta Pasaran Utama, ACE dan LEAP."
+    }
+   ],
+   "end": 346.338
+  },
+  {
+   "start": 346.338,
+   "cues": [
+    {
+     "start": 347.088,
+     "end": 353.451,
+     "text": "Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak sumber rasmi untuk maklumat terkini."
+    }
+   ],
+   "end": 356.981
+  },
+  {
+   "start": 356.981,
+   "cues": [
+    {
+     "start": 357.731,
+     "end": 365.974,
+     "text": "Video ini untuk tujuan pendidikan sahaja. Ia bukan nasihat pelaburan atau cadangan untuk membeli atau menjual mana-mana sekuriti."
+    },
+    {
+     "start": 366.354,
+     "end": 371.843,
+     "text": "Capital Market Institute. Understanding Markets. Building Knowledge."
+    }
+   ],
+   "end": 375.773
+  }
+ ],
+ "total": 375.773
+}
