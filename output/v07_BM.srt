@@ -1,215 +1,215 @@
 1
-00:00:03,900 --> 00:00:08,612
+00:00:04,700 --> 00:00:09,412
 Kenapa trader perlu menukar kontrak November kepada kontrak December?
 
 2
-00:00:09,102 --> 00:00:13,862
+00:00:09,902 --> 00:00:14,662
 Kerana setiap kontrak futures mempunyai tempoh matang. Mari lihat maksudnya.
 
 3
-00:00:15,512 --> 00:00:21,664
+00:00:16,312 --> 00:00:22,464
 Dalam video ini, kita lihat bulan kontrak, tempoh matang, dan cara trader melakukan rollover posisi.
 
 4
-00:00:24,114 --> 00:00:28,849
+00:00:24,914 --> 00:00:29,649
 Setiap kontrak futures dikaitkan dengan bulan tertentu, dipanggil contract month.
 
 5
-00:00:28,849 --> 00:00:31,730
+00:00:29,649 --> 00:00:32,530
 Ia memberitahu bila kontrak itu tamat tempoh.
 
 6
-00:00:31,820 --> 00:00:35,527
+00:00:32,620 --> 00:00:36,327
 Beberapa bulan kontrak disenaraikan dan didagangkan pada masa yang sama,
 
 7
-00:00:35,527 --> 00:00:38,764
+00:00:36,327 --> 00:00:39,564
 setiap satunya kontrak berasingan dengan harganya sendiri.
 
 8
-00:00:38,854 --> 00:00:45,654
+00:00:39,654 --> 00:00:46,454
 Kitaran penyenaraian tepat bagi FCPO dinyatakan dalam spesifikasi kontrak rasmi Bursa Malaysia.
 
 9
-00:00:47,504 --> 00:00:53,077
+00:00:48,304 --> 00:00:53,877
 Mengapa futures tamat tempoh? Kerana kontrak futures ialah perjanjian bagi tarikh hadapan.
 
 10
-00:00:53,077 --> 00:00:55,432
+00:00:53,877 --> 00:00:56,232
 Pada satu ketika, tarikh itu tiba.
 
 11
-00:00:55,522 --> 00:00:58,540
+00:00:56,322 --> 00:00:59,340
 Bagi FCPO, yang diselesaikan secara penghantaran fizikal,
 
 12
-00:00:58,540 --> 00:01:03,714
+00:00:59,340 --> 00:01:04,514
 tamat tempoh ialah ketika dagangan bulan itu berhenti dan proses penghantaran mengambil alih.
 
 13
-00:01:05,564 --> 00:01:10,348
+00:01:06,364 --> 00:01:11,148
 Bulan kontrak terdekat yang sedang menghampiri tamat tempoh dipanggil spot month.
 
 14
-00:01:10,438 --> 00:01:14,484
+00:01:11,238 --> 00:01:15,284
 Hari terakhir ia boleh didagangkan ialah last trading day.
 
 15
-00:01:14,484 --> 00:01:22,686
+00:01:15,284 --> 00:01:23,486
 Bagi FCPO, ini lazimnya hari ke-15 bulan kontrak, atau hari bekerja sebelumnya jika hari ke-15 bukan hari bekerja.
 
 16
-00:01:22,776 --> 00:01:27,536
+00:01:23,576 --> 00:01:28,336
 Sentiasa sahkan tarikh tepat dalam spesifikasi rasmi dan notis broker anda,
 
 17
-00:01:27,536 --> 00:01:32,672
+00:01:28,336 --> 00:01:33,472
 kerana broker juga mungkin menetapkan had masa lebih awal untuk klien runcit.
 
 18
-00:01:34,522 --> 00:01:38,385
+00:01:35,322 --> 00:01:39,185
 Setiap bulan kontrak mempunyai harganya sendiri.
 
 19
-00:01:38,385 --> 00:01:45,234
+00:01:39,185 --> 00:01:46,034
 Dalam ilustrasi ini, November didagangkan pada RM4,000, dan December pada RM4,025.
 
 20
-00:01:45,324 --> 00:01:52,032
+00:01:46,124 --> 00:01:52,832
 Perbezaan ini mencerminkan jangkaan tentang penawaran dan permintaan, kos simpanan dan pembiayaan, serta masa.
 
 21
-00:01:52,032 --> 00:01:53,684
+00:01:52,832 --> 00:01:54,484
 Ia berubah setiap hari.
 
 22
-00:01:55,534 --> 00:01:56,582
+00:01:56,334 --> 00:01:57,382
 Sekarang, rollover.
 
 23
-00:01:56,582 --> 00:02:02,790
+00:01:57,382 --> 00:02:03,590
 Katakan anda memegang posisi long November, dan ingin mengekalkan pendedahan melepasi tamat tempoh November.
 
 24
-00:02:02,880 --> 00:02:08,531
+00:02:03,680 --> 00:02:09,331
 Anda menutup posisi November dengan menjualnya, dan membuka posisi long baharu di December dengan membelinya.
 
 25
-00:02:08,531 --> 00:02:10,544
+00:02:09,331 --> 00:02:11,344
 Pertukaran ini dipanggil rollover.
 
 26
-00:02:10,634 --> 00:02:18,971
+00:02:11,434 --> 00:02:19,771
 Perhatikan: menjual November pada RM4,000 dan membeli December pada RM4,025 bukanlah kerugian RM25.
 
 27
-00:02:18,971 --> 00:02:24,106
+00:02:19,771 --> 00:02:24,906
 Anda cuma memegang kontrak berbeza, pada harganya sendiri.
 
 28
-00:02:24,196 --> 00:02:27,706
+00:02:24,996 --> 00:02:28,506
 Untung atau rugi November direalisasikan apabila ia ditutup.
 
 29
-00:02:27,706 --> 00:02:34,332
+00:02:28,506 --> 00:02:35,132
 Selepas itu, keputusan anda bergantung pada pergerakan December. Setiap kaki dagangan juga ada kos transaksi.
 
 30
-00:02:36,182 --> 00:02:39,085
+00:02:36,982 --> 00:02:39,885
 Trader melakukan rollover untuk mengekalkan pendedahan,
 
 31
-00:02:39,085 --> 00:02:42,766
+00:02:39,885 --> 00:02:43,566
 dan untuk mengelak memegang posisi hingga ke proses penghantaran.
 
 32
-00:02:42,856 --> 00:02:49,120
+00:02:43,656 --> 00:02:49,920
 Apabila sesuatu bulan menghampiri tamat tempoh, aktiviti dagangan cenderung berpindah ke bulan-bulan seterusnya.
 
 33
-00:02:49,120 --> 00:02:52,587
+00:02:49,920 --> 00:02:53,387
 Bagi FCPO, aktiviti sering tertumpu pada kontrak bulan ketiga,
 
 34
-00:02:52,587 --> 00:02:56,472
+00:02:53,387 --> 00:02:57,272
 yang lazimnya dipetik dalam laporan pasaran sebagai penanda aras.
 
 35
-00:02:58,322 --> 00:03:03,394
+00:02:59,122 --> 00:03:04,194
 Apabila bulan-bulan kemudian berharga lebih tinggi daripada bulan terdekat, pasaran berada dalam keadaan contango.
 
 36
-00:03:03,484 --> 00:03:08,920
+00:03:04,284 --> 00:03:09,720
 Apabila bulan terdekat berharga lebih tinggi daripada bulan kemudian, selalunya kerana bekalan jangka dekat ketat,
 
 37
-00:03:08,920 --> 00:03:11,220
+00:03:09,720 --> 00:03:12,020
 pasaran berada dalam keadaan backwardation.
 
 38
-00:03:13,070 --> 00:03:16,627
+00:03:13,870 --> 00:03:17,427
 Sesetengah trader berdagang perbezaan antara dua bulan secara langsung.
 
 39
-00:03:16,627 --> 00:03:21,286
+00:03:17,427 --> 00:03:22,086
 Ini dipanggil calendar spread: long satu bulan dan short bulan lain pada masa yang sama.
 
 40
-00:03:21,376 --> 00:03:25,549
+00:03:22,176 --> 00:03:26,349
 Di sini, keputusan bergantung pada perubahan jurang antara dua bulan,
 
 41
-00:03:25,549 --> 00:03:28,512
+00:03:26,349 --> 00:03:29,312
 bukan semata-mata sama ada harga naik atau turun.
 
 42
-00:03:28,512 --> 00:03:30,576
+00:03:29,312 --> 00:03:31,376
 Spread tetap mempunyai risiko.
 
 43
-00:03:32,426 --> 00:03:36,562
+00:03:33,226 --> 00:03:37,362
 Setiap kontrak futures mempunyai bulan kontrak dan tarikh matang.
 
 44
-00:03:36,652 --> 00:03:41,892
+00:03:37,452 --> 00:03:42,692
 Spot month ialah bulan terdekat yang akan tamat; dagangan berhenti pada last trading day.
 
 45
-00:03:41,982 --> 00:03:44,198
+00:03:42,782 --> 00:03:44,998
 Bulan berbeza mempunyai harga berbeza.
 
 46
-00:03:44,288 --> 00:03:50,728
+00:03:45,088 --> 00:03:51,528
 Rollover bermaksud menutup bulan dekat dan membuka bulan kemudian; jurang harga itu sendiri bukan kerugian.
 
 47
-00:03:50,818 --> 00:03:55,050
+00:03:51,618 --> 00:03:55,850
 Contango dan backwardation menggambarkan bentuk keluk harga.
 
 48
-00:03:55,140 --> 00:04:00,140
+00:03:55,940 --> 00:04:00,940
 Sentiasa sahkan tarikh matang dengan spesifikasi rasmi dan broker anda.
 
 49
-00:04:12,048 --> 00:04:16,064
+00:04:12,848 --> 00:04:16,864
 Ini baru asas untuk memahami pasaran niaga hadapan.
 
 50
-00:04:16,154 --> 00:04:19,402
+00:04:16,954 --> 00:04:20,202
 Kenali produk yang anda dagangkan sebelum mengambil sebarang risiko.
 
 51
-00:04:19,492 --> 00:04:22,812
+00:04:20,292 --> 00:04:23,612
 Teruskan pembelajaran anda bersama Capital Market Institute.
 
 52
-00:04:24,462 --> 00:04:30,374
+00:04:25,262 --> 00:04:31,174
 Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.
 
 53
-00:04:33,024 --> 00:04:38,325
+00:04:33,824 --> 00:04:39,125
 Untuk tujuan pendidikan sahaja. Ini bukan nasihat kewangan atau jaminan keuntungan.
 
 54
-00:04:38,325 --> 00:04:42,152
+00:04:39,125 --> 00:04:42,952
 Dagangan futures melibatkan risiko kerugian yang tinggi.

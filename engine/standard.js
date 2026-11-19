@@ -33,7 +33,7 @@ G.assembleScenes=function(def){
   out.push(Object.assign({id:'hook',label:'HOOK'},def.hook));
   /* 2 — title card */
   out.push({id:'title',label:'PENGENALAN',lines:def.intro,
-    dir:'Title card in the reference layout: kicker (module · video), large title = exact subtopic name, subtitle line, blue rule, learning objectives checklist appearing one by one; topic illustration panel on the right.',
+    dir:'title card in the reference layout: gold kicker (module · video), large title = exact subtopic name, subtitle line, gold rule, learning objectives checklist appearing one by one; topic illustration panel on the right.',
     build(S){
       C.title(S,{kicker:`VIDEO ${def.num} · ${def.moduleLabel}`,title:def.title,size:'h1',x:100,y:200,w:1700,at:.1});
       S.add(`<div class="lead">${def.tagline}</div>`,{x:104,y:400,w:1100,at:.5});

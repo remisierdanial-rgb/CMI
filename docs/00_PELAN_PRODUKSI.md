@@ -17,43 +17,46 @@ Siri ini mengandungi 8 video motion graphics berasingan, satu video bagi setiap 
 | 07 | Bulan Kontrak dan Rollover | 2 | Fahami tempoh kontrak | [VIDEO_07.md](VIDEO_07.md) |
 | 08 | Sesi Dagangan FCPO | 2 | Fahami operasi pasaran | [VIDEO_08.md](VIDEO_08.md) |
 
-Durasi sebenar setiap video tercatat dalam dokumen masing-masing. Semua video berada di bawah had 10 minit. Sasaran ialah 2–4 minit, tetapi video siap berdurasi 4:05–4:58 kerana setiap satu wajib meliputi semua topik teras dalam brief serta urutan penutup standard (~45 s).
+Durasi sebenar setiap video tercatat dalam dokumen masing-masing. Semua video berada di bawah had 10 minit. Sasaran ialah 2–4 minit, tetapi video siap berdurasi ~4:05–4:59 kerana setiap satu wajib meliputi semua topik teras dalam brief serta urutan penutup standard (~45 s).
 
 ## 2. Format (mengikut video rujukan ILMU EP01/EP03)
 
 - **Audio:** narasi dalam Bahasa Inggeris.
-- **Sari kata:** Bahasa Malaysia sahaja, dibakar ke dalam video (kotak gelap di tengah bawah), dan turut dieksport sebagai fail `.srt`.
+- **Sari kata:** Bahasa Malaysia sahaja, dibakar ke dalam video (kotak gelap di bahagian bawah, seperti rujukan), dan turut dieksport sebagai fail `.srt`.
 - **Layout:** header nipis di atas. Kiri: lencana modul (M1/M2), label modul dan nama siri. Kanan: `VIDEO NN — TOPIK` dan `SCENE n · LABEL`.
 - **Bar kemajuan:** di bahagian bawah skrin.
 - **Kandungan:** panel kad, carta candlestick hipotetikal dan kotak formula mono.
 - **Tukar bahasa narasi:** enjin boleh menukar narasi kepada BM (`--lang ms`, suara ms-MY) tanpa mengubah visual. Rakaman suara sebenar oleh remisier boleh menggantikan `build/vNN/narration.m4a`. Masa setiap ayat ada dalam `output/vNN_EN.srt` sebagai panduan rakaman.
 
-## 3. Identiti visual
+## 3. Identiti visual (mengikut tema ILMU EP03 + logo CMI rasmi)
 
 | Token | Hex | Kegunaan |
 |---|---|---|
-| Navy | `#101B32` | Panel/kad, latar jenama |
-| Navy gelap | `#08101F` → `#0D172B` | Latar belakang (gradien + grid halus) |
-| Blue | `#2563EB` / `#3B82F6` / `#60A5FA` | Aksen utama, sorotan, garis, teks aksen |
-| White | `#F1F5F9` | Tipografi utama |
+| Emas (aksen utama) | `#E8B04F` / `#F0C36B` | Lencana modul, label header, kicker, garisan tajuk, bar kemajuan, sorotan kad, angka penting |
+| Navy gelap | `#0B1325` → `#030A16` | Latar belakang (gradien + vignette + grid halus) |
+| Panel | `#0F1830` + sempadan `#1E2A44` | Kad / panel |
+| Putih | `#F1F5F9` | Tipografi utama |
 | Slate | `#64748B` / `#94A3B8` | Label, paksi, teks sokongan |
+| Biru data | `#4C7BD9` / `#5B8DEF` | Bar & elemen data sekunder |
 | Teal | `#22C3A6` | Harga naik / untung (fungsional sahaja) |
 | Merah | `#EF5B5B` | Harga turun / rugi (fungsional sahaja) |
 | Amber | `#F5A524` | Amaran, label "hipotetikal", risiko |
 
+**Logo:** `engine/assets/cmi-logo.png` (logo rasmi CMI, dipotong daripada fail asal). Logo direka untuk latar cerah, jadi ia sentiasa dipaparkan atas putih `#FFFFFF`.
+
 **Tipografi:**
-- Inter untuk tajuk, isi dan sari kata: H1 84 px / 800, H2 46 px / 800, sari kata 44 px / 500.
+- Inter untuk tajuk, isi dan sari kata: H1 84 px / 800, H2 46 px / 800, sari kata 46 px / 500.
 - JetBrains Mono untuk angka, label kicker (huruf besar, jarak huruf lebar) dan formula.
 
 ## 4. Templat pembuka & penutup (sama untuk 8 video)
 
-1. **Brand sting (3.4 s):** logo CMI pop, wordmark "CAPITAL MARKET INSTITUTE" wipe masuk, diikuti tagline.
+1. **Pembukaan logo (4.2 s):** logo CMI rasmi atas kanvas putih (fade + scale), kemudian peralihan ke tema navy.
 2. **Hook (~12 s):** soalan pembuka daripada brief, disokong satu visual ringkas.
-3. **Kad tajuk:** kicker `VIDEO NN · MODUL`, tajuk tepat subtopik, subtajuk, garisan biru, dan senarai objektif yang ditanda satu demi satu.
+3. **Kad tajuk:** kicker emas `VIDEO NN · MODUL`, tajuk tepat subtopik, subtajuk, garisan emas, dan senarai objektif yang ditanda satu demi satu.
 4. *(babak kandungan)*
 5. **Rumusan:** senarai semak dua lajur, setiap item ditanda serentak dengan narasi.
 6. **Mesej akhir:** petikan BM tepat daripada brief, dipaparkan besar di skrin. Sari kata disembunyikan dalam babak ini.
-7. **Penutup standard:** jalur peta siri 8 video (video semasa diserlahkan), kemudian lock-up jenama dengan narasi: *"Ini baru asas… Kenali produk… Teruskan pembelajaran anda bersama Capital Market Institute."*
+7. **Penutup standard:** senarai menegak siri 8 video (video semasa bersempadan emas, bertanda "ANDA DI SINI"), dengan logo CMI dalam kad putih di sebelah kanan. Narasi: *"Ini baru asas… Kenali produk… Teruskan pembelajaran anda bersama Capital Market Institute."*
 8. **Rujukan:** senarai sumber bernombor.
 9. **Penafian:** "Educational Content Only. High Risk, High Reward. Trade Wisely." + nota hipotetikal + "Seterusnya: Video NN".
 

@@ -1,159 +1,159 @@
 1
-00:00:03,900 --> 00:00:09,874
+00:00:04,700 --> 00:00:10,674
 Did you know that in futures, you can take an opportunity when prices rise, and also when prices fall?
 
 2
-00:00:10,614 --> 00:00:14,860
+00:00:11,414 --> 00:00:15,660
 Let us see how that works, and why both directions still carry risk.
 
 3
-00:00:16,760 --> 00:00:23,646
+00:00:17,560 --> 00:00:24,446
 In this video, we explain long and short positions using FCPO, and how profit and loss are calculated.
 
 4
-00:00:26,346 --> 00:00:32,536
+00:00:27,146 --> 00:00:33,336
 A long position means you buy first, expecting the price to rise, and sell later to close the position.
 
 5
-00:00:32,876 --> 00:00:44,370
+00:00:33,676 --> 00:00:45,170
 Example: FCPO is at RM4,000 per metric tonne. You buy one contract. The price rises to RM4,020, and you sell to close.
 
 6
-00:00:44,710 --> 00:00:55,076
+00:00:45,510 --> 00:00:55,876
 One FCPO contract represents 25 metric tonnes. So the RM20 move is RM20 times 25, or RM500 gross profit.
 
 7
-00:00:57,176 --> 00:01:03,702
+00:00:57,976 --> 00:01:04,502
 A short position is the reverse: you sell first, expecting the price to fall, and buy later to close.
 
 8
-00:01:04,042 --> 00:01:11,504
+00:01:04,842 --> 00:01:12,304
 You do not need to own any palm oil to sell first. You are entering a contract obligation, which you close by buying it back.
 
 9
-00:01:11,844 --> 00:01:24,634
+00:01:12,644 --> 00:01:25,434
 Sell one contract at RM4,000. The price falls to RM3,980, and you buy back. Again, RM20 times 25 is RM500 gross profit.
 
 10
-00:01:26,734 --> 00:01:28,556
+00:01:27,534 --> 00:01:29,356
 Here they are side by side.
 
 11
-00:01:28,896 --> 00:01:35,038
+00:01:29,696 --> 00:01:35,838
 Long is bullish: buy first, sell later. Short is bearish: sell first, buy later.
 
 12
-00:01:35,378 --> 00:01:43,272
+00:01:36,178 --> 00:01:44,072
 This is possible because every futures trade is an agreement between a buyer and a seller. Going short is as standard as going long.
 
 13
-00:01:45,372 --> 00:01:47,194
+00:01:46,172 --> 00:01:47,994
 Now the other side of the coin.
 
 14
-00:01:47,534 --> 00:01:57,972
+00:01:48,334 --> 00:01:58,772
 If you are long at RM4,000 and the price falls to RM3,980, you lose RM20 times 25, or RM500.
 
 15
-00:01:58,312 --> 00:02:06,830
+00:01:59,112 --> 00:02:07,630
 If you are short at RM4,000 and the price rises to RM4,020, you also lose RM500.
 
 16
-00:02:07,170 --> 00:02:12,544
+00:02:07,970 --> 00:02:13,344
 The same RM20 move that creates a profit for one position creates a loss for the other.
 
 17
-00:02:14,644 --> 00:02:16,466
+00:02:15,444 --> 00:02:17,266
 So here is the simple formula.
 
 18
-00:02:16,806 --> 00:02:23,836
+00:02:17,606 --> 00:02:24,636
 For a long position: exit price minus entry price, times 25, times the number of contracts.
 
 19
-00:02:24,176 --> 00:02:31,110
+00:02:24,976 --> 00:02:31,910
 For a short position: entry price minus exit price, times 25, times the number of contracts.
 
 20
-00:02:31,450 --> 00:02:36,176
+00:02:32,250 --> 00:02:36,976
 These are gross figures, before brokerage, exchange and clearing fees.
 
 21
-00:02:38,276 --> 00:02:41,658
+00:02:39,076 --> 00:02:42,458
 Two more terms: opening and closing a position.
 
 22
-00:02:41,998 --> 00:02:47,396
+00:02:42,798 --> 00:02:48,196
 Opening means entering the trade: you buy to open a long, or sell to open a short.
 
 23
-00:02:47,736 --> 00:02:54,622
+00:02:48,536 --> 00:02:55,422
 Closing means taking the opposite trade in the same contract month: sell to close a long, buy to close a short.
 
 24
-00:02:54,962 --> 00:03:00,576
+00:02:55,762 --> 00:03:01,376
 Until it is closed, the position stays open, and its value changes with every price move.
 
 25
-00:03:02,676 --> 00:03:08,818
+00:03:03,476 --> 00:03:09,618
 One last, very important point: getting the direction right does not guarantee a profitable trade.
 
 26
-00:03:09,158 --> 00:03:20,508
+00:03:09,958 --> 00:03:21,308
 Here, the price rises overall from RM4,000 to RM4,030. But a trader buys late, at RM4,035, near the high.
 
 27
-00:03:20,848 --> 00:03:33,182
+00:03:21,648 --> 00:03:33,982
 The price pulls back, and the trader exits at RM4,012. That is minus RM23 times 25, a loss of RM575, even though the market went up.
 
 28
-00:03:33,522 --> 00:03:39,592
+00:03:34,322 --> 00:03:40,392
 Entry and exit prices, execution, and transaction costs all affect the final result.
 
 29
-00:03:41,692 --> 00:03:45,098
+00:03:42,492 --> 00:03:45,898
 Long means buy first, expecting prices to rise.
 
 30
-00:03:45,438 --> 00:03:48,820
+00:03:46,238 --> 00:03:49,620
 Short means sell first, expecting prices to fall.
 
 31
-00:03:49,160 --> 00:03:54,990
+00:03:49,960 --> 00:03:55,790
 For FCPO, every RM1 per tonne move is worth RM25 per contract.
 
 32
-00:03:55,330 --> 00:03:59,120
+00:03:56,130 --> 00:03:59,920
 The same move that profits one side causes a loss for the other.
 
 33
-00:03:59,460 --> 00:04:03,058
+00:04:00,260 --> 00:04:03,858
 A position stays open until you close it with the opposite trade.
 
 34
-00:04:03,398 --> 00:04:06,492
+00:04:04,198 --> 00:04:07,292
 The right direction alone does not guarantee a profit.
 
 35
-00:04:07,792 --> 00:04:15,062
+00:04:08,592 --> 00:04:15,862
 In futures, opportunities exist when prices rise or fall. But every position still carries the risk of loss.
 
 36
-00:04:17,162 --> 00:04:20,928
+00:04:17,962 --> 00:04:21,728
 This is only the foundation for understanding the futures market.
 
 37
-00:04:21,268 --> 00:04:24,266
+00:04:22,068 --> 00:04:25,066
 Know the product you trade before taking any risk.
 
 38
-00:04:24,606 --> 00:04:27,676
+00:04:25,406 --> 00:04:28,476
 Continue your learning with Capital Market Institute.
 
 39
-00:04:29,576 --> 00:04:35,238
+00:04:30,376 --> 00:04:36,038
 The references for this video are shown on screen. Always check the latest official specifications.
 
 40
-00:04:38,138 --> 00:04:47,016
+00:04:38,938 --> 00:04:47,816
 For educational purposes only. This is not financial advice, and it is not a guarantee of profit. Futures trading involves a high risk of loss.

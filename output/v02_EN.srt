@@ -1,151 +1,151 @@
 1
-00:00:03,900 --> 00:00:08,938
+00:00:04,700 --> 00:00:09,738
 Who actually provides the futures market in Malaysia, and who keeps every trade in order?
 
 2
-00:00:09,678 --> 00:00:15,268
+00:00:10,478 --> 00:00:16,068
 Behind every FCPO trade, there is an organised ecosystem. Let us take a look.
 
 3
-00:00:17,168 --> 00:00:23,166
+00:00:17,968 --> 00:00:23,966
 In this video, we map the futures ecosystem in Malaysia, and the role each participant plays.
 
 4
-00:00:25,866 --> 00:00:31,816
+00:00:26,666 --> 00:00:32,616
 Bursa Malaysia Derivatives, or BMD, is the derivatives exchange of the Bursa Malaysia group.
 
 5
-00:00:32,156 --> 00:00:43,410
+00:00:32,956 --> 00:00:44,210
 It provides the marketplace for futures and options in Malaysia: it lists standardised contracts, sets the trading rules, and runs the electronic market where buy and sell orders meet.
 
 6
-00:00:43,750 --> 00:00:52,508
+00:00:44,550 --> 00:00:53,308
 Clearing is handled by a separate entity, Bursa Malaysia Derivatives Clearing. And the market as a whole is regulated by the Securities Commission Malaysia.
 
 7
-00:00:54,408 --> 00:01:01,342
+00:00:55,208 --> 00:01:02,142
 Why do we need an exchange at all? Imagine every buyer having to find, and trust, every seller individually.
 
 8
-00:01:01,682 --> 00:01:08,064
+00:01:02,482 --> 00:01:08,864
 Terms would differ, prices would be hidden, and if one side failed to pay, the other would bear the loss.
 
 9
-00:01:08,404 --> 00:01:16,034
+00:01:09,204 --> 00:01:16,834
 An exchange brings everyone to one central market, with standard contracts, transparent prices and common rules.
 
 10
-00:01:17,934 --> 00:01:22,660
+00:01:18,734 --> 00:01:23,460
 The clearing house is the part most beginners never see, but it is critical.
 
 11
-00:01:23,000 --> 00:01:31,638
+00:01:23,800 --> 00:01:32,438
 Once a trade is matched, the clearing house steps in between the two sides. It becomes the buyer to every seller, and the seller to every buyer.
 
 12
-00:01:31,978 --> 00:01:39,752
+00:01:32,778 --> 00:01:40,552
 It collects margin, marks open positions to the market price every day, and manages the clearing and settlement of obligations.
 
 13
-00:01:40,092 --> 00:01:46,162
+00:01:40,892 --> 00:01:46,962
 This greatly reduces counterparty risk: you are not relying on the unknown trader on the other side.
 
 14
-00:01:48,062 --> 00:01:55,212
+00:01:48,862 --> 00:01:56,012
 Beginners often mix up four different things: the exchange, the broker, the remisier, and the trading platform.
 
 15
-00:01:55,552 --> 00:02:01,670
+00:01:56,352 --> 00:02:02,470
 The exchange provides the market and its rules. It does not open trading accounts for individual clients.
 
 16
-00:02:02,010 --> 00:02:10,048
+00:02:02,810 --> 00:02:10,848
 The broker is a licensed futures broker. It gives you access to the market, holds your trading account, and manages margin and risk.
 
 17
-00:02:10,388 --> 00:02:20,562
+00:02:11,188 --> 00:02:21,362
 A remisier is a licensed representative attached to a broker, who services and guides clients. Your account is with the broker, not with the remisier personally.
 
 18
-00:02:20,902 --> 00:02:27,476
+00:02:21,702 --> 00:02:28,276
 And the trading platform is simply the software you use to send orders. It is a tool, not the market itself.
 
 19
-00:02:29,376 --> 00:02:31,822
+00:02:30,176 --> 00:02:32,622
 Now let us follow one order through the system.
 
 20
-00:02:32,162 --> 00:02:38,280
+00:02:32,962 --> 00:02:39,080
 You, the client, place a buy or sell order through your broker, usually via a trading platform.
 
 21
-00:02:38,620 --> 00:02:43,610
+00:02:39,420 --> 00:02:44,410
 The broker checks your margin and risk limits, then routes the order to the exchange.
 
 22
-00:02:43,950 --> 00:02:48,868
+00:02:44,750 --> 00:02:49,668
 On the exchange, your order is matched with an opposite order from another participant.
 
 23
-00:02:49,208 --> 00:02:56,382
+00:02:50,008 --> 00:02:57,182
 The matched trade then goes to the clearing house, which registers it, and your position and margin are updated in your account.
 
 24
-00:02:58,282 --> 00:03:07,088
+00:02:59,082 --> 00:03:07,888
 BMD lists contracts across several asset classes, including commodities, equity indices and interest rates, as well as options.
 
 25
-00:03:07,428 --> 00:03:15,658
+00:03:08,228 --> 00:03:16,458
 Examples include the FBM KLCI futures, known as FKLI, and the US dollar crude palm oil futures, FUPO.
 
 26
-00:03:15,998 --> 00:03:25,044
+00:03:16,798 --> 00:03:25,844
 But one contract stands out: Crude Palm Oil Futures, or FCPO, widely regarded as a global price benchmark for crude palm oil.
 
 27
-00:03:26,944 --> 00:03:31,862
+00:03:27,744 --> 00:03:32,662
 BMD is the exchange that provides Malaysia's futures and options market.
 
 28
-00:03:32,202 --> 00:03:37,672
+00:03:33,002 --> 00:03:38,472
 The clearing house stands between buyers and sellers and manages margin and settlement.
 
 29
-00:03:38,012 --> 00:03:40,698
+00:03:38,812 --> 00:03:41,498
 The Securities Commission regulates the market.
 
 30
-00:03:41,038 --> 00:03:46,532
+00:03:41,838 --> 00:03:47,332
 Your account is with a licensed broker; a remisier services you on the broker's behalf.
 
 31
-00:03:46,872 --> 00:03:50,974
+00:03:47,672 --> 00:03:51,774
 A trading platform is a tool to send orders, not the exchange.
 
 32
-00:03:51,314 --> 00:03:54,960
+00:03:52,114 --> 00:03:55,760
 FCPO is one of BMD's flagship contracts.
 
 33
-00:03:56,260 --> 00:04:07,634
+00:03:57,060 --> 00:04:08,434
 Every futures transaction sits within an organised market ecosystem. The exchange provides the market, the broker provides access, and the clearing house manages clearing and settlement.
 
 34
-00:04:09,734 --> 00:04:13,500
+00:04:10,534 --> 00:04:14,300
 This is only the foundation for understanding the futures market.
 
 35
-00:04:13,840 --> 00:04:16,838
+00:04:14,640 --> 00:04:17,638
 Know the product you trade before taking any risk.
 
 36
-00:04:17,178 --> 00:04:20,248
+00:04:17,978 --> 00:04:21,048
 Continue your learning with Capital Market Institute.
 
 37
-00:04:22,148 --> 00:04:27,810
+00:04:22,948 --> 00:04:28,610
 The references for this video are shown on screen. Always check the latest official specifications.
 
 38
-00:04:30,710 --> 00:04:39,588
+00:04:31,510 --> 00:04:40,388
 For educational purposes only. This is not financial advice, and it is not a guarantee of profit. Futures trading involves a high risk of loss.

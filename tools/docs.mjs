@@ -19,12 +19,12 @@ for(const v of vids){
   L.push(`| Narasi | English (VO) · sari kata Bahasa Malaysia dibakar ke dalam video + fail SRT |`,'');
   L.push(`## Objektif pembelajaran`,'',...def.objectives.map(o=>`- ${o}`),'');
   L.push(`## Ringkasan storyboard`,'',`| # | Babak | Mula | Durasi |`,`|---|---|---|---|`);
-  scenes.forEach((s,i)=>{const t=tl?tl.scenes[i]:null;L.push(`| ${s.sceneNo||'—'} | ${s.label||'BRAND STING'} | ${t?mmss(t.t0):''} | ${t?t.dur.toFixed(1)+' s':''} |`);});
+  scenes.forEach((s,i)=>{const t=tl?tl.scenes[i]:null;L.push(`| ${s.sceneNo||'—'} | ${s.label||'LOGO CMI'} | ${t?mmss(t.t0):''} | ${t?t.dur.toFixed(1)+' s':''} |`);});
   L.push('');
   L.push(`## Skrip penuh & arahan grafik (babak demi babak)`,'');
   scenes.forEach((s,i)=>{
     const t=tl?tl.scenes[i]:null;
-    L.push(`### ${s.sceneNo?('Babak '+s.sceneNo+' — '):''}${s.label||'Brand sting'} ${t?`(${mmss(t.t0)}–${mmss(t.t1)}, ${t.dur.toFixed(1)} s)`:''}`,'');
+    L.push(`### ${s.sceneNo?('Babak '+s.sceneNo+' — '):''}${s.label||'Pembukaan logo CMI'} ${t?`(${mmss(t.t0)}–${mmss(t.t1)}, ${t.dur.toFixed(1)} s)`:''}`,'');
     if(s.dir)L.push(`**Arahan motion graphics:** ${s.dir}`,'');
     if(s.lines.length){
       L.push(`| Masa | Narasi (VO, English) | Sari kata BM (di skrin) |`,`|---|---|---|`);

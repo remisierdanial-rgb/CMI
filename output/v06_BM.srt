@@ -1,187 +1,187 @@
 1
-00:00:03,900 --> 00:00:07,892
+00:00:04,700 --> 00:00:08,692
 Apa yang berlaku apabila kerugian trading menyebabkan baki margin anda semakin berkurang?
 
 2
-00:00:08,382 --> 00:00:14,054
+00:00:09,182 --> 00:00:14,854
 Untuk menjawabnya, kita perlu memahami dua paras: initial margin dan maintenance margin.
 
 3
-00:00:15,704 --> 00:00:19,849
+00:00:16,504 --> 00:00:20,649
 Dalam video ini, kita lihat ke dalam akaun futures: bagaimana margin berfungsi,
 
 4
-00:00:19,849 --> 00:00:22,408
+00:00:20,649 --> 00:00:23,208
 dan apa yang berlaku apabila ekuiti menurun.
 
 5
-00:00:24,858 --> 00:00:26,015
+00:00:25,658 --> 00:00:26,815
 Margin ialah cagaran.
 
 6
-00:00:26,015 --> 00:00:30,586
+00:00:26,815 --> 00:00:31,386
 Ia wang yang anda letakkan dalam akaun untuk menyokong posisi futures yang terbuka,
 
 7
-00:00:30,586 --> 00:00:33,314
+00:00:31,386 --> 00:00:34,114
 dan menunjukkan anda mampu memenuhi obligasi.
 
 8
-00:00:33,404 --> 00:00:38,548
+00:00:34,204 --> 00:00:39,348
 Ia bukan yuran, bukan bayaran pendahuluan, dan bukan had maksimum kerugian anda.
 
 9
-00:00:40,398 --> 00:00:48,806
+00:00:41,198 --> 00:00:49,606
 Initial margin ialah jumlah yang diperlukan untuk membuka posisi. Dalam contoh kita, ia RM8,000 sekontrak.
 
 10
-00:00:48,896 --> 00:00:57,592
+00:00:49,696 --> 00:00:58,392
 Maintenance margin ialah ekuiti minimum yang mesti dikekalkan selagi posisi terbuka. Dalam contoh kita, RM6,000.
 
 11
-00:00:57,682 --> 00:00:59,095
+00:00:58,482 --> 00:00:59,895
 Angka ini hipotetikal.
 
 12
-00:00:59,095 --> 00:01:05,706
+00:00:59,895 --> 00:01:06,506
 Keperluan sebenar bergantung pada keperluan clearing house, keadaan pasaran dan polisi broker anda.
 
 13
-00:01:07,556 --> 00:01:12,139
+00:01:08,356 --> 00:01:12,939
 Setiap hari dagangan, posisi terbuka dinilai semula mengikut harga pasaran, iaitu mark-to-market,
 
 14
-00:01:12,139 --> 00:01:13,948
+00:01:12,939 --> 00:01:14,748
 pada harga penyelesaian hari itu.
 
 15
-00:01:14,038 --> 00:01:20,766
+00:01:14,838 --> 00:01:21,566
 Keuntungan dikreditkan ke akaun anda dan kerugian didebitkan. Aliran tunai harian ini dipanggil variation margin.
 
 16
-00:01:20,856 --> 00:01:33,920
+00:01:21,656 --> 00:01:34,720
 Katakan anda long satu kontrak. Hari pertama, harga turun RM40: tolak RM1,000. Hari kedua, naik RM20: tambah RM500.
 
 17
-00:01:33,920 --> 00:01:38,600
+00:01:34,720 --> 00:01:39,400
 Hari ketiga, turun RM80: tolak RM2,000.
 
 18
-00:01:38,690 --> 00:01:47,722
+00:01:39,490 --> 00:01:48,522
 Secara keseluruhan, rugi RM2,500. Ekuiti jatuh dari RM8,000 ke RM5,500.
 
 19
-00:01:49,572 --> 00:01:52,772
+00:01:50,372 --> 00:01:53,572
 Sekarang lihat akaun yang sama pada papan pemuka ekuiti.
 
 20
-00:01:52,862 --> 00:02:01,726
+00:01:53,662 --> 00:02:02,526
 RM5,500 berada di bawah paras maintenance ilustrasi RM6,000. Garisan amaran telah dilepasi.
 
 21
-00:02:03,576 --> 00:02:07,909
+00:02:04,376 --> 00:02:08,709
 Ini boleh mencetuskan margin call: permintaan untuk mendepositkan dana tambahan,
 
 22
-00:02:07,909 --> 00:02:13,520
+00:02:08,709 --> 00:02:14,320
 selalunya untuk menaikkan ekuiti semula ke paras initial margin, bergantung pada terma broker anda.
 
 23
-00:02:13,610 --> 00:02:20,218
+00:02:14,410 --> 00:02:21,018
 Dalam contoh kita, iaitu RM2,500 untuk kembali ke RM8,000.
 
 24
-00:02:20,308 --> 00:02:24,470
+00:02:21,108 --> 00:02:25,270
 Jika margin call tidak dipenuhi tepat pada masanya, atau pasaran bergerak mendadak,
 
 25
-00:02:24,470 --> 00:02:27,027
+00:02:25,270 --> 00:02:27,827
 broker boleh mengurangkan atau menutup posisi anda.
 
 26
-00:02:27,027 --> 00:02:28,932
+00:02:27,827 --> 00:02:29,732
 Ini dipanggil forced liquidation.
 
 27
-00:02:29,022 --> 00:02:31,969
+00:02:29,822 --> 00:02:32,769
 Dan ingat: kerugian tidak terhad kepada margin anda.
 
 28
-00:02:31,969 --> 00:02:35,846
+00:02:32,769 --> 00:02:36,646
 Jika akaun menjadi negatif, anda masih berhutang kekurangan itu.
 
 29
-00:02:37,696 --> 00:02:44,184
+00:02:38,496 --> 00:02:44,984
 Terdapat dua lapisan margin. Clearing house menetapkan keperluan margin minimum bagi peserta clearing.
 
 30
-00:02:44,274 --> 00:02:49,144
+00:02:45,074 --> 00:02:49,944
 Broker anda boleh meminta lebih daripada paras minimum itu, berdasarkan polisi risiko sendiri.
 
 31
-00:02:49,144 --> 00:02:51,674
+00:02:49,944 --> 00:02:52,474
 Yang anda bayar ialah keperluan broker anda.
 
 32
-00:02:53,524 --> 00:02:55,381
+00:02:54,324 --> 00:02:56,181
 Keperluan margin tidak tetap.
 
 33
-00:02:55,381 --> 00:03:02,484
+00:02:56,181 --> 00:03:03,284
 Clearing house menyemaknya, dan ia boleh dinaikkan atau diturunkan, terutamanya apabila volatiliti berubah.
 
 34
-00:03:02,574 --> 00:03:06,783
+00:03:03,374 --> 00:03:07,583
 Jika margin naik, anda mungkin perlukan dana tambahan untuk memegang posisi yang sama,
 
 35
-00:03:06,783 --> 00:03:08,942
+00:03:07,583 --> 00:03:09,742
 walaupun tanpa membuat dagangan baharu.
 
 36
-00:03:10,792 --> 00:03:13,968
+00:03:11,592 --> 00:03:14,768
 Margin ialah cagaran yang menyokong posisi anda.
 
 37
-00:03:14,058 --> 00:03:19,322
+00:03:14,858 --> 00:03:20,122
 Initial margin untuk membuka posisi; maintenance margin ialah paras minimum untuk mengekalkannya.
 
 38
-00:03:19,412 --> 00:03:23,452
+00:03:20,212 --> 00:03:24,252
 Posisi dinilai semula setiap hari melalui variation margin.
 
 39
-00:03:23,542 --> 00:03:28,374
+00:03:24,342 --> 00:03:29,174
 Jatuh di bawah maintenance boleh membawa kepada margin call atau forced liquidation.
 
 40
-00:03:28,464 --> 00:03:31,808
+00:03:29,264 --> 00:03:32,608
 Broker boleh meminta lebih daripada minimum clearing house.
 
 41
-00:03:31,898 --> 00:03:36,106
+00:03:32,698 --> 00:03:36,906
 Keperluan margin boleh berubah, dan kerugian boleh melebihi margin.
 
 42
-00:03:48,206 --> 00:03:52,222
+00:03:49,006 --> 00:03:53,022
 Ini baru asas untuk memahami pasaran niaga hadapan.
 
 43
-00:03:52,312 --> 00:03:55,560
+00:03:53,112 --> 00:03:56,360
 Kenali produk yang anda dagangkan sebelum mengambil sebarang risiko.
 
 44
-00:03:55,650 --> 00:03:58,970
+00:03:56,450 --> 00:03:59,770
 Teruskan pembelajaran anda bersama Capital Market Institute.
 
 45
-00:04:00,620 --> 00:04:06,532
+00:04:01,420 --> 00:04:07,332
 Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.
 
 46
-00:04:09,182 --> 00:04:14,483
+00:04:09,982 --> 00:04:15,283
 Untuk tujuan pendidikan sahaja. Ini bukan nasihat kewangan atau jaminan keuntungan.
 
 47
-00:04:14,483 --> 00:04:18,310
+00:04:15,283 --> 00:04:19,110
 Dagangan futures melibatkan risiko kerugian yang tinggi.

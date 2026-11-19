@@ -1,139 +1,139 @@
 1
-00:00:03,900 --> 00:00:08,362
+00:00:04,700 --> 00:00:09,162
 Why would a trader need to switch from the November contract to the December contract?
 
 2
-00:00:09,102 --> 00:00:13,612
+00:00:09,902 --> 00:00:14,412
 Because every futures contract has an expiry. Let us see what that means.
 
 3
-00:00:15,512 --> 00:00:21,414
+00:00:16,312 --> 00:00:22,214
 In this video, we look at contract months, expiry, and how traders roll positions forward.
 
 4
-00:00:24,114 --> 00:00:31,480
+00:00:24,914 --> 00:00:32,280
 Every futures contract is linked to a specific month, called the contract month. It tells you when that contract expires.
 
 5
-00:00:31,820 --> 00:00:38,514
+00:00:32,620 --> 00:00:39,314
 Several contract months are listed and traded at the same time, each as a separate contract with its own price.
 
 6
-00:00:38,854 --> 00:00:45,404
+00:00:39,654 --> 00:00:46,204
 The exact listing cycle for FCPO is set out in Bursa Malaysia's official contract specifications.
 
 7
-00:00:47,504 --> 00:00:55,182
+00:00:48,304 --> 00:00:55,982
 Why do futures expire? Because a futures contract is an agreement for a future date. At some point, that date arrives.
 
 8
-00:00:55,522 --> 00:01:03,464
+00:00:56,322 --> 00:01:04,264
 For FCPO, which is physically delivered, expiry is when trading in that month stops and the delivery process takes over.
 
 9
-00:01:05,564 --> 00:01:10,098
+00:01:06,364 --> 00:01:10,898
 The nearest contract month that is currently expiring is called the spot month.
 
 10
-00:01:10,438 --> 00:01:22,436
+00:01:11,238 --> 00:01:23,236
 The last day it can be traded is the last trading day. For FCPO, this is generally the 15th day of the contract month, or the preceding business day if the 15th is not a business day.
 
 11
-00:01:22,776 --> 00:01:32,422
+00:01:23,576 --> 00:01:33,222
 Always confirm the exact date in the official specification and your broker's notices, because brokers may also set earlier cut-off times for retail clients.
 
 12
-00:01:34,522 --> 00:01:44,984
+00:01:35,322 --> 00:01:45,784
 Each contract month has its own price. In this illustration, November trades at RM4,000, and December at RM4,025.
 
 13
-00:01:45,324 --> 00:01:53,434
+00:01:46,124 --> 00:01:54,234
 These differences reflect expectations about supply and demand, storage and financing costs, and timing. They change every day.
 
 14
-00:01:55,534 --> 00:02:02,540
+00:01:56,334 --> 00:02:03,340
 Now, rollover. Say you hold a long position in November, and you want to keep your exposure beyond November's expiry.
 
 15
-00:02:02,880 --> 00:02:10,294
+00:02:03,680 --> 00:02:11,094
 You close the November position by selling it, and open a new long position in December by buying it. That switch is a rollover.
 
 16
-00:02:10,634 --> 00:02:23,856
+00:02:11,434 --> 00:02:24,656
 Notice: selling November at RM4,000 and buying December at RM4,025 is not a RM25 loss. You simply hold a different contract, at its own price.
 
 17
-00:02:24,196 --> 00:02:34,082
+00:02:24,996 --> 00:02:34,882
 Your profit or loss on November is realised when you close it. From then on, your result depends on how December moves. Each leg also has transaction costs.
 
 18
-00:02:36,182 --> 00:02:42,516
+00:02:36,982 --> 00:02:43,316
 Traders roll over to keep their exposure, and to avoid holding a position into the delivery process.
 
 19
-00:02:42,856 --> 00:02:56,222
+00:02:43,656 --> 00:02:57,022
 As a month approaches expiry, trading activity tends to move to later months. For FCPO, activity is often concentrated in the third-month contract, which market reports commonly quote as the benchmark.
 
 20
-00:02:58,322 --> 00:03:03,144
+00:02:59,122 --> 00:03:03,944
 When later months are priced higher than nearer months, the market is in contango.
 
 21
-00:03:03,484 --> 00:03:10,970
+00:03:04,284 --> 00:03:11,770
 When nearer months are priced higher than later months, often because near-term supply is tight, the market is in backwardation.
 
 22
-00:03:13,070 --> 00:03:21,036
+00:03:13,870 --> 00:03:21,836
 Some traders trade the difference between two months directly. This is a calendar spread: long one month and short another at the same time.
 
 23
-00:03:21,376 --> 00:03:30,326
+00:03:22,176 --> 00:03:31,126
 Here, the result depends on how the gap between the two months changes, not simply on whether prices go up or down. Spreads still carry risk.
 
 24
-00:03:32,426 --> 00:03:36,312
+00:03:33,226 --> 00:03:37,112
 Every futures contract has a contract month and an expiry.
 
 25
-00:03:36,652 --> 00:03:41,642
+00:03:37,452 --> 00:03:42,442
 The spot month is the nearest expiring month; trading stops on the last trading day.
 
 26
-00:03:41,982 --> 00:03:43,948
+00:03:42,782 --> 00:03:44,748
 Different months have different prices.
 
 27
-00:03:44,288 --> 00:03:50,478
+00:03:45,088 --> 00:03:51,278
 Rollover means closing the near month and opening a later one; the price gap itself is not a loss.
 
 28
-00:03:50,818 --> 00:03:54,800
+00:03:51,618 --> 00:03:55,600
 Contango and backwardation describe the shape of the price curve.
 
 29
-00:03:55,140 --> 00:03:59,890
+00:03:55,940 --> 00:04:00,690
 Always confirm expiry dates with the official specification and your broker.
 
 30
-00:04:01,190 --> 00:04:09,948
+00:04:01,990 --> 00:04:10,748
 Futures contracts have a maturity. Understanding contract months and rollover helps traders manage their positions in a more organised way.
 
 31
-00:04:12,048 --> 00:04:15,814
+00:04:12,848 --> 00:04:16,614
 This is only the foundation for understanding the futures market.
 
 32
-00:04:16,154 --> 00:04:19,152
+00:04:16,954 --> 00:04:19,952
 Know the product you trade before taking any risk.
 
 33
-00:04:19,492 --> 00:04:22,562
+00:04:20,292 --> 00:04:23,362
 Continue your learning with Capital Market Institute.
 
 34
-00:04:24,462 --> 00:04:30,124
+00:04:25,262 --> 00:04:30,924
 The references for this video are shown on screen. Always check the latest official specifications.
 
 35
-00:04:33,024 --> 00:04:41,902
+00:04:33,824 --> 00:04:42,702
 For educational purposes only. This is not financial advice, and it is not a guarantee of profit. Futures trading involves a high risk of loss.

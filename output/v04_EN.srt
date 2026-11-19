@@ -1,127 +1,127 @@
 1
-00:00:03,900 --> 00:00:11,074
+00:00:04,700 --> 00:00:11,874
 How can RM8,000 give you exposure to a contract worth RM100,000?
 
 2
-00:00:11,814 --> 00:00:16,756
+00:00:12,614 --> 00:00:17,556
 The answer is leverage. And it works for you, and against you, at the same speed.
 
 3
-00:00:18,656 --> 00:00:25,398
+00:00:19,456 --> 00:00:26,198
 In this video, we unpack leverage: what it is, how it is calculated, and why it must be respected.
 
 4
-00:00:28,098 --> 00:00:39,640
+00:00:28,898 --> 00:00:40,440
 Start with contract value. FCPO at RM4,000 per tonne, times 25 tonnes, gives a contract value of RM100,000.
 
 5
-00:00:39,980 --> 00:00:44,058
+00:00:40,780 --> 00:00:44,858
 That is the size of the price exposure you carry with just one contract.
 
 6
-00:00:46,158 --> 00:00:56,284
+00:00:46,958 --> 00:00:57,084
 But futures traders do not pay the full RM100,000 upfront. Instead, they deposit margin: collateral to support the position.
 
 7
-00:00:56,624 --> 00:01:06,030
+00:00:57,424 --> 00:01:06,830
 In this example, assume an initial margin of RM8,000. This is a hypothetical figure for education, not a current margin rate.
 
 8
-00:01:06,370 --> 00:01:14,456
+00:01:07,170 --> 00:01:15,256
 Margin is not a down payment and not the price of the contract. You do not own RM100,000 of palm oil.
 
 9
-00:01:16,556 --> 00:01:26,874
+00:01:17,356 --> 00:01:27,674
 Leverage compares your exposure with your capital. RM100,000 divided by RM8,000 is 12.5 times.
 
 10
-00:01:27,214 --> 00:01:38,372
+00:01:28,014 --> 00:01:39,172
 In other words, every RM1 of margin supports about RM12.50 of contract exposure. Leverage is not free money; it is borrowed exposure to price risk.
 
 11
-00:01:40,472 --> 00:01:48,654
+00:01:41,272 --> 00:01:49,454
 Now see what a small price move does. A RM40 move against you is only 1% of the RM4,000 price.
 
 12
-00:01:48,994 --> 00:01:54,992
+00:01:49,794 --> 00:01:55,792
 But RM40 times 25 is a RM1,000 loss per contract.
 
 13
-00:01:55,332 --> 00:02:06,946
+00:01:56,132 --> 00:02:07,746
 And RM1,000 is 12.5% of the RM8,000 margin. A 1% price move becomes a 12.5% change in your margin.
 
 14
-00:02:07,286 --> 00:02:13,740
+00:02:08,086 --> 00:02:14,540
 It works the same way in your favour, which is exactly why leverage feels attractive, and why it is dangerous.
 
 15
-00:02:15,840 --> 00:02:24,022
+00:02:16,640 --> 00:02:24,822
 If losses keep reducing your account equity below the required level, the broker may issue a margin call, asking you to top up funds.
 
 16
-00:02:24,362 --> 00:02:33,840
+00:02:25,162 --> 00:02:34,640
 If the funds are not provided in time, or the market moves very fast, positions may be force-liquidated, meaning closed, according to the broker's terms.
 
 17
-00:02:34,180 --> 00:02:39,650
+00:02:34,980 --> 00:02:40,450
 And losses can exceed the margin you deposited. You remain responsible for any shortfall.
 
 18
-00:02:41,750 --> 00:02:45,564
+00:02:42,550 --> 00:02:46,364
 That is why risk management is essential when trading with leverage.
 
 19
-00:02:45,904 --> 00:02:51,350
+00:02:46,704 --> 00:02:52,150
 Know the full contract value, not just the margin. Size your positions to your capital.
 
 20
-00:02:51,690 --> 00:02:56,608
+00:02:52,490 --> 00:02:57,408
 Plan your exit before you enter, and keep enough buffer in your account for price swings.
 
 21
-00:02:58,708 --> 00:03:08,090
+00:02:59,508 --> 00:03:08,890
 Contract value is price times contract size: for FCPO at RM4,000, that is RM100,000.
 
 22
-00:03:08,430 --> 00:03:11,836
+00:03:09,230 --> 00:03:12,636
 Margin is collateral, not the price of the contract.
 
 23
-00:03:12,176 --> 00:03:17,118
+00:03:12,976 --> 00:03:17,918
 Leverage compares exposure with margin: here, 12.5 times.
 
 24
-00:03:17,458 --> 00:03:21,032
+00:03:18,258 --> 00:03:21,832
 A small price move creates a much larger change in your margin.
 
 25
-00:03:21,372 --> 00:03:26,554
+00:03:22,172 --> 00:03:27,354
 Losses can trigger a margin call or forced liquidation, and can exceed your margin.
 
 26
-00:03:26,894 --> 00:03:28,812
+00:03:27,694 --> 00:03:29,612
 Risk management comes first.
 
 27
-00:03:30,112 --> 00:03:37,238
+00:03:30,912 --> 00:03:38,038
 Leverage can increase opportunity, but at the same time it accelerates losses. Understand the risks before you trade.
 
 28
-00:03:39,338 --> 00:03:43,104
+00:03:40,138 --> 00:03:43,904
 This is only the foundation for understanding the futures market.
 
 29
-00:03:43,444 --> 00:03:46,442
+00:03:44,244 --> 00:03:47,242
 Know the product you trade before taking any risk.
 
 30
-00:03:46,782 --> 00:03:49,852
+00:03:47,582 --> 00:03:50,652
 Continue your learning with Capital Market Institute.
 
 31
-00:03:51,752 --> 00:03:57,414
+00:03:52,552 --> 00:03:58,214
 The references for this video are shown on screen. Always check the latest official specifications.
 
 32
-00:04:00,314 --> 00:04:09,192
+00:04:01,114 --> 00:04:09,992
 For educational purposes only. This is not financial advice, and it is not a guarantee of profit. Futures trading involves a high risk of loss.
