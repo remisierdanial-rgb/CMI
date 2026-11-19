@@ -35,9 +35,9 @@ VIDEO({
   {id:'hours',label:'WAKTU DAGANGAN',lines:[
     ['FCPO trades in three sessions, all in Malaysian time.','FCPO didagangkan dalam tiga sesi, semuanya mengikut waktu Malaysia.'],
     ['The morning session runs from 10:30 am to 12:30 pm. The afternoon session runs from 2:30 pm to 6:00 pm.','Sesi pagi bermula 10:30 pagi hingga 12:30 tengah hari. Sesi petang bermula 2:30 petang hingga 6:00 petang.'],
-    ['Then there is an after-hours session, known as T plus one, from 9:00 pm to 11:30 pm.','Kemudian ada sesi selepas waktu, dikenali sebagai T+1, dari 9:00 malam hingga 11:30 malam.',.8],
+    ['Then there is an after-hours session, known as T plus one, from 9:00 pm to 11:00 pm.','Kemudian ada sesi selepas waktu, dikenali sebagai T+1, dari 9:00 malam hingga 11:00 malam.',.8],
   ],
-  dir:'Animated 24-hour clock dial (00–24). Three blue arcs draw in order: Morning 10:30–12:30, Afternoon 14:30–18:00, After-hours T+1 21:00–23:30. A legend panel lists each session with exact times. Footnote: "Waktu Malaysia (MYT) · sahkan dengan Bursa".',
+  dir:'Animated 24-hour clock dial (00–24). Three blue arcs draw in order: Morning 10:30–12:30, Afternoon 14:30–18:00, After-hours T+1 21:00–23:00. A legend panel lists each session with exact times. Footnote: "Waktu Malaysia (MYT) · sahkan dengan Bursa".',
   build(S){
     C.title(S,{kicker:'FCPO · waktu Malaysia',title:'Tiga sesi dagangan',at:.1});
     const cx=560,cy=560,R=250;
@@ -46,7 +46,7 @@ VIDEO({
     for(let h=0;h<24;h++){const a=(h/24)*Math.PI*2-Math.PI/2;const t=svgEl('line',{x1:cx+Math.cos(a)*(R-30),y1:cy+Math.sin(a)*(R-30),x2:cx+Math.cos(a)*(R-(h%6?40:52)),y2:cy+Math.sin(a)*(R-(h%6?40:52)),stroke:'#64748B','stroke-width':h%6?1.5:3});sv.appendChild(t);S.tween(S.c(0,.4),.4,p=>t.style.opacity=p,'out');
       if(h%3===0){const tx=svgEl('text',{x:cx+Math.cos(a)*(R-80),y:cy+Math.sin(a)*(R-80)+7,'text-anchor':'middle',class:'ax'});tx.textContent=String(h).padStart(2,'0');sv.appendChild(tx);S.tween(S.c(0,.5),.4,p=>tx.style.opacity=p,'out');}}
     const arc=(h0,h1,col)=>{const a0=h0/24*Math.PI*2-Math.PI/2,a1=h1/24*Math.PI*2-Math.PI/2;const p=svgEl('path',{d:`M${cx+Math.cos(a0)*R},${cy+Math.sin(a0)*R} A${R},${R} 0 0 1 ${cx+Math.cos(a1)*R},${cy+Math.sin(a1)*R}`,stroke:col,'stroke-width':26,fill:'none','stroke-linecap':'butt'});sv.appendChild(p);return p;};
-    const S1=[[10.5,12.5,'#E8B04F',S.c(1,.3),'Morning','10:30 – 12:30'],[14.5,18,'#E8B04F',S.c(1,3.6),'Afternoon','14:30 – 18:00'],[21,23.5,'#22C3A6',S.c(2,1),'After-hours (T+1)','21:00 – 23:30']];
+    const S1=[[10.5,12.5,'#E8B04F',S.c(1,.3),'Morning','10:30 – 12:30'],[14.5,18,'#E8B04F',S.c(1,3.6),'Afternoon','14:30 – 18:00'],[21,23,'#22C3A6',S.c(2,1),'After-hours (T+1)','21:00 – 23:00']];
     S1.forEach((s,i)=>{const p=arc(s[0],s[1],s[2]);S.draw(p,s[3],.9);
       S.add(`<div class="card" style="padding:24px 30px;display:flex;justify-content:space-between;align-items:center"><div><div class="small">${['Sesi pagi','Sesi petang','Sesi selepas waktu'][i]}</div><div class="h3" style="margin-top:4px">${s[4]}</div></div><div style="font:700 38px var(--mono);color:${s[2]}">${s[5]}</div></div>`,{x:960,y:300+i*150,w:850,at:s[3],anim:'right'});});
     S.add(`<div class="small">Waktu Malaysia (MYT) · sahkan jadual terkini dengan Bursa Malaysia</div>`,{x:960,y:780,at:S.c(2,3)});
@@ -79,7 +79,7 @@ VIDEO({
     S.add(`<div class="small">T · tarikh dagangan</div><div class="h2" style="margin-top:6px">Selasa</div>`,{parent:A,x:34,y:28,at:S.c(0,.5)});
     S.add(`<div class="small blue">T+1 · hari berikutnya</div><div class="h2" style="margin-top:6px">Rabu</div>`,{parent:B,x:34,y:28,at:S.c(0,.8)});
     S.add(`<div style="height:90px;border-radius:10px;background:rgba(34,195,166,.18);border:1px dashed rgba(34,195,166,.6)"></div>`,{parent:A,x:34,y:330,w:730,at:S.c(1,.4),anim:'fade'});
-    S.add(`<div class="small up" style="color:var(--up)">Sesi T+1 · 21:00 – 23:30</div>`,{parent:A,x:50,y:300,at:S.c(1,.4)});
+    S.add(`<div class="small up" style="color:var(--up)">Sesi T+1 · 21:00 – 23:00</div>`,{parent:A,x:50,y:300,at:S.c(1,.4)});
     const tok=S.add(`<div class="chip up" style="font-size:24px">Dagangan · Selasa 22:00</div>`,{x:300,y:630,at:S.c(1,1.4),anim:'pop'});
     S.tween(S.c(1,4.6),1.4,p=>{tok.style.left=(300+900*p)+'px';tok.style.top=(630-120*Math.sin(Math.PI*p))+'px';});
     S.add(`<div class="tag blue" style="font-size:22px">Direkod: Rabu</div>`,{parent:B,x:34,y:440,at:S.c(1,6.2),anim:'pop'});
@@ -133,7 +133,7 @@ VIDEO({
     ['News and price moves overseas can shape sentiment in the T plus one session, and when FCPO reopens the next morning.','Berita dan pergerakan harga di luar negara boleh membentuk sentimen dalam sesi T+1, dan apabila FCPO dibuka semula keesokan pagi.'],
     ['But these markets do not always move in the same direction. Local factors, such as production and export data, weather and the ringgit, can push FCPO the other way.','Namun pasaran ini tidak semestinya bergerak dalam arah yang sama. Faktor tempatan, seperti data pengeluaran dan eksport, cuaca dan ringgit, boleh menolak FCPO ke arah berlawanan.',.8],
   ],
-  dir:'Horizontal 24h timeline (18:00 → next 12:30). FCPO close marker at 18:00; overseas market band ("Pasaran luar negara bergerak") glows through the evening; T+1 block 21:00–23:30 and next-morning open 10:30 receive "sentimen" arrows. Line 3: a "≠ arah sama" tag plus local factor chips: Data pengeluaran & eksport · Cuaca · Ringgit.',
+  dir:'Horizontal 24h timeline (18:00 → next 12:30). FCPO close marker at 18:00; overseas market band ("Pasaran luar negara bergerak") glows through the evening; T+1 block 21:00–23:00 and next-morning open 10:30 receive "sentimen" arrows. Line 3: a "≠ arah sama" tag plus local factor chips: Data pengeluaran & eksport · Cuaca · Ringgit.',
   build(S){
     C.title(S,{kicker:'Sentimen',title:'Dari pasaran luar ke sesi FCPO seterusnya',at:.1,w:1700});
     const sv=C.svg(S);
@@ -143,7 +143,7 @@ VIDEO({
     S.add(`<div class="chip" style="font-size:20px">FCPO tutup 18:00</div>`,{x:X(18)-20,y:640+20,at:S.c(0,1),anim:'pop'});
     S.add(`<div style="height:70px;border-radius:10px;background:rgba(232,176,79,.12);border:1px dashed rgba(232,176,79,.5)"></div>`,{x:X(18.3),y:340,w:X(9.5)-X(18.3),at:S.c(0,2.4),anim:'wipe',d:1.2});
     S.add(`<div class="small blue">Pasaran luar negara terus bergerak · berita</div>`,{x:X(18.5),y:300,at:S.c(0,2.8)});
-    S.add(`<div style="height:90px;border-radius:10px;background:rgba(34,195,166,.4)"></div>`,{x:X(21),y:500,w:X(23.5)-X(21),at:S.c(1,.4),anim:'scale'});
+    S.add(`<div style="height:90px;border-radius:10px;background:rgba(34,195,166,.4)"></div>`,{x:X(21),y:500,w:X(23)-X(21),at:S.c(1,.4),anim:'scale'});
     S.add(`<div class="small up" style="color:var(--up)">T+1</div>`,{x:X(21),y:465,at:S.c(1,.4)});
     S.add(`<div style="height:90px;border-radius:10px;background:rgba(232,176,79,.55)"></div>`,{x:X(10.5),y:500,w:X(12.5)-X(10.5),at:S.c(1,3),anim:'scale'});
     S.add(`<div class="small blue">Pagi</div>`,{x:X(10.5),y:465,at:S.c(1,3)});
@@ -170,7 +170,7 @@ VIDEO({
     {org:'CME Group',title:'Soybean Oil & Soybean futures (CBOT) — contract specifications',url:'https://www.cmegroup.com/markets/agriculture/oilseeds/soybean-oil.html',note:'Pasaran AS'},
   ],
   factcheck:[
-    ['Sesi pagi 10:30–12:30, petang 14:30–18:00, T+1 21:00–23:30 (MYT)','Bursa FCPO spec','SEMAK — kritikal'],
+    ['Sesi pagi 10:30–12:30, petang 14:30–18:00, T+1 21:00–23:00 (MYT) — dibetulkan mengikut maklum balas klien','Bursa FCPO spec','SEMAK — kritikal'],
     ['T+1 berjalan Isnin–Khamis; tiada pada malam Jumaat','Bursa T+1 FAQ','SEMAK'],
     ['Dagangan T+1 direkod sebagai dagangan hari dagangan berikutnya','Bursa T+1 FAQ','SEMAK'],
     ['Jadual sebelum cuti umum / jadual khas — tidak dinyatakan secara spesifik; dirujuk ke kalendar Bursa','Bursa','SEMAK'],

@@ -19,149 +19,149 @@ FCPO didagangkan dalam tiga sesi, semuanya mengikut waktu Malaysia.
 Sesi pagi bermula 10:30 pagi hingga 12:30 tengah hari. Sesi petang bermula 2:30 petang hingga 6:00 petang.
 
 6
-00:00:39,030 --> 00:00:45,638
-Kemudian ada sesi selepas waktu, dikenali sebagai T+1, dari 9:00 malam hingga 11:30 malam.
+00:00:39,030 --> 00:00:45,182
+Kemudian ada sesi selepas waktu, dikenali sebagai T+1, dari 9:00 malam hingga 11:00 malam.
 
 7
-00:00:47,488 --> 00:00:52,632
+00:00:47,032 --> 00:00:52,176
 Sesi pagi dan petang berjalan pada hari dagangan Bursa, Isnin hingga Jumaat.
 
 8
-00:00:52,722 --> 00:00:59,378
+00:00:52,266 --> 00:00:58,922
 Sesi selepas waktu berjalan pada malam Isnin hingga Khamis. Tiada sesi T+1 pada malam Jumaat.
 
 9
-00:00:59,468 --> 00:01:06,244
+00:00:59,012 --> 00:01:05,788
 Cuti umum dan jadual khas terpakai, jadi sentiasa semak kalendar dagangan Bursa dan notis broker anda.
 
 10
-00:01:08,094 --> 00:01:11,798
+00:01:07,638 --> 00:01:11,342
 Jadi, apa maksud T+1? T bermaksud tarikh dagangan.
 
 11
-00:01:11,888 --> 00:01:17,037
+00:01:11,432 --> 00:01:16,581
 Dagangan yang dibuat dalam sesi selepas waktu dianggap sebagai dagangan hari dagangan berikutnya.
 
 12
-00:01:17,037 --> 00:01:20,896
+00:01:16,581 --> 00:01:20,440
 Dagangan pada 10 malam Selasa direkodkan sebagai dagangan hari Rabu.
 
 13
-00:01:20,986 --> 00:01:25,002
+00:01:20,530 --> 00:01:24,546
 Ini penting untuk clearing, margin dan penyata harian anda.
 
 14
-00:01:26,852 --> 00:01:33,244
+00:01:26,396 --> 00:01:32,788
 Mengapa sesi penting? Kerana aktiviti dagangan dan volatiliti boleh berbeza antara satu sesi dengan sesi lain.
 
 15
-00:01:33,334 --> 00:01:38,313
+00:01:32,878 --> 00:01:37,857
 Di antara sesi, ketika rehat tengah hari dan waktu malam, berita masih boleh muncul.
 
 16
-00:01:38,313 --> 00:01:43,542
+00:01:37,857 --> 00:01:43,086
 Apabila dagangan disambung, harga mungkin dibuka pada paras berbeza, mewujudkan gap.
 
 17
-00:01:43,632 --> 00:01:47,624
+00:01:43,176 --> 00:01:47,168
 Mengetahui sesi dagangan membantu anda merancang pesanan dan mengurus risiko.
 
 18
-00:01:49,474 --> 00:01:56,298
+00:01:49,018 --> 00:01:55,842
 FCPO tidak didagangkan secara terasing. Beberapa pasaran global diperhatikan rapat oleh trader minyak sawit.
 
 19
-00:01:56,388 --> 00:02:02,338
+00:01:55,932 --> 00:02:01,882
 Di China, Dalian Commodity Exchange mendagangkan futures minyak soya dan palm olein.
 
 20
-00:02:02,338 --> 00:02:05,492
+00:02:01,882 --> 00:02:05,036
 China ialah pembeli utama minyak sayuran.
 
 21
-00:02:05,582 --> 00:02:10,742
+00:02:05,126 --> 00:02:10,286
 Di Amerika Syarikat, Chicago Board of Trade mendagangkan minyak soya dan kacang soya.
 
 22
-00:02:10,742 --> 00:02:14,878
+00:02:10,286 --> 00:02:14,422
 Minyak soya bersaing dengan minyak sawit sebagai minyak sayuran.
 
 23
-00:02:14,968 --> 00:02:19,756
+00:02:14,512 --> 00:02:19,300
 Minyak mentah juga penting, kerana minyak sawit turut digunakan untuk menghasilkan biodiesel.
 
 24
-00:02:19,756 --> 00:02:20,837
+00:02:19,300 --> 00:02:20,381
 Ringgit juga penting,
 
 25
-00:02:20,837 --> 00:02:26,184
+00:02:20,381 --> 00:02:25,728
 kerana FCPO berharga dalam ringgit sedangkan minyak sawit diperdagangkan di peringkat antarabangsa.
 
 26
-00:02:28,034 --> 00:02:34,786
+00:02:27,578 --> 00:02:34,330
 Begini ia boleh berlaku. Sesi petang FCPO ditutup pada 6 petang, tetapi pasaran lain terus bergerak.
 
 27
-00:02:34,876 --> 00:02:39,637
+00:02:34,420 --> 00:02:39,181
 Berita dan pergerakan harga di luar negara boleh membentuk sentimen dalam sesi T+1,
 
 28
-00:02:39,637 --> 00:02:42,468
+00:02:39,181 --> 00:02:42,012
 dan apabila FCPO dibuka semula keesokan pagi.
 
 29
-00:02:42,558 --> 00:02:46,259
+00:02:42,102 --> 00:02:45,803
 Namun pasaran ini tidak semestinya bergerak dalam arah yang sama.
 
 30
-00:02:46,259 --> 00:02:52,886
+00:02:45,803 --> 00:02:52,430
 Faktor tempatan, seperti data pengeluaran dan eksport, cuaca dan ringgit, boleh menolak FCPO ke arah berlawanan.
 
 31
-00:02:54,736 --> 00:03:00,936
+00:02:54,280 --> 00:03:00,480
 FCPO mempunyai sesi pagi, sesi petang dan sesi selepas waktu T+1.
 
 32
-00:03:01,026 --> 00:03:04,922
+00:03:00,570 --> 00:03:04,466
 Dagangan selepas waktu dikira sebagai dagangan hari berikutnya.
 
 33
-00:03:05,012 --> 00:03:09,580
+00:03:04,556 --> 00:03:09,124
 Tiada sesi T+1 pada malam Jumaat, dan cuti umum terpakai.
 
 34
-00:03:09,670 --> 00:03:12,822
+00:03:09,214 --> 00:03:12,366
 Rehat antara sesi boleh menyebabkan gap harga.
 
 35
-00:03:12,912 --> 00:03:17,648
+00:03:12,456 --> 00:03:17,192
 Dalian, Chicago, minyak mentah dan ringgit boleh mempengaruhi sentimen.
 
 36
-00:03:17,738 --> 00:03:21,658
+00:03:17,282 --> 00:03:21,202
 Namun pasaran berkaitan tidak semestinya bergerak dalam arah yang sama.
 
 37
-00:03:33,662 --> 00:03:37,678
+00:03:33,206 --> 00:03:37,222
 Ini baru asas untuk memahami pasaran niaga hadapan.
 
 38
-00:03:37,768 --> 00:03:41,016
+00:03:37,312 --> 00:03:40,560
 Kenali produk yang anda dagangkan sebelum mengambil sebarang risiko.
 
 39
-00:03:41,106 --> 00:03:44,426
+00:03:40,650 --> 00:03:43,970
 Teruskan pembelajaran anda bersama Capital Market Institute.
 
 40
-00:03:46,076 --> 00:03:51,988
+00:03:45,620 --> 00:03:51,532
 Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.
 
 41
-00:03:54,638 --> 00:03:59,939
+00:03:54,182 --> 00:03:59,483
 Untuk tujuan pendidikan sahaja. Ini bukan nasihat kewangan atau jaminan keuntungan.
 
 42
-00:03:59,939 --> 00:04:03,766
+00:03:59,483 --> 00:04:03,310
 Dagangan futures melibatkan risiko kerugian yang tinggi.
