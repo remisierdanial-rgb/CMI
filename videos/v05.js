@@ -66,7 +66,7 @@ VIDEO({
     R.forEach((r,i)=>{
       const row=S.add(`<div style="display:grid;grid-template-columns:560px 360px 1fr;align-items:center;height:72px;border-top:${i?'1px solid var(--line)':'0'};padding:0 36px;border-radius:8px"><div style="font:600 24px var(--sans)">${r[0]}</div><div class="small">${r[1]}</div><div style="font:700 30px var(--mono)">${r[2]}</div></div>`,{parent:card,x:0,y:20+i*78,w:1700,at:r[3],anim:'left'});
       const nx=R[i+1]?R[i+1][3]:1e9;
-      S.step(r[3],on=>{row.style.background=on&&S._t<nx?'rgba(37,99,235,.14)':'transparent';});
+      S.step(r[3],on=>{row.style.background=on&&S._t<nx?'rgba(232,176,79,.14)':'transparent';});
     });
     S.add(`<div class="small">Sumber: Bursa Malaysia · sentiasa rujuk spesifikasi rasmi terkini</div>`,{x:110,y:880,at:S.c(3,1)});
   }},
@@ -94,7 +94,7 @@ VIDEO({
     const lad=C.card(S,{x:110,y:270,w:560,h:590,at:S.c(0,.2)});
     for(let i=0;i<6;i++){S.add(`<div style="font:600 30px var(--mono);color:var(--slate2)">${C.fmt(4050-i*10)}</div>`,{parent:lad,x:60,y:40+i*96,at:S.c(0,.4)+i*.06});
       S.add(`<div style="height:1px;background:var(--line);width:300px"></div>`,{parent:lad,x:200,y:58+i*96,at:S.c(0,.4)});}
-    const cur=S.add(`<div style="height:6px;width:320px;background:var(--blue2);border-radius:3px;box-shadow:0 0 18px rgba(59,130,246,.8)"></div>`,{parent:lad,x:190,y:535,at:S.c(0,1.2),anim:'fade'});
+    const cur=S.add(`<div style="height:6px;width:320px;background:var(--blue2);border-radius:3px;box-shadow:0 0 18px rgba(232,176,79,.8)"></div>`,{parent:lad,x:190,y:535,at:S.c(0,1.2),anim:'fade'});
     const tag=S.add(`<div class="chip up" style="font-size:24px">+RM0</div>`,{parent:lad,x:200,y:470,at:S.c(1,.2),anim:'pop'});
     S.tween(S.c(1,.2),S.e(2)-S.c(1,.2)-.5,p=>{const mv=Math.round(50*p);cur.style.top=(535-mv*9.6)+'px';tag.style.top=(480-mv*9.6)+'px';tag.textContent=`+${mv} tick · +RM${C.fmt(mv*25)}`;},'inout');
     const T=[['RM1','RM25',S.c(1,.4)],['RM10','RM250',S.c(2,.2)],['RM20','RM500',S.c(2,2)],['RM50','RM1,250',S.c(2,3.8)]];
@@ -112,8 +112,8 @@ VIDEO({
     const f=S.add(`<div class="fbox" style="font-size:56px">RM4,000 × 25 MT = <b>RM0</b></div>`,{x:110,y:300,at:S.c(0,.6),anim:'pop'});
     S.count(f.querySelector('b'),0,100000,S.c(0,3),1.4,v=>C.rm(v));
     S.add(`<div class="small">Contract value · nilai kontrak</div>`,{x:110,y:500,at:S.c(1,.2)});
-    const b=C.bar(S,{x:110,y:540,w:1700,h:70,color:'rgba(96,165,250,.25)'});b.set(S,S.c(1,.3),1,0,1);
-    S.add(`<div style="background:#2563EB;border-radius:35px 0 0 35px"></div>`,{x:110,y:540,w:150,h:70,at:S.c(1,3),anim:'wipe'});
+    const b=C.bar(S,{x:110,y:540,w:1700,h:70,color:'rgba(232,176,79,.25)'});b.set(S,S.c(1,.3),1,0,1);
+    S.add(`<div style="background:#4C7BD9;border-radius:35px 0 0 35px"></div>`,{x:110,y:540,w:150,h:70,at:S.c(1,3),anim:'wipe'});
     S.add(`<div class="small blue">Margin · sebahagian kecil</div>`,{x:110,y:630,at:S.c(1,3.4)});
     S.add(`<div class="tag warn" style="font-size:22px">Margin ditetapkan oleh clearing house & broker · boleh berubah → Video 06</div>`,{x:110,y:720,at:S.c(1,6),anim:'pop'});
   }},
@@ -137,7 +137,7 @@ VIDEO({
     S.add(`<div class="h3" style="color:var(--warn)">Proses penghantaran</div>`,{x:1250,y:400,at:S.c(1,1.2)});
     S.add(`<div class="card" style="padding:18px 22px"><div class="small" style="color:var(--down)">Penjual</div><div class="body" style="font-size:22px;margin-top:4px">Hantar CPO ikut standard kontrak</div></div>`,{x:1240,y:650,w:500,at:S.c(1,4.6),anim:'up'});
     S.add(`<div class="card" style="padding:18px 22px"><div class="small" style="color:var(--up)">Pembeli</div><div class="body" style="font-size:22px;margin-top:4px">Terima penghantaran & bayar</div></div>`,{x:1240,y:770,w:500,at:S.c(1,7),anim:'up'});
-    S.add(`<div style="width:4px;height:120px;background:var(--blue2);box-shadow:0 0 16px rgba(59,130,246,.8)"></div>`,{x:900,y:480,at:S.c(2,.6),anim:'wipev'});
+    S.add(`<div style="width:4px;height:120px;background:var(--blue2);box-shadow:0 0 16px rgba(232,176,79,.8)"></div>`,{x:900,y:480,at:S.c(2,.6),anim:'wipev'});
     S.add(`<div class="chip blue" style="font-size:22px">Trader runcit: lazimnya tutup lebih awal</div>`,{x:520,y:660,at:S.c(2,1),anim:'pop'});
     S.add(`<div class="small">Tertakluk polisi broker · bulan kontrak → Video 07</div>`,{x:520,y:740,at:S.c(2,3)});
   }},

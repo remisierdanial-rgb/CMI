@@ -66,10 +66,10 @@ VIDEO({
     const pts=[...Array(8).keys()].map(i=>{const a=i/8*Math.PI*2;return [410+Math.cos(a)*250,250+Math.sin(a)*160];});
     let k=0;
     for(let i=0;i<8;i++)for(let j=i+1;j<8;j++){const l=svgEl('line',{x1:pts[i][0],y1:pts[i][1],x2:pts[j][0],y2:pts[j][1],stroke:'rgba(239,91,91,.35)','stroke-width':2});sa.appendChild(l);S.draw(l,S.c(0,1)+k*.06,.4);k++;}
-    pts.forEach(p=>{[sa,sb].forEach(s=>{const c=svgEl('circle',{cx:p[0],cy:p[1],r:12,fill:'#60A5FA'});s.appendChild(c);});});
+    pts.forEach(p=>{[sa,sb].forEach(s=>{const c=svgEl('circle',{cx:p[0],cy:p[1],r:12,fill:'#F0C36B'});s.appendChild(c);});});
     ['Terma berbeza','Harga tersembunyi','Risiko pihak lawan'].forEach((t,i)=>S.add(`<div class="tag down" style="font-size:18px">${t}</div>`,{parent:A,x:30+i*255,y:470,at:S.c(1,.3+i*1.1),anim:'pop'}));
-    const hub=svgEl('circle',{cx:410,cy:250,r:46,fill:'#2563EB'});sb.appendChild(hub);S.tween(S.c(2,.2),.5,p=>{hub.style.opacity=p;hub.setAttribute('r',46*p);},'out');
-    pts.forEach((p,i)=>{const l=svgEl('line',{x1:p[0],y1:p[1],x2:410,y2:250,stroke:'#3B82F6','stroke-width':3});sb.insertBefore(l,sb.firstChild);S.draw(l,S.c(2,.4)+i*.08,.5);});
+    const hub=svgEl('circle',{cx:410,cy:250,r:46,fill:'#4C7BD9'});sb.appendChild(hub);S.tween(S.c(2,.2),.5,p=>{hub.style.opacity=p;hub.setAttribute('r',46*p);},'out');
+    pts.forEach((p,i)=>{const l=svgEl('line',{x1:p[0],y1:p[1],x2:410,y2:250,stroke:'#E8B04F','stroke-width':3});sb.insertBefore(l,sb.firstChild);S.draw(l,S.c(2,.4)+i*.08,.5);});
     ['Kontrak seragam','Harga telus','Peraturan sama'].forEach((t,i)=>S.add(`<div class="tag up" style="font-size:18px">${t}</div>`,{parent:B,x:30+i*255,y:470,at:S.c(2,1.4+i*.8),anim:'pop'}));
   }},
   {id:'clearing',label:'CLEARING HOUSE',lines:[

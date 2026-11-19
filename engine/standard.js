@@ -21,15 +21,14 @@ const L=x=>Array.isArray(x)?{en:x[0],bm:x[1],hold:x[2]||0}:x;
 G.assembleScenes=function(def){
   const C=G.C;
   const out=[];
-  /* 0 — brand sting (no narration) */
-  out.push({id:'sting',label:'',noHeader:true,minDur:3.4,lines:[],
-    dir:'Brand sting: CMI mark scales in, wordmark wipes in, tagline fades. Clean dip to title.',
+  /* 0 — CMI logo opening (no narration) */
+  out.push({id:'sting',label:'',noHeader:true,minDur:3.6,lines:[],
+    dir:'Opening: official CMI logo fades/scales in centred on the dark navy background, gold rule wipes under it, tagline fades in. Dip to the hook.',
     build(S){
-      const box=S.add(`<div style="position:absolute;left:0;right:0;top:330px;display:flex;flex-direction:column;align-items:center"></div>`);
-      S.add(`<div>${C.mark(150)}</div>`,{parent:box,at:.2,anim:'pop',d:.8});
-      S.add(`<div style="margin-top:34px;font:800 64px var(--sans);letter-spacing:.14em">CAPITAL MARKET INSTITUTE</div>`,{parent:box,at:.8,anim:'wipe',d:.9});
-      S.add(`<div class="rule" style="margin-top:26px;width:220px"></div>`,{parent:box,at:1.4,anim:'wipe',d:.6});
-      S.add(`<div class="lead" style="margin-top:22px;letter-spacing:.06em">Understanding Markets. Building Knowledge.</div>`,{parent:box,at:1.7,anim:'up'});
+      const box=S.add(`<div style="position:absolute;left:0;right:0;top:0;bottom:0;display:flex;flex-direction:column;align-items:center;justify-content:center"></div>`);
+      S.add(`<div>${C.logo(G.LOGO_OK?300:220)}</div>`,{parent:box,at:.2,anim:'scale',d:1});
+      S.add(`<div class="rule" style="margin-top:34px;width:260px"></div>`,{parent:box,at:1.2,anim:'wipe',d:.6});
+      S.add(`<div class="lead" style="margin-top:22px;letter-spacing:.06em">Understanding Markets. Building Knowledge.</div>`,{parent:box,at:1.6,anim:'up'});
     }});
   /* 1 — hook (video-specific) */
   out.push(Object.assign({id:'hook',label:'HOOK'},def.hook));
@@ -71,18 +70,19 @@ G.assembleScenes=function(def){
       ['This is only the foundation for understanding the futures market.','Ini baru asas untuk memahami pasaran niaga hadapan.'],
       ['Know the product you trade before taking any risk.','Kenali produk yang anda dagangkan sebelum mengambil sebarang risiko.'],
       ['Continue your learning with Capital Market Institute.','Teruskan pembelajaran anda bersama Capital Market Institute.',.6]],
-    dir:'Standard closing: series roadmap strip (8 videos, current highlighted) then brand lock-up: mark, wordmark, tagline.',
+    dir:'Standard closing (reference "series roadmap" style): left, vertical list of the 8 videos with the current one outlined in gold and an "ANDA DI SINI" tag; right, CMI logo lock-up with tagline appearing on the last line.',
     build(S){
-      S.add(`<div class="small">Siri Futures · 8 video</div>`,{x:110,y:140,at:.1});
+      C.title(S,{kicker:'Siri futures · Modul 1 & 2',title:'Lapan video · satu asas',at:.1});
       SERIES.forEach(([n,t],i)=>{
         const cur=n===def.num;
-        const el=S.add(`<div class="card ${cur?'hl':''}" style="padding:18px 22px"><div class="mono" style="font:700 22px var(--mono);color:${cur?'var(--blue3)':'var(--slate)'}">${n}</div><div style="font:600 20px/1.25 var(--sans);margin-top:8px;color:${cur?'#fff':'var(--slate2)'}">${t}</div></div>`,{x:110+i*215,y:190,w:200,h:150,at:.2+i*.08,anim:'up'});
+        S.add(`<div class="card ${cur?'hl':''}" style="height:58px"><div style="position:absolute;left:22px;top:15px;font:700 22px var(--mono);color:${cur?'var(--blue3)':'var(--slate)'}">${n}</div><div style="position:absolute;left:78px;top:15px;font:600 23px var(--sans);color:${cur?'#fff':'var(--slate2)'}">${t}</div></div>`,{x:110,y:270+i*68,w:820,at:.3+i*.12,anim:'left'});
       });
-      S.add(`<div class="tag blue">Anda di sini</div>`,{x:110+(parseInt(def.num)-1)*215,y:356,at:1});
-      const box=S.add(`<div style="position:absolute;left:0;right:0;top:450px;display:flex;flex-direction:column;align-items:center"></div>`);
-      S.add(`<div>${C.mark(110)}</div>`,{parent:box,at:S.c(2),anim:'pop'});
-      S.add(`<div style="margin-top:26px;font:800 54px var(--sans);letter-spacing:.14em">CAPITAL MARKET INSTITUTE</div>`,{parent:box,at:S.c(2,.3),anim:'wipe',d:.8});
-      S.add(`<div class="lead" style="margin-top:14px;letter-spacing:.05em">Understanding Markets. Building Knowledge.</div>`,{parent:box,at:S.c(2,.8)});
+      S.add(`<div class="tag blue">Anda di sini</div>`,{x:950,y:280+(parseInt(def.num)-1)*68,at:1.4,anim:'pop'});
+      const box=S.add(`<div style="position:absolute;left:1120px;width:720px;top:300px;height:480px;display:flex;flex-direction:column;align-items:center;justify-content:center"></div>`);
+      S.add(`<div>${C.logo(G.LOGO_OK?230:120)}</div>`,{parent:box,at:S.c(2),anim:'scale',d:.8});
+      if(!G.LOGO_OK)0;
+      S.add(`<div class="rule" style="margin-top:26px;width:200px"></div>`,{parent:box,at:S.c(2,.5),anim:'wipe'});
+      S.add(`<div class="lead" style="margin-top:16px;font-size:28px;letter-spacing:.05em;text-align:center">Understanding Markets. Building Knowledge.</div>`,{parent:box,at:S.c(2,.8)});
     }});
   /* references */
   out.push({id:'refs',label:'RUJUKAN',lines:[['The references for this video are shown on screen. Always check the latest official specifications.','Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.',1.6]],

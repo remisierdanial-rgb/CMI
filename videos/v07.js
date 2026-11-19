@@ -72,7 +72,7 @@ VIDEO({
     const cal=C.card(S,{x:640,y:280,w:1170,h:560,at:S.c(1,.1)});
     S.add(`<div class="small">Bulan kontrak · grid generik</div>`,{parent:cal,x:30,y:24});
     for(let d=1;d<=30;d++){const i=d-1;const is15=d===15;
-      const el=S.add(`<div style="display:flex;align-items:center;justify-content:center;border-radius:8px;font:600 26px var(--mono);border:1px solid ${is15?'var(--blue2)':'var(--line)'};background:${is15?'rgba(37,99,235,.35)':'transparent'};color:${is15?'#fff':'var(--slate2)'}">${d}</div>`,{parent:cal,x:30+(i%7)*160,y:80+Math.floor(i/7)*92,w:140,h:76,at:S.c(1,.3)+i*.03,anim:'fade'});
+      const el=S.add(`<div style="display:flex;align-items:center;justify-content:center;border-radius:8px;font:600 26px var(--mono);border:1px solid ${is15?'var(--blue2)':'var(--line)'};background:${is15?'rgba(232,176,79,.35)':'transparent'};color:${is15?'#fff':'var(--slate2)'}">${d}</div>`,{parent:cal,x:30+(i%7)*160,y:80+Math.floor(i/7)*92,w:140,h:76,at:S.c(1,.3)+i*.03,anim:'fade'});
     }
     S.add(`<div class="chip blue" style="font-size:22px;position:static;display:inline-block">15 = Last trading day*</div>`,{parent:cal,x:900,y:20,at:S.c(1,3),anim:'pop'});
     S.add(`<div class="small" style="width:500px">*atau hari bekerja sebelumnya</div>`,{parent:cal,x:30,y:520,at:S.c(1,6)});
@@ -90,9 +90,9 @@ VIDEO({
     const card=C.card(S,{x:110,y:270,w:1700,h:440,at:S.c(0,.1)});
     const sv=C.svg(S,{parent:card,w:1700,h:440});
     const y=v=>360-(v-3980)*3.2, x=i=>220+i*420;
-    const path=svgEl('path',{d:'M'+P.map((p,i)=>`${x(i)},${y(p[1])}`).join(' L'),stroke:'#60A5FA','stroke-width':4,fill:'none'});sv.appendChild(path);S.draw(path,S.c(0,4),1.6);
+    const path=svgEl('path',{d:'M'+P.map((p,i)=>`${x(i)},${y(p[1])}`).join(' L'),stroke:'#F0C36B','stroke-width':4,fill:'none'});sv.appendChild(path);S.draw(path,S.c(0,4),1.6);
     P.forEach((p,i)=>{const at=i<2?S.c(0,1.2+i*2.2):S.c(0,4.6+i*.4);
-      const c=svgEl('circle',{cx:x(i),cy:y(p[1]),r:10,fill:'#60A5FA'});sv.appendChild(c);S.tween(at,.3,q=>c.style.opacity=q,'out');
+      const c=svgEl('circle',{cx:x(i),cy:y(p[1]),r:10,fill:'#F0C36B'});sv.appendChild(c);S.tween(at,.3,q=>c.style.opacity=q,'out');
       S.add(`<div style="text-align:center;width:240px"><div style="font:800 34px var(--mono)">${C.rm(p[1])}</div><div class="small" style="margin-top:4px">${p[0]}</div></div>`,{parent:card,x:x(i)-120,y:y(p[1])-120,at,anim:'up'});});
     S.add(`<div class="tag warn" style="font-size:18px">Harga hipotetikal</div>`,{parent:card,x:1440,y:380,at:S.c(0,1)});
     ['Penawaran & permintaan','Kos simpanan & pembiayaan','Masa'].forEach((t,i)=>S.add(`<div class="tag blue" style="font-size:22px">${t}</div>`,{x:110+i*470,y:750,at:S.c(1,.6+i*1.4),anim:'pop'}));
@@ -130,7 +130,7 @@ VIDEO({
     const M=['NOV 26','DEC 26','JAN 27','FEB 27'];
     const from=[.9,.55,.35,.15], to=[.12,.45,.95,.35];
     const bars=M.map((m,i)=>{S.add(`<div class="small" style="width:260px;text-align:center">${m}</div>`,{parent:card,x:180+i*380,y:480,at:S.c(0,.3)});
-      return S.add(`<div style="position:absolute;bottom:80px;width:200px;border-radius:8px 8px 0 0;background:${i===2?'#3B82F6':'rgba(96,165,250,.35)'}"></div>`,{parent:card,x:210+i*380,at:S.c(0,.4),anim:'fade'});});
+      return S.add(`<div style="position:absolute;bottom:80px;width:200px;border-radius:8px 8px 0 0;background:${i===2?'#E8B04F':'rgba(232,176,79,.35)'}"></div>`,{parent:card,x:210+i*380,at:S.c(0,.4),anim:'fade'});});
     bars.forEach((b,i)=>{b.style.top='';S.tween(S.c(0,.4),.01,()=>{},'lin');S.tween(S.c(0,1.5),S.e(1)-S.c(0,1.5)-2,p=>{b.style.height=(380*(from[i]+(to[i]-from[i])*p))+'px';},'inout');});
     S.add(`<div class="small">Volume dagangan · ilustrasi</div>`,{parent:card,x:30,y:24,at:S.c(0,.2)});
     S.add(`<div class="tag blue" style="font-size:20px">Penanda aras lazim · bulan ketiga</div>`,{x:860,y:830,at:S.c(1,6),anim:'pop'});
@@ -147,8 +147,8 @@ VIDEO({
       S.add(`<div class="h3">${c[0]}</div><div class="small" style="margin-top:6px">${c[1]}</div>`,{parent:card,x:30,y:26,at:S.c(k,.3)});
       const sv=C.svg(S,{parent:card,w:830,h:540});
       const y=v=>440-(v-3990)*3.6,x=i=>110+i*200;
-      const p=svgEl('path',{d:'M'+c[2].map((v,i)=>`${x(i)},${y(v)}`).join(' L'),stroke:k?'#F5A524':'#60A5FA','stroke-width':5,fill:'none'});sv.appendChild(p);S.draw(p,S.c(k,1),1.6);
-      ['NOV','DEC','JAN','FEB'].forEach((m,i)=>{const c2=svgEl('circle',{cx:x(i),cy:y(c[2][i]),r:9,fill:k?'#F5A524':'#60A5FA'});sv.appendChild(c2);S.tween(S.c(k,1)+i*.35,.3,q=>c2.style.opacity=q,'out');
+      const p=svgEl('path',{d:'M'+c[2].map((v,i)=>`${x(i)},${y(v)}`).join(' L'),stroke:k?'#F5A524':'#F0C36B','stroke-width':5,fill:'none'});sv.appendChild(p);S.draw(p,S.c(k,1),1.6);
+      ['NOV','DEC','JAN','FEB'].forEach((m,i)=>{const c2=svgEl('circle',{cx:x(i),cy:y(c[2][i]),r:9,fill:k?'#F5A524':'#F0C36B'});sv.appendChild(c2);S.tween(S.c(k,1)+i*.35,.3,q=>c2.style.opacity=q,'out');
         S.add(`<div class="small" style="width:80px;text-align:center">${m}</div>`,{parent:card,x:x(i)-40,y:480,at:S.c(k,.6)});});
     });
   }},

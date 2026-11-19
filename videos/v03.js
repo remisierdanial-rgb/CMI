@@ -37,8 +37,8 @@ VIDEO({
     const ch=C.chart(S,{x:40,y:100,w:1260,h:760,n:40,pts:[[0,3992],[6,4000],[18,3998],[32,4016],[39,4022]],min:3980,max:4030,ticks:[3985,3990,3995,4000,4005,4010,4015,4020,4025],at:S.c(0,.3),d:2.4,label:'FCPO · ilustrasi hipotetikal',title:'LONG = BELI DAHULU',seed:5,noise:.15});
     ch.marker(S,{i:6,price:4000,at:S.c(1,1.4),color:'#22C3A6',label:'BUY 4,000',dy:40});
     ch.hline(S,{price:4000,at:S.c(1,1.4),color:'#22C3A6'});
-    ch.marker(S,{i:37,price:4020,at:S.c(1,4.4),color:'#60A5FA',label:'SELL 4,020',dy:-70});
-    ch.hline(S,{price:4020,at:S.c(1,4.4),color:'#60A5FA'});
+    ch.marker(S,{i:37,price:4020,at:S.c(1,4.4),color:'#F0C36B',label:'SELL 4,020',dy:-70});
+    ch.hline(S,{price:4020,at:S.c(1,4.4),color:'#F0C36B'});
     S.add(`<div class="chip up" style="font-size:26px">+RM20 / MT</div>`,{parent:ch.wrap,x:880,y:360,at:S.c(2,0),anim:'pop'});
     const p=C.card(S,{x:1340,y:100,w:540,h:760,at:S.c(0,.2)});
     S.add(`<div class="kicker">Posisi 01</div><div class="h2" style="margin-top:10px">Long position</div><div class="rule" style="margin-top:18px;width:120px"></div>`,{parent:p,x:34,y:36,at:S.c(0,.4)});
@@ -60,8 +60,8 @@ VIDEO({
     S.add(`<div class="tag blue" style="font-size:20px">Tidak perlu memiliki CPO untuk jual dahulu</div>`,{parent:ch.wrap,x:30,y:680,at:S.c(1,.6),anim:'pop'});
     ch.marker(S,{i:6,price:4000,at:S.c(2,.6),color:'#EF5B5B',label:'SELL 4,000',dy:-70});
     ch.hline(S,{price:4000,at:S.c(2,.6),color:'#EF5B5B'});
-    ch.marker(S,{i:37,price:3980,at:S.c(2,3),color:'#60A5FA',label:'BUY 3,980',dy:40});
-    ch.hline(S,{price:3980,at:S.c(2,3),color:'#60A5FA'});
+    ch.marker(S,{i:37,price:3980,at:S.c(2,3),color:'#F0C36B',label:'BUY 3,980',dy:40});
+    ch.hline(S,{price:3980,at:S.c(2,3),color:'#F0C36B'});
     const p=C.card(S,{x:1340,y:100,w:540,h:760,at:S.c(0,.2)});
     S.add(`<div class="kicker">Posisi 02</div><div class="h2" style="margin-top:10px">Short position</div><div class="rule" style="margin-top:18px;width:120px;background:var(--down)"></div>`,{parent:p,x:34,y:36,at:S.c(0,.4)});
     C.list(S,{parent:p,x:34,y:220,w:470,size:27,items:[['Bearish · jangka harga turun',S.c(0,1.6)],['SELL dahulu',S.c(0,2.6)],['BUY kemudian untuk tutup',S.c(0,3.6)]]});

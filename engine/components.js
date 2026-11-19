@@ -29,7 +29,7 @@ C.svg=function(S,{parent,x=0,y=0,w=1920,h=1080}={}){
   (parent||S.root).appendChild(s);return s;
 };
 /* arrow line with head, drawn at `at` */
-C.arrow=function(S,svg,{x1,y1,x2,y2,at,d=.6,color='#3B82F6',w=3,dash,head=true,curve=0}){
+C.arrow=function(S,svg,{x1,y1,x2,y2,at,d=.6,color='#E8B04F',w=3,dash,head=true,curve=0}){
   const g=svgEl('g',{});svg.appendChild(g);
   let dstr;
   if(curve){const mx=(x1+x2)/2,my=(y1+y2)/2-curve;dstr=`M${x1},${y1} Q${mx},${my} ${x2},${y2}`;}
@@ -49,7 +49,7 @@ C.arrow=function(S,svg,{x1,y1,x2,y2,at,d=.6,color='#3B82F6',w=3,dash,head=true,c
   return g;
 };
 /* moving dot along a straight path (e.g. order flow) */
-C.pulse=function(S,svg,{x1,y1,x2,y2,at,d=1,color='#60A5FA',r=8}){
+C.pulse=function(S,svg,{x1,y1,x2,y2,at,d=1,color='#F0C36B',r=8}){
   const c=svgEl('circle',{r,fill:color});c.style.filter='drop-shadow(0 0 8px '+color+')';svg.appendChild(c);
   S.tween(at,d,p=>{c.setAttribute('cx',x1+(x2-x1)*p);c.setAttribute('cy',y1+(y2-y1)*p);c.style.opacity=(p>0&&p<1)?1:0;},'inout');
   return c;
@@ -110,13 +110,13 @@ C.chart=function(S,{x,y,w,h,n=48,pts,min,max,at=0,d=2.5,seed=7,vol=true,label,ti
   }
   candles.forEach((cd,i)=>{const t0=at+d*i/n;S.tween(t0,.25,p=>{cd.g.style.opacity=p;},'out');});
   return {wrap,svg,xs,sc,closes,candles,last:candles[n-1],w,h,padL,padR,padT,
-    hline(S2,{price,at,color='#60A5FA',label,dash='8 8',side='right'}){
+    hline(S2,{price,at,color='#F0C36B',label,dash='8 8',side='right'}){
       const l=svgEl('line',{x1:padL,x2:w-padR,y1:sc(price),y2:sc(price),stroke:color,'stroke-width':2,'stroke-dasharray':dash});svg.appendChild(l);
       S.tween(at,.5,p=>{l.style.opacity=p;},'out');
       if(label){const t=S.add(`<div class="chip" style="color:${color};border-color:${color};font-size:18px;padding:5px 10px">${label}</div>`,{parent:wrap,x:side==='right'?w-padR-10:padL+10,y:sc(price)-44,at,anim:'fade'});t.style.translate=side==='right'?'-100% 0':'0 0';}
       return l;
     },
-    marker(S2,{i,price,at,color='#60A5FA',label,dy=-60,dx=0}){
+    marker(S2,{i,price,at,color='#F0C36B',label,dy=-60,dx=0}){
       const cx=xs(i),cy=sc(price!=null?price:closes[i]);
       const c=svgEl('circle',{cx,cy,r:9,fill:color,stroke:'#08101F','stroke-width':3});svg.appendChild(c);
       S.tween(at,.35,p=>{c.style.opacity=p;c.setAttribute('r',9*(.4+.6*p));},'out');
@@ -127,14 +127,14 @@ C.chart=function(S,{x,y,w,h,n=48,pts,min,max,at=0,d=2.5,seed=7,vol=true,label,ti
 };
 
 /* simple horizontal value bar */
-C.bar=function(S,{x,y,w,h=26,color='#3B82F6',bg='rgba(44,61,96,.6)',parent,at}){
+C.bar=function(S,{x,y,w,h=26,color='#E8B04F',bg='rgba(44,61,96,.6)',parent,at}){
   const o=S.add(`<div style="background:${bg};border-radius:${h/2}px;overflow:hidden"><i style="display:block;height:100%;width:0;background:${color};border-radius:${h/2}px"></i></div>`,{x,y,w,h,parent,at,anim:'fade'});
   const fill=o.firstElementChild;
   return {el:o,fill,set(S2,at,d,from,to){if(!o.style.opacity&&at!=null&&!S.reveals.find(r=>r.el===o))S.reveal(o,at-.3,{anim:'fade'});S.tween(at,d,p=>{fill.style.width=((from+(to-from)*p)*100)+'%';});}};
 };
 
 /* simple icons (inline SVG strings) */
-const I=(p,s=56,c='#60A5FA',sw=3)=>`<svg width="${s}" height="${s}" viewBox="0 0 48 48" fill="none" stroke="${c}" stroke-width="${sw}" stroke-linecap="round" stroke-linejoin="round">${p}</svg>`;
+const I=(p,s=56,c='#F0C36B',sw=3)=>`<svg width="${s}" height="${s}" viewBox="0 0 48 48" fill="none" stroke="${c}" stroke-width="${sw}" stroke-linecap="round" stroke-linejoin="round">${p}</svg>`;
 C.icon={
   user:(s,c)=>I('<circle cx="24" cy="16" r="8"/><path d="M8 42c2-9 9-13 16-13s14 4 16 13"/>',s,c),
   broker:(s,c)=>I('<rect x="7" y="14" width="34" height="26" rx="3"/><path d="M17 14v-5h14v5M7 25h34"/>',s,c),
@@ -157,9 +157,11 @@ C.icon={
 };
 
 /* CMI brand mark: ascending bars inside rounded square */
-C.mark=function(size=120){
-  return `<svg width="${size}" height="${size}" viewBox="0 0 120 120"><rect x="4" y="4" width="112" height="112" rx="24" fill="#2563EB"/>
-  <rect x="30" y="66" width="14" height="26" rx="3" fill="#F1F5F9"/><rect x="53" y="50" width="14" height="42" rx="3" fill="#F1F5F9"/><rect x="76" y="30" width="14" height="62" rx="3" fill="#F1F5F9"/></svg>`;
+/* Official CMI logo (engine/assets/cmi-logo.png). Falls back to a plain
+   text wordmark if the logo file has not been supplied. */
+C.logo=function(h=220){
+  if(G.LOGO_OK)return `<img src="assets/cmi-logo.png" style="height:${h}px;width:auto;display:block">`;
+  return `<div style="font:800 ${Math.round(h*.3)}px var(--sans);letter-spacing:.14em;color:var(--white)">CAPITAL MARKET INSTITUTE</div>`;
 };
 
 G.C=C;

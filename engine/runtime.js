@@ -146,6 +146,7 @@ G.seek=t=>Player.seek(t);
 
 G.addEventListener('load',async()=>{
   await document.fonts.ready;
+  G.LOGO_OK=await new Promise(r=>{const im=new Image();im.onload=()=>r(im.naturalWidth>0);im.onerror=()=>r(false);im.src='assets/cmi-logo.png';});
   Player.build();
   Player.seek(0);
   const q=new URLSearchParams(location.search);

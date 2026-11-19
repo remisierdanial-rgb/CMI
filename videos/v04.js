@@ -12,7 +12,7 @@ VIDEO({
     const c=C.card(S,{x:1240,y:520,w:580,h:300,at:.8});
     S.add(`<div style="font:700 26px var(--mono)" class="blue">RM8,000</div>`,{parent:c,x:50,y:200,at:1.1});
     S.add(`<div style="width:90px;height:40px;background:var(--blue2);border-radius:6px"></div>`,{parent:c,x:60,y:140,at:1.1,anim:'wipev'});
-    S.add(`<div style="width:300px;height:180px;background:rgba(96,165,250,.18);border:2px solid var(--blue3);border-radius:8px"></div>`,{parent:c,x:240,y:40,at:1.6,anim:'scale'});
+    S.add(`<div style="width:300px;height:180px;background:rgba(232,176,79,.18);border:2px solid var(--blue3);border-radius:8px"></div>`,{parent:c,x:240,y:40,at:1.6,anim:'scale'});
     S.add(`<div style="font:700 26px var(--mono)">RM100,000</div>`,{parent:c,x:300,y:230,at:1.8});
   },
   hook:{
@@ -40,7 +40,7 @@ VIDEO({
   build(S){
     C.title(S,{kicker:'Langkah 1 · Contract value',title:'Nilai kontrak = harga × saiz kontrak',at:.1});
     for(let i=0;i<25;i++){
-      S.add(`<div style="background:linear-gradient(180deg,#1E3A8A,#1D4ED8);border:1px solid #3B82F6;border-radius:6px;display:flex;align-items:center;justify-content:center;font:600 16px var(--mono);color:#DBEAFE">1 MT</div>`,{x:140+(i%5)*110,y:300+Math.floor(i/5)*100,w:96,h:86,at:S.c(0,.8)+i*.09,anim:'pop',d:.4});
+      S.add(`<div style="background:linear-gradient(180deg,#1E3A8A,#1D4ED8);border:1px solid #E8B04F;border-radius:6px;display:flex;align-items:center;justify-content:center;font:600 16px var(--mono);color:#DBEAFE">1 MT</div>`,{x:140+(i%5)*110,y:300+Math.floor(i/5)*100,w:96,h:86,at:S.c(0,.8)+i*.09,anim:'pop',d:.4});
     }
     S.add(`<div style="border:2px dashed var(--blue3);border-radius:12px"></div>`,{x:120,y:280,w:590,h:520,at:S.c(1,.2),anim:'fade'});
     S.add(`<div class="tag blue" style="font-size:20px">Pendedahan · 1 kontrak</div>`,{x:120,y:815,at:S.c(1,.5),anim:'pop'});
@@ -60,10 +60,10 @@ VIDEO({
   build(S){
     C.title(S,{kicker:'Langkah 2 · Margin',title:'Margin ≠ nilai kontrak',at:.1});
     S.add(`<div class="small">Contract value · nilai kontrak</div>`,{x:110,y:300,at:S.c(0,.4)});
-    const b1=C.bar(S,{x:110,y:340,w:1700,h:80,color:'rgba(96,165,250,.25)'});b1.set(S,S.c(0,.6),1.2,0,1);
+    const b1=C.bar(S,{x:110,y:340,w:1700,h:80,color:'rgba(232,176,79,.25)'});b1.set(S,S.c(0,.6),1.2,0,1);
     S.add(`<div style="font:800 40px var(--mono)">RM100,000</div>`,{x:1480,y:356,at:S.c(0,1.6)});
     S.add(`<div class="small">Initial margin · margin awal</div>`,{x:110,y:470,at:S.c(0,3)});
-    const b2=C.bar(S,{x:110,y:510,w:1700,h:80,color:'#2563EB'});b2.set(S,S.c(1,.2),.8,0,.08);
+    const b2=C.bar(S,{x:110,y:510,w:1700,h:80,color:'#4C7BD9'});b2.set(S,S.c(1,.2),.8,0,.08);
     S.add(`<div style="font:800 40px var(--mono)" class="blue">RM8,000</div>`,{x:290,y:526,at:S.c(1,.9)});
     S.add(`<div class="tag warn" style="font-size:22px">Hipotetikal · bukan kadar semasa</div>`,{x:560,y:530,at:S.c(1,2.4),anim:'pop'});
     ['≠ Bayaran pendahuluan','≠ Harga kontrak','≠ Pemilikan CPO'].forEach((t,i)=>S.add(`<div class="tag down" style="font-size:24px;padding:12px 20px">${t}</div>`,{x:110+i*430,y:680,at:S.c(2,.4+i*1.1),anim:'pop'}));
@@ -77,10 +77,10 @@ VIDEO({
     C.title(S,{kicker:'Langkah 3 · Leverage',title:'Berapa kali ganda pendedahan anda?',at:.1});
     const sv=C.svg(S);
     const tri=svgEl('path',{d:'M760,760 L820,660 L880,760 Z',fill:'#2C3D60'});sv.appendChild(tri);S.tween(S.c(0,.2),.5,p=>tri.style.opacity=p,'out');
-    const beam=svgEl('line',{x1:300,y1:660,x2:1500,y2:660,stroke:'#60A5FA','stroke-width':10,'stroke-linecap':'round'});sv.appendChild(beam);
+    const beam=svgEl('line',{x1:300,y1:660,x2:1500,y2:660,stroke:'#F0C36B','stroke-width':10,'stroke-linecap':'round'});sv.appendChild(beam);
     const g=svgEl('g',{});sv.appendChild(g);g.appendChild(beam);
-    const w1=svgEl('rect',{x:320,y:600,width:120,height:60,rx:6,fill:'#2563EB'});g.appendChild(w1);
-    const w2=svgEl('rect',{x:1140,y:420,width:340,height:240,rx:10,fill:'rgba(96,165,250,.18)',stroke:'#93C5FD','stroke-width':3});g.appendChild(w2);
+    const w1=svgEl('rect',{x:320,y:600,width:120,height:60,rx:6,fill:'#4C7BD9'});g.appendChild(w1);
+    const w2=svgEl('rect',{x:1140,y:420,width:340,height:240,rx:10,fill:'rgba(232,176,79,.18)',stroke:'#F0C36B','stroke-width':3});g.appendChild(w2);
     const t1=svgEl('text',{x:380,y:585,'text-anchor':'middle',style:'font:700 26px var(--mono);fill:#F1F5F9'});t1.textContent='RM8,000';g.appendChild(t1);
     const t2=svgEl('text',{x:1310,y:550,'text-anchor':'middle',style:'font:800 40px var(--mono);fill:#F1F5F9'});t2.textContent='RM100,000';g.appendChild(t2);
     S.tween(S.c(0,.2),.6,p=>g.style.opacity=p,'out');
@@ -100,12 +100,12 @@ VIDEO({
     C.title(S,{kicker:'Langkah 4 · Kesan leverage',title:'1% pada harga → 12.5% pada margin',at:.1});
     const A=C.card(S,{x:110,y:280,w:520,h:560,at:S.c(0,.2)});
     S.add(`<div class="small">Harga FCPO</div><div style="font:800 44px var(--mono);margin-top:10px">−1%</div>`,{parent:A,x:34,y:30,at:S.c(0,1)});
-    const pa=S.add(`<div style="background:rgba(96,165,250,.25);border-radius:8px;overflow:hidden"><i style="display:block;position:absolute;left:0;right:0;bottom:0;background:#EF5B5B"></i></div>`,{parent:A,x:200,y:160,w:120,h:340,at:S.c(0,.6),anim:'fade'});
+    const pa=S.add(`<div style="background:rgba(232,176,79,.25);border-radius:8px;overflow:hidden"><i style="display:block;position:absolute;left:0;right:0;bottom:0;background:#EF5B5B"></i></div>`,{parent:A,x:200,y:160,w:120,h:340,at:S.c(0,.6),anim:'fade'});
     S.tween(S.c(0,2.4),.8,p=>{pa.firstElementChild.style.height='0';pa.style.height=(340-3.4*p)+'px';pa.style.top=(160+3.4*p)+'px';});
     S.add(`<div class="mono" style="font-size:24px">4,000 → 3,960</div>`,{parent:A,x:150,y:510,at:S.c(0,3)});
     const B=C.card(S,{x:1290,y:280,w:520,h:560,at:S.c(0,.4)});
     S.add(`<div class="small">Margin RM8,000</div><div class="down" style="font:800 44px var(--mono);margin-top:10px">−12.5%</div>`,{parent:B,x:34,y:30,at:S.c(2,1.6)});
-    const eq=S.add(`<div style="background:#2563EB;border-radius:8px"></div>`,{parent:B,x:200,y:160,w:120,h:340,at:S.c(0,.8),anim:'fade'});
+    const eq=S.add(`<div style="background:#4C7BD9;border-radius:8px"></div>`,{parent:B,x:200,y:160,w:120,h:340,at:S.c(0,.8),anim:'fade'});
     const loss=S.add(`<div style="background:#EF5B5B;border-radius:8px 8px 0 0"></div>`,{parent:B,x:200,y:160,w:120,h:42.5,at:S.c(1,.8),anim:'wipev'});
     S.add(`<div class="chip down" style="font-size:22px">−RM1,000</div>`,{parent:B,x:340,y:160,at:S.c(1,1.2),anim:'pop'});
     S.add(`<div class="chip up" style="font-size:22px;opacity:.8">+RM1,000</div>`,{parent:B,x:340,y:230,at:S.c(3,1),anim:'pop'});
@@ -134,7 +134,7 @@ VIDEO({
     S.add(`<div class="tag warn" style="font-size:16px">Paras diperlukan (ilustrasi)</div>`,{parent:card,x:40,y:y(6000)-46,at:S.c(0,1.2)});
     const pts=[[30,8000],[200,7600],[330,7800],[470,6900],[560,6300],[650,5700],[760,4600],[860,2500],[960,600],[1070,-900]];
     const d='M'+pts.map(p=>`${p[0]},${y(p[1])}`).join(' L');
-    const path=svgEl('path',{d,stroke:'#60A5FA','stroke-width':5,fill:'none','stroke-linejoin':'round'});sv.appendChild(path);
+    const path=svgEl('path',{d,stroke:'#F0C36B','stroke-width':5,fill:'none','stroke-linejoin':'round'});sv.appendChild(path);
     S.draw(path,S.c(0,.6),S.e(2)-S.c(0,.6)-1.5,'lin');
     const red=svgEl('rect',{x:30,y:y(0),width:W-60,height:H-40-y(0),fill:'rgba(239,91,91,.12)'});sv.insertBefore(red,sv.firstChild);
     S.tween(S.c(2,.6),.6,p=>red.style.opacity=p,'out');

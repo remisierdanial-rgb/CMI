@@ -21,12 +21,12 @@ VIDEO({
     dir:'Night-time globe: Malaysia pin glows blue; thin arcs travel from China and the US toward Malaysia with small market labels (DCE · CBOT). A clock in the corner reads 21:00 MYT.',
     build(S){
       const sv=C.svg(S);
-      const g=svgEl('circle',{cx:960,cy:500,r:300,fill:'rgba(37,99,235,.06)',stroke:'#2C3D60','stroke-width':2});sv.appendChild(g);S.tween(.2,.8,p=>g.style.opacity=p,'out');
+      const g=svgEl('circle',{cx:960,cy:500,r:300,fill:'rgba(232,176,79,.06)',stroke:'#2C3D60','stroke-width':2});sv.appendChild(g);S.tween(.2,.8,p=>g.style.opacity=p,'out');
       for(let i=1;i<4;i++){const e=svgEl('ellipse',{cx:960,cy:500,rx:300,ry:300*i/4,fill:'none',stroke:'rgba(148,163,184,.12)'});sv.appendChild(e);const e2=svgEl('ellipse',{cx:960,cy:500,rx:300*i/4,ry:300,fill:'none',stroke:'rgba(148,163,184,.12)'});sv.appendChild(e2);S.tween(.4,.8,p=>{e.style.opacity=p;e2.style.opacity=p;},'out');}
       const my={x:1010,y:560};
-      const pin=svgEl('circle',{cx:my.x,cy:my.y,r:12,fill:'#3B82F6'});pin.style.filter='drop-shadow(0 0 10px #3B82F6)';sv.appendChild(pin);S.tween(.8,.4,p=>pin.style.opacity=p,'out');
+      const pin=svgEl('circle',{cx:my.x,cy:my.y,r:12,fill:'#E8B04F'});pin.style.filter='drop-shadow(0 0 10px #E8B04F)';sv.appendChild(pin);S.tween(.8,.4,p=>pin.style.opacity=p,'out');
       S.add(`<div class="chip blue" style="font-size:20px">Malaysia · FCPO</div>`,{x:1040,y:570,at:.9,anim:'pop'});
-      [[1060,430,'DCE · China'],[700,380,'CBOT · AS']].forEach((m,i)=>{C.arrow(S,sv,{x1:m[0],y1:m[1],x2:my.x,y2:my.y,at:1.6+i*.6,d:1,curve:80,color:'#60A5FA',w:2});
+      [[1060,430,'DCE · China'],[700,380,'CBOT · AS']].forEach((m,i)=>{C.arrow(S,sv,{x1:m[0],y1:m[1],x2:my.x,y2:my.y,at:1.6+i*.6,d:1,curve:80,color:'#F0C36B',w:2});
         S.add(`<div class="chip" style="font-size:18px">${m[2]}</div>`,{x:m[0]-(i?200:-10),y:m[1]-60,at:1.6+i*.6,anim:'pop'});});
       S.add(`<div class="fbox" style="font-size:40px">21:00 <span class="dim" style="font-size:24px">MYT</span></div>`,{x:1500,y:180,at:S.c(1,.3),anim:'pop'});
     }
@@ -46,7 +46,7 @@ VIDEO({
     for(let h=0;h<24;h++){const a=(h/24)*Math.PI*2-Math.PI/2;const t=svgEl('line',{x1:cx+Math.cos(a)*(R-30),y1:cy+Math.sin(a)*(R-30),x2:cx+Math.cos(a)*(R-(h%6?40:52)),y2:cy+Math.sin(a)*(R-(h%6?40:52)),stroke:'#64748B','stroke-width':h%6?1.5:3});sv.appendChild(t);S.tween(S.c(0,.4),.4,p=>t.style.opacity=p,'out');
       if(h%3===0){const tx=svgEl('text',{x:cx+Math.cos(a)*(R-80),y:cy+Math.sin(a)*(R-80)+7,'text-anchor':'middle',class:'ax'});tx.textContent=String(h).padStart(2,'0');sv.appendChild(tx);S.tween(S.c(0,.5),.4,p=>tx.style.opacity=p,'out');}}
     const arc=(h0,h1,col)=>{const a0=h0/24*Math.PI*2-Math.PI/2,a1=h1/24*Math.PI*2-Math.PI/2;const p=svgEl('path',{d:`M${cx+Math.cos(a0)*R},${cy+Math.sin(a0)*R} A${R},${R} 0 0 1 ${cx+Math.cos(a1)*R},${cy+Math.sin(a1)*R}`,stroke:col,'stroke-width':26,fill:'none','stroke-linecap':'butt'});sv.appendChild(p);return p;};
-    const S1=[[10.5,12.5,'#3B82F6',S.c(1,.3),'Morning','10:30 – 12:30'],[14.5,18,'#3B82F6',S.c(1,3.6),'Afternoon','14:30 – 18:00'],[21,23.5,'#22C3A6',S.c(2,1),'After-hours (T+1)','21:00 – 23:30']];
+    const S1=[[10.5,12.5,'#E8B04F',S.c(1,.3),'Morning','10:30 – 12:30'],[14.5,18,'#E8B04F',S.c(1,3.6),'Afternoon','14:30 – 18:00'],[21,23.5,'#22C3A6',S.c(2,1),'After-hours (T+1)','21:00 – 23:30']];
     S1.forEach((s,i)=>{const p=arc(s[0],s[1],s[2]);S.draw(p,s[3],.9);
       S.add(`<div class="card" style="padding:24px 30px;display:flex;justify-content:space-between;align-items:center"><div><div class="small">${['Sesi pagi','Sesi petang','Sesi selepas waktu'][i]}</div><div class="h3" style="margin-top:4px">${s[4]}</div></div><div style="font:700 38px var(--mono);color:${s[2]}">${s[5]}</div></div>`,{x:960,y:300+i*150,w:850,at:s[3],anim:'right'});});
     S.add(`<div class="small">Waktu Malaysia (MYT) · sahkan jadual terkini dengan Bursa Malaysia</div>`,{x:960,y:780,at:S.c(2,3)});
@@ -64,7 +64,7 @@ VIDEO({
     Rw.forEach((r,j)=>{S.add(`<div class="h3" style="font-size:28px">${r}</div>`,{x:120,y:370+j*130,at:S.c(0,.3)});
       D.forEach((d,i)=>{let on=i<5&&j<2,t1=j===2&&i<4,fri=j===2&&i===4,we=i>4;
         const at=j<2?S.c(0,.6)+i*.15+j*.2:S.c(1,.4)+i*.2;
-        S.add(`<div style="border-radius:10px;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;font:700 30px var(--sans);background:${on?'rgba(37,99,235,.55)':t1?'rgba(34,195,166,.5)':'rgba(16,27,50,.6)'};color:${we?'var(--slate)':'#fff'}">${fri?'<span class="down">✕</span>':we?'—':''}</div>`,{x:400+i*200,y:350+j*130,w:180,h:100,at,anim:'pop',d:.4});});});
+        S.add(`<div style="border-radius:10px;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;font:700 30px var(--sans);background:${on?'rgba(232,176,79,.55)':t1?'rgba(34,195,166,.5)':'rgba(16,27,50,.6)'};color:${we?'var(--slate)':'#fff'}">${fri?'<span class="down">✕</span>':we?'—':''}</div>`,{x:400+i*200,y:350+j*130,w:180,h:100,at,anim:'pop',d:.4});});});
     S.add(`<div class="tag warn" style="font-size:22px;display:inline-flex;gap:12px;align-items:center">${C.icon.cal(28,'#F5A524')} Cuti umum & jadual khas → kalendar Bursa & notis broker</div>`,{x:400,y:760,at:S.c(2,.4),anim:'pop'});
   }},
   {id:'t1',label:'APA ITU T+1',lines:[
@@ -100,9 +100,9 @@ VIDEO({
       S.add(`<div class="small" style="width:${b[1]-b[0]}px;text-align:center">Rehat</div>`,{parent:card,x:b[0],y:470,at:S.c(0,1)});});
     seg.forEach(s=>S.add(`<div class="small" style="width:${s[1]-s[0]}px;text-align:center">${s[2]}</div>`,{parent:card,x:s[0],y:470,at:S.c(0,.6)}));
     const r=C.rng(5);const mk=(x0,x1,y0,y1)=>{let d=`M${x0},${y0}`;const n=24;for(let i=1;i<=n;i++){d+=` L${x0+(x1-x0)*i/n},${y0+(y1-y0)*i/n+(r()-.5)*30}`;}return d;};
-    const p1=svgEl('path',{d:mk(60,500,300,260),stroke:'#60A5FA','stroke-width':4,fill:'none'});sv.appendChild(p1);S.draw(p1,S.c(0,1.6),1.4,'lin');
-    const p2=svgEl('path',{d:mk(640,1160,170,200),stroke:'#60A5FA','stroke-width':4,fill:'none'});sv.appendChild(p2);S.draw(p2,S.c(1,3.6),1.4,'lin');
-    const p3=svgEl('path',{d:mk(1300,1640,200,150),stroke:'#60A5FA','stroke-width':4,fill:'none'});sv.appendChild(p3);S.draw(p3,S.c(1,6),1,'lin');
+    const p1=svgEl('path',{d:mk(60,500,300,260),stroke:'#F0C36B','stroke-width':4,fill:'none'});sv.appendChild(p1);S.draw(p1,S.c(0,1.6),1.4,'lin');
+    const p2=svgEl('path',{d:mk(640,1160,170,200),stroke:'#F0C36B','stroke-width':4,fill:'none'});sv.appendChild(p2);S.draw(p2,S.c(1,3.6),1.4,'lin');
+    const p3=svgEl('path',{d:mk(1300,1640,200,150),stroke:'#F0C36B','stroke-width':4,fill:'none'});sv.appendChild(p3);S.draw(p3,S.c(1,6),1,'lin');
     const gap=svgEl('line',{x1:500,y1:260,x2:640,y2:170,stroke:'#F5A524','stroke-width':3,'stroke-dasharray':'6 8'});sv.appendChild(gap);S.tween(S.c(1,3.4),.5,p=>gap.style.opacity=p,'out');
     S.add(`<div>${C.icon.doc(48,'#F5A524')}</div>`,{parent:card,x:546,y:90,at:S.c(1,1.8),anim:'pop'});
     S.add(`<div class="chip warn" style="font-size:22px">GAP</div>`,{parent:card,x:530,y:300,at:S.c(1,3.6),anim:'pop'});
@@ -141,11 +141,11 @@ VIDEO({
     const base=svgEl('line',{x1:X(18),y1:600,x2:X(12.5),y2:600,stroke:'#2C3D60','stroke-width':4});sv.appendChild(base);S.draw(base,S.c(0,.2),1);
     [[18,'18:00'],[21,'21:00'],[0,'00:00'],[6,'06:00'],[10.5,'10:30']].forEach(t=>S.add(`<div class="ax" style="font:500 18px var(--mono);color:var(--slate)">${t[1]}</div>`,{x:X(t[0])-30,y:620,at:S.c(0,.4)}));
     S.add(`<div class="chip" style="font-size:20px">FCPO tutup 18:00</div>`,{x:X(18)-20,y:640+20,at:S.c(0,1),anim:'pop'});
-    S.add(`<div style="height:70px;border-radius:10px;background:rgba(96,165,250,.12);border:1px dashed rgba(96,165,250,.5)"></div>`,{x:X(18.3),y:340,w:X(9.5)-X(18.3),at:S.c(0,2.4),anim:'wipe',d:1.2});
+    S.add(`<div style="height:70px;border-radius:10px;background:rgba(232,176,79,.12);border:1px dashed rgba(232,176,79,.5)"></div>`,{x:X(18.3),y:340,w:X(9.5)-X(18.3),at:S.c(0,2.4),anim:'wipe',d:1.2});
     S.add(`<div class="small blue">Pasaran luar negara terus bergerak · berita</div>`,{x:X(18.5),y:300,at:S.c(0,2.8)});
     S.add(`<div style="height:90px;border-radius:10px;background:rgba(34,195,166,.4)"></div>`,{x:X(21),y:500,w:X(23.5)-X(21),at:S.c(1,.4),anim:'scale'});
     S.add(`<div class="small up" style="color:var(--up)">T+1</div>`,{x:X(21),y:465,at:S.c(1,.4)});
-    S.add(`<div style="height:90px;border-radius:10px;background:rgba(37,99,235,.55)"></div>`,{x:X(10.5),y:500,w:X(12.5)-X(10.5),at:S.c(1,3),anim:'scale'});
+    S.add(`<div style="height:90px;border-radius:10px;background:rgba(232,176,79,.55)"></div>`,{x:X(10.5),y:500,w:X(12.5)-X(10.5),at:S.c(1,3),anim:'scale'});
     S.add(`<div class="small blue">Pagi</div>`,{x:X(10.5),y:465,at:S.c(1,3)});
     C.arrow(S,sv,{x1:X(21.5),y1:415,x2:X(22),y2:495,at:S.c(1,1),d:.5});
     C.arrow(S,sv,{x1:X(9),y1:415,x2:X(11),y2:495,at:S.c(1,3.4),d:.5});

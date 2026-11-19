@@ -70,7 +70,7 @@ VIDEO({
     S.add(`<div class="tag blue" style="font-size:22px">Standardised · Exchange-traded</div>`,{x:1160,y:330,at:S.c(1,.3),anim:'pop'});
     S.add(`<div class="body" style="font-size:26px">Kuantiti, kualiti & terma penghantaran sama untuk semua.</div>`,{x:1160,y:400,w:640,at:S.c(1,.8)});
     // underlying highlight
-    const hl=S.add(`<div style="border:2px solid var(--blue2);border-radius:10px;box-shadow:0 0 30px rgba(37,99,235,.35)"></div>`,{parent:card,x:24,y:104,w:912,h:72,at:S.c(2,.2),anim:'fade'});
+    const hl=S.add(`<div style="border:2px solid var(--blue2);border-radius:10px;box-shadow:0 0 30px rgba(232,176,79,.35)"></div>`,{parent:card,x:24,y:104,w:912,h:72,at:S.c(2,.2),anim:'fade'});
     S.add(`<div style="text-align:center">${C.icon.drum(110)}<div class="h3" style="margin-top:14px">Underlying asset</div><div class="small" style="margin-top:6px">FCPO → Crude Palm Oil</div></div>`,{x:1260,y:530,w:420,at:S.c(2,.6),anim:'up'});
   }},
   {id:'why',label:'MENGAPA WUJUD',lines:[
