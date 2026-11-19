@@ -1,0 +1,211 @@
+1
+00:00:04,350 --> 00:00:09,532
+Apabila anda tekan butang BUY dalam aplikasi saham, apa sebenarnya yang berlaku di belakang sistem perdagangan?
+
+2
+00:00:09,612 --> 00:00:16,249
+Adakah pesanan anda terus dipenuhi? Pada harga berapa? Dan bilakah saham itu benar-benar menjadi milik anda?
+
+3
+00:00:18,629 --> 00:00:23,397
+Dalam video ini, kita lihat mekanisme asas perdagangan saham di Bursa Malaysia.
+
+4
+00:00:23,477 --> 00:00:26,900
+Pertama, waktu dagangan dan fasa dalam satu hari dagangan.
+
+5
+00:00:26,980 --> 00:00:32,078
+Kedua, board lot, odd lot, serta harga bid dan ask dalam order book.
+
+6
+00:00:32,158 --> 00:00:36,895
+Dan ketiga, limit order dan market order, bagaimana pesanan dipadankan, dan penyelesaian.
+
+7
+00:00:38,675 --> 00:00:45,486
+Pasaran sekuriti Bursa Malaysia berdagang dari Isnin hingga Jumaat, kecuali hari cuti pasaran, dalam dua sesi.
+
+8
+00:00:45,566 --> 00:00:49,158
+Sesi pagi bermula dengan fasa pra-pembukaan pada jam 8:30 pagi.
+
+9
+00:00:49,238 --> 00:00:54,542
+Pada jam 9:00 pagi, pasaran dibuka, dan dagangan berterusan berjalan hingga 12:30 tengah hari.
+
+10
+00:00:54,622 --> 00:01:01,182
+Selepas rehat tengah hari, pra-pembukaan sesi petang bermula jam 2:00, dan dagangan berterusan disambung jam 2:30 petang.
+
+11
+00:01:01,262 --> 00:01:07,210
+Pada jam 4:45 petang, fasa pra-penutupan bermula, dan harga penutup ditentukan pada jam 4:50.
+
+12
+00:01:07,290 --> 00:01:14,883
+Akhir sekali, dari 4:50 hingga 5:00 petang, terdapat fasa trading at last, di mana dagangan hanya boleh berlaku pada harga penutup.
+
+13
+00:01:14,963 --> 00:01:20,550
+Waktu dagangan boleh berubah, jadi sentiasa sahkan jadual terkini di laman web Bursa Malaysia.
+
+14
+00:01:23,130 --> 00:01:29,454
+Apa berlaku semasa pra-pembukaan? Pesanan beli dan jual dimasukkan dan dikumpul, tetapi belum dipadankan.
+
+15
+00:01:29,534 --> 00:01:37,279
+Apabila pasaran dibuka, sistem menentukan satu harga pembukaan berdasarkan pesanan yang dikumpul, dan memadankan pesanan yang layak pada harga itu.
+
+16
+00:01:37,359 --> 00:01:41,219
+Pra-penutupan berfungsi dengan cara yang sama, untuk menentukan harga penutup.
+
+17
+00:01:41,299 --> 00:01:45,445
+Jadi, membuat pesanan semasa pra-pembukaan tidak bermaksud ia terus dipenuhi.
+
+18
+00:01:47,225 --> 00:01:54,031
+Di Bursa Malaysia, saham diniagakan dalam board lot. Satu board lot bersamaan seratus unit.
+
+19
+00:01:54,111 --> 00:01:57,537
+Jadi, membeli sepuluh lot bermaksud membeli seribu unit.
+
+20
+00:01:57,617 --> 00:02:05,970
+Contohnya, seribu unit pada harga RM2.50 sesaham berharga RM2,500 — sebelum brokerage dan fi lain.
+
+21
+00:02:06,050 --> 00:02:11,409
+Odd lot ialah kuantiti kurang daripada satu board lot — contohnya, tiga puluh lima unit.
+
+22
+00:02:11,489 --> 00:02:16,917
+Odd lot diniagakan secara berasingan daripada board lot, dan biasanya mempunyai lebih sedikit pembeli dan penjual.
+
+23
+00:02:19,197 --> 00:02:24,792
+Untuk berdagang, anda membuat pesanan: pesanan beli untuk membeli saham, atau pesanan jual untuk menjualnya.
+
+24
+00:02:24,872 --> 00:02:27,723
+Pesanan yang menunggu padanan dipaparkan dalam order book.
+
+25
+00:02:27,803 --> 00:02:33,768
+Bahagian bid menunjukkan harga yang sanggup dibayar oleh pembeli. Bid terbaik ialah yang tertinggi.
+
+26
+00:02:33,848 --> 00:02:41,777
+Bahagian ask — juga dipanggil offer — menunjukkan harga yang sanggup diterima oleh penjual. Ask terbaik ialah yang terendah.
+
+27
+00:02:41,857 --> 00:02:48,609
+Jurang antara bid terbaik dan ask terbaik dipanggil spread. Kuantiti biasanya dipaparkan dalam lot.
+
+28
+00:02:50,989 --> 00:02:53,531
+Terdapat dua jenis pesanan asas yang perlu anda tahu.
+
+29
+00:02:53,611 --> 00:03:02,574
+Limit order membolehkan anda menetapkan harga. Limit order beli hanya dilaksanakan pada harga anda atau lebih rendah; limit order jual, pada harga anda atau lebih tinggi.
+
+30
+00:03:02,654 --> 00:03:08,740
+Jika tiada siapa sanggup berdagang pada harga anda, pesanan itu hanya menunggu dalam barisan — dan mungkin tidak dipadankan langsung.
+
+31
+00:03:08,820 --> 00:03:13,177
+Market order dilaksanakan berdasarkan harga terbaik yang tersedia dalam order book.
+
+32
+00:03:13,257 --> 00:03:21,644
+Ia mengutamakan kepantasan, tetapi tidak menjamin harga terakhir yang anda lihat di skrin — terutamanya apabila harga bergerak pantas atau pesanan dalam barisan sedikit.
+
+33
+00:03:21,724 --> 00:03:25,152
+Jenis pesanan yang tersedia juga boleh berbeza antara broker.
+
+34
+00:03:27,432 --> 00:03:32,198
+Jadi, bagaimana pesanan dipadankan? Berdasarkan harga dahulu, kemudian masa.
+
+35
+00:03:32,278 --> 00:03:38,877
+Harga yang lebih baik dipadankan dahulu. Pada harga yang sama, pesanan yang tiba lebih awal dipadankan dahulu.
+
+36
+00:03:38,957 --> 00:03:43,315
+Katakan anda membuat limit order beli sebanyak 150 lot pada harga RM2.50.
+
+37
+00:03:43,395 --> 00:03:50,252
+Ia dipadankan dengan penjual terawal pada harga itu dahulu — 100 lot — kemudian 50 lot daripada penjual seterusnya dalam barisan.
+
+38
+00:03:50,332 --> 00:03:58,551
+Dagangan berlaku apabila pembeli dan penjual bersetuju pada harga yang sama. Dan pesanan boleh dipadankan sepenuhnya, sebahagian, atau tidak langsung.
+
+39
+00:04:01,131 --> 00:04:05,668
+Setelah pesanan anda dipadankan, dagangan berlaku — tetapi penyelesaian tidak berlaku serta-merta.
+
+40
+00:04:05,748 --> 00:04:13,714
+Bursa Malaysia menggunakan kitaran penyelesaian T+2. Penyelesaian berlaku dua hari pasaran selepas tarikh dagangan, T.
+
+41
+00:04:13,794 --> 00:04:22,242
+Semasa penyelesaian, pembeli membayar saham, dan saham dikreditkan ke akaun CDS pembeli. Penjual menerima wang.
+
+42
+00:04:22,322 --> 00:04:28,289
+Contohnya, dagangan pada hari Isnin biasanya diselesaikan pada hari Rabu — selagi kedua-duanya hari pasaran.
+
+43
+00:04:28,369 --> 00:04:35,396
+Cuti umum akan melambatkan tarikh penyelesaian. Dan tarikh akhir bayaran ditetapkan oleh broker anda, jadi sentiasa semak.
+
+44
+00:04:37,976 --> 00:04:39,071
+Mari kita rumuskan.
+
+45
+00:04:39,151 --> 00:04:45,624
+Bursa berdagang dalam sesi pagi dan petang, dengan fasa pra-pembukaan, pra-penutupan dan trading at last.
+
+46
+00:04:45,704 --> 00:04:50,523
+Satu board lot ialah seratus unit. Kurang daripada itu ialah odd lot.
+
+47
+00:04:50,603 --> 00:04:57,863
+Bid ialah harga yang sanggup dibayar pembeli; ask ialah harga yang sanggup diterima penjual. Pesanan dipadankan mengikut harga, kemudian masa.
+
+48
+00:04:57,943 --> 00:05:07,520
+Limit order mengawal harga tetapi mungkin tidak dipenuhi. Market order pantas tetapi harganya tidak dijamin. Dan penyelesaian berlaku pada T+2.
+
+49
+00:05:09,900 --> 00:05:13,442
+Itu melengkapkan Modul 1: bagaimana pasaran saham berfungsi.
+
+50
+00:05:13,522 --> 00:05:18,243
+Dalam Modul 2, kita mula membaca carta harga — bermula dengan candlestick.
+
+51
+00:05:20,023 --> 00:05:26,685
+Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak sumber rasmi untuk maklumat terkini.
+
+52
+00:05:30,665 --> 00:05:39,208
+Video ini untuk tujuan pendidikan sahaja. Ia bukan nasihat pelaburan atau cadangan untuk membeli atau menjual mana-mana sekuriti.
+
+53
+00:05:39,288 --> 00:05:45,078
+Capital Market Institute. Understanding Markets. Building Knowledge.

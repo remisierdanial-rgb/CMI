@@ -1,0 +1,167 @@
+1
+00:00:04,350 --> 00:00:09,523
+Kenapa ada saham yang bergerak naik berterusan, ada yang jatuh dan ada pula yang hanya bergerak ke kiri dan kanan?
+
+2
+00:00:09,603 --> 00:00:11,954
+Jawapannya bermula dengan memahami trend.
+
+3
+00:00:14,334 --> 00:00:17,867
+Dalam video ini, kita lihat tiga keadaan utama pasaran.
+
+4
+00:00:17,947 --> 00:00:22,582
+Pertama, apa itu trend, dan cara membaca swing high dan swing low.
+
+5
+00:00:22,662 --> 00:00:29,299
+Kedua, uptrend, downtrend dan julat mendatar — serta perbezaan antara retracement dan reversal.
+
+6
+00:00:29,379 --> 00:00:33,187
+Dan ketiga, pengenalan kepada analisis pelbagai timeframe.
+
+7
+00:00:34,967 --> 00:00:38,629
+Trend ialah arah umum pergerakan harga dalam satu tempoh masa.
+
+8
+00:00:38,709 --> 00:00:44,215
+Harga jarang bergerak dalam garis lurus. Ia bergerak dalam gelombang, dipanggil swing.
+
+9
+00:00:44,295 --> 00:00:47,357
+Swing high ialah puncak, di mana harga berpatah turun.
+
+10
+00:00:47,437 --> 00:00:50,521
+Swing low ialah lembah, di mana harga berpatah naik.
+
+11
+00:00:50,601 --> 00:00:55,198
+Dengan membandingkan setiap swing dengan swing sebelumnya, kita boleh membaca struktur pasaran.
+
+12
+00:00:57,478 --> 00:01:01,176
+Dalam uptrend, harga membentuk higher high dan higher low.
+
+13
+00:01:01,256 --> 00:01:05,979
+Higher high, atau HH, ialah swing high yang lebih tinggi daripada swing high sebelumnya.
+
+14
+00:01:06,059 --> 00:01:10,805
+Higher low, atau HL, ialah swing low yang lebih tinggi daripada swing low sebelumnya.
+
+15
+00:01:10,885 --> 00:01:17,125
+Selagi struktur ini berterusan, uptrend kekal. Pullback ialah sebahagian yang normal daripadanya.
+
+16
+00:01:19,505 --> 00:01:23,849
+Downtrend ialah sebaliknya: harga membentuk lower high dan lower low.
+
+17
+00:01:23,929 --> 00:01:28,771
+Lower high, atau LH, ialah swing high yang lebih rendah daripada swing high sebelumnya.
+
+18
+00:01:28,851 --> 00:01:33,554
+Lower low, atau LL, ialah swing low yang lebih rendah daripada swing low sebelumnya.
+
+19
+00:01:33,634 --> 00:01:37,980
+Lantunan singkat boleh berlaku dalam downtrend, tanpa mengubah strukturnya.
+
+20
+00:01:40,360 --> 00:01:45,719
+Kadangkala tiada trend yang jelas. Harga bergerak mendatar dalam satu julat.
+
+21
+00:01:45,799 --> 00:01:51,512
+Swing high berhenti di sekitar kawasan atas yang hampir sama, dan swing low bertahan di sekitar kawasan bawah yang hampir sama.
+
+22
+00:01:51,592 --> 00:01:57,878
+Tiada corak higher high atau lower low yang konsisten — pembeli dan penjual agak seimbang.
+
+23
+00:01:57,958 --> 00:02:04,478
+Julat tidak kekal selamanya. Pada satu ketika, harga mungkin keluar daripadanya — ke mana-mana arah.
+
+24
+00:02:06,858 --> 00:02:13,240
+Satu hari naik bukan uptrend, dan satu hari turun bukan downtrend. Trend ialah tentang struktur.
+
+25
+00:02:13,320 --> 00:02:21,585
+Dalam uptrend ini, harga menurun seketika — retracement — tetapi bertahan di atas higher low sebelumnya. Struktur kekal.
+
+26
+00:02:21,665 --> 00:02:29,949
+Kemudian, harga jatuh di bawah higher low terakhir, dan gagal membuat high baharu. Ia membentuk lower high dan lower low.
+
+27
+00:02:30,029 --> 00:02:35,323
+Perubahan struktur itulah yang dipanggil reversal. Trend tidak kekal selamanya.
+
+28
+00:02:37,903 --> 00:02:41,346
+Akhir sekali, trend yang anda lihat bergantung pada timeframe yang dilihat.
+
+29
+00:02:41,426 --> 00:02:44,410
+Pada carta harian, saham ini berada dalam uptrend.
+
+30
+00:02:44,490 --> 00:02:48,655
+Pada carta 1 jam, ia sedang menurun seketika, dalam downtrend jangka pendek.
+
+31
+00:02:48,735 --> 00:02:51,941
+Dan pada carta 5 minit, ia bergerak mendatar.
+
+32
+00:02:52,021 --> 00:02:58,797
+Analisis pelbagai timeframe bermaksud melihat timeframe lebih tinggi untuk gambaran besar, dan timeframe lebih rendah untuk perincian.
+
+33
+00:03:01,377 --> 00:03:02,471
+Mari kita rumuskan.
+
+34
+00:03:02,551 --> 00:03:09,186
+Uptrend membentuk higher high dan higher low. Downtrend membentuk lower high dan lower low.
+
+35
+00:03:09,266 --> 00:03:13,310
+Pasaran mendatar bergerak dalam julat, tanpa arah yang jelas.
+
+36
+00:03:13,390 --> 00:03:18,931
+Retracement ialah pullback dalam trend. Reversal ialah perubahan struktur.
+
+37
+00:03:19,011 --> 00:03:23,413
+Dan trend boleh berbeza antara timeframe — dan tiada satu pun yang kekal selamanya.
+
+38
+00:03:25,793 --> 00:03:29,066
+Trend sering berhenti seketika atau berpatah pada kawasan harga tertentu.
+
+39
+00:03:29,146 --> 00:03:32,839
+Seterusnya, kita lihat kawasan tersebut: sokongan dan rintangan.
+
+40
+00:03:34,619 --> 00:03:41,282
+Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak sumber rasmi untuk maklumat terkini.
+
+41
+00:03:45,262 --> 00:03:53,805
+Video ini untuk tujuan pendidikan sahaja. Ia bukan nasihat pelaburan atau cadangan untuk membeli atau menjual mana-mana sekuriti.
+
+42
+00:03:53,885 --> 00:03:59,674
+Capital Market Institute. Understanding Markets. Building Knowledge.

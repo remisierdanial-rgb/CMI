@@ -1,0 +1,282 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [],
+   "end": 3.6
+  },
+  {
+   "start": 3.6,
+   "cues": [
+    {
+     "start": 4.35,
+     "end": 8.601,
+     "text": "Kenapa harga saham kadangkala naik sampai satu kawasan tertentu, kemudian berpatah balik?"
+    },
+    {
+     "start": 8.981,
+     "end": 10.872,
+     "text": "Adakah kawasan tersebut mempunyai sesuatu yang istimewa?"
+    }
+   ],
+   "end": 12.802
+  },
+  {
+   "start": 12.802,
+   "cues": [
+    {
+     "start": 13.552,
+     "end": 18.396,
+     "text": "Dalam video ini, kita lihat kawasan harga yang sering menjadi perhatian pembeli dan penjual."
+    },
+    {
+     "start": 18.776,
+     "end": 22.37,
+     "text": "Pertama, apa itu support dan resistance, dan kenapa ia terbentuk."
+    },
+    {
+     "start": 22.75,
+     "end": 26.584,
+     "text": "Kedua, kenapa ia lebih tepat dilihat sebagai zon, bukan garisan tepat."
+    },
+    {
+     "start": 26.963,
+     "end": 31.627,
+     "text": "Dan ketiga, breakout, breakdown, false break, dan role reversal."
+    }
+   ],
+   "end": 32.957
+  },
+  {
+   "start": 32.957,
+   "cues": [
+    {
+     "start": 33.707,
+     "end": 39.275,
+     "text": "Support ialah kawasan harga di mana harga yang jatuh cenderung berhenti, kerana minat membeli meningkat di situ."
+    },
+    {
+     "start": 39.655,
+     "end": 45.441,
+     "text": "Resistance ialah kawasan harga di mana harga yang naik cenderung terhenti, kerana minat menjual meningkat di situ."
+    },
+    {
+     "start": 45.821,
+     "end": 52.518,
+     "text": "Pada carta ini, harga bertindak balas beberapa kali berhampiran kawasan yang sama — di bawah sebagai support, dan di atas sebagai resistance."
+    },
+    {
+     "start": 52.898,
+     "end": 60.44,
+     "text": "Perhatikan perkataan \"cenderung\". Kawasan ini menerangkan tingkah laku lalu. Ia tidak dijamin akan bertahan."
+    }
+   ],
+   "end": 62.27
+  },
+  {
+   "start": 62.27,
+   "cues": [
+    {
+     "start": 63.02,
+     "end": 66.973,
+     "text": "Kenapa kawasan ini terbentuk? Ada beberapa sebab biasa."
+    },
+    {
+     "start": 67.353,
+     "end": 72.781,
+     "text": "Ingatan pasaran: ramai peserta ingat di mana harga berpatah sebelum ini, dan bertindak semula berhampiran paras itu."
+    },
+    {
+     "start": 73.161,
+     "end": 78.444,
+     "text": "Pesanan cenderung berkumpul di sekitar kawasan tersebut — dan di sekitar nombor bulat, seperti RM2.50."
+    },
+    {
+     "start": 78.824,
+     "end": 86.265,
+     "text": "Dan emosi turut berperanan: pembeli yang terlepas mungkin menunggu harga lebih rendah, manakala pemegang mungkin menjual untuk ambil untung atau pulang modal."
+    }
+   ],
+   "end": 88.095
+  },
+  {
+   "start": 88.095,
+   "cues": [
+    {
+     "start": 88.845,
+     "end": 92.877,
+     "text": "Satu kesilapan biasa ialah menganggap support atau resistance sebagai satu harga yang tepat."
+    },
+    {
+     "start": 93.257,
+     "end": 101.358,
+     "text": "Lihat dengan teliti: harga bertindak balas berhampiran kawasan itu, tetapi titik pusingan jarang sama. Wick sering menembusi satu garisan."
+    },
+    {
+     "start": 101.738,
+     "end": 105.608,
+     "text": "Sebab itu, lebih realistik untuk menandakan zon — satu jalur harga."
+    },
+    {
+     "start": 105.988,
+     "end": 110.463,
+     "text": "Swing high dan swing low sebelum ini ialah rujukan berguna untuk melukis zon ini."
+    }
+   ],
+   "end": 112.393
+  },
+  {
+   "start": 112.393,
+   "cues": [
+    {
+     "start": 113.143,
+     "end": 114.669,
+     "text": "Zon tidak bertahan selamanya."
+    },
+    {
+     "start": 115.049,
+     "end": 119.411,
+     "text": "Breakout berlaku apabila harga bergerak dan ditutup dengan jelas di atas zon resistance."
+    },
+    {
+     "start": 119.791,
+     "end": 124.078,
+     "text": "Breakdown berlaku apabila harga bergerak dan ditutup dengan jelas di bawah zon support."
+    },
+    {
+     "start": 124.458,
+     "end": 129.219,
+     "text": "Penembusan menunjukkan bahawa keseimbangan antara pembeli dan penjual telah berubah — sekurang-kurangnya buat masa ini."
+    }
+   ],
+   "end": 131.149
+  },
+  {
+   "start": 131.149,
+   "cues": [
+    {
+     "start": 131.899,
+     "end": 133.434,
+     "text": "Tetapi bukan setiap penembusan bertahan."
+    },
+    {
+     "start": 133.814,
+     "end": 139.495,
+     "text": "Dalam false breakout, harga bergerak di atas resistance, kemudian cepat jatuh semula ke dalam julat."
+    },
+    {
+     "start": 139.875,
+     "end": 144.83,
+     "text": "Dalam false breakdown, harga jatuh di bawah support, kemudian cepat pulih semula di atasnya."
+    },
+    {
+     "start": 145.21,
+     "end": 150.677,
+     "text": "Sebab itu, bukan setiap breakout ialah peluang membeli, dan bukan setiap breakdown ialah sebab untuk menjual."
+    }
+   ],
+   "end": 152.807
+  },
+  {
+   "start": 152.807,
+   "cues": [
+    {
+     "start": 153.557,
+     "end": 158.298,
+     "text": "Selepas penembusan sebenar, sesuatu yang menarik boleh berlaku: zon itu boleh bertukar peranan."
+    },
+    {
+     "start": 158.678,
+     "end": 166.403,
+     "text": "Resistance lama boleh menjadi support baharu. Harga breakout, kembali ke zon resistance lama, dan menemui pembeli di situ."
+    },
+    {
+     "start": 166.783,
+     "end": 170.707,
+     "text": "Begitu juga, support lama boleh menjadi resistance baharu selepas breakdown."
+    },
+    {
+     "start": 171.087,
+     "end": 177.707,
+     "text": "Ini dipanggil role reversal. Seperti semua perkara dalam analisis teknikal, ia ialah kecenderungan — bukan peraturan."
+    }
+   ],
+   "end": 179.837
+  },
+  {
+   "start": 179.837,
+   "cues": [
+    {
+     "start": 180.587,
+     "end": 181.382,
+     "text": "Mari kita rumuskan."
+    },
+    {
+     "start": 181.762,
+     "end": 188.283,
+     "text": "Support ialah tempat harga jatuh cenderung berhenti. Resistance ialah tempat harga naik cenderung terhenti."
+    },
+    {
+     "start": 188.663,
+     "end": 192.867,
+     "text": "Anggap ia sebagai zon, menggunakan swing high dan low sebelumnya sebagai rujukan."
+    },
+    {
+     "start": 193.247,
+     "end": 197.861,
+     "text": "Penembusan boleh jadi sebenar atau palsu — dan selepas penembusan sebenar, peranan boleh bertukar."
+    },
+    {
+     "start": 198.241,
+     "end": 200.376,
+     "text": "Tiada satu pun paras ini dijamin bertahan."
+    }
+   ],
+   "end": 202.306
+  },
+  {
+   "start": 202.306,
+   "cues": [
+    {
+     "start": 203.056,
+     "end": 208.002,
+     "text": "Kita telah lihat bagaimana harga bergerak. Tetapi berapa banyak aktiviti di sebalik setiap pergerakan?"
+    },
+    {
+     "start": 208.382,
+     "end": 211.857,
+     "text": "Dalam video terakhir, kita lihat volume — dan kenapa ia penting."
+    }
+   ],
+   "end": 213.187
+  },
+  {
+   "start": 213.187,
+   "cues": [
+    {
+     "start": 213.937,
+     "end": 220.3,
+     "text": "Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak sumber rasmi untuk maklumat terkini."
+    }
+   ],
+   "end": 223.83
+  },
+  {
+   "start": 223.83,
+   "cues": [
+    {
+     "start": 224.58,
+     "end": 232.823,
+     "text": "Video ini untuk tujuan pendidikan sahaja. Ia bukan nasihat pelaburan atau cadangan untuk membeli atau menjual mana-mana sekuriti."
+    },
+    {
+     "start": 233.203,
+     "end": 238.692,
+     "text": "Capital Market Institute. Understanding Markets. Building Knowledge."
+    }
+   ],
+   "end": 242.622
+  }
+ ],
+ "total": 242.622
+}

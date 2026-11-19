@@ -1,0 +1,159 @@
+1
+00:00:04,350 --> 00:00:08,901
+Kenapa harga saham kadangkala naik sampai satu kawasan tertentu, kemudian berpatah balik?
+
+2
+00:00:08,981 --> 00:00:11,172
+Adakah kawasan tersebut mempunyai sesuatu yang istimewa?
+
+3
+00:00:13,552 --> 00:00:18,696
+Dalam video ini, kita lihat kawasan harga yang sering menjadi perhatian pembeli dan penjual.
+
+4
+00:00:18,776 --> 00:00:22,670
+Pertama, apa itu support dan resistance, dan kenapa ia terbentuk.
+
+5
+00:00:22,750 --> 00:00:26,884
+Kedua, kenapa ia lebih tepat dilihat sebagai zon, bukan garisan tepat.
+
+6
+00:00:26,963 --> 00:00:31,927
+Dan ketiga, breakout, breakdown, false break, dan role reversal.
+
+7
+00:00:33,707 --> 00:00:39,575
+Support ialah kawasan harga di mana harga yang jatuh cenderung berhenti, kerana minat membeli meningkat di situ.
+
+8
+00:00:39,655 --> 00:00:45,741
+Resistance ialah kawasan harga di mana harga yang naik cenderung terhenti, kerana minat menjual meningkat di situ.
+
+9
+00:00:45,821 --> 00:00:52,818
+Pada carta ini, harga bertindak balas beberapa kali berhampiran kawasan yang sama — di bawah sebagai support, dan di atas sebagai resistance.
+
+10
+00:00:52,898 --> 00:01:00,740
+Perhatikan perkataan "cenderung". Kawasan ini menerangkan tingkah laku lalu. Ia tidak dijamin akan bertahan.
+
+11
+00:01:03,020 --> 00:01:07,273
+Kenapa kawasan ini terbentuk? Ada beberapa sebab biasa.
+
+12
+00:01:07,353 --> 00:01:13,081
+Ingatan pasaran: ramai peserta ingat di mana harga berpatah sebelum ini, dan bertindak semula berhampiran paras itu.
+
+13
+00:01:13,161 --> 00:01:18,744
+Pesanan cenderung berkumpul di sekitar kawasan tersebut — dan di sekitar nombor bulat, seperti RM2.50.
+
+14
+00:01:18,824 --> 00:01:26,565
+Dan emosi turut berperanan: pembeli yang terlepas mungkin menunggu harga lebih rendah, manakala pemegang mungkin menjual untuk ambil untung atau pulang modal.
+
+15
+00:01:28,845 --> 00:01:33,177
+Satu kesilapan biasa ialah menganggap support atau resistance sebagai satu harga yang tepat.
+
+16
+00:01:33,257 --> 00:01:41,658
+Lihat dengan teliti: harga bertindak balas berhampiran kawasan itu, tetapi titik pusingan jarang sama. Wick sering menembusi satu garisan.
+
+17
+00:01:41,738 --> 00:01:45,908
+Sebab itu, lebih realistik untuk menandakan zon — satu jalur harga.
+
+18
+00:01:45,988 --> 00:01:50,763
+Swing high dan swing low sebelum ini ialah rujukan berguna untuk melukis zon ini.
+
+19
+00:01:53,143 --> 00:01:54,969
+Zon tidak bertahan selamanya.
+
+20
+00:01:55,049 --> 00:01:59,711
+Breakout berlaku apabila harga bergerak dan ditutup dengan jelas di atas zon resistance.
+
+21
+00:01:59,791 --> 00:02:04,378
+Breakdown berlaku apabila harga bergerak dan ditutup dengan jelas di bawah zon support.
+
+22
+00:02:04,458 --> 00:02:09,519
+Penembusan menunjukkan bahawa keseimbangan antara pembeli dan penjual telah berubah — sekurang-kurangnya buat masa ini.
+
+23
+00:02:11,899 --> 00:02:13,734
+Tetapi bukan setiap penembusan bertahan.
+
+24
+00:02:13,814 --> 00:02:19,795
+Dalam false breakout, harga bergerak di atas resistance, kemudian cepat jatuh semula ke dalam julat.
+
+25
+00:02:19,875 --> 00:02:25,130
+Dalam false breakdown, harga jatuh di bawah support, kemudian cepat pulih semula di atasnya.
+
+26
+00:02:25,210 --> 00:02:30,977
+Sebab itu, bukan setiap breakout ialah peluang membeli, dan bukan setiap breakdown ialah sebab untuk menjual.
+
+27
+00:02:33,557 --> 00:02:38,598
+Selepas penembusan sebenar, sesuatu yang menarik boleh berlaku: zon itu boleh bertukar peranan.
+
+28
+00:02:38,678 --> 00:02:46,703
+Resistance lama boleh menjadi support baharu. Harga breakout, kembali ke zon resistance lama, dan menemui pembeli di situ.
+
+29
+00:02:46,783 --> 00:02:51,007
+Begitu juga, support lama boleh menjadi resistance baharu selepas breakdown.
+
+30
+00:02:51,087 --> 00:02:58,007
+Ini dipanggil role reversal. Seperti semua perkara dalam analisis teknikal, ia ialah kecenderungan — bukan peraturan.
+
+31
+00:03:00,587 --> 00:03:01,682
+Mari kita rumuskan.
+
+32
+00:03:01,762 --> 00:03:08,583
+Support ialah tempat harga jatuh cenderung berhenti. Resistance ialah tempat harga naik cenderung terhenti.
+
+33
+00:03:08,663 --> 00:03:13,167
+Anggap ia sebagai zon, menggunakan swing high dan low sebelumnya sebagai rujukan.
+
+34
+00:03:13,247 --> 00:03:18,161
+Penembusan boleh jadi sebenar atau palsu — dan selepas penembusan sebenar, peranan boleh bertukar.
+
+35
+00:03:18,241 --> 00:03:20,676
+Tiada satu pun paras ini dijamin bertahan.
+
+36
+00:03:23,056 --> 00:03:28,302
+Kita telah lihat bagaimana harga bergerak. Tetapi berapa banyak aktiviti di sebalik setiap pergerakan?
+
+37
+00:03:28,382 --> 00:03:32,157
+Dalam video terakhir, kita lihat volume — dan kenapa ia penting.
+
+38
+00:03:33,937 --> 00:03:40,600
+Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak sumber rasmi untuk maklumat terkini.
+
+39
+00:03:44,580 --> 00:03:53,123
+Video ini untuk tujuan pendidikan sahaja. Ia bukan nasihat pelaburan atau cadangan untuk membeli atau menjual mana-mana sekuriti.
+
+40
+00:03:53,203 --> 00:03:58,992
+Capital Market Institute. Understanding Markets. Building Knowledge.

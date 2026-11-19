@@ -1,0 +1,328 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [],
+   "end": 3.6
+  },
+  {
+   "start": 3.6,
+   "cues": [
+    {
+     "start": 4.35,
+     "end": 7.528,
+     "text": "Kenapa trader melihat carta yang hanya mempunyai batang hijau dan merah?"
+    },
+    {
+     "start": 7.908,
+     "end": 11.424,
+     "text": "Sebenarnya, setiap candle mempunyai cerita tentang pergerakan harga."
+    }
+   ],
+   "end": 13.354
+  },
+  {
+   "start": 13.354,
+   "cues": [
+    {
+     "start": 14.104,
+     "end": 17.794,
+     "text": "Dalam video ini, kita belajar membaca carta candlestick dari asas."
+    },
+    {
+     "start": 18.174,
+     "end": 24.295,
+     "text": "Pertama, apa itu candle, dan empat harga yang dipaparkannya: open, high, low dan close."
+    },
+    {
+     "start": 24.675,
+     "end": 28.8,
+     "text": "Kedua, candle bullish dan bearish, serta beberapa pola yang biasa."
+    },
+    {
+     "start": 29.18,
+     "end": 32.921,
+     "text": "Dan ketiga, kenapa konteks penting, dan apa itu timeframe."
+    }
+   ],
+   "end": 34.251
+  },
+  {
+   "start": 34.251,
+   "cues": [
+    {
+     "start": 35.001,
+     "end": 41.604,
+     "text": "Candlestick meringkaskan pergerakan harga dalam satu tempoh masa — contohnya satu hari, atau satu jam."
+    },
+    {
+     "start": 41.984,
+     "end": 44.208,
+     "text": "Mari lihat harga bergerak dalam satu tempoh."
+    },
+    {
+     "start": 44.588,
+     "end": 51.745,
+     "text": "Harga pertama dalam tempoh itu ialah Open. Harga tertinggi yang dicapai ialah High. Yang terendah ialah Low."
+    },
+    {
+     "start": 52.125,
+     "end": 54.786,
+     "text": "Dan harga terakhir pada penghujung tempoh ialah Close."
+    },
+    {
+     "start": 55.166,
+     "end": 62.292,
+     "text": "Open, High, Low, Close — atau OHLC. Setiap candle dibina daripada empat harga ini."
+    }
+   ],
+   "end": 64.422
+  },
+  {
+   "start": 64.422,
+   "cues": [
+    {
+     "start": 65.172,
+     "end": 68.113,
+     "text": "Candle mempunyai dua bahagian: body dan wick."
+    },
+    {
+     "start": 68.493,
+     "end": 71.234,
+     "text": "Body ialah kawasan antara open dan close."
+    },
+    {
+     "start": 71.614,
+     "end": 76.74,
+     "text": "Wick — juga dipanggil shadow — menunjukkan high dan low yang dicapai harga di luar body."
+    },
+    {
+     "start": 77.12,
+     "end": 82.172,
+     "text": "Wick yang panjang memberitahu bahawa harga pernah sampai ke situ dalam tempoh itu, tetapi tidak kekal di situ ketika close."
+    }
+   ],
+   "end": 83.502
+  },
+  {
+   "start": 83.502,
+   "cues": [
+    {
+     "start": 84.252,
+     "end": 90.162,
+     "text": "Apabila close lebih tinggi daripada open, candle itu bullish. Ia biasanya dipaparkan dalam warna hijau."
+    },
+    {
+     "start": 90.542,
+     "end": 95.139,
+     "text": "Apabila close lebih rendah daripada open, candle itu bearish, biasanya dipaparkan dalam warna merah."
+    },
+    {
+     "start": 95.519,
+     "end": 101.924,
+     "text": "Bagi candle bullish, open berada di bahagian bawah body. Bagi candle bearish, ia di bahagian atas."
+    },
+    {
+     "start": 102.304,
+     "end": 108.088,
+     "text": "Warna boleh diubah dalam perisian carta, jadi sentiasa baca kedudukan open dan close — bukan sekadar warna."
+    }
+   ],
+   "end": 109.818
+  },
+  {
+   "start": 109.818,
+   "cues": [
+    {
+     "start": 110.568,
+     "end": 114.854,
+     "text": "Sesetengah bentuk candle mempunyai nama. Berikut tiga yang biasa."
+    },
+    {
+     "start": 115.234,
+     "end": 124.052,
+     "text": "Doji mempunyai open dan close yang hampir sama. Ia menunjukkan pembeli mahupun penjual tidak menguasai tempoh itu — tanda ketidakpastian."
+    },
+    {
+     "start": 124.432,
+     "end": 133.922,
+     "text": "Hammer mempunyai body kecil di bahagian atas dan wick bawah yang panjang, dan biasanya dibincangkan selepas penurunan. Harga ditolak turun, kemudian pulih ketika close."
+    },
+    {
+     "start": 134.302,
+     "end": 143.831,
+     "text": "Shooting Star ialah sebaliknya: body kecil di bahagian bawah dan wick atas yang panjang, biasanya selepas kenaikan. Harga ditolak naik, kemudian jatuh semula."
+    },
+    {
+     "start": 144.211,
+     "end": 148.303,
+     "text": "Nama-nama ini menerangkan apa yang berlaku dalam tempoh itu — bukan apa yang pasti berlaku seterusnya."
+    }
+   ],
+   "end": 150.133
+  },
+  {
+   "start": 150.133,
+   "cues": [
+    {
+     "start": 150.883,
+     "end": 153.237,
+     "text": "Pola engulfing melibatkan dua candle."
+    },
+    {
+     "start": 153.617,
+     "end": 159.987,
+     "text": "Dalam Bullish Engulfing, candle bearish diikuti candle bullish yang body-nya menutupi sepenuhnya body sebelumnya."
+    },
+    {
+     "start": 160.367,
+     "end": 165.875,
+     "text": "Dalam Bearish Engulfing, candle bullish diikuti candle bearish yang body-nya menutupinya sepenuhnya."
+    },
+    {
+     "start": 166.255,
+     "end": 173.463,
+     "text": "Ia menunjukkan peralihan kawalan dalam dua tempoh. Tetapi pola engulfing tidak menjamin trend akan berubah."
+    }
+   ],
+   "end": 175.293
+  },
+  {
+   "start": 175.293,
+   "cues": [
+    {
+     "start": 176.043,
+     "end": 178.305,
+     "text": "Inilah sebabnya konteks sangat penting."
+    },
+    {
+     "start": 178.685,
+     "end": 183.494,
+     "text": "Ini ialah hammer yang sama, selepas penurunan yang sama, dalam dua senario ilustrasi."
+    },
+    {
+     "start": 183.874,
+     "end": 186.391,
+     "text": "Dalam senario pertama, harga pulih selepas hammer."
+    },
+    {
+     "start": 186.771,
+     "end": 192.106,
+     "text": "Dalam senario kedua, harga terus jatuh. Pola itu sahaja tidak menentukan keputusan."
+    },
+    {
+     "start": 192.486,
+     "end": 200.095,
+     "text": "Di mana candle terbentuk, trend, dan keadaan pasaran yang lebih luas semuanya penting. Tiada satu pola pun ialah isyarat yang dijamin."
+    }
+   ],
+   "end": 202.225
+  },
+  {
+   "start": 202.225,
+   "cues": [
+    {
+     "start": 202.975,
+     "end": 208.45,
+     "text": "Akhir sekali, timeframe. Timeframe ialah tempoh masa yang diwakili oleh setiap candle."
+    },
+    {
+     "start": 208.83,
+     "end": 218.12,
+     "text": "Pada carta 5 minit, setiap candle mewakili lima minit. Pada carta 1 jam, satu jam. Pada carta harian, satu hari dagangan."
+    },
+    {
+     "start": 218.5,
+     "end": 221.83,
+     "text": "Di sini, dua belas candle 5 minit meliputi satu jam dagangan."
+    },
+    {
+     "start": 222.21,
+     "end": 229.662,
+     "text": "Gabungkan semuanya, dan anda mendapat satu candle 1 jam: open pertama, high tertinggi, low terendah, dan close terakhir."
+    },
+    {
+     "start": 230.042,
+     "end": 233.926,
+     "text": "Pergerakan harga yang sama boleh kelihatan sangat berbeza bergantung pada timeframe yang dipilih."
+    }
+   ],
+   "end": 236.056
+  },
+  {
+   "start": 236.056,
+   "cues": [
+    {
+     "start": 236.806,
+     "end": 237.601,
+     "text": "Mari kita rumuskan."
+    },
+    {
+     "start": 237.981,
+     "end": 242.532,
+     "text": "Setiap candle menunjukkan empat harga: open, high, low dan close."
+    },
+    {
+     "start": 242.912,
+     "end": 247.919,
+     "text": "Body terletak antara open dan close. Wick menunjukkan high dan low."
+    },
+    {
+     "start": 248.299,
+     "end": 252.213,
+     "text": "Bullish bermaksud ia ditutup di atas open; bearish bermaksud ditutup di bawah."
+    },
+    {
+     "start": 252.593,
+     "end": 259.634,
+     "text": "Pola menerangkan apa yang berlaku — konteks menentukan apa maksudnya. Dan setiap candle mewakili satu timeframe."
+    }
+   ],
+   "end": 261.564
+  },
+  {
+   "start": 261.564,
+   "cues": [
+    {
+     "start": 262.314,
+     "end": 264.301,
+     "text": "Candle menunjukkan apa yang berlaku dalam setiap tempoh."
+    },
+    {
+     "start": 264.681,
+     "end": 270.527,
+     "text": "Seterusnya, kita melihat gambaran lebih besar: trend naik, trend turun dan pasaran mendatar."
+    }
+   ],
+   "end": 271.857
+  },
+  {
+   "start": 271.857,
+   "cues": [
+    {
+     "start": 272.607,
+     "end": 278.97,
+     "text": "Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak sumber rasmi untuk maklumat terkini."
+    }
+   ],
+   "end": 282.5
+  },
+  {
+   "start": 282.5,
+   "cues": [
+    {
+     "start": 283.25,
+     "end": 291.493,
+     "text": "Video ini untuk tujuan pendidikan sahaja. Ia bukan nasihat pelaburan atau cadangan untuk membeli atau menjual mana-mana sekuriti."
+    },
+    {
+     "start": 291.873,
+     "end": 297.362,
+     "text": "Capital Market Institute. Understanding Markets. Building Knowledge."
+    }
+   ],
+   "end": 301.292
+  }
+ ],
+ "total": 301.292
+}
