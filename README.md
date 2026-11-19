@@ -41,3 +41,22 @@ docs/       dokumen Fasa 1–5
 - Untuk produksi akhir, suara manusia boleh dirakam menggunakan lajur English dalam `STORYBOARD.md`, diletakkan di `build/narration.wav`, dengan masa cue dilaraskan dalam `timeline.json`.
 - Semua contoh FCPO ialah **ilustrasi hipotetikal**. Sahkan spesifikasi kontrak dengan Bursa Malaysia Derivatives sebelum diterbitkan (lihat V-05 dan V-06).
 - Untuk tujuan pendidikan sahaja. Bukan nasihat kewangan.
+
+---
+
+# CMI · Equity Series — Introduction to Stock & Equity Market
+Siri 8 video (narasi suara English, teks di skrin & sari kata Bahasa Melayu). Layout, tema dan logo dipadankan pada video rujukan CMI *Futures Series V01*.
+
+| # | Tajuk | Fail |
+|---|---|---|
+| 01 | Apa Itu Saham dan Kenapa Syarikat Disenaraikan | `episodes/eq01/build/EQ01.mp4` |
+| 02 | Bursa Malaysia: Pasaran Utama, ACE & LEAP | `episodes/eq02/build/EQ02.mp4` |
+| 03 | Akaun CDS dan Akaun Dagangan | `episodes/eq03/build/EQ03.mp4` |
+| 04 | Waktu Dagangan, Lot dan Cara Pesanan Beli/Jual | `episodes/eq04/build/EQ04.mp4` |
+| 05 | Membaca Candlestick | `episodes/eq05/build/EQ05.mp4` |
+| 06 | Trend Naik, Turun dan Mendatar | `episodes/eq06/build/EQ06.mp4` |
+| 07 | Sokongan dan Rintangan | `episodes/eq07/build/EQ07.mp4` |
+| 08 | Volume: Kenapa Ia Penting? | `episodes/eq08/build/EQ08.mp4` |
+
+Semakan fakta & kualiti: `docs/equity/EQ01_PLAN_FACTCHECK.md`, `docs/equity/EQ02-08_FACTCHECK.md`. Storyboard: `episodes/eqNN/STORYBOARD.md`.
+Penghasilan: `tools/produce.sh eq03` (TTS → MP4 → storyboard). Pembantu bersama siri: `episodes/_eqlib.js`.

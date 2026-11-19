@@ -4,7 +4,7 @@
 **Format:** narasi suara English · semua teks di skrin dan sari kata dalam Bahasa Melayu (istilah kewangan dikekalkan dalam English jika lebih tepat)
 **Gaya visual:** dipadankan pada video rujukan CMI *Futures Series V01*: intro logo CMI, header modul (lencana M1/M2), latar navy bergrid, aksen amber, sari kata di bawah, bar progres, serta babak Rumusan → Siri → Rujukan → Penafian.
 
-> Status: **Video 01 sedia untuk semakan.** Video 02–08 belum dihasilkan; ia akan dibuat selepas Video 01 diluluskan.
+> Status: **Video 01 telah diluluskan.** Video 02–08 telah dihasilkan dengan layout yang sama; lihat `EQ02-08_FACTCHECK.md`.
 
 ---
 
@@ -13,7 +13,7 @@
 | # | Tajuk rasmi | Objektif pembelajaran (ringkas) | Anggaran |
 |---|---|---|---|
 | 01 | Apa Itu Saham dan Kenapa Syarikat Disenaraikan | Faham saham = unit pemilikan, equity, hak pemegang saham, IPO, pulangan & risiko | **6:16 (siap)** |
-| 02 | Bursa Malaysia: Pasaran Utama, ACE & LEAP | Peranan Bursa vs SC; beza Main/ACE/LEAP (bukan ranking kualiti); sekatan LEAP | 4–6 min |
+| 02 | Bursa Malaysia: Pasaran Utama, ACE & LEAP | Peranan Bursa vs SC; beza Main/ACE/LEAP (bukan ranking kualiti); sekatan LEAP | 5:43 |
 | 03 | Akaun CDS dan Akaun Dagangan | CDS vs trading account, Direct vs Nominee CDS, peranan broker, contoh platform POEMS MY (Phillip Capital), dibuat secara halus | 4–6 min |
 | 04 | Waktu Dagangan, Lot dan Cara Pesanan Beli/Jual | Sesi dagangan, board/odd lot, limit vs market order, bid/ask, padanan, T+2 | 5–7 min |
 | 05 | Membaca Candlestick | OHLC, body/wick, pola asas, timeframe (konteks penting, tiada isyarat pasti) | 4–6 min |

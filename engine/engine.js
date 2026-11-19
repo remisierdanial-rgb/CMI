@@ -164,6 +164,8 @@
       const s = document.createElementNS('http://www.w3.org/2000/svg', 'svg'); s.setAttribute('width', o.w); s.setAttribute('height', o.h); s.style.position = 'absolute'; s.style.left = 0; s.style.top = 0; s.style.overflow = 'hidden'; box.appendChild(s); this.svg = s;
       this.pl = 30; this.pt = 70; this.pr = 110; this.pb = 40;
       this.pw = o.w - this.pl - this.pr; this.ph = o.h - this.pt - this.pb;
+      this.F = o.dp ? (p => (+p).toFixed(o.dp)) : fmt;   // axis/price label format (dp = decimals, e.g. RM prices)
+      if (o.vol) { this.vh = Math.round(this.ph * (o.volFrac || .26)); this.ph -= this.vh + 18; this.vy = this.pt + this.ph + 18; }
       this.slots = o.slots || o.candles.length + 6;
       this.cw = this.pw / this.slots;
       S.anim(t => this.draw(t));
@@ -194,7 +196,7 @@
       g += `<line x1="${ax}" y1="${this.pt - 30}" x2="${ax}" y2="${this.pt + this.ph + 10}" stroke="rgba(148,170,210,.10)"/>`;
       for (let p = Math.ceil(o.yMin / step) * step; p <= o.yMax; p += step) {
         g += `<line x1="${this.pl}" x2="${ax}" y1="${Y(p)}" y2="${Y(p)}" stroke="rgba(148,170,210,.045)"/>`;
-        g += `<text x="${ax + 14}" y="${Y(p) + 6}" font-family="JBM" font-size="16" fill="#4a5872">${fmt(p)}</text>`;
+        g += `<text x="${ax + 14}" y="${Y(p) + 6}" font-family="JBM" font-size="16" fill="#4a5872">${this.F(p)}</text>`;
       }
       // annotations below candles
       const vis = a => { let p = ease((t - a.at) / (a.dur || .5)); if (a.until !== undefined) p *= 1 - ease((t - a.until) / .4); return p; };
@@ -208,8 +210,24 @@
         const dim = o.dim && o.dim(i, t) ? .28 : 1;
         g += `<g opacity="${p * dim}"><line x1="${x}" x2="${x}" y1="${yh}" y2="${yl}" stroke="${col}" stroke-width="2"/><rect x="${x - bw / 2}" y="${Math.min(yo, yc)}" width="${bw}" height="${Math.max(2, Math.abs(yc - yo))}" fill="${col}" rx="1"/></g>`;
       });
+      if (o.vol) g += this.drawVol(t);
       for (const a of this.ann) if (!['zone', 'trade', 'chl'].includes(a.k)) { const p = vis(a); if (p > 0) g += this['d_' + a.k](a, p, t); }
       this.svg.innerHTML = g;
+    }
+    /* volume histogram under the price pane: o.vol = [v...], o.vmax, o.volMA = period (optional), o.volHL = fn(i,t)->colour|null */
+    drawVol(t) {
+      const o = this.o, vmax = o.vmax || Math.max(...o.vol) * 1.1, H = this.vh, y0 = this.vy + H, bw = Math.max(4, this.cw * .62);
+      let g = `<line x1="${this.pl}" x2="${this.pl + this.pw + 8}" y1="${y0}" y2="${y0}" stroke="rgba(148,170,210,.12)"/><text x="${this.pl + 6}" y="${this.vy + 14}" font-family="JBM" font-size="14" fill="#5f6e86">VOLUME</text>`;
+      const pts = [];
+      o.vol.forEach((v, i) => {
+        const ct = this.cT[i]; if (ct === undefined) return; const p = ease((t - ct) / .25); if (p <= 0) return;
+        const c = o.candles[i], up = c[3] >= c[0], hl = o.volHL && o.volHL(i, t), h = v / vmax * H * p;
+        const dim = o.dim && o.dim(i, t) ? .28 : 1;
+        g += `<rect x="${this.X(i) - bw / 2}" y="${y0 - h}" width="${bw}" height="${h}" fill="${hl || (up ? C.bull : C.bear)}" opacity="${(hl ? .95 : .55) * dim}" rx="1"/>`;
+        if (o.volMA && i >= o.volMA - 1 && p >= 1) { let sm = 0; for (let k = i - o.volMA + 1; k <= i; k++) sm += o.vol[k]; pts.push(`${this.X(i)},${y0 - sm / o.volMA / vmax * H}`); }
+      });
+      if (o.volMA && pts.length > 1 && (o.volMAat === undefined || t >= o.volMAat)) g += `<polyline points="${pts.join(' ')}" fill="none" stroke="${C.amber}" stroke-width="2.2" opacity="${o.volMAat === undefined ? 1 : ease((t - o.volMAat) / .5)}"/>`;
+      return g;
     }
     xr(v) { return v === 'end' ? this.pl + this.pw : (typeof v === 'number' ? this.X(v) : this.pl); }
     tagBox(x, y, txt, col, anchor = 'start', fill = '#0b1424', fs = 16) {
@@ -232,7 +250,7 @@
       const x = this.X(a.i), y = this.Y(a.p), up = a.pos !== 'below', col = a.c || C.text;
       let s = `<g opacity="${p}"><circle cx="${x}" cy="${y}" r="${7 + 3 * (1 - p)}" fill="none" stroke="${col}" stroke-width="2.4"/>`;
       if (a.t) s += `<text x="${x + (a.dx || 0)}" y="${up ? y - 18 : y + 34}" text-anchor="middle" font-family="Inter" font-weight="700" font-size="${a.fs || 22}" fill="${col}">${esc(a.t)}</text>`;
-      if (a.price) s += `<text x="${x + (a.dx || 0)}" y="${up ? y - 44 : y + 58}" text-anchor="middle" font-family="JBM" font-size="15" fill="#8794aa">${fmt(a.p)}</text>`;
+      if (a.price) s += `<text x="${x + (a.dx || 0)}" y="${up ? y - 44 : y + 58}" text-anchor="middle" font-family="JBM" font-size="15" fill="#8794aa">${this.F(a.p)}</text>`;
       return s + '</g>';
     }
     d_label(a, p) { return `<g opacity="${p}">${this.tagBox(this.X(a.i) + (a.dx || 0), this.Y(a.p) + (a.dy || 0), a.t, a.c || C.text, a.anchor || 'middle', a.fill, a.fs)}</g>`; }

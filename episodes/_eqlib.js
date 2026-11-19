@@ -147,6 +147,45 @@
     if (next) S.el(`<div style="text-align:center;font:400 24px Inter;color:#9aa8be">Seterusnya: ${next}</div>`, { x: 0, y: 706, w: 1920 }, { at: S.at(1, .6) });
   }
 
-  G.EQ = { icon, I, SERIES, header, introScene, card, chip, pie, titleScene, heading, keyPoints, seriesScene, refsScene, disclaimerScene };
+  /* ---- deterministic illustrative price data (valid OHLC, 0.01 tick for RM1–RM9.99) ---- */
+  function rng(seed) { let a = seed >>> 0; return () => { a += 0x6D2B79F5; let t = a; t = Math.imul(t ^ t >>> 15, t | 1); t ^= t + Math.imul(t ^ t >>> 7, t | 61); return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+  const r2 = x => Math.round(x * 100) / 100;
+  /* closes from waypoints [[i, price], ...] with noise */
+  function path(wp, seed = 1, noise = .012) {
+    const R = rng(seed), out = [], n = wp[wp.length - 1][0] + 1;
+    for (let i = 0; i < n; i++) {
+      let k = 0; while (k < wp.length - 2 && i > wp[k + 1][0]) k++;
+      const [i0, p0] = wp[k], [i1, p1] = wp[k + 1], f = i1 === i0 ? 0 : (i - i0) / (i1 - i0);
+      const isWp = wp.some(w => w[0] === i);
+      out.push(r2(p0 + (p1 - p0) * f + (isWp ? 0 : (R() - .5) * 2 * noise)));
+    }
+    return out;
+  }
+  /* OHLC from closes: open = previous close (± tiny gap), wicks random; overrides: {i: [o,h,l,c]} */
+  function ohlc(closes, seed = 7, wick = .015, first, over = {}) {
+    const R = rng(seed), out = [];
+    closes.forEach((c, i) => {
+      if (over[i]) { out.push(over[i]); return; }
+      const o = i === 0 ? (first || c) : out[i - 1][3];
+      const h = r2(Math.max(o, c) + R() * wick + .005), l = r2(Math.min(o, c) - R() * wick - .005);
+      out.push([r2(o), Math.max(h, r2(o), r2(c)), Math.min(l, r2(o), r2(c)), r2(c)]);
+    });
+    return out;
+  }
+
+  /* make each interior waypoint candle the true local swing high/low (±r candles) — keeps OHLC valid */
+  function swingify(cs, wp, r = 3) {
+    for (let k = 1; k < wp.length - 1; k++) {
+      const i = wp[k][0], isH = wp[k][1] > wp[k - 1][1] && wp[k][1] > wp[k + 1][1], isL = wp[k][1] < wp[k - 1][1] && wp[k][1] < wp[k + 1][1];
+      if (!isH && !isL) continue;
+      for (let j = Math.max(0, i - r); j <= Math.min(cs.length - 1, i + r); j++) {
+        if (j === i) continue;
+        if (isH && cs[j][1] >= cs[i][1]) cs[i][1] = r2(cs[j][1] + .01);
+        if (isL && cs[j][2] <= cs[i][2]) cs[i][2] = r2(cs[j][2] - .01);
+      }
+    }
+    return cs;
+  }
+  G.EQ = { rng, path, ohlc, swingify, icon, I, SERIES, header, introScene, card, chip, pie, titleScene, heading, keyPoints, seriesScene, refsScene, disclaimerScene };
   if (typeof module !== 'undefined') module.exports = G.EQ;
 })();
