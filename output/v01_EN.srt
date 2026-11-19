@@ -1,163 +1,163 @@
 1
-00:00:04,100 --> 00:00:08,874
+00:00:04,700 --> 00:00:09,474
 How can someone trade the price of palm oil without ever owning the palm oil itself?
 
 2
-00:00:09,614 --> 00:00:14,772
+00:00:10,214 --> 00:00:15,372
 The answer lies in one of the core tools of the commodity world: the futures contract.
 
 3
-00:00:16,672 --> 00:00:22,190
+00:00:17,272 --> 00:00:22,790
 In this video, we look at what a futures contract is, why it exists, and who uses it.
 
 4
-00:00:24,890 --> 00:00:31,416
+00:00:25,490 --> 00:00:32,016
 Let's start with a real-world problem. Imagine a palm oil producer with a harvest to sell in three months.
 
 5
-00:00:31,756 --> 00:00:36,266
+00:00:32,356 --> 00:00:36,866
 The producer is worried: what if crude palm oil prices fall before then?
 
 6
-00:00:36,606 --> 00:00:43,132
+00:00:37,206 --> 00:00:43,732
 At the same time, a refinery that needs to buy palm oil has the opposite worry: what if prices rise?
 
 7
-00:00:43,472 --> 00:00:48,990
+00:00:44,072 --> 00:00:49,590
 Both face the same thing: price risk. Neither knows what the price will be in three months.
 
 8
-00:00:50,890 --> 00:01:00,320
+00:00:51,490 --> 00:01:00,920
 A futures contract is a standardised, legally binding agreement to buy or sell an asset at a price agreed today, for a specified date in the future.
 
 9
-00:01:00,660 --> 00:01:07,810
+00:01:01,260 --> 00:01:08,410
 It is traded on a regulated exchange, so the quantity, quality and delivery terms are the same for every participant.
 
 10
-00:01:08,150 --> 00:01:15,804
+00:01:08,750 --> 00:01:16,404
 The asset the contract is based on is called the underlying asset. For FCPO, the underlying asset is crude palm oil.
 
 11
-00:01:17,704 --> 00:01:23,966
+00:01:18,304 --> 00:01:24,566
 Futures markets grew out of this need. Producers and buyers wanted a way to lock in prices ahead of time.
 
 12
-00:01:24,306 --> 00:01:33,712
+00:01:24,906 --> 00:01:34,312
 So the journey looks like this: physical palm oil, a futures contract based on it, exposure to its price, and finally, hedging that exposure.
 
 13
-00:01:34,052 --> 00:01:39,882
+00:01:34,652 --> 00:01:40,482
 The contract lets participants manage price risk today, without exchanging the physical goods today.
 
 14
-00:01:41,782 --> 00:01:46,292
+00:01:42,382 --> 00:01:46,892
 It is important to separate the physical commodity from the futures contract.
 
 15
-00:01:46,632 --> 00:01:53,590
+00:01:47,232 --> 00:01:54,190
 Buying physical palm oil means paying the full value, then storing, transporting and looking after the goods.
 
 16
-00:01:53,930 --> 00:02:02,016
+00:01:54,530 --> 00:02:02,616
 A futures position is a contractual obligation linked to the price of the asset. Holding one does not automatically mean you own the palm oil.
 
 17
-00:02:02,356 --> 00:02:13,226
+00:02:02,956 --> 00:02:13,826
 FCPO is a physically delivered contract, but many participants, especially retail traders, close their positions before delivery. We cover this in Video 05.
 
 18
-00:02:15,126 --> 00:02:19,996
+00:02:15,726 --> 00:02:20,596
 Who uses futures? Broadly, two groups: hedgers and speculators.
 
 19
-00:02:20,336 --> 00:02:27,030
+00:02:20,936 --> 00:02:27,630
 Hedgers, like producers and refineries, use futures to reduce the impact of price changes on their business.
 
 20
-00:02:27,370 --> 00:02:36,968
+00:02:27,970 --> 00:02:37,568
 For example, the producer can sell futures today. If prices fall, the gain on the futures position can help offset the lower price received for the physical oil.
 
 21
-00:02:37,708 --> 00:02:46,154
+00:02:38,308 --> 00:02:46,754
 Speculators have no physical business to protect. They take positions to seek profit from price movements, and they accept the risk of loss.
 
 22
-00:02:46,494 --> 00:02:51,580
+00:02:47,094 --> 00:02:52,180
 Their activity adds liquidity, making it easier for hedgers to find a counterparty.
 
 23
-00:02:53,380 --> 00:02:56,282
+00:02:53,980 --> 00:02:56,882
 Futures exist on many types of assets.
 
 24
-00:02:56,622 --> 00:03:07,492
+00:02:57,222 --> 00:03:08,092
 Agricultural commodities like crude palm oil, soybean and wheat. Energy, like crude oil. Metals, like gold. And financial futures, such as stock index futures.
 
 25
-00:03:07,832 --> 00:03:15,894
+00:03:08,432 --> 00:03:16,494
 Each contract has its own specifications: size, tick value, trading hours and settlement method. They are not all the same.
 
 26
-00:03:17,794 --> 00:03:20,432
+00:03:18,394 --> 00:03:21,032
 So how is this different from investing in stocks?
 
 27
-00:03:20,772 --> 00:03:26,170
+00:03:21,372 --> 00:03:26,770
 A share represents ownership in a company, and you can usually hold it with no expiry date.
 
 28
-00:03:26,510 --> 00:03:33,588
+00:03:27,110 --> 00:03:34,188
 A futures contract is an agreement with an expiry month. It gives exposure to a price, not ownership of a company.
 
 29
-00:03:33,928 --> 00:03:42,062
+00:03:34,528 --> 00:03:42,662
 Futures can be bought or sold first, and they are traded on margin. That creates leverage, which magnifies both gains and losses.
 
 30
-00:03:44,162 --> 00:03:51,264
+00:03:44,762 --> 00:03:51,864
 A futures contract is a standardised agreement to buy or sell an asset at a price agreed today, for a future date.
 
 31
-00:03:51,604 --> 00:03:54,890
+00:03:52,204 --> 00:03:55,490
 The underlying asset is what the contract is based on.
 
 32
-00:03:55,230 --> 00:04:00,436
+00:03:55,830 --> 00:04:01,036
 Hedgers manage price risk, while speculators seek opportunity and accept risk.
 
 33
-00:04:00,776 --> 00:04:05,070
+00:04:01,376 --> 00:04:05,670
 Holding a futures position does not mean you automatically own the commodity.
 
 34
-00:04:05,410 --> 00:04:10,112
+00:04:06,010 --> 00:04:10,712
 Futures have expiry months and are traded on margin, which creates leverage.
 
 35
-00:04:10,452 --> 00:04:13,834
+00:04:11,052 --> 00:04:14,434
 And every futures product has its own specifications.
 
 36
-00:04:15,134 --> 00:04:24,012
+00:04:15,734 --> 00:04:24,612
 Futures are not simply about buying and selling contracts. They are a market instrument for managing risk and taking opportunities from price changes.
 
 37
-00:04:26,112 --> 00:04:29,878
+00:04:26,712 --> 00:04:30,478
 This is only the foundation for understanding the futures market.
 
 38
-00:04:30,218 --> 00:04:33,216
+00:04:30,818 --> 00:04:33,816
 Know the product you trade before taking any risk.
 
 39
-00:04:33,556 --> 00:04:36,626
+00:04:34,156 --> 00:04:37,226
 Continue your learning with Capital Market Institute.
 
 40
-00:04:38,526 --> 00:04:44,188
+00:04:39,126 --> 00:04:44,788
 The references for this video are shown on screen. Always check the latest official specifications.
 
 41
-00:04:47,088 --> 00:04:55,966
+00:04:47,688 --> 00:04:56,566
 For educational purposes only. This is not financial advice, and it is not a guarantee of profit. Futures trading involves a high risk of loss.

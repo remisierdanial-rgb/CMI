@@ -22,13 +22,12 @@ G.assembleScenes=function(def){
   const C=G.C;
   const out=[];
   /* 0 — CMI logo opening (no narration) */
-  out.push({id:'sting',label:'',noHeader:true,minDur:3.6,lines:[],
-    dir:'Opening: official CMI logo fades/scales in centred on the dark navy background, gold rule wipes under it, tagline fades in. Dip to the hook.',
+  out.push({id:'sting',label:'',noHeader:true,minDur:4.2,lines:[],
+    dir:'Opening: official CMI logo (incl. tagline) on a clean white canvas — the logo is designed for a light background. Logo eases in (scale 0.96 → 1, fade), holds, then the frame dips to the dark navy series theme.',
     build(S){
-      const box=S.add(`<div style="position:absolute;left:0;right:0;top:0;bottom:0;display:flex;flex-direction:column;align-items:center;justify-content:center"></div>`);
-      S.add(`<div>${C.logo(G.LOGO_OK?300:220)}</div>`,{parent:box,at:.2,anim:'scale',d:1});
-      S.add(`<div class="rule" style="margin-top:34px;width:260px"></div>`,{parent:box,at:1.2,anim:'wipe',d:.6});
-      S.add(`<div class="lead" style="margin-top:22px;letter-spacing:.06em">Understanding Markets. Building Knowledge.</div>`,{parent:box,at:1.6,anim:'up'});
+      S.add(`<div style="position:absolute;inset:0;background:#FFFFFF"></div>`);
+      const box=S.add(`<div style="position:absolute;left:0;right:0;top:0;bottom:0;display:flex;align-items:center;justify-content:center"></div>`);
+      S.add(`<div>${C.logo(380)}</div>`,{parent:box,at:.3,anim:'scale',d:1.2});
     }});
   /* 1 — hook (video-specific) */
   out.push(Object.assign({id:'hook',label:'HOOK'},def.hook));
@@ -79,10 +78,7 @@ G.assembleScenes=function(def){
       });
       S.add(`<div class="tag blue">Anda di sini</div>`,{x:950,y:280+(parseInt(def.num)-1)*68,at:1.4,anim:'pop'});
       const box=S.add(`<div style="position:absolute;left:1120px;width:720px;top:300px;height:480px;display:flex;flex-direction:column;align-items:center;justify-content:center"></div>`);
-      S.add(`<div>${C.logo(G.LOGO_OK?230:120)}</div>`,{parent:box,at:S.c(2),anim:'scale',d:.8});
-      if(!G.LOGO_OK)0;
-      S.add(`<div class="rule" style="margin-top:26px;width:200px"></div>`,{parent:box,at:S.c(2,.5),anim:'wipe'});
-      S.add(`<div class="lead" style="margin-top:16px;font-size:28px;letter-spacing:.05em;text-align:center">Understanding Markets. Building Knowledge.</div>`,{parent:box,at:S.c(2,.8)});
+      S.add(`<div style="background:#FFFFFF;border-radius:14px;padding:34px 36px">${C.logo(G.LOGO_OK?190:110)}</div>`,{parent:box,at:S.c(2),anim:'scale',d:.8});
     }});
   /* references */
   out.push({id:'refs',label:'RUJUKAN',lines:[['The references for this video are shown on screen. Always check the latest official specifications.','Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak spesifikasi rasmi terkini.',1.6]],
