@@ -1,0 +1,365 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [],
+   "end": 3.6
+  },
+  {
+   "start": 3.6,
+   "cues": [
+    {
+     "start": 4.35,
+     "end": 9.664,
+     "text": "Kenapa ada syarikat tersenarai di Main Market, ada di ACE Market dan ada pula di LEAP Market?"
+    },
+    {
+     "start": 10.044,
+     "end": 12.848,
+     "text": "Adakah semua saham mempunyai tahap dan struktur yang sama?"
+    }
+   ],
+   "end": 14.778
+  },
+  {
+   "start": 14.778,
+   "cues": [
+    {
+     "start": 15.528,
+     "end": 20.744,
+     "text": "Dalam video ini, kita mengenali Bursa Malaysia, dan tiga pasaran tempat syarikat boleh disenaraikan."
+    },
+    {
+     "start": 21.124,
+     "end": 25.634,
+     "text": "Pertama, peranan Bursa Malaysia, dan bezanya dengan Suruhanjaya Sekuriti."
+    },
+    {
+     "start": 26.014,
+     "end": 29.792,
+     "text": "Kedua, Main Market, ACE Market dan LEAP Market."
+    },
+    {
+     "start": 30.172,
+     "end": 34.857,
+     "text": "Dan ketiga, kenapa syarikat memilih pasaran tertentu, dan siapa yang boleh melabur dalam setiap pasaran."
+    }
+   ],
+   "end": 36.187
+  },
+  {
+   "start": 36.187,
+   "cues": [
+    {
+     "start": 36.937,
+     "end": 42.634,
+     "text": "Bursa Malaysia ialah bursa saham Malaysia — pasaran tempat saham tersenarai dibeli dan dijual."
+    },
+    {
+     "start": 43.014,
+     "end": 46.449,
+     "text": "Ia mengendalikan sistem dagangan yang memadankan pesanan beli dan jual."
+    },
+    {
+     "start": 46.829,
+     "end": 55.815,
+     "text": "Melalui anak syarikatnya, ia juga mengendalikan penjelasan dan penyelesaian, serta menyimpan rekod pusat pemilikan saham — Central Depository System atau CDS."
+    },
+    {
+     "start": 56.195,
+     "end": 61.971,
+     "text": "Sebagai pengawal selia barisan hadapan, ia menetapkan dan menguatkuasakan syarat penyenaraian yang perlu dipatuhi syarikat tersenarai."
+    }
+   ],
+   "end": 63.701
+  },
+  {
+   "start": 63.701,
+   "cues": [
+    {
+     "start": 64.451,
+     "end": 69.626,
+     "text": "Bursa Malaysia sering dikelirukan dengan Suruhanjaya Sekuriti Malaysia, tetapi peranan mereka berbeza."
+    },
+    {
+     "start": 70.006,
+     "end": 76.412,
+     "text": "Suruhanjaya Sekuriti Malaysia, atau SC, ialah badan berkanun yang mengawal selia dan membangunkan pasaran modal Malaysia."
+    },
+    {
+     "start": 76.792,
+     "end": 84.421,
+     "text": "SC menyelia bursa itu sendiri, melesenkan perantara pasaran seperti broker saham, dan menguatkuasakan undang-undang sekuriti."
+    },
+    {
+     "start": 84.801,
+     "end": 91.717,
+     "text": "Secara ringkas: Bursa mengendalikan pasaran, manakala SC mengawasi keseluruhan pasaran modal — termasuk Bursa."
+    }
+   ],
+   "end": 93.047
+  },
+  {
+   "start": 93.047,
+   "cues": [
+    {
+     "start": 93.797,
+     "end": 96.815,
+     "text": "Mari lihat bagaimana semua pihak berhubung dalam ekosistem pasaran."
+    },
+    {
+     "start": 97.195,
+     "end": 100.448,
+     "text": "Syarikat menyenaraikan saham mereka di Bursa Malaysia untuk mengumpul modal."
+    },
+    {
+     "start": 100.828,
+     "end": 108.92,
+     "text": "Pelabur tidak berdagang terus dengan bursa. Mereka menghantar pesanan melalui broker saham, iaitu participating organisation Bursa."
+    },
+    {
+     "start": 109.3,
+     "end": 114.833,
+     "text": "Bursa memadankan pesanan, dan SC mengawasi keseluruhan sistem supaya pasaran adil dan teratur."
+    }
+   ],
+   "end": 116.663
+  },
+  {
+   "start": 116.663,
+   "cues": [
+    {
+     "start": 117.413,
+     "end": 123.954,
+     "text": "Pasaran ekuiti Bursa Malaysia mempunyai tiga segmen penyenaraian: Main Market, ACE Market dan LEAP Market."
+    },
+    {
+     "start": 124.334,
+     "end": 125.896,
+     "text": "Ia bukan ranking kualiti."
+    },
+    {
+     "start": 126.276,
+     "end": 131.854,
+     "text": "Ia direka untuk syarikat yang berbeza saiz dan peringkat pertumbuhan — masing-masing dengan peraturan tersendiri."
+    }
+   ],
+   "end": 133.184
+  },
+  {
+   "start": 133.184,
+   "cues": [
+    {
+     "start": 133.934,
+     "end": 137.419,
+     "text": "Main Market direka untuk syarikat yang lebih besar dan lebih mantap."
+    },
+    {
+     "start": 137.799,
+     "end": 144.869,
+     "text": "Pemohon secara amnya perlu memenuhi kriteria kuantitatif — seperti rekod keuntungan, atau permodalan pasaran minimum."
+    },
+    {
+     "start": 145.249,
+     "end": 152.993,
+     "text": "IPO Main Market memerlukan kelulusan Suruhanjaya Sekuriti, dan syarikat dibimbing oleh principal adviser, seperti bank pelaburan."
+    },
+    {
+     "start": 153.373,
+     "end": 157.816,
+     "text": "Saham Main Market terbuka kepada semua pelabur, termasuk pelabur runcit."
+    },
+    {
+     "start": 158.196,
+     "end": 164.758,
+     "text": "Tetapi berada di Main Market tidak menjadikan saham bebas risiko. Setiap syarikat tetap perlu difahami secara tersendiri."
+    }
+   ],
+   "end": 166.088
+  },
+  {
+   "start": 166.088,
+   "cues": [
+    {
+     "start": 166.838,
+     "end": 171.217,
+     "text": "ACE Market ialah pasaran berasaskan sponsor untuk syarikat yang mempunyai prospek pertumbuhan."
+    },
+    {
+     "start": 171.597,
+     "end": 180.825,
+     "text": "Tiada syarat keuntungan minimum. Sebaliknya, sponsor menilai sama ada syarikat sesuai disenaraikan — dan terus menasihatinya selepas penyenaraian."
+    },
+    {
+     "start": 181.205,
+     "end": 187.067,
+     "text": "IPO ACE Market diluluskan oleh Bursa Malaysia, manakala prospektus didaftarkan dengan SC."
+    },
+    {
+     "start": 187.447,
+     "end": 191.536,
+     "text": "Seperti Main Market, saham ACE Market terbuka kepada semua pelabur."
+    },
+    {
+     "start": 191.916,
+     "end": 197.426,
+     "text": "Syarikat pertumbuhan mungkin membawa lebih ketidakpastian — tetapi ACE tidak semestinya bermaksud kualiti lebih rendah."
+    }
+   ],
+   "end": 198.756
+  },
+  {
+   "start": 198.756,
+   "cues": [
+    {
+     "start": 199.506,
+     "end": 206.26,
+     "text": "LEAP bermaksud Leading Entrepreneur Accelerator Platform. Ia pasaran untuk perusahaan kecil dan sederhana."
+    },
+    {
+     "start": 206.64,
+     "end": 211.117,
+     "text": "Syarikat disenaraikan melalui Approved Adviser, dan penyenaraian diluluskan oleh Bursa Malaysia."
+    },
+    {
+     "start": 211.497,
+     "end": 216.496,
+     "text": "Paling penting, sekuriti LEAP Market hanya boleh diniagakan oleh sophisticated investors."
+    },
+    {
+     "start": 216.876,
+     "end": 226.456,
+     "text": "Sophisticated investors ditakrifkan oleh Suruhanjaya Sekuriti. Ia termasuk institusi tertentu, dan individu yang memenuhi kriteria kekayaan atau pendapatan yang ditetapkan."
+    },
+    {
+     "start": 226.836,
+     "end": 230.8,
+     "text": "Jadi, bagi kebanyakan pelabur runcit, saham LEAP Market tidak boleh diakses."
+    }
+   ],
+   "end": 232.53
+  },
+  {
+   "start": 232.53,
+   "cues": [
+    {
+     "start": 233.28,
+     "end": 235.772,
+     "text": "Mari bandingkan ketiga-tiga pasaran secara sebelah-menyebelah."
+    },
+    {
+     "start": 236.152,
+     "end": 242.155,
+     "text": "Ia berbeza dari segi jenis syarikat, kriteria penyenaraian, pihak yang meluluskan, dan penasihat yang terlibat."
+    },
+    {
+     "start": 242.535,
+     "end": 250.862,
+     "text": "Dan perbezaan paling penting bagi pelabur: Main dan ACE Market terbuka kepada semua pelabur, manakala LEAP terhad kepada sophisticated investors."
+    }
+   ],
+   "end": 252.992
+  },
+  {
+   "start": 252.992,
+   "cues": [
+    {
+     "start": 253.742,
+     "end": 256.324,
+     "text": "Jadi, kenapa syarikat memilih satu pasaran berbanding yang lain?"
+    },
+    {
+     "start": 256.704,
+     "end": 260.397,
+     "text": "Ia bergantung pada saiz, rekod prestasi dan peringkat pertumbuhannya."
+    },
+    {
+     "start": 260.777,
+     "end": 265.311,
+     "text": "Ia juga bergantung pada jumlah modal yang diperlukan, dan pelabur yang ingin disasarkan."
+    },
+    {
+     "start": 265.691,
+     "end": 274.87,
+     "text": "Bagi pelabur, segmen pasaran ialah konteks yang berguna — tetapi bukan jalan pintas. Sentiasa kaji perniagaan, kewangan dan risiko syarikat."
+    }
+   ],
+   "end": 276.2
+  },
+  {
+   "start": 276.2,
+   "cues": [
+    {
+     "start": 276.95,
+     "end": 277.744,
+     "text": "Mari kita rumuskan."
+    },
+    {
+     "start": 278.124,
+     "end": 284.95,
+     "text": "Bursa Malaysia mengendalikan pasaran. Suruhanjaya Sekuriti mengawasi pasaran modal, termasuk Bursa."
+    },
+    {
+     "start": 285.33,
+     "end": 291.737,
+     "text": "Terdapat tiga pasaran penyenaraian: Main, ACE dan LEAP — untuk syarikat yang berbeza saiz dan peringkat."
+    },
+    {
+     "start": 292.117,
+     "end": 298.351,
+     "text": "Main dan ACE terbuka kepada semua pelabur. LEAP hanya untuk sophisticated investors."
+    },
+    {
+     "start": 298.731,
+     "end": 301.946,
+     "text": "Dan ingat: segmen pasaran bukan ranking kualiti."
+    }
+   ],
+   "end": 303.876
+  },
+  {
+   "start": 303.876,
+   "cues": [
+    {
+     "start": 304.626,
+     "end": 306.503,
+     "text": "Kini anda tahu di mana saham disenaraikan."
+    },
+    {
+     "start": 306.883,
+     "end": 312.517,
+     "text": "Seterusnya, kita lihat bagaimana pelabur sebenarnya mendapat akses: akaun CDS dan akaun dagangan."
+    }
+   ],
+   "end": 313.847
+  },
+  {
+   "start": 313.847,
+   "cues": [
+    {
+     "start": 314.597,
+     "end": 320.96,
+     "text": "Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak sumber rasmi untuk maklumat terkini."
+    }
+   ],
+   "end": 324.49
+  },
+  {
+   "start": 324.49,
+   "cues": [
+    {
+     "start": 325.24,
+     "end": 333.483,
+     "text": "Video ini untuk tujuan pendidikan sahaja. Ia bukan nasihat pelaburan atau cadangan untuk membeli atau menjual mana-mana sekuriti."
+    },
+    {
+     "start": 333.863,
+     "end": 339.352,
+     "text": "Capital Market Institute. Understanding Markets. Building Knowledge."
+    }
+   ],
+   "end": 343.282
+  }
+ ],
+ "total": 343.282
+}

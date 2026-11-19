@@ -1,0 +1,223 @@
+1
+00:00:04,350 --> 00:00:10,861
+Anda sudah tahu apa itu saham. Tetapi bagaimana sebenarnya seseorang boleh mula membeli saham di Bursa Malaysia?
+
+2
+00:00:10,941 --> 00:00:13,864
+Ada beberapa perkara yang perlu disediakan terlebih dahulu.
+
+3
+00:00:16,244 --> 00:00:22,452
+Dalam video ini, kita lihat dua akaun yang diperlukan setiap pelabur saham di Malaysia, dan peranan broker saham.
+
+4
+00:00:22,532 --> 00:00:26,703
+Pertama, akaun CDS, dan bezanya dengan akaun dagangan.
+
+5
+00:00:26,783 --> 00:00:29,997
+Kedua, akaun CDS direct dan nominee.
+
+6
+00:00:30,077 --> 00:00:35,185
+Dan ketiga, bagaimana akaun dibuka, dan bagaimana pesanan bergerak dari skrin anda ke pasaran.
+
+7
+00:00:36,965 --> 00:00:41,609
+Untuk membeli dan menjual saham di Malaysia, pelabur secara amnya memerlukan dua akaun.
+
+8
+00:00:41,689 --> 00:00:44,956
+Akaun CDS, yang merekodkan saham yang anda miliki.
+
+9
+00:00:45,036 --> 00:00:48,876
+Dan akaun dagangan, yang anda gunakan untuk membuat pesanan beli dan jual.
+
+10
+00:00:48,956 --> 00:00:51,689
+Kedua-duanya bekerjasama, tetapi ia bukan perkara yang sama.
+
+11
+00:00:53,469 --> 00:01:00,985
+CDS bermaksud Central Depository System. Akaun CDS merekodkan pegangan saham anda dalam bentuk elektronik.
+
+12
+00:01:01,065 --> 00:01:07,939
+Sistem ini dikendalikan oleh Bursa Malaysia Depository, depositori pusat bagi sekuriti yang tersenarai di Bursa Malaysia.
+
+13
+00:01:08,019 --> 00:01:13,810
+Anggap ia sebagai rekod selamat tentang apa yang anda miliki. Ia merekodkan saham — bukan wang tunai anda.
+
+14
+00:01:13,890 --> 00:01:21,874
+Anda tidak membuka akaun CDS terus dengan Bursa. Ia dibuka melalui broker yang bertindak sebagai Authorised Depository Agent.
+
+15
+00:01:24,054 --> 00:01:29,756
+Akaun dagangan dibuka dengan firma broker saham — participating organisation Bursa Malaysia.
+
+16
+00:01:29,836 --> 00:01:33,498
+Inilah akaun yang anda gunakan untuk menghantar pesanan beli dan jual ke pasaran.
+
+17
+00:01:33,578 --> 00:01:40,032
+Terdapat beberapa jenis. Dalam akaun tunai, anda berdagang dalam lingkungan deposit atau had dagangan yang diluluskan.
+
+18
+00:01:40,112 --> 00:01:48,851
+Dalam akaun margin, broker meminjamkan wang untuk membeli saham. Ini boleh membesarkan kerugian, dan secara amnya tidak disarankan untuk pemula.
+
+19
+00:01:51,031 --> 00:01:53,000
+Inilah perbezaannya dalam satu jadual.
+
+20
+00:01:53,080 --> 00:02:00,285
+Akaun CDS menjawab: saham apa yang saya miliki? Akaun dagangan menjawab: bagaimana saya membeli atau menjual?
+
+21
+00:02:00,365 --> 00:02:07,942
+Analogi mudah: akaun CDS seperti rekod peti simpanan, dan akaun dagangan seperti kaunter tempat urus niaga berlaku.
+
+22
+00:02:10,322 --> 00:02:14,265
+Terdapat dua jenis akaun CDS yang biasa: direct dan nominee.
+
+23
+00:02:14,345 --> 00:02:24,103
+Dalam akaun CDS direct, saham direkodkan atas nama anda sendiri. Anda tersenarai dalam rekod pendeposit syarikat, dan menerima notis syarikat secara terus.
+
+24
+00:02:24,183 --> 00:02:34,138
+Dalam akaun CDS nominee, saham dipegang atas nama syarikat nominee, biasanya berkaitan dengan broker, bagi pihak anda. Anda kekal sebagai pemilik benefisial.
+
+25
+00:02:34,218 --> 00:02:39,786
+Bagi akaun nominee, urusan seperti tindakan korporat dan pengundian biasanya dikendalikan melalui nominee.
+
+26
+00:02:39,866 --> 00:02:45,481
+Setiap jenis mempunyai ciri dan syarat tersendiri — jadi semak butirannya dengan broker sebelum memilih.
+
+27
+00:02:47,761 --> 00:02:50,262
+Broker saham ialah pintu masuk anda ke pasaran.
+
+28
+00:02:50,342 --> 00:02:55,942
+Broker dilesenkan oleh Suruhanjaya Sekuriti dan merupakan participating organisation Bursa Malaysia.
+
+29
+00:02:56,022 --> 00:03:03,774
+Mereka membuka akaun dagangan dan akaun CDS anda, menyediakan platform dagangan, menghantar pesanan anda ke Bursa, dan menguruskan penyelesaian dagangan anda.
+
+30
+00:03:03,854 --> 00:03:11,854
+Broker mengenakan fi bagi perkhidmatan mereka, seperti brokerage. Fi berbeza antara broker, jadi bandingkan sebelum mula.
+
+31
+00:03:13,634 --> 00:03:16,872
+Pembukaan akaun biasanya melalui beberapa langkah asas.
+
+32
+00:03:16,952 --> 00:03:19,165
+Pertama, pilih broker berlesen.
+
+33
+00:03:19,245 --> 00:03:28,338
+Kedua, lengkapkan permohonan dan pengesahan identiti. Kini banyak broker menawarkannya secara dalam talian, dengan semakan eKYC.
+
+34
+00:03:28,418 --> 00:03:32,333
+Ketiga, broker membuka akaun dagangan dan akaun CDS anda.
+
+35
+00:03:32,413 --> 00:03:37,440
+Akhir sekali, masukkan dana atau dapatkan had dagangan — dan anda sedia untuk membuat pesanan.
+
+36
+00:03:37,520 --> 00:03:40,566
+Langkah dan dokumen sebenar bergantung pada broker.
+
+37
+00:03:42,846 --> 00:03:48,684
+Untuk mengakses pasaran saham, pelabur biasanya menggunakan perkhidmatan broker dan platform dagangan.
+
+38
+00:03:48,764 --> 00:03:56,133
+Sebagai contoh, Phillip Capital Sdn Bhd menyediakan akses kepada pasaran ekuiti melalui platform seperti POEMS MY.
+
+39
+00:03:56,213 --> 00:04:00,605
+Platform dagangan secara amnya mempunyai watchlist untuk memantau saham pilihan,
+
+40
+00:04:00,685 --> 00:04:02,997
+maklumat saham, carta harga,
+
+41
+00:04:03,077 --> 00:04:06,032
+dan skrin pesanan untuk membuat pesanan beli dan jual.
+
+42
+00:04:06,112 --> 00:04:13,304
+Paparan di sini ialah ilustrasi generik. Sentiasa rujuk platform rasmi dan panduan pengguna broker.
+
+43
+00:04:15,884 --> 00:04:20,167
+Jadi, apa berlaku apabila anda membuat pesanan? Mari ikuti perjalanannya.
+
+44
+00:04:20,247 --> 00:04:26,372
+Anda memasukkan pesanan di platform. Broker menyemaknya berdasarkan akaun anda, seperti had dagangan.
+
+45
+00:04:26,452 --> 00:04:32,064
+Pesanan kemudian dihantar ke sistem dagangan Bursa Malaysia, di mana ia menunggu untuk dipadankan dengan pesanan bertentangan.
+
+46
+00:04:32,144 --> 00:04:36,470
+Setelah dipadankan dan diselesaikan, saham dikreditkan ke dalam akaun CDS anda.
+
+47
+00:04:36,550 --> 00:04:39,972
+Bagaimana padanan dan penyelesaian berfungsi akan kita bincangkan dalam video seterusnya.
+
+48
+00:04:42,352 --> 00:04:43,446
+Mari kita rumuskan.
+
+49
+00:04:43,526 --> 00:04:49,500
+Akaun CDS merekodkan saham yang anda miliki. Akaun dagangan digunakan untuk membuat pesanan.
+
+50
+00:04:49,580 --> 00:04:56,289
+Akaun CDS direct atas nama anda sendiri. Akaun nominee dipegang oleh nominee bagi pihak anda.
+
+51
+00:04:56,369 --> 00:05:02,480
+Broker ialah pintu masuk anda ke pasaran — mereka membuka akaun, menyediakan platform dan menghantar pesanan anda ke Bursa.
+
+52
+00:05:04,860 --> 00:05:10,229
+Akaun anda sudah sedia. Tetapi bila anda boleh berdagang, dan bagaimana membuat pesanan dengan betul?
+
+53
+00:05:10,309 --> 00:05:14,901
+Seterusnya: waktu dagangan, lot, dan cara pesanan beli dan jual berfungsi.
+
+54
+00:05:16,681 --> 00:05:23,344
+Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak sumber rasmi untuk maklumat terkini.
+
+55
+00:05:27,324 --> 00:05:35,867
+Video ini untuk tujuan pendidikan sahaja. Ia bukan nasihat pelaburan atau cadangan untuk membeli atau menjual mana-mana sekuriti.
+
+56
+00:05:35,947 --> 00:05:41,736
+Capital Market Institute. Understanding Markets. Building Knowledge.

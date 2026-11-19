@@ -1,0 +1,211 @@
+1
+00:00:04,350 --> 00:00:09,964
+Kenapa ada syarikat tersenarai di Main Market, ada di ACE Market dan ada pula di LEAP Market?
+
+2
+00:00:10,044 --> 00:00:13,148
+Adakah semua saham mempunyai tahap dan struktur yang sama?
+
+3
+00:00:15,528 --> 00:00:21,044
+Dalam video ini, kita mengenali Bursa Malaysia, dan tiga pasaran tempat syarikat boleh disenaraikan.
+
+4
+00:00:21,124 --> 00:00:25,934
+Pertama, peranan Bursa Malaysia, dan bezanya dengan Suruhanjaya Sekuriti.
+
+5
+00:00:26,014 --> 00:00:30,092
+Kedua, Main Market, ACE Market dan LEAP Market.
+
+6
+00:00:30,172 --> 00:00:35,157
+Dan ketiga, kenapa syarikat memilih pasaran tertentu, dan siapa yang boleh melabur dalam setiap pasaran.
+
+7
+00:00:36,937 --> 00:00:42,934
+Bursa Malaysia ialah bursa saham Malaysia — pasaran tempat saham tersenarai dibeli dan dijual.
+
+8
+00:00:43,014 --> 00:00:46,749
+Ia mengendalikan sistem dagangan yang memadankan pesanan beli dan jual.
+
+9
+00:00:46,829 --> 00:00:56,115
+Melalui anak syarikatnya, ia juga mengendalikan penjelasan dan penyelesaian, serta menyimpan rekod pusat pemilikan saham — Central Depository System atau CDS.
+
+10
+00:00:56,195 --> 00:01:02,271
+Sebagai pengawal selia barisan hadapan, ia menetapkan dan menguatkuasakan syarat penyenaraian yang perlu dipatuhi syarikat tersenarai.
+
+11
+00:01:04,451 --> 00:01:09,926
+Bursa Malaysia sering dikelirukan dengan Suruhanjaya Sekuriti Malaysia, tetapi peranan mereka berbeza.
+
+12
+00:01:10,006 --> 00:01:16,712
+Suruhanjaya Sekuriti Malaysia, atau SC, ialah badan berkanun yang mengawal selia dan membangunkan pasaran modal Malaysia.
+
+13
+00:01:16,792 --> 00:01:24,721
+SC menyelia bursa itu sendiri, melesenkan perantara pasaran seperti broker saham, dan menguatkuasakan undang-undang sekuriti.
+
+14
+00:01:24,801 --> 00:01:32,017
+Secara ringkas: Bursa mengendalikan pasaran, manakala SC mengawasi keseluruhan pasaran modal — termasuk Bursa.
+
+15
+00:01:33,797 --> 00:01:37,115
+Mari lihat bagaimana semua pihak berhubung dalam ekosistem pasaran.
+
+16
+00:01:37,195 --> 00:01:40,748
+Syarikat menyenaraikan saham mereka di Bursa Malaysia untuk mengumpul modal.
+
+17
+00:01:40,828 --> 00:01:49,220
+Pelabur tidak berdagang terus dengan bursa. Mereka menghantar pesanan melalui broker saham, iaitu participating organisation Bursa.
+
+18
+00:01:49,300 --> 00:01:55,133
+Bursa memadankan pesanan, dan SC mengawasi keseluruhan sistem supaya pasaran adil dan teratur.
+
+19
+00:01:57,413 --> 00:02:04,254
+Pasaran ekuiti Bursa Malaysia mempunyai tiga segmen penyenaraian: Main Market, ACE Market dan LEAP Market.
+
+20
+00:02:04,334 --> 00:02:06,196
+Ia bukan ranking kualiti.
+
+21
+00:02:06,276 --> 00:02:12,154
+Ia direka untuk syarikat yang berbeza saiz dan peringkat pertumbuhan — masing-masing dengan peraturan tersendiri.
+
+22
+00:02:13,934 --> 00:02:17,719
+Main Market direka untuk syarikat yang lebih besar dan lebih mantap.
+
+23
+00:02:17,799 --> 00:02:25,169
+Pemohon secara amnya perlu memenuhi kriteria kuantitatif — seperti rekod keuntungan, atau permodalan pasaran minimum.
+
+24
+00:02:25,249 --> 00:02:33,293
+IPO Main Market memerlukan kelulusan Suruhanjaya Sekuriti, dan syarikat dibimbing oleh principal adviser, seperti bank pelaburan.
+
+25
+00:02:33,373 --> 00:02:38,116
+Saham Main Market terbuka kepada semua pelabur, termasuk pelabur runcit.
+
+26
+00:02:38,196 --> 00:02:45,058
+Tetapi berada di Main Market tidak menjadikan saham bebas risiko. Setiap syarikat tetap perlu difahami secara tersendiri.
+
+27
+00:02:46,838 --> 00:02:51,517
+ACE Market ialah pasaran berasaskan sponsor untuk syarikat yang mempunyai prospek pertumbuhan.
+
+28
+00:02:51,597 --> 00:03:01,125
+Tiada syarat keuntungan minimum. Sebaliknya, sponsor menilai sama ada syarikat sesuai disenaraikan — dan terus menasihatinya selepas penyenaraian.
+
+29
+00:03:01,205 --> 00:03:07,367
+IPO ACE Market diluluskan oleh Bursa Malaysia, manakala prospektus didaftarkan dengan SC.
+
+30
+00:03:07,447 --> 00:03:11,836
+Seperti Main Market, saham ACE Market terbuka kepada semua pelabur.
+
+31
+00:03:11,916 --> 00:03:17,726
+Syarikat pertumbuhan mungkin membawa lebih ketidakpastian — tetapi ACE tidak semestinya bermaksud kualiti lebih rendah.
+
+32
+00:03:19,506 --> 00:03:26,560
+LEAP bermaksud Leading Entrepreneur Accelerator Platform. Ia pasaran untuk perusahaan kecil dan sederhana.
+
+33
+00:03:26,640 --> 00:03:31,417
+Syarikat disenaraikan melalui Approved Adviser, dan penyenaraian diluluskan oleh Bursa Malaysia.
+
+34
+00:03:31,497 --> 00:03:36,796
+Paling penting, sekuriti LEAP Market hanya boleh diniagakan oleh sophisticated investors.
+
+35
+00:03:36,876 --> 00:03:46,756
+Sophisticated investors ditakrifkan oleh Suruhanjaya Sekuriti. Ia termasuk institusi tertentu, dan individu yang memenuhi kriteria kekayaan atau pendapatan yang ditetapkan.
+
+36
+00:03:46,836 --> 00:03:51,100
+Jadi, bagi kebanyakan pelabur runcit, saham LEAP Market tidak boleh diakses.
+
+37
+00:03:53,280 --> 00:03:56,072
+Mari bandingkan ketiga-tiga pasaran secara sebelah-menyebelah.
+
+38
+00:03:56,152 --> 00:04:02,455
+Ia berbeza dari segi jenis syarikat, kriteria penyenaraian, pihak yang meluluskan, dan penasihat yang terlibat.
+
+39
+00:04:02,535 --> 00:04:11,162
+Dan perbezaan paling penting bagi pelabur: Main dan ACE Market terbuka kepada semua pelabur, manakala LEAP terhad kepada sophisticated investors.
+
+40
+00:04:13,742 --> 00:04:16,624
+Jadi, kenapa syarikat memilih satu pasaran berbanding yang lain?
+
+41
+00:04:16,704 --> 00:04:20,697
+Ia bergantung pada saiz, rekod prestasi dan peringkat pertumbuhannya.
+
+42
+00:04:20,777 --> 00:04:25,611
+Ia juga bergantung pada jumlah modal yang diperlukan, dan pelabur yang ingin disasarkan.
+
+43
+00:04:25,691 --> 00:04:35,170
+Bagi pelabur, segmen pasaran ialah konteks yang berguna — tetapi bukan jalan pintas. Sentiasa kaji perniagaan, kewangan dan risiko syarikat.
+
+44
+00:04:36,950 --> 00:04:38,044
+Mari kita rumuskan.
+
+45
+00:04:38,124 --> 00:04:45,250
+Bursa Malaysia mengendalikan pasaran. Suruhanjaya Sekuriti mengawasi pasaran modal, termasuk Bursa.
+
+46
+00:04:45,330 --> 00:04:52,037
+Terdapat tiga pasaran penyenaraian: Main, ACE dan LEAP — untuk syarikat yang berbeza saiz dan peringkat.
+
+47
+00:04:52,117 --> 00:04:58,651
+Main dan ACE terbuka kepada semua pelabur. LEAP hanya untuk sophisticated investors.
+
+48
+00:04:58,731 --> 00:05:02,246
+Dan ingat: segmen pasaran bukan ranking kualiti.
+
+49
+00:05:04,626 --> 00:05:06,803
+Kini anda tahu di mana saham disenaraikan.
+
+50
+00:05:06,883 --> 00:05:12,817
+Seterusnya, kita lihat bagaimana pelabur sebenarnya mendapat akses: akaun CDS dan akaun dagangan.
+
+51
+00:05:14,597 --> 00:05:21,260
+Rujukan untuk video ini dipaparkan di skrin. Sentiasa semak sumber rasmi untuk maklumat terkini.
+
+52
+00:05:25,240 --> 00:05:33,783
+Video ini untuk tujuan pendidikan sahaja. Ia bukan nasihat pelaburan atau cadangan untuk membeli atau menjual mana-mana sekuriti.
+
+53
+00:05:33,863 --> 00:05:39,652
+Capital Market Institute. Understanding Markets. Building Knowledge.
