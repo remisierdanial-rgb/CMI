@@ -1,0 +1,532 @@
+{
+ "scenes": [
+  {
+   "start": 0.0,
+   "cues": [
+    {
+     "start": 0.75,
+     "end": 7.057,
+     "text": "Apabila kita bercakap tentang futures trading, antara persoalan yang sering timbul ialah: adakah ia dibenarkan dalam Islam?"
+    },
+    {
+     "start": 7.437,
+     "end": 13.391,
+     "text": "Ada yang beranggapan bahawa semua kontrak yang dibeli dan dijual tanpa pemilikan fizikal adalah tidak patuh Syariah."
+    },
+    {
+     "start": 13.771,
+     "end": 19.552,
+     "text": "Namun, dalam pasaran modal Islam, sesuatu produk tidak dinilai sekadar berdasarkan posisi BUY atau SELL."
+    },
+    {
+     "start": 19.932,
+     "end": 28.137,
+     "text": "Sebaliknya, ia bergantung kepada struktur kontrak, jenis komoditi, mekanisme transaksi dan keputusan badan Syariah yang berautoriti."
+    }
+   ],
+   "end": 29.467
+  },
+  {
+   "start": 29.467,
+   "cues": [
+    {
+     "start": 30.217,
+     "end": 35.836,
+     "text": "Mari kita fahami bagaimana FCPO dan beberapa foreign futures tertentu dinilai dari perspektif Syariah."
+    },
+    {
+     "start": 36.216,
+     "end": 43.605,
+     "text": "Kita lihat keputusan MPS SC tentang FCPO, dan pertimbangan Syariah di sebalik kontrak niaga hadapan komoditi."
+    },
+    {
+     "start": 43.985,
+     "end": 49.248,
+     "text": "Kemudian, senarai foreign futures terpilih dalam akaun Shariah-Compliant Futures CGS International."
+    },
+    {
+     "start": 49.628,
+     "end": 53.927,
+     "text": "Dan akhir sekali, siapa yang membuat penilaian Syariah bagi setiap kumpulan kontrak."
+    }
+   ],
+   "end": 55.857
+  },
+  {
+   "start": 55.857,
+   "cues": [
+    {
+     "start": 56.607,
+     "end": 59.712,
+     "text": "Bab dua: keputusan Syariah tentang FCPO."
+    }
+   ],
+   "end": 61.342
+  },
+  {
+   "start": 61.342,
+   "cues": [
+    {
+     "start": 62.092,
+     "end": 72.41,
+     "text": "Di Malaysia, antara keputusan penting dalam perkembangan pasaran modal Islam ialah keputusan MPS Suruhanjaya Sekuriti pada 26 November 1997."
+    },
+    {
+     "start": 72.79,
+     "end": 82.296,
+     "text": "Dalam mesyuarat ke-11, MPS memutuskan bahawa kontrak Crude Palm Oil Futures, atau FCPO, adalah diharuskan kerana selaras dengan prinsip Syariah."
+    },
+    {
+     "start": 82.676,
+     "end": 89.614,
+     "text": "Keputusan ini menjadi rujukan penting kepada peserta pasaran yang ingin memahami kedudukan FCPO dalam pasaran modal Islam."
+    },
+    {
+     "start": 89.994,
+     "end": 98.855,
+     "text": "CGS International turut merujuk resolusi MPS SC bagi kontrak Bursa Malaysia Derivatives yang lain, iaitu FPKO dan FEPO."
+    }
+   ],
+   "end": 100.185
+  },
+  {
+   "start": 100.185,
+   "cues": [
+    {
+     "start": 100.935,
+     "end": 107.127,
+     "text": "FCPO mewakili minyak sawit mentah, iaitu komoditi pertanian sebenar dengan pasaran fizikal yang mantap."
+    },
+    {
+     "start": 107.507,
+     "end": 112.851,
+     "text": "Dari ladang, buah tandan segar dituai dan diproses di kilang menjadi minyak sawit mentah."
+    },
+    {
+     "start": 113.231,
+     "end": 118.615,
+     "text": "Minyak ini disimpan di tangki dan boleh dihantar melalui kemudahan penghantaran yang ditetapkan oleh bursa."
+    },
+    {
+     "start": 118.995,
+     "end": 127.009,
+     "text": "Kontrak FCPO pula mempunyai spesifikasi yang seragam: saiz kontrak, gred, bulan kontrak dan terma penyelesaian."
+    }
+   ],
+   "end": 128.339
+  },
+  {
+   "start": 128.339,
+   "cues": [
+    {
+     "start": 129.089,
+     "end": 133.167,
+     "text": "Bab tiga: mengapa kontrak niaga hadapan komoditi boleh layak dari perspektif Syariah."
+    }
+   ],
+   "end": 134.797
+  },
+  {
+   "start": 134.797,
+   "cues": [
+    {
+     "start": 135.547,
+     "end": 142.381,
+     "text": "Apakah pertimbangan Syariah di sebalik kontrak niaga hadapan komoditi? Mari lihat lima aspek utama."
+    },
+    {
+     "start": 142.761,
+     "end": 149.203,
+     "text": "Pertama, aset pendasar: kontrak berkaitan dengan komoditi yang boleh dikenal pasti dan mempunyai pasaran fizikal."
+    },
+    {
+     "start": 149.583,
+     "end": 158.926,
+     "text": "Kedua, spesifikasi kontrak: kuantiti, gred, bulan, harga, lokasi penghantaran dan terma penyelesaian ditetapkan dengan jelas."
+    },
+    {
+     "start": 159.306,
+     "end": 165.713,
+     "text": "Ketiga, kemungkinan penghantaran fizikal, melalui prosedur penghantaran atau penyelesaian yang ditadbir oleh peraturan bursa."
+    },
+    {
+     "start": 166.093,
+     "end": 169.892,
+     "text": "Ini tidak bermaksud setiap posisi mesti berakhir dengan penghantaran fizikal."
+    },
+    {
+     "start": 170.272,
+     "end": 177.498,
+     "text": "Keempat, pengurusan risiko: futures membantu pengeluar, pedagang dan pengguna komersial mengurus risiko turun naik harga."
+    },
+    {
+     "start": 177.878,
+     "end": 185.295,
+     "text": "Kelima, tadbir urus Syariah: struktur produk dinilai oleh Majlis Penasihat Syariah atau penasihat Syariah yang berkelayakan."
+    },
+    {
+     "start": 185.675,
+     "end": 194.295,
+     "text": "Ini bukan senarai semak undang-undang yang lengkap. Tiada satu ciri pun, secara sendirian, menjadikan produk patuh Syariah secara automatik."
+    }
+   ],
+   "end": 195.625
+  },
+  {
+   "start": 195.625,
+   "cues": [
+    {
+     "start": 196.375,
+     "end": 202.857,
+     "text": "Contoh: pengeluar sawit menjangka akan menjual hasilnya tiga bulan lagi, tetapi bimbang harga akan jatuh."
+    },
+    {
+     "start": 203.237,
+     "end": 207.477,
+     "text": "Pengeluar boleh menjual kontrak FCPO hari ini untuk mengurus risiko harga tersebut."
+    },
+    {
+     "start": 207.857,
+     "end": 213.734,
+     "text": "Jika harga jatuh, jualan fizikal mendapat harga lebih rendah, tetapi posisi futures boleh membantu mengimbanginya."
+    },
+    {
+     "start": 214.114,
+     "end": 220.018,
+     "text": "Inilah fungsi asal pasaran niaga hadapan: mengurus risiko turun naik harga dalam rantaian komoditi sebenar."
+    }
+   ],
+   "end": 221.348
+  },
+  {
+   "start": 221.348,
+   "cues": [
+    {
+     "start": 222.098,
+     "end": 225.275,
+     "text": "Bab empat: posisi LONG dan SHORT dalam niaga hadapan."
+    }
+   ],
+   "end": 226.905
+  },
+  {
+   "start": 226.905,
+   "cues": [
+    {
+     "start": 227.655,
+     "end": 231.064,
+     "text": "Setiap kontrak niaga hadapan mempunyai dua sisi: LONG dan SHORT."
+    },
+    {
+     "start": 231.444,
+     "end": 238.762,
+     "text": "Posisi LONG bermula dengan BUY. Ia secara amnya mendapat manfaat apabila harga naik, dan ditutup dengan SELL yang mengimbangi."
+    },
+    {
+     "start": 239.142,
+     "end": 247.685,
+     "text": "Contoh: beli pada RM4,000, tutup pada RM4,050. Perbezaan harga: tambah RM50 bagi setiap unit harga."
+    },
+    {
+     "start": 248.065,
+     "end": 255.418,
+     "text": "Posisi SHORT bermula dengan SELL. Ia secara amnya mendapat manfaat apabila harga turun, dan ditutup dengan BUY yang mengimbangi."
+    },
+    {
+     "start": 255.798,
+     "end": 265.268,
+     "text": "Contoh: jual pada RM4,000, tutup pada RM3,950. Perbezaan harga juga tambah RM50 bagi setiap unit harga."
+    },
+    {
+     "start": 265.648,
+     "end": 270.786,
+     "text": "Ini ilustrasi ringkas, sebelum kos transaksi dan pengganda kontrak."
+    },
+    {
+     "start": 271.166,
+     "end": 276.033,
+     "text": "Keupayaan mengambil posisi LONG dan SHORT bukan satu-satunya penentu status Syariah sesuatu produk."
+    },
+    {
+     "start": 276.413,
+     "end": 280.653,
+     "text": "Penilaian perlu melihat keseluruhan struktur kontrak dan kelulusan Syariah yang berkaitan."
+    }
+   ],
+   "end": 281.983
+  },
+  {
+   "start": 281.983,
+   "cues": [
+    {
+     "start": 282.733,
+     "end": 288.674,
+     "text": "Bab lima: foreign futures terpilih dalam akaun Shariah-Compliant Futures CGS International."
+    }
+   ],
+   "end": 290.304
+  },
+  {
+   "start": 290.304,
+   "cues": [
+    {
+     "start": 291.054,
+     "end": 293.1,
+     "text": "Ini antara bahagian yang paling penting."
+    },
+    {
+     "start": 293.48,
+     "end": 300.34,
+     "text": "Menurut CGS International, penasihat Syariah mereka bersetuju bahawa produk asing tertentu mempunyai spesifikasi yang serupa,"
+    },
+    {
+     "start": 300.72,
+     "end": 306.05,
+     "text": "termasuk kemungkinan penghantaran fizikal, dan komoditi yang diiktiraf sebagai patuh Syariah."
+    },
+    {
+     "start": 306.43,
+     "end": 313.119,
+     "text": "Kontrak terpilih ini boleh didagangkan melalui akaun Shariah-Compliant Futures, atau akaun SCF, CGS International."
+    }
+   ],
+   "end": 314.449
+  },
+  {
+   "start": 314.449,
+   "cues": [
+    {
+     "start": 315.199,
+     "end": 320.407,
+     "text": "Inilah senarai foreign futures terpilih yang diterbitkan oleh CGS International bagi akaun SCF."
+    },
+    {
+     "start": 320.787,
+     "end": 326.839,
+     "text": "Di NYMEX, dua kontrak tenaga: WTI Light Sweet Crude Oil dan Natural Gas."
+    },
+    {
+     "start": 327.219,
+     "end": 334.962,
+     "text": "Di CBOT, sepuluh kontrak bijirin dan biji minyak: Soybeans, Mini Soybean, Soybean Oil dan Soybean Meal,"
+    },
+    {
+     "start": 335.342,
+     "end": 342.417,
+     "text": "Corn dan Mini Corn, Wheat, KC HRW Wheat (Mini), Chicago SRW Wheat (Mini), dan Oats."
+    },
+    {
+     "start": 342.797,
+     "end": 346.948,
+     "text": "Di SGX, satu kontrak: SICOM TSR20 Rubber."
+    },
+    {
+     "start": 347.328,
+     "end": 354.025,
+     "text": "Jumlahnya tiga belas kontrak asing, sebagai tambahan kepada FCPO, FPKO dan FEPO di Bursa Malaysia."
+    }
+   ],
+   "end": 356.555
+  },
+  {
+   "start": 356.555,
+   "cues": [
+    {
+     "start": 357.305,
+     "end": 363.128,
+     "text": "Perhatian: tidak semua produk yang didagangkan di NYMEX, CBOT atau SGX adalah patuh Syariah."
+    },
+    {
+     "start": 363.508,
+     "end": 370.585,
+     "text": "CGS International juga menawarkan Global Futures konvensional, seperti emas, Nasdaq dan indeks saham."
+    },
+    {
+     "start": 370.965,
+     "end": 376.666,
+     "text": "Kewujudan produk dalam platform Global Futures tidak bermaksud ia termasuk dalam senarai Shariah-Compliant Futures."
+    },
+    {
+     "start": 377.046,
+     "end": 383.861,
+     "text": "Hanya kontrak yang disenaraikan secara rasmi di halaman SCF CGS International termasuk dalam akaun ini, dan senarai boleh berubah."
+    }
+   ],
+   "end": 385.191
+  },
+  {
+   "start": 385.191,
+   "cues": [
+    {
+     "start": 385.941,
+     "end": 388.89,
+     "text": "Bab enam: siapa yang membuat penilaian Syariah?"
+    }
+   ],
+   "end": 390.52
+  },
+  {
+   "start": 390.52,
+   "cues": [
+    {
+     "start": 391.27,
+     "end": 393.771,
+     "text": "Terdapat dua susunan tadbir urus Syariah yang berbeza."
+    },
+    {
+     "start": 394.151,
+     "end": 403.816,
+     "text": "Bahagian A: bagi FCPO, FPKO dan FEPO, CGS International merujuk kepada resolusi Majlis Penasihat Syariah Suruhanjaya Sekuriti."
+    },
+    {
+     "start": 404.196,
+     "end": 410.608,
+     "text": "Bahagian B: bagi foreign futures terpilih, penasihat Syariah CGS International telah memberikan persetujuan,"
+    },
+    {
+     "start": 410.988,
+     "end": 414.747,
+     "text": "berdasarkan spesifikasi produk dan pertimbangan Syariah yang berkaitan."
+    },
+    {
+     "start": 415.127,
+     "end": 422.34,
+     "text": "Menurut FAQ rasmi CGSI, syarikat melantik penasihat Syariah bebas yang diluluskan oleh Suruhanjaya Sekuriti."
+    },
+    {
+     "start": 422.72,
+     "end": 431.262,
+     "text": "Penasihat ini menyemak struktur produk, dokumentasi, borang permohonan dan pelaksanaan keseluruhan produk patuh Syariah."
+    },
+    {
+     "start": 431.642,
+     "end": 441.573,
+     "text": "Penting: resolusi MPS SC dan persetujuan penasihat Syariah CGSI ialah dua asas yang berbeza, bukan satu sijil yang sama."
+    }
+   ],
+   "end": 442.903
+  },
+  {
+   "start": 442.903,
+   "cues": [
+    {
+     "start": 443.653,
+     "end": 450.034,
+     "text": "Terma dan syarat CGSI menyatakan bahawa akaun Shariah-Compliant Futures adalah terhad kepada kontrak tertentu sahaja,"
+    },
+    {
+     "start": 450.414,
+     "end": 458.019,
+     "text": "iaitu kontrak yang diluluskan sebagai patuh Syariah oleh MPS SC dan/atau penasihat Syariah yang diberi kuasa."
+    },
+    {
+     "start": 458.399,
+     "end": 465.553,
+     "text": "Penilaian Syariah juga perlu melihat struktur kontrak, dokumentasi, kaedah pelaksanaan dan mekanisme penyelesaian."
+    },
+    {
+     "start": 465.933,
+     "end": 475.307,
+     "text": "Penilaian Syariah CGSI terpakai kepada akaun dan produk CGSI. Ia tidak terpakai secara automatik kepada broker lain."
+    },
+    {
+     "start": 475.687,
+     "end": 482.217,
+     "text": "Oleh itu, sahkan status Syariah pada peringkat kontrak dan peringkat akaun, menggunakan dokumen rasmi terkini."
+    }
+   ],
+   "end": 483.547
+  },
+  {
+   "start": 483.547,
+   "cues": [
+    {
+     "start": 484.297,
+     "end": 486.071,
+     "text": "Bab tujuh: kesimpulan."
+    }
+   ],
+   "end": 487.701
+  },
+  {
+   "start": 487.701,
+   "cues": [
+    {
+     "start": 488.451,
+     "end": 497.192,
+     "text": "Kesimpulannya, FCPO mempunyai asas pengiktirafan Syariah melalui keputusan MPS Suruhanjaya Sekuriti Malaysia pada tahun 1997."
+    },
+    {
+     "start": 497.572,
+     "end": 503.374,
+     "text": "Beberapa kontrak foreign futures turut ditawarkan dalam akaun SCF CGS International,"
+    },
+    {
+     "start": 503.754,
+     "end": 506.875,
+     "text": "berdasarkan penilaian dan persetujuan penasihat Syariah mereka."
+    },
+    {
+     "start": 507.255,
+     "end": 512.504,
+     "text": "Namun, status patuh Syariah adalah khusus kepada kontrak dan struktur yang telah dinilai."
+    },
+    {
+     "start": 512.884,
+     "end": 517.31,
+     "text": "Ia tidak bermaksud semua produk futures di seluruh dunia secara automatik adalah patuh Syariah."
+    },
+    {
+     "start": 517.69,
+     "end": 522.067,
+     "text": "Sebagai peserta pasaran, kita bertanggungjawab memahami produk yang didagangkan,"
+    },
+    {
+     "start": 522.447,
+     "end": 526.449,
+     "text": "dan merujuk kepada dokumen rasmi serta penasihat Syariah yang berautoriti."
+    },
+    {
+     "start": 526.829,
+     "end": 531.576,
+     "text": "Ilmu, pemahaman dan pematuhan kepada prinsip Syariah perlu berjalan seiring."
+    }
+   ],
+   "end": 532.906
+  },
+  {
+   "start": 532.906,
+   "cues": [
+    {
+     "start": 533.656,
+     "end": 537.806,
+     "text": "Fahami kontrak. Fahami prinsip Syariah."
+    }
+   ],
+   "end": 540.736
+  },
+  {
+   "start": 540.736,
+   "cues": [
+    {
+     "start": 541.486,
+     "end": 547.62,
+     "text": "Rujukan rasmi dipaparkan di skrin. Sila rujuk sumber asal untuk status terkini."
+    }
+   ],
+   "end": 552.95
+  },
+  {
+   "start": 552.95,
+   "cues": [
+    {
+     "start": 553.7,
+     "end": 563.226,
+     "text": "Video ini untuk tujuan pendidikan dan maklumat sahaja. Status Syariah tertakluk kepada pihak berautoriti Syariah dan dokumen rasmi terkini."
+    }
+   ],
+   "end": 567.556
+  }
+ ],
+ "total": 567.556
+}

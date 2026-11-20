@@ -18,11 +18,11 @@
 html,body{width:1920px;height:1080px;overflow:hidden;background:var(--bg0)}
 body{font-family:Inter,sans-serif;color:var(--text);-webkit-font-smoothing:antialiased}
 .mono{font-family:JBM,monospace}
-#stage{position:absolute;inset:0;background:radial-gradient(1200px 700px at 45% 40%,#0c1830 0%,#071021 55%,#040b17 100%)}
+#stage{position:absolute;inset:0;background:var(--stagebg,radial-gradient(1200px 700px at 45% 40%,#0c1830 0%,#071021 55%,#040b17 100%))}
 
 /* header */
 #hdr{position:absolute;left:0;right:0;top:0;height:78px;border-bottom:1px solid var(--line);z-index:5}
-#badge{position:absolute;left:33px;top:20px;width:40px;height:40px;border-radius:8px;background:var(--amber);color:#1a1405;font:800 17px Inter;display:flex;align-items:center;justify-content:center}
+#badge{position:absolute;left:33px;top:20px;width:40px;height:40px;border-radius:8px;background:var(--amber);color:var(--badgefg,#1a1405);font:800 17px Inter;display:flex;align-items:center;justify-content:center}
 #hl1{position:absolute;left:92px;top:19px;font:700 18px Inter;color:var(--amber);letter-spacing:.2px}
 #hl2{position:absolute;left:92px;top:42px;font:500 18px Inter;color:#c7d0de;letter-spacing:.3px}
 #hr1{position:absolute;right:36px;top:19px;font:700 18px Inter;color:var(--text);text-align:right}
@@ -82,3 +82,9 @@ table.t tr.hl td{background:rgba(232,180,76,.10)}
 .calc .em{color:var(--amber)}
 .tag{display:inline-block;font:500 17px JBM;letter-spacing:1.4px;padding:6px 12px;border-radius:5px;border:1px solid}
 .statement{font:800 64px/1.2 Inter;letter-spacing:-.6px}
+
+/* source citation line + icon helper (used by Islamic-finance explainer) */
+.src{font:500 15px JBM;letter-spacing:1.2px;color:var(--dim);text-transform:uppercase;display:flex;gap:12px;align-items:center}
+.src b{color:var(--sub);font-weight:700;border:1px solid var(--faint);border-radius:4px;padding:3px 8px}
+.ico{display:inline-flex;align-items:center;justify-content:center}
+.quote{font:500 30px/1.45 Inter;color:#e8eef7}

@@ -1,0 +1,315 @@
+1
+00:00:00,750 --> 00:00:07,357
+Apabila kita bercakap tentang futures trading, antara persoalan yang sering timbul ialah: adakah ia dibenarkan dalam Islam?
+
+2
+00:00:07,437 --> 00:00:13,691
+Ada yang beranggapan bahawa semua kontrak yang dibeli dan dijual tanpa pemilikan fizikal adalah tidak patuh Syariah.
+
+3
+00:00:13,771 --> 00:00:19,852
+Namun, dalam pasaran modal Islam, sesuatu produk tidak dinilai sekadar berdasarkan posisi BUY atau SELL.
+
+4
+00:00:19,932 --> 00:00:28,437
+Sebaliknya, ia bergantung kepada struktur kontrak, jenis komoditi, mekanisme transaksi dan keputusan badan Syariah yang berautoriti.
+
+5
+00:00:30,217 --> 00:00:36,136
+Mari kita fahami bagaimana FCPO dan beberapa foreign futures tertentu dinilai dari perspektif Syariah.
+
+6
+00:00:36,216 --> 00:00:43,905
+Kita lihat keputusan MPS SC tentang FCPO, dan pertimbangan Syariah di sebalik kontrak niaga hadapan komoditi.
+
+7
+00:00:43,985 --> 00:00:49,548
+Kemudian, senarai foreign futures terpilih dalam akaun Shariah-Compliant Futures CGS International.
+
+8
+00:00:49,628 --> 00:00:54,227
+Dan akhir sekali, siapa yang membuat penilaian Syariah bagi setiap kumpulan kontrak.
+
+9
+00:00:56,607 --> 00:01:00,012
+Bab dua: keputusan Syariah tentang FCPO.
+
+10
+00:01:02,092 --> 00:01:12,710
+Di Malaysia, antara keputusan penting dalam perkembangan pasaran modal Islam ialah keputusan MPS Suruhanjaya Sekuriti pada 26 November 1997.
+
+11
+00:01:12,790 --> 00:01:22,596
+Dalam mesyuarat ke-11, MPS memutuskan bahawa kontrak Crude Palm Oil Futures, atau FCPO, adalah diharuskan kerana selaras dengan prinsip Syariah.
+
+12
+00:01:22,676 --> 00:01:29,914
+Keputusan ini menjadi rujukan penting kepada peserta pasaran yang ingin memahami kedudukan FCPO dalam pasaran modal Islam.
+
+13
+00:01:29,994 --> 00:01:39,155
+CGS International turut merujuk resolusi MPS SC bagi kontrak Bursa Malaysia Derivatives yang lain, iaitu FPKO dan FEPO.
+
+14
+00:01:40,935 --> 00:01:47,427
+FCPO mewakili minyak sawit mentah, iaitu komoditi pertanian sebenar dengan pasaran fizikal yang mantap.
+
+15
+00:01:47,507 --> 00:01:53,151
+Dari ladang, buah tandan segar dituai dan diproses di kilang menjadi minyak sawit mentah.
+
+16
+00:01:53,231 --> 00:01:58,915
+Minyak ini disimpan di tangki dan boleh dihantar melalui kemudahan penghantaran yang ditetapkan oleh bursa.
+
+17
+00:01:58,995 --> 00:02:07,309
+Kontrak FCPO pula mempunyai spesifikasi yang seragam: saiz kontrak, gred, bulan kontrak dan terma penyelesaian.
+
+18
+00:02:09,089 --> 00:02:13,467
+Bab tiga: mengapa kontrak niaga hadapan komoditi boleh layak dari perspektif Syariah.
+
+19
+00:02:15,547 --> 00:02:22,681
+Apakah pertimbangan Syariah di sebalik kontrak niaga hadapan komoditi? Mari lihat lima aspek utama.
+
+20
+00:02:22,761 --> 00:02:29,503
+Pertama, aset pendasar: kontrak berkaitan dengan komoditi yang boleh dikenal pasti dan mempunyai pasaran fizikal.
+
+21
+00:02:29,583 --> 00:02:39,226
+Kedua, spesifikasi kontrak: kuantiti, gred, bulan, harga, lokasi penghantaran dan terma penyelesaian ditetapkan dengan jelas.
+
+22
+00:02:39,306 --> 00:02:46,013
+Ketiga, kemungkinan penghantaran fizikal, melalui prosedur penghantaran atau penyelesaian yang ditadbir oleh peraturan bursa.
+
+23
+00:02:46,093 --> 00:02:50,192
+Ini tidak bermaksud setiap posisi mesti berakhir dengan penghantaran fizikal.
+
+24
+00:02:50,272 --> 00:02:57,798
+Keempat, pengurusan risiko: futures membantu pengeluar, pedagang dan pengguna komersial mengurus risiko turun naik harga.
+
+25
+00:02:57,878 --> 00:03:05,595
+Kelima, tadbir urus Syariah: struktur produk dinilai oleh Majlis Penasihat Syariah atau penasihat Syariah yang berkelayakan.
+
+26
+00:03:05,675 --> 00:03:14,595
+Ini bukan senarai semak undang-undang yang lengkap. Tiada satu ciri pun, secara sendirian, menjadikan produk patuh Syariah secara automatik.
+
+27
+00:03:16,375 --> 00:03:23,157
+Contoh: pengeluar sawit menjangka akan menjual hasilnya tiga bulan lagi, tetapi bimbang harga akan jatuh.
+
+28
+00:03:23,237 --> 00:03:27,777
+Pengeluar boleh menjual kontrak FCPO hari ini untuk mengurus risiko harga tersebut.
+
+29
+00:03:27,857 --> 00:03:34,034
+Jika harga jatuh, jualan fizikal mendapat harga lebih rendah, tetapi posisi futures boleh membantu mengimbanginya.
+
+30
+00:03:34,114 --> 00:03:40,318
+Inilah fungsi asal pasaran niaga hadapan: mengurus risiko turun naik harga dalam rantaian komoditi sebenar.
+
+31
+00:03:42,098 --> 00:03:45,575
+Bab empat: posisi LONG dan SHORT dalam niaga hadapan.
+
+32
+00:03:47,655 --> 00:03:51,364
+Setiap kontrak niaga hadapan mempunyai dua sisi: LONG dan SHORT.
+
+33
+00:03:51,444 --> 00:03:59,062
+Posisi LONG bermula dengan BUY. Ia secara amnya mendapat manfaat apabila harga naik, dan ditutup dengan SELL yang mengimbangi.
+
+34
+00:03:59,142 --> 00:04:07,985
+Contoh: beli pada RM4,000, tutup pada RM4,050. Perbezaan harga: tambah RM50 bagi setiap unit harga.
+
+35
+00:04:08,065 --> 00:04:15,718
+Posisi SHORT bermula dengan SELL. Ia secara amnya mendapat manfaat apabila harga turun, dan ditutup dengan BUY yang mengimbangi.
+
+36
+00:04:15,798 --> 00:04:25,568
+Contoh: jual pada RM4,000, tutup pada RM3,950. Perbezaan harga juga tambah RM50 bagi setiap unit harga.
+
+37
+00:04:25,648 --> 00:04:31,086
+Ini ilustrasi ringkas, sebelum kos transaksi dan pengganda kontrak.
+
+38
+00:04:31,166 --> 00:04:36,333
+Keupayaan mengambil posisi LONG dan SHORT bukan satu-satunya penentu status Syariah sesuatu produk.
+
+39
+00:04:36,413 --> 00:04:40,953
+Penilaian perlu melihat keseluruhan struktur kontrak dan kelulusan Syariah yang berkaitan.
+
+40
+00:04:42,733 --> 00:04:48,974
+Bab lima: foreign futures terpilih dalam akaun Shariah-Compliant Futures CGS International.
+
+41
+00:04:51,054 --> 00:04:53,400
+Ini antara bahagian yang paling penting.
+
+42
+00:04:53,480 --> 00:05:00,640
+Menurut CGS International, penasihat Syariah mereka bersetuju bahawa produk asing tertentu mempunyai spesifikasi yang serupa,
+
+43
+00:05:00,720 --> 00:05:06,350
+termasuk kemungkinan penghantaran fizikal, dan komoditi yang diiktiraf sebagai patuh Syariah.
+
+44
+00:05:06,430 --> 00:05:13,419
+Kontrak terpilih ini boleh didagangkan melalui akaun Shariah-Compliant Futures, atau akaun SCF, CGS International.
+
+45
+00:05:15,199 --> 00:05:20,707
+Inilah senarai foreign futures terpilih yang diterbitkan oleh CGS International bagi akaun SCF.
+
+46
+00:05:20,787 --> 00:05:27,139
+Di NYMEX, dua kontrak tenaga: WTI Light Sweet Crude Oil dan Natural Gas.
+
+47
+00:05:27,219 --> 00:05:35,262
+Di CBOT, sepuluh kontrak bijirin dan biji minyak: Soybeans, Mini Soybean, Soybean Oil dan Soybean Meal,
+
+48
+00:05:35,342 --> 00:05:42,717
+Corn dan Mini Corn, Wheat, KC HRW Wheat (Mini), Chicago SRW Wheat (Mini), dan Oats.
+
+49
+00:05:42,797 --> 00:05:47,248
+Di SGX, satu kontrak: SICOM TSR20 Rubber.
+
+50
+00:05:47,328 --> 00:05:54,325
+Jumlahnya tiga belas kontrak asing, sebagai tambahan kepada FCPO, FPKO dan FEPO di Bursa Malaysia.
+
+51
+00:05:57,305 --> 00:06:03,428
+Perhatian: tidak semua produk yang didagangkan di NYMEX, CBOT atau SGX adalah patuh Syariah.
+
+52
+00:06:03,508 --> 00:06:10,885
+CGS International juga menawarkan Global Futures konvensional, seperti emas, Nasdaq dan indeks saham.
+
+53
+00:06:10,965 --> 00:06:16,966
+Kewujudan produk dalam platform Global Futures tidak bermaksud ia termasuk dalam senarai Shariah-Compliant Futures.
+
+54
+00:06:17,046 --> 00:06:24,161
+Hanya kontrak yang disenaraikan secara rasmi di halaman SCF CGS International termasuk dalam akaun ini, dan senarai boleh berubah.
+
+55
+00:06:25,941 --> 00:06:29,190
+Bab enam: siapa yang membuat penilaian Syariah?
+
+56
+00:06:31,270 --> 00:06:34,071
+Terdapat dua susunan tadbir urus Syariah yang berbeza.
+
+57
+00:06:34,151 --> 00:06:44,116
+Bahagian A: bagi FCPO, FPKO dan FEPO, CGS International merujuk kepada resolusi Majlis Penasihat Syariah Suruhanjaya Sekuriti.
+
+58
+00:06:44,196 --> 00:06:50,908
+Bahagian B: bagi foreign futures terpilih, penasihat Syariah CGS International telah memberikan persetujuan,
+
+59
+00:06:50,988 --> 00:06:55,047
+berdasarkan spesifikasi produk dan pertimbangan Syariah yang berkaitan.
+
+60
+00:06:55,127 --> 00:07:02,640
+Menurut FAQ rasmi CGSI, syarikat melantik penasihat Syariah bebas yang diluluskan oleh Suruhanjaya Sekuriti.
+
+61
+00:07:02,720 --> 00:07:11,562
+Penasihat ini menyemak struktur produk, dokumentasi, borang permohonan dan pelaksanaan keseluruhan produk patuh Syariah.
+
+62
+00:07:11,642 --> 00:07:21,873
+Penting: resolusi MPS SC dan persetujuan penasihat Syariah CGSI ialah dua asas yang berbeza, bukan satu sijil yang sama.
+
+63
+00:07:23,653 --> 00:07:30,334
+Terma dan syarat CGSI menyatakan bahawa akaun Shariah-Compliant Futures adalah terhad kepada kontrak tertentu sahaja,
+
+64
+00:07:30,414 --> 00:07:38,319
+iaitu kontrak yang diluluskan sebagai patuh Syariah oleh MPS SC dan/atau penasihat Syariah yang diberi kuasa.
+
+65
+00:07:38,399 --> 00:07:45,853
+Penilaian Syariah juga perlu melihat struktur kontrak, dokumentasi, kaedah pelaksanaan dan mekanisme penyelesaian.
+
+66
+00:07:45,933 --> 00:07:55,607
+Penilaian Syariah CGSI terpakai kepada akaun dan produk CGSI. Ia tidak terpakai secara automatik kepada broker lain.
+
+67
+00:07:55,687 --> 00:08:02,517
+Oleh itu, sahkan status Syariah pada peringkat kontrak dan peringkat akaun, menggunakan dokumen rasmi terkini.
+
+68
+00:08:04,297 --> 00:08:06,371
+Bab tujuh: kesimpulan.
+
+69
+00:08:08,451 --> 00:08:17,492
+Kesimpulannya, FCPO mempunyai asas pengiktirafan Syariah melalui keputusan MPS Suruhanjaya Sekuriti Malaysia pada tahun 1997.
+
+70
+00:08:17,572 --> 00:08:23,674
+Beberapa kontrak foreign futures turut ditawarkan dalam akaun SCF CGS International,
+
+71
+00:08:23,754 --> 00:08:27,175
+berdasarkan penilaian dan persetujuan penasihat Syariah mereka.
+
+72
+00:08:27,255 --> 00:08:32,804
+Namun, status patuh Syariah adalah khusus kepada kontrak dan struktur yang telah dinilai.
+
+73
+00:08:32,884 --> 00:08:37,610
+Ia tidak bermaksud semua produk futures di seluruh dunia secara automatik adalah patuh Syariah.
+
+74
+00:08:37,690 --> 00:08:42,367
+Sebagai peserta pasaran, kita bertanggungjawab memahami produk yang didagangkan,
+
+75
+00:08:42,447 --> 00:08:46,749
+dan merujuk kepada dokumen rasmi serta penasihat Syariah yang berautoriti.
+
+76
+00:08:46,829 --> 00:08:51,876
+Ilmu, pemahaman dan pematuhan kepada prinsip Syariah perlu berjalan seiring.
+
+77
+00:08:53,656 --> 00:08:58,106
+Fahami kontrak. Fahami prinsip Syariah.
+
+78
+00:09:01,486 --> 00:09:07,920
+Rujukan rasmi dipaparkan di skrin. Sila rujuk sumber asal untuk status terkini.
+
+79
+00:09:13,700 --> 00:09:23,526
+Video ini untuk tujuan pendidikan dan maklumat sahaja. Status Syariah tertakluk kepada pihak berautoriti Syariah dan dokumen rasmi terkini.

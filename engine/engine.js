@@ -283,6 +283,10 @@
   const P = {
     init(ep, tl) {
       this.ep = ep; this.tl = tl || estimateTimeline(ep); this.cur = -1; this.S = null;
+      if (ep.theme) { // optional per-episode palette (CSS variables + engine colours)
+        for (const [k, v] of Object.entries(ep.theme.css || {})) document.documentElement.style.setProperty('--' + k, v);
+        Object.assign(C, ep.theme.C || {});
+      }
       document.getElementById('badge').textContent = ep.badge || 'L9';
       document.getElementById('hl1').textContent = ep.hl1 || 'LEVEL 9 · CMI SMC';
       document.getElementById('hl2').textContent = ep.hl2 || 'SMC TRADING STRATEGY';
